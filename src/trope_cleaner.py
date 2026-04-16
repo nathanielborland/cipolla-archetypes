@@ -12,8 +12,11 @@ to_remove = [
 ]
 flagged_line_starts = [
     'Adapt',
+    'Death by Adaptation',
+    'Abled in the Adaptation',
     'Age Lift',
     'Ascended',
+    'Composite Character',
     'Demoted',
     '    '
 ]
