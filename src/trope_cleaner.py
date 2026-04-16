@@ -1,6 +1,8 @@
 import sys
+import os
 
-file_name = sys.argv[1]
+show_name = sys.argv[1]
+
 to_remove = [
     '\nAdvertisement:\nTired of seeing ads? Subscribe!\n',
     'This example contains a TRIVIA entry. It should be moved to the TRIVIA tab.',
@@ -8,15 +10,25 @@ to_remove = [
     'From the books...',
     'From the books!'
 ]
+flagged_line_starts = [
+    'Adapt',
+    'Age Lift',
+    'Ascended',
+    'Demoted',
+    '    '
+]
 
-with open(f'TV_Tropes_data/{file_name}.txt', 'r') as file:
-    content = file.read()
+with os.scandir(f'TV_Tropes_data/{show_name}') as entries:
+    for entry in entries:
+        if entry.is_file():
+            with open(entry.path, 'r') as file:
+                content = file.read()
 
-if len(content) > 0:
-    for text in to_remove:
-        content = content.replace(text, '')
+            for text in to_remove:
+                content = content.replace(text, '')
 
-    with open(f'TV_Tropes_data/{file_name}.txt', 'w') as file:
-        file.write(content)
-else:
-    print('file not found')
+            for start in flagged_line_starts:
+                content = content.replace(f'\n{start}', f'\nxxxx{start}')
+
+            with open(entry.path, 'w') as file:
+                file.write(content)
