@@ -17,6 +17,7 @@ flagged_line_starts = [
     'Age Lift',
     'Ascended',
     'Composite Character',
+    'Decomposite Character',
     'Demoted',
     '    '
 ]
