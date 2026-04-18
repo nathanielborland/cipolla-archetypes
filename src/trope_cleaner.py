@@ -19,6 +19,7 @@ flagged_line_starts = [
     'Composite Character',
     'Decomposite Character',
     'Demoted',
+    'Dub Name Change',
     '    '
 ]
 
