@@ -1,0 +1,46 @@
+Analyze the following story and extract distinct meaningful events.
+ 
+Carlo Cipolla’s framework:
+- Intelligent: benefits both self and others (+,+)
+- Bandit: benefits self while harming others (+,-)
+- Helpless: harms self while benefiting others (-,+)
+- Stupid: harms others while gaining no benefit or harming oneself (-,-)
+ 
+Continuous impact scoring:
+- Self-impact score (S):
+  0 = maximum self-harm
+  50 = neutral (no clear gain or loss)
+  100 = maximum benefit to self
+ 
+- Other-impact score (O):
+  0 = maximum harm to others
+  50 = neutral
+  100 = maximum benefit to others
+ 
+Instructions:
+1. Identify distinct, meaningful, causal actions only.
+2. Ignore background description unless it contains a clear action/event.
+3. For each event, identify:
+   - Event
+   - Actor
+   - Target
+4. Assign one integer Self-impact score (S) from 0 to 100.
+5. Assign one integer Other-impact score (O) from 0 to 100.
+6. Classify the event into exactly one Cipolla type:
+   - Intelligent
+   - Bandit
+   - Helpless
+   - Stupid
+7. Give one short explanation line only.
+8. Score the event based on consequences in the story, not moral approval.
+9. Use the full 0–100 scale when appropriate; do not default to round numbers unless they are truly the best fit.
+10. Treat each event independently.
+ 
+Output format:
+Return a TSV table with exactly these columns:
+ 
+Event\tActor\tTarget\tSelf-impact score (S)\tOther-impact score (O)\tType\tExplanation
+ 
+Do not include any text before or after the table.
+ 
+Story:

@@ -23,7 +23,7 @@ flagged_line_starts = [
     '    '
 ]
 
-with os.scandir(f'TV_Tropes_data/{show_name}') as entries:
+with os.scandir(f'data/TV_Tropes/{show_name}') as entries:
     for entry in entries:
         if entry.is_file():
             with open(entry.path, 'r') as file:
