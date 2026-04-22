@@ -1,0 +1,42 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Pam quits her job to help Michael poach clients from her former co-workers to get promoted to sales	Pam	Her former co-workers / clients	45	10	Bandit	She sacrifices a stable job and harms ex-colleagues for a speculative promotion that later proves a poor fit.
+Pam frequently makes too big a jump forward when frustrated, then runs out of steam and gives up	Pam	Herself	20	50	Helpless	Overreaching then quitting repeatedly undermines her own progress with little clear effect on others.
+Pam ends up creating an “office administrator” job that is basically her old receptionist role but without calls	Pam	Herself	65	60	Intelligent	She engineers a similar job with better conditions for herself without harming anyone.
+Pam contests Jim’s plan to move to Philadelphia for his startup	Pam	Jim	55	60	Intelligent	She opposes the move from concern for family stability and is portrayed as sympathetic, benefitting kids and herself.
+Pam has a daughter and a son with Jim	Pam	Their children / family	80	80	Intelligent	It fulfills their family goals and is depicted as a positive outcome for all of them.
+Pam realizes she’s not cut out for sales and claims she’s been office administrator for months	Pam	Company management	75	40	Bandit	She lies to upgrade her job, improving her own situation while bending rules and mildly exploiting confusion.
+Pam assertsively tells Gabe to call her bluff or give her the job	Pam	Gabe	78	55	Intelligent	Her assertiveness secures a fitting role and forces a decision without real harm to others.
+Pam learns to be more honest about her feelings toward Roy and Jim	Pam	Roy and Jim	85	80	Intelligent	Emotional honesty improves her own happiness and clarifies relationships for both men.
+Pam attends art school to improve her skills, which ultimately doesn’t work out	Pam	Herself	35	55	Helpless	She invests in a path that fails professionally but still likely gives her growth and hurts no one.
+Pam changes from receptionist to salesperson, then to office administrator	Pam	Office / coworkers	75	70	Intelligent	Her role shifts better suit her and she becomes more engaged, with no sign of others being hurt.
+Pam participates in the “Nobody but Me” tribute video	Pam	Office morale	70	70	Intelligent	Her engagement reflects her improved outlook and boosts group morale.
+Pam sells the house so they can move to Austin for Jim’s ambitions	Pam	Jim / family	60	75	Intelligent	She gives up security to support Jim’s career and the family’s future, a net gain for them.
+Pam keeps Michael somewhat grounded as his Cloudcuckoolander’s Minder	Pam	Michael	65	70	Intelligent	Her efforts cost her some energy but prevent him from embarrassing himself further.
+Pam looks after Dwight when he gets a concussion	Pam	Dwight	70	80	Intelligent	She helps an injured coworker with no downside to herself.
+Pam dresses as Charlie Chaplin at a new workplace where no one else is in costume	Pam	Herself	20	55	Helpless	She embarrasses herself socially; coworkers are at worst mildly amused.
+Pam must keep the hat on so the Chaplin costume doesn’t look like Hitler	Pam	Her new coworkers	25	45	Helpless	She’s stuck in an awkward look; others gain only a small laugh.
+Pam repeatedly fakes going into labor to escape boring situations	Pam	Her coworkers	60	20	Bandit	She gets out of obligations by alarming people, eroding their trust.
+Pam’s final “labor” prank is believed to be false, then a water bottle falls out of her shirt	Pam	Her coworkers	30	30	Stupid	The prank backfires, embarrassing her and providing no real benefit to anyone.
+Pam cries in a talking head about her unattainable childhood dreams	Pam	Herself	55	60	Intelligent	Emotional release helps her process regret and move forward, without affecting others.
+Pam supports Jim going for the corporate job in New York despite it possibly taking him away	Pam	Jim	65	75	Intelligent	She sacrifices her own immediate happiness for his career prospects and well-being.
+Pam later sells their house so Jim can move closer to Athlead’s main office	Pam	Jim / family	65	75	Intelligent	Again she trades personal security and comfort to improve Jim’s career and family prospects.
+Pam swaps Jim’s heartfelt Secret Santa gift for an iPod in the Yankee Swap game	Pam	Jim	55	25	Bandit	She gets a better material item but hurts Jim emotionally by devaluing his effort.
+Pam hangs out in Jim’s bedroom then later doesn’t try to reclaim his teapot during Yankee Swap	Pam	Jim	45	35	Helpless	Her mixed signals hurt Jim and leave her worse off romantically, with no gain.
+Pam runs barefoot across hot coals at Beach Games	Pam	Herself	80	70	Intelligent	She takes a controlled risk that boosts her confidence and catalyzes future growth.
+Pam publicly calls out her coworkers for ignoring her art show	Pam	Office coworkers	75	60	Intelligent	She advocates for herself, improving her self-respect and nudging others to treat her better.
+Pam tells Jim she called off her wedding because of him and that she misses him	Pam	Jim	85	80	Intelligent	Honesty repairs their connection and ultimately leads to mutual happiness.
+Pam tolerates Roy’s insensitive, borderline abusive behavior for years	Pam	Roy	10	20	Helpless	Her passivity harms herself much more than it benefits Roy, who barely appreciates it.
+Pam calls Michael out and whacks him after he dumps her mother on her birthday	Pam	Michael	60	40	Bandit	She defends her and her mother’s dignity by physically lashing out, mildly harming Michael.
+Pam races to the airport to hug Michael goodbye	Pam	Michael	80	80	Intelligent	She gains closure and gives him emotional support at a key moment.
+Pam writes “You beat me. You are the superior being.” as the “computer” to comfort Dwight	Pam	Dwight	75	85	Intelligent	She spends a little extra effort to lift Dwight up when he’s heartbroken.
+Pam and Jim learn Morse code specifically to mock Dwight without speaking	Pam	Dwight	65	30	Bandit	They gain private amusement at Dwight’s expense, causing him low-level harm.
+Pam goes out of her way to prevent installation of a new phone system that would make her job redundant	Pam	Company / Techstar salesman	70	30	Bandit	She protects her own role by obstructing an efficiency-improving change.
+Pam and Jim devise ways to stop Michael from interacting with the Techstar salesman	Pam	Techstar / Michael	70	30	Bandit	They secure her job by sabotaging a sale and limiting Michael’s contact, with some harm to others’ business.
+Pam gives a “No More Holding Back” speech at Beach Games	Pam	Office circle	90	80	Intelligent	She asserts herself, clarifies relationships, and prompts growth all around.
+Pam decides not to leave Roy for Jim for a long time out of fear of disrupting her life	Pam	Herself and Jim	15	55	Helpless	Her risk-aversion prolongs her unhappiness and Jim’s, while maintaining superficial stability.
+Pam finally calls off her wedding to Roy because of her feelings for Jim	Pam	Roy and Jim	85	60	Intelligent	Ending a bad relationship frees her and Jim, though it hurts Roy in the short term.
+Pam moves to Texas with Jim in the finale	Pam	Family	80	80	Intelligent	They relocate for a shared future, clearly portrayed as a good outcome for everyone.
+Pam ignores or is oblivious to Toby’s crush and treats him as just a friend	Pam	Toby	55	40	Bandit	She avoids awkwardness and potential drama for herself, leaving Toby quietly hurt.
+Pam tries to pair Michael with her former landlady to stop his post-breakup whining	Pam	Michael and landlady	60	40	Bandit	She reduces her own annoyance by pushing an ill-motivated match, with unclear benefit to them.
+Pam tells Jim when she disagrees with him in later seasons	Pam	Jim	80	85	Intelligent	Honest pushback improves their communication and relationship outcomes.
+Pam seeks couples counseling after bumps in her marriage with Jim	Pam	Jim and herself	85	80	Intelligent	Working on the relationship benefits both partners and harms no one.

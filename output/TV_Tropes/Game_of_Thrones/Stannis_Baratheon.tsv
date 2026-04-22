@@ -1,0 +1,60 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Holds Storm's End under siege conditions despite starvation	Stannis	Robert’s rebel cause and garrison	80	80	Intelligent	His endurance keeps Robert’s rebellion viable and his men alive, gaining him reputation and survival.
+Chooses to support Robert over his lawful Targaryen king in the rebellion	Stannis	Robert	60	40	Bandit	He sacrifices safety for family loyalty, helping Robert win while undermining the prior legal ruler.
+Nearly starves to death during the Siege of Storm’s End rather than surrender	Stannis	Himself (for Robert’s cause)	20	65	Helpless	He incurs severe personal harm to benefit his brother’s rebellion and men.
+Distributes scarce food to wife and soldiers before eating after the siege is lifted	Stannis	Soldiers and wife	70	85	Intelligent	He forgoes privilege to feed others first, earning deep loyalty at modest personal cost.
+Accepts Dragonstone as “reassignment” and broods over slight	Stannis	Himself	30	45	Helpless	His resentment over the posting eats at him without yielding tangible gain.
+Frequently berates Renly for not being a warrior	Stannis	Renly	45	30	Bandit	His bullying vents frustration and may reinforce his authority while damaging their relationship.
+Refuses to negotiate genuine peace with Renly and Robb because he sees them as thieves	Stannis	Realm at large	40	25	Bandit	Holding to his rigid claim blocks potentially stabilizing alliances and prolongs conflict.
+Uses Melisandre’s blood magic to assassinate his brother Renly	Stannis	Renly and Renly’s followers	55	10	Bandit	He removes a rival and gains troops in the short term at great moral and political cost.
+Shrugs off Renly’s death as acceptable collateral at first	Stannis	Renly’s memory/house	50	20	Bandit	Emotionally distancing himself helps his focus but deepens others’ hostility to him.
+Insists on broadcasting Joffrey’s true parentage to many rather than keep it secret	Stannis	Lannisters and rival claimants	60	40	Bandit	Openly denouncing Joffrey clarifies his claim and weakens opponents while increasing war risk.
+Learns of Mance’s invasion and decides to march north to the Wall	Stannis	Night’s Watch and the realm	55	80	Intelligent	He redirects his limited forces to confront the existential threat, benefiting all at some personal strategic cost.
+Goes to the Iron Bank, frankly admitting his weak position to secure funds	Stannis	Iron Bank and himself	75	70	Intelligent	His brutal honesty wins crucial financial backing that sustains his campaign.
+Holds up in Dragonstone and refuses to see anyone except Melisandre	Stannis	His own cause and court	30	30	Stupid	Withdrawing into isolation erodes alliances and gains no compensating benefit.
+Allows Melisandre to burn “heretics” freely after Blackwater	Stannis	Dissenters and his own support base	25	10	Stupid	Terrorizes and shrinks his following while tying himself closer to an unpopular cult.
+Nearly strangles Melisandre after Blackwater in a fury over defeat	Stannis	Melisandre	35	30	Stupid	An impulsive attack risks losing his main magical ally without solving his strategic problems.
+Decides to use blood magic to kill Gendry for king’s blood	Stannis	Gendry	40	15	Bandit	He seeks magical advantage at the cost of murdering kin, trading ethics for a speculative edge.
+Comes to Davos about Gendry instead of killing the boy immediately	Stannis	Davos and Gendry	60	70	Intelligent	He implicitly invites dissent, which opens a path to spare Gendry and keep Davos.
+Releases Davos from prison to argue against sacrificing Gendry	Stannis	Davos and Gendry	65	80	Intelligent	He restores a loyal advisor and empowers him to avert an atrocity, strengthening his moral core.
+Spares Gendry after Davos’s persuasion	Stannis	Gendry	65	85	Intelligent	He forgoes dubious magical gain to preserve kin and honor, improving legitimacy and trust.
+Seriously contemplates burning Gendry earlier for power	Stannis	Gendry	40	20	Bandit	The consideration itself reflects willingness to trade kin for potential advantage.
+Tells Davos he doesn’t really want the throne but must claim it from duty	Stannis	His own psyche	60	55	Intelligent	Framing ambition as duty steadies his resolve while anchoring it in a larger rationale.
+Burns dissenters alive as a regular tool of rule	Stannis	Dissenters and onlookers	30	15	Bandit	Terror tactics consolidate short-term obedience while poisoning long-term support.
+Makes Davos his Hand despite Davos’s low birth	Stannis	Davos and his own rule	85	85	Intelligent	He elevates competence and loyalty over class, gaining an exceptionally faithful and honest Hand.
+Leads the fleet and storming party personally at Blackwater	Stannis	His own troops and claim	65	70	Intelligent	Frontline leadership inspires men and nearly wins the city, though it exposes him to risk.
+Refuses to retreat at Blackwater until physically forced back	Stannis	His own life and army	35	40	Helpless	His stubborn courage sacrifices men and himself for a now-unwinnable position.
+Issues the terse rousing command “Come with me and take this city!” at Blackwater	Stannis	Assaulting soldiers	70	65	Intelligent	A clear, brave lead-from-the-front order galvanizes troops toward a concrete objective.
+Holds to burning Mance unless he bends the knee	Stannis	Mance and wildlings	55	45	Bandit	He seeks submission and northern strength but alienates wildlings who might have joined more freely.
+Refuses Melisandre’s initial suggestion to sacrifice Shireen	Stannis	Shireen	70	80	Intelligent	He protects his daughter and his humanity, preserving family and moral authority.
+Takes Selyse and Shireen with him to the Wall due to rapists in the Watch	Stannis	Selyse and Shireen	55	60	Intelligent	Bringing them along modestly increases risk but removes them from an unsafe environment.
+Treats Shireen kindly and protects her from Selyse’s harshness	Stannis	Shireen	70	85	Intelligent	His rare warmth and defense give her security and emotional benefit without hurting his cause.
+Calls in every healer to save Shireen from grayscale	Stannis	Shireen	80	90	Intelligent	He invests heavily to cure her, gaining a living heir and deepening their bond.
+Decides to march on Winterfell rather than wintering at Castle Black	Stannis	His army and the North	50	55	Intelligent	High-risk offensive aims to dislodge Boltons and secure the North, with mixed eventual payoff.
+Assassinates Renly with a shadow to seize his army and remove rival	Stannis	Renly and Stormlands lords	60	20	Bandit	Short-term gain in forces comes at the cost of trust and aligning himself with dark magic.
+Allows Melisandre to continue advising him despite knowing her dangers	Stannis	His own judgment	45	40	Bandit	Reliance on her power helps in crises but increasingly corrodes his principles and alliances.
+Invokes Ned Stark’s memory to Jon and others when seeking northern support	Stannis	Northerners and Jon	65	65	Intelligent	Tying himself to Ned’s legacy bolsters legitimacy and moral framing of his cause.
+Offers to legitimize Jon Snow as Jon Stark and make him Lord of Winterfell	Stannis	Jon Snow	70	80	Intelligent	He trades a title for a vital Stark ally, which would strengthen both men if accepted.
+Respects Jon’s refusal to accept legitimacy and remain in the Night’s Watch	Stannis	Jon Snow	60	70	Intelligent	Honoring Jon’s oath builds mutual respect and leaves future cooperation possible.
+Tells Sam about the dragonglass on Dragonstone and urges him to keep reading	Stannis	Samwell Tarly	70	85	Intelligent	He pushes Sam toward knowledge that later becomes crucial against the White Walkers.
+Decides to abandon southern campaign and march north to defend the Wall	Stannis	Realm vs. White Walkers	65	90	Intelligent	He sacrifices near-term claim-building to confront the existential threat to all.
+Executes Mance Rayder for refusing to bend the knee	Stannis	Mance and wildlings	50	35	Bandit	The execution asserts royal authority but wastes a charismatic leader whose cooperation could help the realm.
+Allows the wildlings an offer of subject-rights if they kneel and accept his rule	Stannis	Wildlings	70	75	Intelligent	He offers marginalized people legal status in exchange for loyalty, a mutually beneficial if tough bargain.
+Expresses disgust at the Red Wedding and vows to execute Roose and Walder	Stannis	Boltons and Freys	60	65	Intelligent	Condemning treachery aligns him with justice and can rally honorable support.
+Pivots his forces to perform a pincer attack on the wildling host at the Wall	Stannis	Wildling army	80	80	Intelligent	He annihilates a massive threat with minimal losses, saving the North and Night’s Watch.
+Burns multiple followers and nobles who oppose him after setbacks	Stannis	His own supporters	25	15	Stupid	He terrorizes and shrinks his already small base without achieving proportional gains.
+Encourages Brienne to execute him and tells her to do her duty	Stannis	Brienne of Tarth	50	70	Helpless	He accepts death, losing his own life while granting Brienne closure and reinforcing her code.
+Freely confesses to Brienne that he assassinated Renly	Stannis	Brienne of Tarth	55	65	Intelligent	Truthfulness earns him no mercy but gives Brienne moral clarity and preserves his own integrity.
+Draws his sword and advances to face the charging Bolton army despite being doomed	Stannis	Himself and remaining men	35	45	Helpless	His defiance preserves honor and inspires some, but tactically it only hastens their deaths.
+Orders or allows Shireen to be burned alive to gain magical advantage	Stannis	Shireen and his own cause	5	5	Stupid	He destroys his beloved daughter and shatters his support; the supposed benefit never materializes.
+Says “Forgive me” to Shireen before her sacrifice	Stannis	Shireen	20	30	Helpless	The admission eases his conscience slightly but offers Shireen no rescue and deepens his self-loathing.
+Continues the march on Winterfell after half his army deserts and wife suicides	Stannis	His remaining army	20	25	Stupid	Pressing a hopeless attack ensures slaughter without realistic chance of victory.
+Allows Melisandre to burn people for the Lord of Light after Blackwater defeat	Stannis	Accused heretics	30	20	Bandit	He shores up faith in his chosen god at the cost of alienating potential allies.
+Stares into the flames and adopts the identity of “Prince That Was Promised”	Stannis	His own psyche	45	40	Bandit	Believing the prophecy strengthens resolve but locks him into disastrous fanatic choices.
+Remains determined to claim the throne because law says it is his	Stannis	Realm	50	45	Bandit	His legalism sustains war that destabilizes the kingdom for an outcome centered on his right.
+Publicly insists “The Iron Throne is mine. All those that deny that are my foes.”	Stannis	All rival factions	55	40	Bandit	This declaration rallies his followers but hardens everyone else into implacable enemies.
+Refuses to compromise or soften his personality to gain allies	Stannis	Potential allies	40	35	Helpless	His rigidity costs him critical support without giving a corresponding strategic edge.
+Leads from the front again against the Boltons despite having no cavalry or hope	Stannis	His remaining troops	30	35	Helpless	His personal courage can’t offset the tactical disaster, leading to near-total annihilation.
+Allows Melisandre to leave camp after the desertions and Shireen’s death	Stannis	His own cause	30	25	Stupid	Letting his last magical ally go deprives him of potential tools without regaining trust or numbers.
+Ignored Stormlands bannermen earlier rather than courting them effectively	Stannis	Stormlands lords	40	35	Helpless	His failure to win natural bannermen harms his cause more than his pride gains.
+Publicly admits guilt in assassinating Renly when asked by Brienne	Stannis	Brienne of Tarth	55	65	Intelligent	Admission brings deserved execution but upholds truth and lets Brienne act without doubt.

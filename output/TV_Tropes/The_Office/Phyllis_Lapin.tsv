@@ -1,0 +1,27 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Phyllis has been a professional cheerleader with the St. Louis Cardinals	Phyllis	Phyllis	82	55	Intelligent	Professional cheerleading advances her career/self-image and is at least neutral or mildly positive for others as entertainment.
+Phyllis blackmails Angela when annoyed	Phyllis	Angela	70	15	Bandit	She gains leverage and satisfaction by coercing Angela while harming Angela’s autonomy and comfort.
+Phyllis enjoys going to bars with Bob where men flirt with her	Phyllis	Men at bars	73	40	Bandit	She derives ego/pleasure from drawing flirtation under false pretenses, mildly wasting others’ time and emotional energy.
+Phyllis dresses low-cut to entice men to flirt so Bob can beat them up	Phyllis	Men at bars	78	5	Bandit	She boosts her and Bob’s sense of power/validation at the severe expense of unsuspecting men who get assaulted.
+Bob beats up men who flirt with Phyllis in bars	Bob	Men at bars	75	0	Bandit	Bob gets gratification/territorial satisfaction while inflicting direct physical harm on others.
+Phyllis passive-aggressively announces Pam can’t favor Jim, loudly	Phyllis	Pam	60	20	Bandit	She asserts status and vents resentment, slightly boosting her own standing while publicly undermining Pam.
+Phyllis repeatedly makes mean-spirited digs at Pam for “sniping” clients	Phyllis	Pam	58	18	Bandit	She gains petty emotional satisfaction and maybe office dominance while injuring Pam’s morale and reputation.
+Phyllis participates in the office shunning of Pam, Michael, and Ryan	Phyllis	Pam, Michael, Ryan	55	10	Bandit	She aligns socially with the majority and feels safer/more powerful while socially harming the shunned trio.
+Phyllis steals all of Pam's wedding plans, including the dress	Phyllis	Pam	68	8	Bandit	She benefits by easily obtaining a fully planned wedding at the cost of forcing Pam to watch “her” canceled wedding as a bystander.
+Phyllis keeps Angela on the committee as a “punching bag” using blackmail	Phyllis	Angela	72	5	Bandit	She gains ongoing power and emotional release while systematically bullying and demeaning Angela.
+Phyllis constantly assigns Angela demeaning tasks on the committee	Phyllis	Angela	65	10	Bandit	She gets satisfaction and dominance from belittling Angela, which directly harms Angela’s dignity and experience.
+When Angela has enough, Phyllis outs Angela's affair to the office	Phyllis	Angela	62	12	Bandit	She protects her own position and punishes Angela by exposing the affair, devastating Angela and damaging her workplace standing.
+Phyllis insists her coercion of Angela isn’t blackmail because it’s not written	Phyllis	Angela	57	30	Bandit	She preserves her self-image and justifies continued leverage while downplaying the harm she causes Angela.
+Michael frequently makes mean jokes at Phyllis’ expense	Michael	Phyllis	65	15	Bandit	Michael gains laughs and status while emotionally hurting Phyllis.
+Angela slut-shames Phyllis when Pam is not around	Angela	Phyllis	60	10	Bandit	Angela enjoys moral superiority and cruelty while shaming and diminishing Phyllis.
+Phyllis opposes having a woman as the new manager	Phyllis	Female candidates	52	20	Bandit	She tries to protect her perceived interests by excluding women leaders, harming opportunities for other women.
+Phyllis maintains a close, happy marriage with Bob	Phyllis	Bob	85	70	Intelligent	A stable, loving marriage strongly benefits both her and Bob emotionally and socially.
+Phyllis lovingly knits an oven mitt as a gift for Michael	Phyllis	Michael	78	80	Intelligent	She invests effort and care that brings her satisfaction and gives Michael a thoughtful, positive gift.
+Stanley refrains from ever complaining about Phyllis’ smell despite years together	Stanley	Phyllis	60	75	Intelligent	He avoids conflict and maintains harmony while sparing Phyllis’ feelings and preserving their friendship.
+Phyllis defends Stanley in the documentary finale as not shown in a good light	Phyllis	Stanley	70	82	Intelligent	She affirms her friend, reinforcing their bond and improving how others see him.
+Phyllis is moved to tears by Stanley’s carved figurine gift	Phyllis	Stanley	80	78	Intelligent	Her emotional response deepens their mutual affection and validates Stanley’s effort.
+Phyllis and Stanley dance together at Dwight and Angela’s wedding	Phyllis	Stanley	77	75	Intelligent	They share joy and companionship, mutually enhancing their well-being and connection.
+Phyllis and Stanley admit how much they missed each other	Phyllis	Stanley	82	80	Intelligent	Openly expressing affection strengthens their relationship and benefits both emotionally.
+Phyllis generally behaves as a sweet, magnanimous colleague unless pushed	Phyllis	Coworkers	78	82	Intelligent	Her typical kindness and generosity foster a supportive environment, benefiting her socially and others emotionally.
+Phyllis gave away a baby in high school	Phyllis	Her baby	15	40	Helpless	She suffers lasting emotional loss while the child likely gains a chance at a more stable upbringing.
+When Phyllis suspects Erin might be her baby, she warms up to Erin	Phyllis	Erin	72	80	Intelligent	She gains emotional closure/hope while providing Erin with extra warmth and support.

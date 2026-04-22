@@ -1,0 +1,47 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He grows out his sideburns, hair, and adds a mustache	Roger	Roger	58	55	Intelligent	Minor self-expression that slightly benefits his image without affecting others much.
+He drinks heavily and becomes an unapologetic expert on alcohol	Roger	Roger	35	45	Helpless	His alcoholism harms his health and functioning more than it helps, with little clear effect on others here.
+He tells Don’s generation they “don’t know how to drink” and moralizes about drinking	Roger	Don’s generation	55	40	Bandit	He boosts his own ego/identity while dismissing and mildly demeaning others’ behavior.
+He conducts serial affairs and still keeps good relationships with his exes	Roger	Ex-wives and lovers	40	30	Bandit	His cheating undermines his marriages and hurts partners, even if cordial relations persist.
+He coasts on his family name to keep his position at the company	Roger	Agency/colleagues	60	35	Bandit	He preserves status and income while others must compensate for his lack of effort.
+He frequently belittles employees and cracks rude jokes at their expense	Roger	Employees	55	25	Bandit	He gains amusement and dominance while undermining subordinates’ dignity and morale.
+He fires Sal Romano on demand without resisting	Roger	Sal Romano	50	20	Bandit	He preserves his own and the firm’s political standing while seriously harming Sal’s career.
+He fires Ken Cosgrove on demand without resisting	Roger	Ken Cosgrove	50	20	Bandit	Again he protects his position with powerful clients while causing major harm to Ken.
+He is willing to sell just about anything for advertising	Roger	Clients/consumers	65	40	Bandit	He profits professionally while contributing to manipulative or indifferent outcomes for others.
+He reacts irrationally and hostilely around Japanese people due to wartime anger	Roger	Japanese people	40	15	Stupid	His unresolved bigotry harms relations and brings him no benefit, even undercutting his professionalism.
+He lives a fast, hard-drinking, womanizing lifestyle	Roger	Roger	30	40	Helpless	The behavior leads to heart attacks and decline, with little offsetting gain beyond short-term pleasure.
+He musters seduction and subterfuge to land a Chevy meeting	Roger	Chevy/client	80	60	Intelligent	He advances his career and agency fortunes while providing a potentially valuable business connection.
+He loses the Lucky Strike account he inherited	Roger	Roger’s career/agency	20	25	Stupid	His dependence and decay cost him and the firm heavily, with no compensating upside.
+He continues heavy drinking despite having a heart attack	Roger	Roger	15	40	Helpless	He knowingly worsens his health for fleeting comfort and no long-term gain.
+He tries LSD to become an “erudite stoner”	Roger	Roger	45	50	Helpless	The experiment offers some insight but is largely escapist and risky, with unclear external effects.
+He becomes a vocal proponent of LSD to anyone who will listen	Roger	Listeners	45	40	Bandit	He validates his choices and identity while potentially encouraging risky behavior in others.
+He spends much of his time in Don’s office to mooch drinks	Roger	Don/office	55	35	Bandit	He gains free alcohol and camaraderie while distracting Don and consuming his resources.
+He cheats on Mona with younger women over decades	Roger	Mona (and other partners)	35	15	Bandit	He gets sexual variety at the cost of deep relationship damage and long-term unhappiness.
+He marries Jane, much younger, and ends up miserable	Roger	Roger/Jane	25	20	Stupid	He harms himself and Jane emotionally, gaining neither a stable partnership nor lasting satisfaction.
+He eventually chooses Marie, age-appropriate and compatible, as partner	Roger	Roger/Marie	85	70	Intelligent	He attains mutual, age-suitable companionship with benefits to both partners’ emotional lives.
+He takes on “fun Uncle Roger” role for Don’s children	Roger	Don’s children	65	80	Intelligent	He gains affection and meaning while giving the kids a supportive, entertaining adult figure.
+He quietly ensures Joan’s son Kevin is provided for financially	Roger	Kevin	70	85	Intelligent	He finds some redemption and connection while materially securing his son’s future.
+He dismisses psychiatry as a fad early on	Roger	Listeners/colleagues	55	40	Bandit	He reinforces his own worldview while potentially discouraging others from useful treatment.
+He later begins seeing a psychiatrist	Roger	Roger	75	65	Intelligent	He gains insight and coping tools with no real downside to others and possible relational benefits.
+He appears callous about his mother’s death and is annoyed by his mourning secretary	Roger	Secretary	35	20	Bandit	He shields himself emotionally while hurting and invalidating someone who cares about him.
+He eventually breaks down in tears over his mother’s death	Roger	Roger	50	55	Intelligent	Accepting grief brings some inner processing/relief and does not harm others.
+He uses much-younger women in May–December romances	Roger	Younger women	45	25	Bandit	He satisfies his desires while contributing to power-imbalanced, often unstable relationships.
+He pushes for Sterling Cooper’s buy-out by PPL to fund his divorce	Roger	Agency staff	65	10	Bandit	He gets needed cash and personal relief while triggering a chain that leads to absorption and layoffs.
+He later sells a controlling interest to McCann-Erickson to save Don	Roger	Agency staff	60	15	Bandit	He secures Don’s job and his own presidency but again sets up a takeover that harms most staff.
+He records drunken tapes and has someone else ghostwrite his autobiography	Roger	Ghostwriter	60	45	Bandit	He advances his vanity project with minimal effort while subjecting another to thankless work.
+He becomes jealous upon learning Ken is a successful author	Roger	Roger	30	50	Helpless	Envy hurts his own peace of mind without affecting Ken’s success.
+He argues passionately for Don’s case against the other partners	Roger	Don	80	80	Intelligent	He risks political capital to protect Don, strengthening both their positions and friendship.
+He is a doting grandfather despite being a flawed father	Roger	Grandchildren	70	85	Intelligent	He finds redemption and joy while giving consistent affection and support.
+He makes sure his illegitimate son will be well off financially	Roger	Kevin	75	85	Intelligent	He gains some moral closure while providing long-term security for his child.
+He eagerly wants to watch Lane and Pete’s fistfight rather than stopping it	Roger	Lane & Pete	55	25	Bandit	He gets entertainment out of a conflict that could physically and professionally harm them.
+He passively co-parents Kevin via gifts and including him in his will	Roger	Kevin	70	75	Intelligent	He secures Kevin’s future and some relationship while taking limited but mostly positive action.
+He learns people’s names before firing them	Roger	Employees	50	15	Bandit	He maintains his managerial role and image while directly harming others’ livelihoods.
+He lives with hippie girls in an open arrangement	Roger	Hippie household	65	60	Intelligent	He gains companionship and fits into their lifestyle without clear harm to others.
+He tells a girl and another guy in “their” bed just to move over	Roger	Couple in bed	70	60	Intelligent	He preserves harmony and shared arrangement with light, consensual accommodation.
+He survives a heart attack and leaves near the end of Season 1	Roger	Roger	40	55	Helpless	The health crisis harms him but forces some short reflection and temporary rest.
+He later returns and suffers yet another heart attack	Roger	Roger	20	50	Helpless	Recurring attacks severely harm him with only marginal associated insight or change.
+He keeps Lucky Strike’s departure secret from the firm	Roger	Agency partners/staff	30	10	Stupid	He worsens the eventual shock and planning failure, harming everyone including himself.
+He stages a charade to “keep face” after the Lucky Strike loss is revealed	Roger	Agency partners/staff	25	15	Stupid	The deception further erodes trust and his credibility with no real benefit once the loss is known.
+He gets very drunk with Don after saying he won’t hire him	Roger	Roger	35	60	Helpless	The binge harms his clarity and professionalism yet indirectly leads to Don’s hire, which benefits the firm.
+He accepts Don’s claim that he was hired and lets him start working	Roger	Don	85	80	Intelligent	Despite faulty memory, he gains a brilliant creative director and gives Don a life-changing opportunity.
+He later takes credit as the man who discovered and hired Don	Roger	Roger’s colleagues	70	45	Bandit	He boosts his status and reputation using a partially false story that slightly misleads others.

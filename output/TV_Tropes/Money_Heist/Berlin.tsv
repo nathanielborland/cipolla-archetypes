@@ -1,0 +1,42 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He courteously treats hostages as long as they follow orders	Berlin	Hostages	60	20	Bandit	Courtesy helps maintain control and smooth operations but hostages remain imprisoned and threatened.
+He castrates a man with a fork for mocking his bowtie	Berlin	Man who mocked his bowtie	10	0	Stupid	Extreme overreaction brings no stated benefit and inflicts severe harm.
+He dates his 44-year-old teacher when he is 18	Berlin	44-year-old French teacher	65	40	Intelligent	Both appear to enter a mutually desired relationship with no stated harm.
+He articulates an analysis of age-gap romances to Rio	Berlin	Rio	55	60	Intelligent	Offers Rio insight into age-gap dynamics, modestly benefiting both through reflection and advice.
+He causes much of the internal conflict among the gang	Berlin	Heist team	40	20	Bandit	Instigating internal conflict maintains some control/power but destabilizes the team.
+He eats apples frequently at the Mint	Berlin	Himself	55	50	Intelligent	Eating apples is mildly beneficial or neutral and does not affect others.
+He constantly derails serious conversations with non-sequitur talk	Berlin	Conversational partners	55	35	Bandit	He amuses himself while making serious communication harder for others.
+He fights against the incoming armored police squad so others can escape	Berlin	Other robbers	20	80	Helpless	He sacrifices his life to ensure teammates’ escape.
+He often mocks other people with sarcasm	Berlin	People he mocks	55	35	Bandit	He gains amusement and some dominance at others’ emotional expense.
+He stabs a man in the testicles with a fork for mocking his bowtie	Berlin	Man who mocked his bowtie	10	0	Stupid	Severe disproportionate retaliation harms the victim with no clear gain and high risk to himself.
+He loves his brother Sergio, Palermo, and his son Rafael	Berlin	Sergio, Palermo, Rafael	75	70	Intelligent	Mutual affection and bonds help all parties emotionally and practically.
+He regularly rapes a hostage	Berlin	Raped hostage	10	0	Stupid	He gains only transient gratification while inflicting extreme harm and long-term risk.
+He refuses to accept accusations of white slavery and pimping	Berlin	Accusers / public perception	60	30	Bandit	Defending his image benefits him while primarily serving his reputation, not others.
+The Spanish National Police publicly frame him for white slavery and child abuse	Spanish National Police	Berlin / Heist team	55	10	Bandit	They gain propaganda value while gravely harming his and the gang’s reputation.
+He uses a planned interview to expose the frame-up live	Berlin	Spanish National Police	70	30	Bandit	He repairs his and the gang’s image while damaging the police’s credibility.
+The journalists investigate and reveal the truth about the frame-up	Journalists	Public / Spanish National Police	60	75	Intelligent	They gain a scoop and credibility while informing the public and checking abuse.
+He continually gets into harsh arguments with teammates	Berlin	Heist team members	45	30	Bandit	He vents and asserts himself but erodes cohesion and trust.
+He tells Arturo he is a “dead man walking,” warning him like in horror films	Berlin	Arturo	55	45	Intelligent	He gains control/clarity in the situation while giving Arturo a realistic warning.
+He participates in executing hostages	Berlin	Hostages	40	5	Bandit	He asserts control through terror, but this gravely harms hostages with little long-term benefit.
+He surrenders Tokyo to the authorities	Berlin	Tokyo	45	20	Bandit	Sacrificing her reduces internal risk but badly harms her and damages trust.
+He nearly strangles Nairobi when his identity is outed and he is framed	Berlin	Nairobi	20	10	Stupid	Lashing out brings no benefit and endangers a valuable teammate.
+He snaps when Nairobi criticizes him for surrendering Tokyo	Berlin	Nairobi	30	30	Stupid	Emotional outburst harms their working relationship with no gain to him.
+He sees the heist as a way to be remembered before his illness kills him	Berlin	Himself / general public	60	40	Intelligent	He maximizes remaining life meaning while providing a dramatic narrative that engages others.
+He acts as in-mint leader and de facto second-in-command	Berlin	Heist team	65	55	Intelligent	His leadership advances his goals and helps organize the team.
+He grows attached to hostage Ariadna, believing she loves him	Berlin	Ariadna	40	20	Stupid	Delusion makes him emotionally vulnerable and pressures her without real benefit.
+He convincingly plays a wronged man in a TV interview to sway public opinion	Berlin	General public	75	40	Bandit	He improves the gang’s standing while manipulating the audience.
+He and Martín plan the Spanish National Bank gold heist	Berlin and Martín	Future heist team	75	55	Intelligent	They gain a massive potential payoff while creating a feasible plan that later benefits the team.
+He breaks a bar mirror in an irrational act of vandalism	Berlin	Bar owner / himself	20	20	Stupid	Pointless destruction brings risk and cost with no upside.
+He lets himself be arrested after breaking the mirror	Berlin	Himself	10	50	Helpless	He submits to punishment harming himself while minimally upholding legal order.
+He makes sexist remarks toward Tokyo and Nairobi	Berlin	Tokyo and Nairobi	55	30	Bandit	He boosts his ego and dominance while undermining them.
+He tells hostages they will not be harmed so long as they cooperate	Berlin	Hostages	65	55	Intelligent	He secures smoother control while reducing immediate danger to hostages.
+He has others harm or kill to make his point when needed	Berlin	Designated enforcers / victims	45	20	Bandit	He maintains authority via others’ violence at significant cost to those targeted.
+He argues that Gandia should be killed before he causes trouble	Berlin	Heist team / Gandia	60	35	Bandit	Eliminating a threat would protect the team but at the cost of killing a captive.
+He marries five times believing each was his true love	Berlin	Each spouse	40	30	Stupid	Repeated failed marriages show poor self-outcomes and emotional turmoil for others.
+He loses faith in love after his wife leaves him for his son	Berlin	Himself	20	40	Helpless	He becomes emotionally damaged, while the wife and son gain their relationship.
+He is the only robber willing to harm hostages	Berlin	Hostages	40	10	Bandit	His willingness gives him tactical leverage by directly injuring others.
+He tries to kill Rio for betraying him	Berlin	Rio	35	15	Bandit	Attempted execution punishes betrayal but risks internal collapse and offers limited strategic gain.
+He plans the Bank of Spain heist with Palermo, motivated by illness	Berlin and Palermo	Future heist team	75	55	Intelligent	They secure a grand plan that will profit them and the later team.
+He leads groundwork for the second heist	Berlin	Future heist team	80	60	Intelligent	His legacy planning yields major gains for the future team with broad benefit.
+He would harm or kill Monica despite her pregnancy	Berlin	Monica	30	5	Bandit	Threatening a pregnant hostage asserts control but causes extreme risk and distress for her.
+He decides to die heroically fighting the armored police so others escape	Berlin	Other robbers	15	85	Helpless	He deliberately accepts death to maximize his comrades’ chances of survival.

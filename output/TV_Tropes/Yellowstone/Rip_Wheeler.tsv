@@ -1,0 +1,42 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Rip apologizes to Lloyd before beating him senseless	Rip	Lloyd	10	5	Stupid	He gains no clear benefit and seriously harms a loyal colleague over a petty grudge issue.
+Rip beats Lloyd senseless	Rip	Lloyd	15	5	Bandit	Violent dominance may reinforce his authority but badly harms Lloyd physically and relationally.
+Rip administers beatdowns to wranglers who cross a line	Rip	Rule‑breaking wranglers	40	60	Intelligent	He harms offenders but maintains overall ranch order and his own authority.
+Rip intentionally loses a fight to Kayce so wranglers accept Kayce as boss	Rip	Kayce and other wranglers	35	80	Intelligent	He sacrifices his dominance to strengthen Kayce’s leadership and ranch stability.
+Rip shows up to rescue Beth from a kill squad	Rip	Beth	70	95	Intelligent	He’s badly injured but successfully saves Beth’s life and stops the attackers.
+Rip continues fighting and gets shot twice while rescuing Beth	Rip	Beth and ranch allies	40	90	Intelligent	He incurs serious physical cost yet preserves Beth and thwarts the hit squad.
+Rip refrains from getting close to Beth despite loving her	Rip	Beth	30	40	Helpless	Holding back denies himself happiness and offers Beth little clear benefit.
+Rip is initially taken aback at Beth dating other men but does nothing	Rip	Beth	45	50	Helpless	He endures emotional pain without changing circumstances for himself or others.
+Rip rescues Beth from Beck’s men (triggering his confession)	Rip	Beth	75	95	Intelligent	He risks himself to save her and this also advances their relationship.
+Rip finally admits his feelings to Beth after rescuing her	Rip	Beth	85	85	Intelligent	Honesty deepens mutual emotional fulfillment with no shown downside.
+Rip ruthlessly protects the ranch from thieves and intruders	Rip	Thieves/intruders	70	60	Bandit	He secures his home and position while harshly harming adversaries.
+Rip shrugs off serious injuries to keep working for the ranch	Rip	Ranch operations	35	70	Intelligent	He endangers his health but maintains protection and continuity for everyone.
+Rip serves as John’s right-hand man, doing whatever it takes to protect the ranch	Rip	John/ranch	80	70	Bandit	He gains status and belonging while using lethal methods against threats.
+Rip kills people in cold blood at John’s request	Rip	Identified threats	65	10	Bandit	He strengthens his and John’s security by severely harming or eliminating others.
+Rip lets Kayce win their fight	Rip	Kayce and wranglers	40	80	Intelligent	He sacrifices personal reputation so Kayce gains authority and the ranch gains cohesion.
+Rip goes to expense to give his mother a proper burial	Rip	Rip’s deceased mother/memory	60	65	Intelligent	He spends resources for emotional closure and to honor her, no visible harm caused.
+Rip pays a private gravedigger for his mother’s burial	Rip	Private gravedigger	62	70	Intelligent	He loses money but gains dignity and provides income to the gravedigger.
+Rip has his mother’s body exhumed to retrieve her ring	Rip	Mother’s remains	50	40	Helpless	He gets a sentimental ring but disturbs her grave, emotional gains offset by desecration.
+Rip speaks apologetically to his mother’s body and shares news of Beth/marriage proposal	Rip	Rip’s deceased mother	70	60	Intelligent	He gains emotional comfort and symbolic connection without hurting anyone.
+Rip stops John from beating Jamie	Rip	John/Jamie	60	80	Intelligent	He risks John’s displeasure to protect Jamie from further abuse.
+Much later, Rip tells off John for how he treats Jamie	Rip	John	65	75	Intelligent	He risks conflict with his patron to advocate for fairer treatment of Jamie.
+Rip routinely snaps at Jimmy, telling him to “shut the fuck up”	Rip	Jimmy	40	20	Bandit	He vents frustration and asserts dominance while belittling Jimmy.
+Rip snaps at Lloyd in Season 4	Rip	Lloyd	35	25	Bandit	He reinforces his authority at the cost of their relationship and Lloyd’s dignity.
+Rip chooses to remain essentially John’s lifelong “slave”	Rip	John	80	40	Helpless	He gains belonging and purpose but accepts structural exploitation and limited autonomy.
+Rip maintains absolute loyalty to John partly because he had nowhere else to go	Rip	John	75	30	Helpless	His loyalty secures shelter and status but stems from lack of options and dependence.
+Rip melts and becomes gentle around Beth	Rip	Beth	85	80	Intelligent	His softness enriches their bond and harms no one.
+Rip melts and becomes gentle around children	Rip	Children	80	90	Intelligent	His kindness benefits kids and emotionally benefits him.
+Rip accidentally kills someone in a fight in a flashback	Rip	Unknown victim	35	5	Bandit	The killing harms the victim yet binds Rip to the ranch with long‑term security.
+Rip comments on his bullet wounds: “I was built to go through hell” and underreacts	Rip	None (self)	30	55	Helpless	Minimizing injury keeps operations moving but endangers his long‑term health.
+Rip remains uneasy during his courtship and wedding with Beth	Rip	Beth	60	80	Intelligent	His vulnerability and awkwardness deepen their authentic relationship.
+Rip admits his fears about marriage to Lloyd	Rip	Lloyd	70	75	Intelligent	Sharing fears gives him support and strengthens trust with Lloyd.
+Rip is touched when Jamie says he thinks of him as a friend	Rip	Jamie	75	80	Intelligent	He gains emotional affirmation and a more positive bond with Jamie.
+Rip stands up for Jamie over John’s abuse, reminding John Jamie is still his son	Rip	Jamie/John	70	85	Intelligent	He risks disfavor to protect Jamie and prompt John toward better behavior.
+As a child, Rip kills his father after his father murders the rest of the family	Rip	Father	40	30	Bandit	He stops an immediate threat and survives but commits severe violence with long‑term costs.
+Rip becomes the ranch’s enforcer, keeping wranglers in line	Rip	Other wranglers	70	55	Bandit	He gains power and security while using coercion and fear on others.
+Rip has no problem killing people in cold blood for ranch operations	Rip	Targets of ranch	65	10	Bandit	He protects the ranch and his status at the extreme expense of others’ lives.
+Rip extends his “will do anything” loyalty to Beth	Rip	Beth	85	80	Intelligent	Total commitment benefits their relationship and her security with minimal downside shown.
+Rip marries Beth and promises to protect her for life	Rip	Beth	90	90	Intelligent	Marriage and vow provide mutual emotional and practical security.
+Rip continually seeks John’s approval since youth	Rip	John	60	40	Helpless	He gains some validation but remains dependent on John’s judgment.
+Rip accepts a demotion to rank‑and‑file wrangler so Kayce can lead	Rip	Kayce	35	80	Helpless	He sacrifices status and power so Kayce gains leadership experience.
+John rewards Rip with a house of his own	Rip	John	95	75	Intelligent	Rip gains major material benefit and John rewards proven loyalty, strengthening their bond.

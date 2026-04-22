@@ -1,0 +1,29 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Convinces Erin to drink despite her vulnerability	Robert	Erin	65	15	Bandit	He gets social/romantic leverage while increasing her impairment and risk.
+Offers to take drunk Erin home	Robert	Erin	55	40	Bandit	He gains proximity and apparent goodwill while putting her in a dependent situation that worries others.
+Drops Erin off safely instead of exploiting her	Robert	Erin	60	80	Intelligent	He preserves his image and avoids trouble while ensuring her safety.
+Gives Erin advice before leaving	Robert	Erin	55	70	Intelligent	He offers guidance with no apparent cost to himself.
+Andy follows them, suspecting Robert’s intentions	Andy	Erin	40	75	Helpless	He expends time/stress to protect her, gaining little direct benefit.
+Gets drunk out of depression about his divorce	Robert	Robert	15	45	Stupid	His heavy drinking worsens his own condition without helping anyone.
+Shuts down another branch while drunk	Robert	Branch employees/company	20	10	Stupid	He damages the company and livelihoods based on impaired judgment, with little to no gain.
+Tries to hit on Nellie while drunk	Robert	Nellie	25	20	Stupid	He risks reputation and workplace fallout while making her uncomfortable.
+Hijacks Oscar’s “It gets better” video	Robert	Oscar/audience	40	30	Bandit	He redirects a serious message to serve his own persona, undercutting its intended impact.
+Drinks coconut-and-penis–flavored energy drink and laments coconut	Robert	Robert	50	45	Stupid	His trivial, self-imposed discomfort serves no one and slightly harms his own enjoyment.
+Kisses Andy on the lips as a goodbye	Robert	Andy	45	25	Stupid	He creates awkwardness and potential HR issues with no clear benefit to himself.
+Invites Jim and Pam to his home for a threesome	Robert	Jim and Pam	35	25	Bandit	He seeks sexual gratification leveraging his position, putting them in an uncomfortable power dynamic.
+Cancels the proposed threesome after re-evaluating power dynamics	Robert	Jim and Pam	60	80	Intelligent	He avoids ethical/professional fallout and spares them coercive pressure.
+States he is “never uncomfortable” while watching Andy’s private talk	Robert	Andy	55	30	Bandit	He maintains dominance at the cost of Andy’s ease and privacy.
+Convinces Jo to give him her job in one conversation	Robert	Jo	85	25	Bandit	He gains a top position while outmaneuvering a capable boss to her and the firm’s detriment.
+Provokes rivalry between office members	Robert	Office staff	60	20	Bandit	He keeps control and psychological leverage while harming cohesion and comfort.
+Gives employees tasks he then works to undermine	Robert	Employees	55	15	Bandit	He reinforces his mystique and control but wastes others’ work and morale.
+Introduces himself with different names to different people	Robert	Colleagues	60	35	Bandit	He gains opacity and power through confusion, mildly disorienting others.
+Walks around the office starting intense, creepy conversations	Robert	Random employees	55	35	Bandit	He entertains/informs himself while unsettling staff.
+Obsessively spends an entire Halloween party learning everyone’s deepest fears	Robert	Office staff	65	35	Bandit	He gains psychological leverage while initially making people vulnerable.
+Improvises a ghost story that uses those fears to unify and release tensions	Robert	Office staff	80	90	Intelligent	He applies his knowledge to create catharsis and group cohesion, enhancing his status and helping them.
+Makes bizarre post-divorce decisions that drive Sabre into the ground	Robert	Sabre/company	20	15	Stupid	His erratic leadership harms the company and endangers his own role and reputation.
+Convinces David Wallace to give him a new job with Eastern European gymnasts	Robert	Gymnasts	70	15	Bandit	He secures a comfortable next role while placing vulnerable youths under a dubious “helper.”
+Tries to get Ryan and Gabe into a three-way at his house party	Robert	Ryan and Gabe	40	25	Bandit	He pursues sexual gratification that makes subordinates uncomfortable.
+Attempts to start a naked pool orgy with employee guests	Robert	Party guests/employees	35	10	Stupid	He risks severe reputational and legal fallout while distressing his staff.
+Cites a Sesame Street film about paper production as a qualification	Robert	Hiring decision-makers	55	55	Intelligent	He uses an odd example to present relevant knowledge, mildly benefiting both his candidacy and their evaluation.
+Goes along with Jo-endorsed retail store idea despite thinking it will fail	Robert	Company	45	35	Helpless	He protects Jo’s legacy and his image while allowing a plan he expects to fail.
+Blames failure of retail idea on an employee “botching the execution”	Robert	Employee scapegoat	60	20	Bandit	He protects his own standing by shifting responsibility onto a subordinate.

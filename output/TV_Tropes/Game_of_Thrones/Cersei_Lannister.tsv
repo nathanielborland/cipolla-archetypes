@@ -1,0 +1,73 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Cersei treats the common folk of King’s Landing with haughty contempt	Cersei	Common folk of King’s Landing	40	20	Bandit	She gratifies her ego while worsening her popularity and their welfare.
+Cersei spoils Joffrey and fills his head with nonsense about his strength	Cersei	Joffrey	30	10	Stupid	Her indulgence feeds his cruelty and incompetence, eventually harming her and many others.
+Cersei neglects Myrcella in favor of Joffrey	Cersei	Myrcella	35	20	Stupid	She emotionally abandons a decent child, gaining nothing long-term and weakening family bonds.
+Cersei orchestrates the mass murder at the Sept knowing Tommen’s wife will die	Cersei	Tommen and people in Sept	10	5	Stupid	She gains the throne but loses her last child and isolates herself, while killing many.
+Cersei shows no remorse for Tommen’s suicide and makes his death about herself	Cersei	Tommen’s memory	20	10	Stupid	She preserves her self-image at the cost of any remaining empathy or alliance with Jaime.
+Cersei uses her (possibly unreal) pregnancy to gain sympathy from Jaime and Tyrion	Cersei	Jaime and Tyrion	60	30	Bandit	She secures emotional leverage and political protection while misleading others.
+Cersei continues drinking while pregnant, ensuring fetal damage	Cersei	Unborn child	5	5	Stupid	She endangers her own heir and health for short-term comfort.
+Cersei supports Qyburn’s unethical experiments and grants him patronage	Cersei	Qyburn’s victims / realm	45	20	Bandit	She gains monstrous tools like undead Gregor at the cost of legitimizing dangerous science.
+Cersei empowers Gregor Clegane to retain and use his “killing power”	Cersei	Her enemies and bystanders	50	10	Bandit	She gains a terror weapon but increases indiscriminate brutality that destabilizes her rule.
+Qyburn tends Cersei’s bloodied feet after her Walk of Shame	Qyburn	Cersei	55	70	Intelligent	He preserves his patron’s health, strengthening his own position and helping her recover.
+Cersei drinks heavily during Stannis’s attack on King’s Landing	Cersei	Herself and sheltered court	25	40	Helpless	She copes with fear while becoming less functional as a leader; others mostly unaffected.
+Cersei grows paranoid that younger queens (Margaery, Daenerys) will cast her down	Cersei	Herself	30	40	Helpless	Her fixation drives counterproductive moves that later backfire on her and the realm.
+Cersei undercuts Tyrion’s defense of King’s Landing out of spite	Cersei	Tyrion and city defense	30	25	Stupid	Her sabotage hurts the war effort and her own side without real gain.
+Cersei decides Tyrion murdered Joffrey with no evidence and dedicates herself to his humiliation and execution	Cersei	Tyrion	20	15	Stupid	She gains emotional satisfaction but drives a capable Lannister into Daenerys’s camp.
+Cersei perceives Tommen as having betrayed her after his actions and suicide	Cersei	Tommen’s legacy	25	20	Stupid	Her resentment severs any moral self-correction and shocks Jaime, damaging their bond.
+Cersei obtains nightshade and prepares to poison herself and Tommen if Stannis wins	Cersei	Herself and Tommen	15	30	Helpless	She intends to spare them from imagined atrocities but would destroy both lives.
+Cersei slaps Joffrey for his cruelty	Cersei	Joffrey	55	55	Intelligent	A rare moment of discipline slightly checks him and risks her, but could improve his behavior.
+Cersei seizes the Iron Throne after blowing up the Sept	Cersei	Seven Kingdoms	40	10	Stupid	She gains formal power but destroys legitimacy, allies, and stability while massacring many.
+Cersei boasts that “House Lannister has no rival” and then destroys rivals with wildfire	Cersei	Rivals and smallfolk	35	15	Stupid	Short-term dominance brings long-term overextension and rebellion.
+Cersei manipulates the Faith Militant to attack her enemies	Cersei	Tyrells and sinners in KL	25	10	Stupid	She briefly hurts rivals but empowers zealots who imprison and humiliate her.
+Cersei empowers the Faith despite Lancel knowing her crimes	Cersei	Herself	20	10	Stupid	She hands legal weapons to someone who can expose her, leading directly to her fall.
+Cersei has the Sept of Baelor destroyed with wildfire, killing hundreds	Cersei	High Sparrow, Tyrells, bystanders	15	5	Stupid	She removes enemies but triggers Tommen’s suicide and near-total isolation.
+Cersei later refuses to aid in the war against the Night King, planning to attack the survivors	Cersei	Northern alliance and realm	30	10	Stupid	She preserves her army short-term but risks annihilation by either dead or betrayed victors.
+Cersei lies to Jon and Daenerys about joining the fight against the dead	Cersei	Jon and Daenerys	35	20	Bandit	She buys time and preserves forces while endangering humanity’s war effort.
+Cersei orders Qyburn to hire Bronn to kill Jaime and Tyrion with a crossbow	Cersei	Jaime and Tyrion	20	15	Stupid	She tries to remove potential rivals but risks losing her only capable kin.
+Cersei continuously belittles Tyrion as a “monster” from infancy	Cersei	Tyrion	30	15	Stupid	She vents hatred but creates a lifelong enemy who later helps overthrow her.
+Cersei reveals her incest with Jaime to Tywin to block her marriage to Loras	Cersei	Tywin and Lannister legacy	45	20	Bandit	She escapes an unwanted match while shattering her father’s dynastic project.
+Cersei rejects Tywin’s command to marry Loras and threatens scandal	Cersei	Tywin’s political plans	50	30	Bandit	She protects her autonomy at the cost of undermining Lannister strategy.
+Cersei uses Myrcella’s situation to gain Oberyn’s sympathy against Tyrion	Cersei	Oberyn and Tyrion	45	30	Bandit	She wins short-term support in the trial while risking Dornish resentment.
+Cersei bullies Pycelle and orders him to feed wedding leftovers to the dogs instead of the poor	Cersei	Pycelle and smallfolk	40	15	Bandit	She enjoys petty dominance while slightly worsening popular hunger and loyalty.
+Cersei nearly has Littlefinger’s throat slit when he hints at her incest	Cersei	Littlefinger	40	35	Bandit	She reinforces fear and secrecy but risks alienating a dangerous schemer.
+Cersei frames Tyrion for Joffrey’s murder and engineers a show trial	Cersei	Tyrion	20	15	Stupid	She almost eliminates him but loses Tywin, who is killed during Tyrion’s escape.
+Cersei selects Gregor Clegane as champion in Tyrion’s trial by combat	Cersei	Tyrion and Oberyn	55	25	Bandit	She maximizes the chance of Tyrion’s death but provokes Dorne when Oberyn dies.
+Cersei gloats over Tyrion’s forced marriage to Sansa	Cersei	Tyrion and Sansa	40	20	Bandit	She gains sadistic satisfaction and a perceived check on Sansa without direct benefit.
+Cersei exposes Shae at Tyrion’s trial, destroying the relationship	Cersei	Tyrion	35	20	Bandit	She inflicts emotional torture at the cost of further radicalizing him against her.
+Cersei torments Sansa while she is a hostage in King’s Landing	Cersei	Sansa	35	20	Bandit	She vents jealousy and dominance, strengthening Sansa’s hatred and future opposition.
+Cersei arranges Robert’s fatal hunting “accident” with Lancel’s help	Cersei	Robert and realm stability	30	25	Bandit	She removes an unwanted husband and speeds her son’s crown at the cost of civil war.
+Cersei dismisses Ned’s offer of exile and instead moves to have him condemned	Cersei	Ned Stark	35	20	Bandit	She safeguards her children’s claim but sets up the chain to war and Stark revenge.
+Cersei fails to stop Joffrey executing Ned and then accepts it	Cersei	House Stark and realm	25	15	Stupid	She loses a moderating figure and ignites the Northern rebellion against herself.
+Cersei has Lady executed despite knowing the wolf was innocent	Cersei	Starks (esp. Sansa)	35	10	Stupid	She asserts control but creates needless hatred in a key noble house.
+Cersei repeatedly undermines Margaery and tries to sabotage her influence over Joffrey and Tommen	Cersei	Margaery	30	20	Stupid	She wins minor points while driving Tommen, the Tyrells, and the Faith against her.
+Cersei has Lancel as her lover while Jaime is captive	Cersei	Jaime	40	40	Helpless	She seeks comfort and leverage but devalues the relationship that anchors her.
+Cersei threatens to gouge out Maggy the Frog’s eyes if she refuses prophecy	Cersei	Maggy	40	30	Bandit	She gets the prophecy through intimidation, with no real subsequent benefit.
+Cersei brings back the Faith Militant to attack Margaery and Loras	Cersei	Tyrells and future self	25	15	Stupid	She injures rivals but empowers fanatics who later imprison her and Tommen’s queen.
+Cersei visits imprisoned Margaery to gloat over her downfall	Cersei	Margaery	35	20	Bandit	She gains sadistic satisfaction while solidifying Tyrell hatred.
+Cersei confesses only to adultery to secure her release and walk of atonement	Cersei	Herself	55	40	Intelligent	She strategically limits her confession to survive and regain position.
+Cersei endures the Walk of Shame to return to the Red Keep	Cersei	Herself	60	45	Intelligent	She sacrifices pride to regain access to power and Qyburn’s protection.
+Cersei tortures Septa Unella and leaves her to Gregor	Cersei	Unella	40	10	Stupid	She indulges cruelty but offers no strategic gain and deepens her own moral decay.
+Cersei burns the Tyrells and Kevan along with the Faith in the Sept	Cersei	Tyrells and Lannister line	20	10	Stupid	She wipes out rivals but destroys vital allies and her own uncle.
+Cersei orders Pycelle murdered	Cersei	Pycelle	40	25	Bandit	She eliminates an advisor she dislikes, marginally tightening control at the cost of institutional stability.
+Cersei embraces her affair with Jaime publicly after seizing the throne	Cersei	Court and nobles	45	30	Bandit	She gets emotional honesty and Jaime’s open support while eroding remaining legitimacy.
+Cersei refuses to send Lannister troops north against the White Walkers	Cersei	Realm	30	15	Stupid	She hoards forces but risks extinction or retribution from whoever wins.
+Cersei orders the use of scorpions and the Golden Company to defeat Daenerys	Cersei	Daenerys’s forces	45	30	Bandit	She enhances her chances in conventional war, though misjudges dragons.
+Cersei invites Tyrion to parley at the gates of King’s Landing	Cersei	Tyrion	55	40	Intelligent	She gains intelligence and an opportunity to gauge enemy resolve without immediate cost.
+Cersei rejects Tyrion’s plea to surrender and orders Missandei executed	Cersei	Missandei and King’s Landing	15	5	Stupid	She gains a momentary spiteful triumph and triggers Daenerys’s rampage.
+Cersei orders civilians into the Red Keep as human shields	Cersei	Civilians of King’s Landing	35	5	Bandit	She tries to deter attack by risking her subjects’ lives, who are later massacred.
+Cersei contemplates killing Jaime when he defies her about honoring the truce	Cersei	Jaime	25	20	Stupid	She nearly destroys her only loyal general over wounded pride.
+Cersei hires the Golden Company with Iron Bank funds instead of rebuilding local support	Cersei	Seven Kingdoms	35	25	Bandit	She boosts her army but deepens debt and foreign dependence.
+Cersei drinks and emotionally neglects Tommen during critical times	Cersei	Tommen	20	25	Stupid	Her numbing undermines her ability to help him cope, contributing to his despair.
+Cersei blames Tyrion for all Lannister misfortunes after Tywin’s death	Cersei	Tyrion	30	20	Stupid	Her scapegoating prevents learning and further hardens an enemy already set on deposing her.
+Cersei ignores the wight’s threat after seeing it firsthand	Cersei	Herself and realm	30	15	Stupid	She underestimates existential danger in favor of short-term political calculus.
+Cersei has Myrcella sent to Dorne as part of Tyrion’s plan (she later resents this)	Cersei	Myrcella	45	60	Intelligent	Myrcella gains safety from KL turmoil and a politically useful match; Cersei partially accepts.
+Cersei torments Ellaria by killing Tyene with a kiss and leaving Ellaria to watch her die	Cersei	Ellaria and Tyene	30	10	Stupid	She exacts personal revenge that yields no strategic gain and cements Dornish hatred.
+Cersei orders Euron to capture and deliver Yara, the Sand Snakes, and Ellaria	Cersei	Ironborn and Dornish	45	25	Bandit	She removes enemies and gains hostages, but binds herself to an unstable ally.
+Cersei allies with Euron Greyjoy for naval power and future marriage	Cersei	Euron	50	30	Bandit	She secures one of the few remaining fleets at the cost of empowering a volatile partner.
+Cersei refuses to acknowledge any blame for the rebellion against her rule	Cersei	Herself	25	25	Helpless	Her denial comforts her ego but blocks course correction and reform.
+Cersei orders Tommen’s body burned and ashes scattered on the Sept ruins	Cersei	Tommen’s memory and mourners	20	20	Stupid	She erases a focal point for grief and further alienates Jaime.
+Cersei drinks during pregnancy despite knowing the risk	Cersei	Unborn child	5	5	Stupid	She indulges addiction while risking the only remaining heir and her own body.
+Cersei uses her pregnancy announcement to bind Jaime’s loyalty	Cersei	Jaime	60	35	Bandit	She regains his commitment and discourages his moral doubts at the cost of manipulating him.
+Cersei refuses to flee early during Daenerys’s sack, insisting the Red Keep “won’t fall”	Cersei	Herself and Qyburn	20	15	Stupid	Her denial delays escape and leads to her and Qyburn’s deaths.
+Cersei panics and attempts to flee through the tunnels as the Red Keep collapses	Cersei	Herself and Jaime	30	40	Helpless	Her flight instinct preserves emotional closure with Jaime but fails to save their lives.
+Cersei dies sobbing in Jaime’s arms as the Red Keep collapses	Cersei	Jaime	10	30	Helpless	She loses everything; Jaime gains only brief solace before his own death.

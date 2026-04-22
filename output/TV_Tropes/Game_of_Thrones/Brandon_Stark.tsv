@@ -1,0 +1,49 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Bran spends hours warging into Summer despite the warning	Bran	Bran	20	30	Stupid	He indulges in addictive magic that risks losing his humanity with no shown benefit beyond escapism.
+Jojen warns Bran about over-warging	Jojen	Bran	60	75	Intelligent	He tries to protect Bran from psychological harm with no downside to himself.
+Bran accidentally wargs Hodor in the past and lobotomizes him	Bran	Hodor	10	5	Stupid	Bran’s panicked time-warg shatters Hodor’s mind, bringing Bran no clear benefit and severely harming Hodor.
+Bran realizes what he did to Hodor and keeps watching	Bran	Bran	25	40	Helpless	The realization torments him emotionally while offering only grim understanding to others.
+Catelyn notes Bran always looks down when he lies	Catelyn	Bran	55	65	Intelligent	She identifies his tell, helping her judge his honesty and indirectly teaching him about his own behavior.
+Bran sends Rickon away with Osha and Shaggydog for safety	Bran	Rickon	70	80	Intelligent	Sending Rickon away is meant to protect him from a dangerous journey and seems prudent with information he has.
+Bran chooses to accept becoming the Three-Eyed Raven	Bran	Westeros	65	85	Intelligent	He sacrifices personal normality for vast power and knowledge aimed at defending humanity.
+Bran wishes he had died instead of living crippled	Bran	Bran	10	45	Helpless	The despair severely harms his own well-being without helping anyone.
+Tyrion designs Bran a special saddle so he can ride	Tyrion	Bran	60	80	Intelligent	Tyrion expends effort to restore some mobility and joy to Bran with no downside to himself.
+Bran follows the crow into the crypt and has a vision of Ned	Bran	Bran	60	65	Intelligent	He pursues prophetic dreams that give him true foresight with no shown harm.
+Bran fails to know Jon is legitimate until Sam tells him	Bran	Allies	45	55	Intelligent	Although a “spot check” failure, he still gains and shares crucial legitimacy info that modestly helps their cause.
+Three-Eyed Raven uploads all his memories into Bran despite saying Bran isn’t ready	Three-Eyed Raven	Bran	40	55	Intelligent	He overloads Bran for the greater need to preserve vital knowledge against the Night King.
+Bran climbs castle walls and discovers Jaime and Cersei	Bran	Bran	20	50	Helpless	The climbing desire leads to discovering a secret that gets him crippled, with no clear gain to himself but major later consequences.
+Jaime pushes Bran out of the window	Jaime	Bran	40	10	Bandit	Jaime protects his and Cersei’s secret at the catastrophic expense of Bran’s body and future.
+Bran surrenders Winterfell to Theon to avoid bloodshed	Bran	People in Winterfell	35	30	Stupid	His attempt at a peaceful resolution backfires, enabling Theon’s brutal occupation and deaths with little benefit.
+Bran journeys to become the Three-Eyed Raven despite suffering	Bran	Humanity	60	85	Intelligent	He endures personal loss and pain to gain powers meant to stop existential threats to mankind.
+Bran is responsible for killing wildlings and Locke via warging	Bran	Enemies	60	40	Bandit	He preserves himself and his group by killing foes while harming those individuals directly.
+Three-Eyed Raven transfers his power and knowledge into Bran, changing his personality	Three-Eyed Raven	Bran	55	80	Intelligent	The transfer saves irreplaceable knowledge and creates a new protector at the cost of Bran’s old self.
+Bran wargs Summer to attack wildlings in “The Rains of Castamere”	Bran	Wildlings	65	40	Bandit	He saves his group and himself by killing/maiming attackers, harming the wildlings.
+Bran wargs Hodor to kill Locke	Bran	Locke	55	30	Bandit	He gains immediate life-saving protection at the cost of Locke’s life and Hodor’s autonomy.
+Hodor reacts in horror after realizing Bran used his body to kill	Hodor	Bran	40	40	Helpless	Hodor’s distress harms his own peace of mind and strains trust with Bran without clear benefit to anyone.
+Bran’s combined time-warg on Hodor causes Hodor’s brain damage	Bran	Hodor	10	5	Stupid	The confusion of time-warging destroys Hodor’s higher functions without giving Bran offsetting gains.
+Bran’s actions reveal the Raven’s location to the Night King	Bran	Three-Eyed Raven’s group	15	10	Stupid	His mistake directly leads the enemy to their hideout, causing multiple deaths for no benefit.
+Bran’s actions indirectly cause deaths of the Raven, Summer, Children of the Forest, and Hodor	Bran	Allies	15	5	Stupid	His choices trigger a chain of fatal outcomes for key allies without improving his own position.
+Bran orders Rickon and Osha to seek refuge with the Umbers	Bran	Rickon and Osha	20	10	Stupid	The order leads to their betrayal and deaths, nullifying the protective intent with disastrous consequences.
+Bran feels “My God, what have I done?” about Hodor	Bran	Bran	25	45	Helpless	The guilt damages him emotionally while only adding clarity about past harm.
+Bran chooses to prioritize the Long Night over exposing Littlefinger immediately	Bran	North/Allies	70	70	Intelligent	Focusing on the existential threat while his sisters handle Littlefinger balances risks and resources well.
+Bran reunites with Sansa and describes her wedding night “lovely” despite her trauma	Bran	Sansa	40	20	Stupid	His detached remark gives him nothing and inflicts needless pain on Sansa.
+Bran fails to recognize Meera’s pain and sacrifice when she leaves	Bran	Meera	45	25	Stupid	His cold dismissal hurts a loyal ally without bringing him gain.
+Bran forms a power trio with Sansa and Arya to expose Littlefinger	Bran	Littlefinger	75	80	Intelligent	Using his knowledge with Arya and Sansa’s skills removes a dangerous manipulator and stabilizes Northern politics.
+Bran trolls Littlefinger with “Chaos is a ladder”	Bran	Littlefinger	65	60	Intelligent	He unnerves a dangerous schemer, signaling omniscience and hastening Littlefinger’s downfall with minimal cost.
+Bran no-sells Littlefinger’s manipulations	Bran	Littlefinger	70	70	Intelligent	He remains immune to flattery and deceit, preserving his own and his house’s position.
+Bran reveals Littlefinger’s role in starting the conflict	Bran	Council at Winterfell	70	80	Intelligent	His testimony enables a just execution and removes a destabilizing force.
+Arya executes Littlefinger after Bran’s revelations	Arya (enabled by Bran)	Littlefinger	60	65	Intelligent	The act eliminates a chronic traitor and likely prevents further bloodshed at limited risk to Arya.
+Bran keeps Jon’s true parentage and claim secret for a time	Bran	Jon/Realm	55	55	Intelligent	Withholding the explosive truth buys time and avoids premature political chaos.
+Bran later shares Jon’s true parentage (with Sam)	Bran	Jon/Allies	60	60	Intelligent	Revealing the truth clarifies legitimacy and alliances, albeit with mixed political fallout.
+Bran uses his visions to confirm Sam’s discovery that Jon is legitimate	Bran	Jon/Allies	70	80	Intelligent	He validates crucial legal information that strengthens Jon’s rightful claim.
+Bran stares down Theon calmly when Theon has taken Winterfell	Bran	Theon	55	60	Intelligent	His composure unsettles Theon and asserts moral authority without material cost.
+Bran abdicates effective lordship of Winterfell to fulfill Three-Eyed Raven role	Bran	Sansa/People of Winterfell	55	75	Intelligent	He relinquishes personal power to someone more suited to rule while he focuses on a larger existential duty.
+Bran chooses not to use his powers to micromanage Cersei’s plans	Bran	Allies	55	60	Intelligent	He avoids overreach and paradoxes, trusting allies to handle conventional politics while he addresses the mystical threat.
+Bran accepts being voted King Bran the Broken despite not wanting power	Bran	Realm	75	80	Intelligent	He assumes a stabilizing, beneficial role for Westeros at some personal cost to his autonomy.
+Bran claims his responsibility as Three-Eyed Raven overrules any claim to Winterfell	Bran	Himself/House Stark	60	75	Intelligent	He sacrifices a lesser title to honor a greater, more impactful duty.
+Bran waits all day in the courtyard to be the first person Jaime sees	Bran	Jaime	60	65	Intelligent	He stages a psychologically powerful confrontation that reinforces accountability and likely deters further wrongdoing.
+Bran repeats “the things we do for love” to Jaime at his trial	Bran	Jaime/Council	65	75	Intelligent	He forces Jaime to confront past sins and ensures the council has full context without derailing the alliance.
+Bran uses his advanced knowledge to act as “the Smart Guy” for the Starks	Bran	Stark family	70	80	Intelligent	His information and insight repeatedly guide better decisions for his house and allies.
+Bran effectively abdicates Winterfell’s rule so Sansa can govern	Bran	Sansa/People of the North	60	80	Intelligent	He backs the more politically adept sibling, leading to more stable regional governance.
+Bran commands respect as a young acting Lord of Winterfell	Bran	Winterfell inhabitants	65	75	Intelligent	He governs competently despite age and disability, benefitting himself and his people.
+Bran accepts the title “Bran the Broken”	Bran	Realm	55	65	Intelligent	Accepting a humbling but unifying title reinforces his legitimacy and thematic acceptance of his past.

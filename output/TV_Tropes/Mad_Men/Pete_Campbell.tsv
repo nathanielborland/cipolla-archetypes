@@ -1,0 +1,39 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Pete has his secretary write a fake 6 a.m. Coca-Cola meeting to trick Roger	Pete	Roger	82	18	Bandit	Clever ploy boosts his accounts and status while wasting Roger’s time and undermining him.
+Roger reads Pete’s secretary’s calendar to poach accounts	Roger	Pete	77	10	Bandit	Roger gains business at Pete’s direct professional expense.
+Pete repeatedly cheats on Trudy	Pete	Trudy	40	15	Bandit	He gets short-term pleasure but damages his marriage and hurts her.
+Pete forces himself on the German au pair	Pete	German au pair	10	0	Stupid	He harms her and later suffers repercussions with little lasting benefit.
+Pete tries to impress GM executives in Detroit without learning to drive properly	Pete	GM executives	25	40	Helpless	His poor driving preparation hurts his own prospects more than anyone else.
+Pete is largely absent from Tammy’s early life	Pete	Tammy	20	15	Stupid	His neglect harms his relationship with his daughter without offering clear benefits.
+Pete later becomes a loving, doting father to Tammy	Pete	Tammy	80	88	Intelligent	Improved involvement benefits him emotionally and greatly benefits Tammy.
+Pete and Trudy divorce	Pete and Trudy	Each other	30	35	Helpless	Separating harms both more than it helps, given they later reconcile.
+Pete and Trudy reconcile and dissolve their divorce	Pete and Trudy	Each other	88	90	Intelligent	Reconciliation restores mutual support and family stability.
+Pete marries into money without realizing his family’s decline	Pete	Trudy’s family	55	60	Intelligent	He gains stability and connection while they gain a socially suitable match, despite later tensions.
+Pete resents and resists financial help from his father-in-law	Pete	Father-in-law	35	55	Helpless	His pride blocks useful support while the in-laws remain relatively unaffected.
+Pete asks Trudy to seduce an ex-boyfriend to get his story published	Pete	Trudy	28	20	Bandit	He seeks personal advancement at moral and emotional risk to both, with limited payoff.
+Trudy refuses to actually commit adultery for Pete’s scheme	Trudy	Pete	65	70	Intelligent	She protects her integrity and still secures him a lesser publication.
+Pete cheats with Peggy	Pete	Peggy	45	25	Bandit	He gains gratification and ego boost but harms her and his marriage.
+Pete cheats with Beth	Pete	Beth	45	25	Bandit	Affair gratifies him but damages her situation and his own emotional stability.
+Pete punches the headmaster over Tammy’s rejection and the clan grudge	Pete	Headmaster	35	10	Stupid	Violence jeopardizes his reputation while only venting anger and slightly intimidating the headmaster.
+Pete confronts Roger over Japanophobia and supports the Honda executives	Pete	Roger	65	70	Intelligent	Calling out prejudice helps his professional standing with Honda and pushes the firm toward fairness.
+Pete verbally eviscerates Roger over his prejudice on the Honda account	Pete	Roger	68	62	Intelligent	He gains authority and strengthens the account while pressuring Roger to moderate his bias.
+Pete covers for Don during the security probe about Don’s identity	Pete	Don	72	80	Intelligent	He earns Don’s trust and protects the agency while shielding Don from exposure.
+Pete starts demanding more respect from the partners in Season 5	Pete	Agency partners	63	45	Bandit	Self-assertion improves his status but increases tension with others.
+Pete retaliates when Roger poaches his clients	Pete	Roger	70	40	Bandit	Protecting his book of business helps him while undercutting Roger’s advantage.
+Pete is a strong internal supporter of the Civil Rights Movement	Pete	Black consumers and colleagues	75	85	Intelligent	His stance aligns him with social change and benefits marginalized groups.
+Pete lashes out at Harry for seeing MLK’s death mainly as a ratings issue	Pete	Harry	60	65	Intelligent	His anger risks friction but morally pressures Harry to reconsider a callous attitude.
+Pete calls out Roger’s Japanophobia toward Honda executives	Pete	Roger	66	72	Intelligent	He improves his rapport with Honda and challenges harmful bigotry.
+Pete has Joan prostitute herself for the Jaguar deal	Pete	Joan	20	5	Bandit	He secures a lucrative account at huge moral and personal cost to Joan.
+Pete acts disgusted when it appears Trudy dated during their separation	Pete	Trudy	30	20	Stupid	His hypocrisy strains relations and offers him no real gain.
+Pete confesses love to Peggy and says he should have been with her	Pete	Peggy	35	25	Helpless	Unreciprocated confession embarrasses him and emotionally burdens her.
+Peggy reveals she had his child and chose not to guilt him	Peggy	Pete	55	40	Helpless	Her restraint spared him but confessing now hurts them both more than it helps.
+Pete confesses love to Trudy in Season 7B and proposes a new life together	Pete	Trudy	90	92	Intelligent	His sincere admission rekindles their marriage and secures a happier future.
+Pete supports Peggy’s career and predicts she will be Creative Director by 1980	Pete	Peggy	70	88	Intelligent	Encouragement boosts her confidence and reflects well on his judgment and growth.
+Pete helps fix the au pair’s stained dress and returns it	Pete	German au pair	55	60	Intelligent	He invests time to assist her and gains some goodwill, despite ulterior motives.
+Pete visits Tammy during the divorce process	Pete	Tammy	58	65	Intelligent	His effort to see her aids their bond and offers him emotional connection.
+Pete becomes more protective and loving with Trudy in Season 7B	Pete	Trudy	85	88	Intelligent	His changed behavior strengthens their relationship and mutual well-being.
+Pete becomes more supportive of Peggy and Joan in Season 7B	Pete	Peggy and Joan	80	85	Intelligent	Professional and emotional support helps them and reflects his personal growth.
+Pete relaxes and lets go of his competition with Don	Pete	Don	82	75	Intelligent	Releasing rivalry improves his mental state and turns him into a valuable ally for Don.
+Pete pursues “red-blooded American male” ideals by copying Don	Pete	Pete	30	35	Helpless	Chasing a hollow model leaves him miserable with little real benefit.
+Pete makes women he cheats with also cheat on their partners	Pete	Women’s partners	45	10	Bandit	His affairs benefit him at the emotional expense of others’ relationships.
+Pete seeks Don’s approval but does not accept Don’s good advice	Pete	Don	30	55	Helpless	His refusal to learn keeps him stuck while Don’s position remains largely unchanged.

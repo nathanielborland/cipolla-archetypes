@@ -1,0 +1,23 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He stabs the cave troll in the back of the neck, allowing Legolas to finish it	Pippin	Cave Troll / Fellowship	75	85	Intelligent	Helps kill a major foe at some personal risk, clearly protecting his allies.
+He offers his services to Denethor as repayment for Boromir's sacrifice	Pippin	Denethor / Gondor	70	80	Intelligent	Gains purpose and status while sincerely aiding Gondor in Boromir’s name.
+He tells Treebeard to take him back towards Isengard with a pithy pretext	Pippin	Treebeard	85	95	Intelligent	Manipulates route choice to expose Saruman’s crimes, triggering Ent attack that greatly helps the war.
+He bites off his brooch to leave it as a sign for Aragorn	Pippin	Aragorn / Fellowship	80	90	Intelligent	Takes small personal loss to create a trail that substantially aids their rescuers.
+He cuts his ropes on a discarded pike when the Uruk-hai stop	Pippin	Himself	85	75	Intelligent	Frees himself, enabling later actions that benefit both him and others.
+He frees Merry after cutting his own ropes	Pippin	Merry	80	90	Intelligent	Uses his new freedom to free his companion, improving both their survival odds.
+He provides “insane troll logic” to get Treebeard to see Saruman’s destruction of Fangorn	Pippin	Treebeard / Ents	85	95	Intelligent	Uses crafty reasoning to steer Treebeard into witnessing devastation, catalyzing Ent war effort.
+He tries grabbing an arrow from a dwarf’s armored corpse, knocking it into the well	Pippin	Fellowship	20	5	Stupid	Minor curiosity leads to massive danger for all with no benefit, triggering the Moria assault.
+He looks into the Palantír out of curiosity	Pippin	Himself / Fellowship	10	15	Stupid	Severely harms his own mind and compromises the group’s safety with no corresponding gain.
+He messes with the corpse in Balin’s tomb, alerting the goblins	Pippin	Fellowship	20	5	Stupid	Reckless interference directly brings goblins and cave troll down on the Company.
+He fights fiercely in the battle in Moria after the alarm	Pippin	Enemies threatening Fellowship	75	80	Intelligent	Once battle starts, he fights hard, improving survival for himself and others.
+He escapes capture by the Uruk-hai	Pippin	Uruk-hai / Himself	80	75	_intelligent_	Breaking away from captors aids his survival and weakens enemy control.
+He helps convince Treebeard to destroy Orthanc	Pippin	Saruman’s forces / Allies	90	95	Intelligent	Strategic persuasion leads to destruction of Orthanc and crippling of Saruman’s war machine.
+He draws his sword and saves Gandalf’s life at the Siege of Gondor despite fear	Pippin	Gandalf	85	90	Intelligent	Overcoming terror to defend Gandalf protects both his own side and a key leader.
+He bites off their cloak brooch as a rescue marker (Damsel out of Distress)	Pippin	Aragorn / Pursuers	80	90	Intelligent	Deliberately leaves a trackable sign, boosting chances of being found with little personal cost.
+He interferes with Denethor’s murder/suicide attempt to save Faramir	Pippin	Faramir	70	90	Intelligent	Risks his own safety to prevent Faramir’s death, strongly benefiting Gondor’s side.
+He befriends Faramir easily once in Gondor	Pippin	Faramir	75	80	Intelligent	Forms a useful alliance and emotional bond that helps both of them in a crisis.
+He helps the Ents take Isengard by lethal stone-throwing from afar	Pippin	Orcs at Isengard	85	90	Intelligent	Uses ranged skill to kill enemies efficiently, aiding the assault and his allies’ safety.
+He attempts to charge the Fell Beast when Gandalf is nearly killed	Pippin	Witch-king’s mount / Threat	60	65	Intelligent	Brave but risky attack slightly aids Gandalf by distracting the threat at personal danger.
+He follows Aragorn first when he charges the army of Mordor (with Merry)	Pippin	Aragorn / Mordor’s army	70	80	Intelligent	Supports a crucial charge, boosting morale and combat strength while sharing in victory chances.
+He uses humor as plucky comic relief to keep himself and friends going	Pippin	Fellowship	75	80	Intelligent	Maintains morale under stress, psychologically benefiting group and himself.
+He steals Gandalf’s best firework with Merry and lights it inside a tent	Pippin	Tent occupants / Partygoers	40	20	Stupid	Reckless prank risks injury and property for a brief thrill with no lasting gain.

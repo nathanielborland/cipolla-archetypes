@@ -1,0 +1,17 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Rio spends much of his time playing video games instead of pursuing athletics	Rio	Rio	60	55	Intelligent	He chooses an activity he enjoys and likely builds skills, with no shown harm to others.
+Raquel sneaks a videotape of Rio’s parents to him	Raquel	Rio	70	80	Intelligent	She risks some exposure but greatly comforts Rio, with no indicated harm to others.
+Rio forms a close partnership ("Bash Brothers") with Denver	Rio	Denver	80	80	Intelligent	The partnership provides mutual emotional and operational support during heists.
+Denver forms a close partnership ("Bash Brothers") with Rio	Denver	Rio	80	80	Intelligent	Denver likewise gains camaraderie and backup, benefiting both.
+Alicia Sierra brutally tortures Rio	Alicia Sierra	Rio	65	5	Bandit	She advances her investigative aims and career while inflicting extreme harm on Rio.
+Rio uses satellite-based phones to contact Tokyo from hiding	Rio	Tokyo	5	10	Stupid	His call leads directly to his capture, severely harming himself and enabling law enforcement with no real gain.
+Tokyo uses satellite-based phones to communicate with Rio from Panama	Tokyo	Rio	20	15	Stupid	She briefly gains contact but exposes Rio (and indirectly the crew) to detection for minimal benefit.
+Interpol detects the satellite-phone communication and captures Rio	Interpol	Rio	85	20	Bandit	They achieve a major operational success capturing a wanted hacker while causing him great harm and enabling future conflict.
+Rio’s capture motivates his friends to mount a rescue in season 3	Rio	Heist crew	30	30	Helpless	His earlier mistake forces the crew into a dangerous rescue; they care about him but incur serious risk.
+Rio contributes mainly hacking expertise during the Mint heist despite inexperience	Rio	Heist crew	75	80	Intelligent	He leverages his technical skills effectively, benefiting both himself (role, share) and the team.
+Rio becomes ineffectual at the Bank of Spain due to torture trauma	Rio	Heist crew	20	25	Helpless	His trauma severely limits his effectiveness, mainly harming himself and reducing his usefulness to the team.
+Rio shows strong empathy toward hostages	Rio	Hostages	60	65	Intelligent	His empathy improves hostage treatment and morale while not clearly undermining his own position at that time.
+Rio’s empathetic behavior leads to police learning that he and Tokyo are in the heist	Rio	Heist crew	25	15	Stupid	His exposure of their identities creates danger for the crew and himself with no real compensating benefit.
+Rio hacks a Geneva mansion’s system for a security company	Rio	Mansion owner / system	40	10	Bandit	He gains income or reputation as a hacker but harms the target’s security and lands on Interpol’s list.
+Security company hires Rio to hack a Geneva mansion’s system	Security company	Mansion owner / system	65	15	Bandit	The company benefits from demonstrating or probing security while exposing the client to risk and breach.
+Rio’s capture makes the second heist possible	Rio	Heist crew	35	45	Helpless	His earlier mistake forces a risky second heist that offers potential gains but stems from his own major loss and endangers everyone.

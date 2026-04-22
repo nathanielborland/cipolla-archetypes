@@ -1,0 +1,26 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Suzanne takes a little boy back to her house to make friends	Suzanne	Little boy	30	10	Stupid	Her socially unaware attempt at friendship becomes de facto kidnapping, risking prison for herself and danger for the child.
+Suzanne prevents the boy from leaving when he is scared	Suzanne	Little boy	10	0	Stupid	Her refusal to let him go directly leads to his fatal fall and her imprisonment, harming both.
+Boy runs onto the fire escape and falls to his death	Little boy	Little boy’s own life	0	0	Stupid	His desperate escape attempt unintentionally kills him with no benefit to anyone.
+Vee treats Suzanne with kindness and respect to gain influence	Vee	Suzanne	80	10	Bandit	Vee gains loyalty and a powerful enforcer while ultimately exploiting and endangering Suzanne.
+Suzanne habitually makes the “two eyes” gesture to show control to guards	Suzanne	Guards	70	60	Intelligent	The signal helps keep her out of psych ward while reassuring guards she’s managing herself.
+Suzanne hits herself in the head when agitated	Suzanne	Suzanne	5	50	Helpless	She self‑harms as a coping response without affecting others.
+Suzanne urinates on Piper’s bunk floor after being turned down	Suzanne	Piper	40	5	Bandit	She vents hurt/anger in a way that mildly relieves her but humiliates Piper and fouls Piper’s space.
+Suzanne changes her hairstyle to braids under Vee’s influence	Suzanne	Suzanne	55	50	Intelligent	The change aligns her with Vee’s group and identity with no clear cost or benefit to others.
+Suzanne’s adoptive mother defends her attending a much-younger kids’ party	Adoptive mother	Other mother	65	40	Intelligent	She stands up for Suzanne’s inclusion, though misreading the real concern and mildly unsettling others.
+Suzanne’s parents pressure her to “do great” and deny her special needs	Adoptive parents	Suzanne	30	25	Stupid	Their overbearing expectations and denial fuel resentment and leave her needs unmet, helping no one.
+Suzanne’s parents delegate her care to the younger sister in adulthood	Adoptive parents	Younger sister & Suzanne	20	20	Stupid	Offloading responsibility strains both daughters and fails to provide the supervision Suzanne needs.
+Suzanne becomes Vee’s “muscle” and accepts that role	Suzanne	Vee’s rivals/victims	40	10	Bandit	She gains status and belonging as an enforcer while being used to harm others.
+Suzanne reads Shakespeare, writes poetry, and practices ballet	Suzanne	Suzanne & audience	75	60	Intelligent	Her creative and intellectual pursuits enrich her and positively engage others.
+Suzanne explains to Piper how horrible the psych ward is	Suzanne	Piper	55	70	Intelligent	She gains some catharsis while giving Piper a clearer understanding of prison mental‑health conditions.
+Suzanne violently attacks a neighbor in a past “traumatic” incident	Suzanne	Neighbor	20	5	Bandit	She vents uncontrolled rage, harming the neighbor and worsening her instability and legal risks.
+Suzanne beats Poussey badly in defense of Vee	Suzanne	Poussey	25	5	Bandit	She earns approval from Vee but severely injures Poussey and deepens her own culpability.
+Suzanne beats Kukudio to a pulp when provoked in high stress	Suzanne	Kukudio	15	5	Bandit	Her outburst harms Kukudio and likely worsens her status and guilt while providing only momentary relief.
+Suzanne stalks Piper with an obsessive crush	Suzanne	Piper	30	20	Stupid	Her fixation brings her little real connection while frightening Piper and damaging trust.
+Suzanne suddenly shouts that Piper is her wife when Piper uses her to deflect attention	Suzanne	Other inmates & Piper	45	25	Bandit	She gains a public “claim” on Piper but embarrasses and stresses Piper, complicating social dynamics.
+Suzanne becomes Vee’s enforcer, beating and humiliating Vee’s targets	Suzanne	Vee’s targets	30	5	Bandit	She obtains validation and a role yet gravely harms others and deepens her own legal and social jeopardy.
+Vee uses Suzanne as a pawn and discards her when necessary	Vee	Suzanne	85	5	Bandit	Vee maximizes her own power by exploiting Suzanne’s loyalty and vulnerability, leaving Suzanne endangered.
+Suzanne starts writing an erotic sci‑fi saga in prison	Suzanne	Readers	70	75	Intelligent	She gains creative outlet and status while entertaining others and building a shared fandom.
+Suzanne obsesses over Piper and acts cruelly when spurned	Suzanne	Piper	20	10	Stupid	Her rejection‑driven cruelty hurts Piper and isolates Suzanne further without real gain.
+Suzanne eventually gets over her obsessive crush on Piper	Suzanne	Suzanne & Piper	80	70	Intelligent	Letting go improves her emotional stability and reduces pressure and discomfort for Piper.
+Suzanne breaks free of Vee’s influence after Vee’s death and tries to do right	Suzanne	Other inmates	85	80	Intelligent	She seeks healthier behavior, helping her own growth and making her safer and kinder to others.

@@ -1,0 +1,14 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Tries to give Hamsterdam a shot	Mayor Royce	City/public	55	70	Intelligent	He experiments with a policy that meaningfully lowers crime, modestly helping his image while clearly helping the city.
+Backpedals on Hamsterdam to avoid being crushed in the election	Mayor Royce	City/public	75	20	Bandit	He reverses the experiment to protect his electoral chances at significant cost to the broader public benefit.
+Runs a dirty primary campaign using the dirtiest tactics	Mayor Royce	Carcetti & Tony Gray	80	10	Bandit	His unethical tactics are aimed at improving his odds in the race while harming rivals and polluting the political process.
+Issues a badass boast about crushing Carcetti	Mayor Royce	Carcetti	60	40	Intelligent	The boast bolsters his own and supporters’ morale without concrete harm to others beyond rhetoric.
+Prints racially coded posters using African colors to appeal to solidarity	Mayor Royce/Campaign staff	Black voters & Carcetti	65	35	Bandit	He exploits racial sentiment to gain votes, slightly manipulating the electorate and further polarizing politics.
+Invites Carcetti to his office after losing and chats amicably	Mayor Royce	Carcetti	55	75	Intelligent	He gains dignity and future goodwill while easing the transition and tensions for his former opponent.
+Makes Carcetti try the mayoral chair as a gesture	Mayor Royce	Carcetti	55	80	Intelligent	The act offers symbolic support and respect to the victor, improving Royce’s legacy and Carcetti’s confidence.
+Engages in sexual activity with his secretary during work	Mayor Royce	Himself/Secretary	40	10	Stupid	The indulgence risks scandal and career damage for trivial personal gratification and undermines professional integrity.
+Buys Herc’s silence with a promotion to Sergeant	Mayor Royce	Herc/Police department	70	15	Bandit	He protects himself from exposure while distorting promotions and harming institutional meritocracy.
+Organizes poker games where rich big shots lose deliberately to fill his pockets	Mayor Royce	Wealthy players	85	5	Bandit	He significantly enriches himself through coerced “losses” while the others lose money and resent the setup.
+Allows the Hamsterdam experiment to continue despite advisor warnings	Mayor Royce	City/public	35	80	Helpless	He endures major political damage and eventual electoral loss while the city benefits from reduced crime.
+Tries to find a way to use Hamsterdam’s benefits without admitting it is drug legalization	Mayor Royce	City/public	60	65	Intelligent	He seeks a framing that preserves public gains while mitigating legal/PR risks to himself and the city.
+Quickly shuts Hamsterdam down after it becomes a TV-exposed PR disaster	Mayor Royce	Drug users/neighborhoods	70	20	Bandit	He salvages his image by ending the policy, sacrificing the crime-reduction gains and stability it brought to affected communities.

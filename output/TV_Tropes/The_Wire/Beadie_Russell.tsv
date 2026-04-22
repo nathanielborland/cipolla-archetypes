@@ -1,0 +1,13 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Participates in raids	Action Mom (Beadie)	Suspects / criminal targets	75	80	Intelligent	Actively joining raids advances her police career and helps bring criminals to justice.
+Follows Vondas	Action Mom (Beadie)	Vondas / criminal organization	80	85	Intelligent	Surveilling Vondas yields key case information and disrupts organized crime.
+Uses her union relationships to get key information	Beadie Russell	Police investigation / Major Crimes Unit	75	90	Intelligent	Leveraging trust with union members aids the case and benefits public safety with little downside to her.
+Stops working with Major Crimes after they return to West Baltimore	Beadie Russell	Major Crimes Unit	55	60	Intelligent	Losing case involvement slightly limits her role but lets the specialized unit refocus on drug cases.
+McNulty begins to pursue Beadie at end of Season 3	McNulty	Beadie Russell	65	55	Intelligent	Pursuing a relationship offers emotional benefits to him and some potential benefit to her, with no implied harm yet.
+Beadie gets together with McNulty after he stops drinking	Beadie Russell	McNulty	70	70	Intelligent	Forming a relationship when he is stable benefits both emotionally and provides mutual support.
+Beadie’s relationship with McNulty becomes strained when he falls off the wagon	Beadie Russell	Herself and McNulty	30	30	Stupid	Remaining in a now-dysfunctional relationship harms her well-being and offers little benefit to him.
+Beadie and McNulty (heavily implied) patch things up in the finale	Beadie Russell	McNulty	60	65	Intelligent	Reconciliation appears to restore mutual emotional support and stability for both.
+Initially treats port cop job as easy, low-effort gig	Beadie Russell	Herself / public she serves	55	40	Bandit	She enjoys decent pay for minimal work, but the public gets less diligent policing.
+Later proves good at police work when major crime starts at the port	Beadie Russell	Public / victims / police department	80	85	Intelligent	Taking police work seriously improves her career and better protects the community.
+Does not take her job very seriously when first introduced	Beadie Russell	Public / police mission	60	35	Bandit	She conserves her own effort and comfort at the cost of reduced service to the public.
+Develops into “real police” by end of the season	Beadie Russell	Public / police mission	85	90	Intelligent	Improved professionalism and competence advance her career and substantially aid law enforcement outcomes.

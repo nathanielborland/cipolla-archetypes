@@ -1,0 +1,31 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Scott and Paula attend marriage counseling	Scott and Paula	Each other	70	70	Intelligent	Counseling improves their relationship and benefits both partners.
+Paula and Scott bond over throwing a rock through Rebecca's window	Paula and Scott	Rebecca	55	10	Bandit	They briefly strengthen their marriage while causing property damage to Rebecca.
+Scott confesses to having had sex with Tanya	Scott	Paula	40	20	Helpless	His honesty offers little clear gain to himself while deeply hurting Paula.
+Paula immediately boots Scott out of the house after his confession	Paula	Scott	30	25	Stupid	Her reaction protects her boundary but causes major mutual harm before reconciliation.
+Paula and Scott return to marriage counseling after the affair	Paula and Scott	Each other	75	75	Intelligent	They again use counseling to repair the marriage, helping both.
+Rebecca mistakes Paula for her new secretary	Rebecca	Paula	55	40	Bandit	Rebecca gets administrative help while demeaning Paula’s role and status.
+Paula points out she’s head paralegal, not a secretary	Paula	Rebecca	65	55	Intelligent	She asserts her position, slightly improving her standing and correcting Rebecca’s misconception.
+Scott fesses up to having an impulsive one-night stand with a coworker	Scott	Paula	35	20	Helpless	He gains no advantage and damages the relationship by revealing the infidelity.
+Paula throws Scott out without a second thought over infidelity	Paula	Scott	30	25	Stupid	The swift expulsion inflicts heavy emotional cost on both with little constructive payoff.
+Paula later lets Scott start trying to win her trust back	Paula	Scott	65	65	Intelligent	Allowing him to rebuild trust benefits their marriage and emotional stability.
+Paula becomes draconian about the hoops Scott must jump through	Paula	Scott	45	30	Bandit	She regains control and security while imposing burdensome conditions on Scott.
+Paula starts law school in season 3	Paula	Herself	85	70	Intelligent	Pursuing her dream advances her career and later allows her to help needy clients.
+Paula catalyzes a new pro bono arm at her firm	Paula	Clients needing representation	75	90	Intelligent	She gains meaningful work and reputation while providing major benefit to disadvantaged clients.
+Paula becomes relentlessly driven about Rebecca’s love life	Paula	Rebecca	45	25	Bandit	Her obsession gives her escapist satisfaction while worsening Rebecca’s instability.
+Paula devotes herself to becoming a lawyer and neglects people around her	Paula	Family and friends	65	30	Bandit	Career progress helps her but harms her relationships through neglect.
+Paula tries to power through an 18‑hour heart attack to keep studying	Paula	Herself	5	30	Stupid	She nearly kills herself and also risks traumatizing those around her.
+Paula runs the office when Rebecca and Darryl leave	Paula	Office staff	70	70	Intelligent	She gains authority and the office runs under her leadership, improving respect dynamics long-term.
+Paula threatens Tim with deportation after learning he is illegal	Paula	Tim	40	10	Bandit	She asserts power and vents resentment while severely endangering Tim.
+Paula backs down from deportation threat thinking about Tim’s family	Paula	Tim and his family	60	80	Intelligent	She sacrifices momentary revenge to spare serious harm to Tim’s family and improve office civility.
+Paula often ignores her family beyond basic needs to focus on hobbies	Paula	Her family	40	20	Bandit	She gains escapism while damaging emotional bonds with her husband and children.
+Paula supports Rebecca’s impulsive behavior with questionable advice	Paula	Rebecca	45	20	Bandit	She fulfills her vicarious fantasies while exacerbating Rebecca’s problems.
+Paula becomes toned down as a toxic influence in later seasons	Paula	Rebecca	70	75	Intelligent	By moderating her behavior she improves her own stability and becomes a healthier support for Rebecca.
+Paula serves as a secret chaser toward Rebecca in the first episode	Paula	Rebecca	50	35	Bandit	Her snooping gratifies her curiosity and agenda while invading Rebecca’s privacy.
+Paula instantly becomes Rebecca’s loyal ally after Rebecca admits her intentions	Paula	Rebecca	80	80	Intelligent	The alliance gives Paula purpose and provides Rebecca with a devoted confidant.
+Paula acts highly suspicious of Rebecca and snoops in her personal life	Paula	Rebecca	55	25	Bandit	She gains information and control while significantly violating Rebecca’s boundaries.
+Paula becomes Rebecca’s closest friend and confidant by episode’s end	Paula	Rebecca	85	85	Intelligent	Both gain deep emotional support and trust from the friendship.
+Paula will do anything for Rebecca even when Rebecca doesn’t want it	Paula	Rebecca	45	25	Bandit	Her overreach feeds her own obsession while undermining Rebecca’s autonomy and well-being.
+Paula aggressively pushes Rebecca to go to greater extremes for Josh	Paula	Rebecca	40	15	Bandit	She intensifies her vicarious thrill at the cost of worsening Rebecca’s fixation and risk.
+Paula realizes she’s living out a proxy romance and changes course	Paula	Herself and Rebecca	80	85	Intelligent	Self-awareness helps her correct course, benefiting both her own life and Rebecca’s recovery.
+Paula talks Rebecca down from jumping off a cliff after being abandoned at the altar	Paula	Rebecca	75	95	Intelligent	She preserves Rebecca’s life and gains emotional fulfillment from protecting her friend.

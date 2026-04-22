@@ -1,0 +1,40 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Resists the temptations of the One Ring	Aragorn	Sauron/evil influence	90	95	Intelligent	Protects his soul and agency while greatly aiding others by not falling to corruption.
+Uses Andúril, a powerful reforged heirloom, in battle	Aragorn	Enemies in battle	85	80	Intelligent	Gains combat advantage and helps allies by wielding a superior weapon against foes.
+Uses a Palantír and wrenches it out of Sauron's control	Aragorn	Sauron	88	90	Intelligent	Risks himself but gains crucial informational and psychological advantage for his side.
+Chooses not to use the One Ring despite understanding it	Aragorn	Sauron/evil influence	92	95	Intelligent	Maximizes his integrity and security while keeping others safer from misuse of the Ring.
+Fights back-to-back with Gimli at Helm's Deep	Aragorn	Uruk-hai	80	85	Intelligent	Improves his survival odds and contributes heavily to the defense.
+Engages multiple Nazgûl alone and drives them off	Aragorn	Nazgûl	70	88	Intelligent	Takes personal risk but successfully protects companions from deadly enemies.
+Leads a Batman Gambit to attack the Black Gate as a distraction	Aragorn	Sauron	82	96	Intelligent	Risks his life but strategically distracts Sauron to aid Frodo and all free peoples.
+Personally challenges and goads Sauron through the Palantír	Aragorn	Sauron	78	90	Intelligent	Draws Sauron’s attention onto himself, endangering himself but greatly helping the overall plan.
+Shouts battle cries while charging into combat	Aragorn	Enemies/Allies’ morale	65	70	Intelligent	Boosts his own fighting spirit and allies’ morale with no real downside.
+Helps the Hobbits with swordwork training	Aragorn	Hobbits	60	82	Intelligent	Invests time/effort with modest gain to himself while strongly improving their skills and survival chances.
+Keeps the Hobbits safe during battles	Aragorn	Hobbits	72	90	Intelligent	Risks himself but significantly increases the Hobbits’ survival and mission success.
+Takes on an entire army of Orcs so Frodo can escape	Aragorn	Orcs/Frodo	55	95	Intelligent	Great personal danger but directly preserves Frodo and the quest.
+Runs away from responsibilities as rightful king	Aragorn	Gondor/people of Men	40	30	Helpless	Harms his own status and delays his destiny while also depriving others of needed leadership.
+Avoids becoming king out of fear of becoming a tyrant	Aragorn	Himself/subjects	55	65	Intelligent	Short-term self-loss but reduces risk of future harm to many; net protective for others.
+Uses both bow and sword depending on battle phase	Aragorn	Enemies	70	68	Intelligent	Improves his own combat effectiveness and helps his side’s chances in battle.
+Assumes leadership of the Fellowship after Gandalf falls	Aragorn	Fellowship	80	90	Intelligent	Takes on burdens and risk of command while giving the group needed direction and cohesion.
+Accepts symbolic tokens (Evenstar, knife, bracers, Andúril) that strengthen his resolve	Aragorn	His followers/allies	78	78	Intelligent	Gains confidence and power while honoring others’ faith in him, which in turn supports their cause.
+Orders Boromir to get the Fellowship moving after Moria	Aragorn	Fellowship	75	88	Intelligent	Sacrifices short-term popularity/comfort to keep everyone alive by avoiding orcs at nightfall.
+Tracks Uruk-hai relentlessly for days to find Merry and Pippin	Aragorn	Merry and Pippin	69	88	Intelligent	Exerts himself greatly but uses his skills to rescue captured allies.
+Lets out a grief-stricken wail upon thinking Merry and Pippin are dead	Aragorn	Himself	40	50	Helpless	Emotional collapse drains his resolve briefly but has no benefit or harm to others.
+Contacts Sauron and declares he does not fear him	Aragorn	Sauron	72	88	Intelligent	Provokes Sauron’s focus onto himself, a risk that furthers the distraction strategy for others’ benefit.
+Faces and survives the warg-cliff fall incident	Aragorn	Himself/Allies	60	70	Intelligent	Endures severe danger yet returns alive to continue leading and fighting.
+Overthrows the Enemy before becoming king and marrying Arwen	Aragorn	Free peoples of Middle-earth	90	96	Intelligent	Accepts huge risk and effort for his own fulfilled destiny and massive liberation of others.
+Undertakes his kingship quest largely because of love for Arwen	Aragorn	Himself/Arwen/kingdoms	82	90	Intelligent	Pursues personal happiness through assuming a role that greatly benefits many.
+Releases the army of the dead after Pelennor Fields as he promised	Aragorn	Army of the Dead/Allies	77	80	Intelligent	Gives up a powerful asset to keep his word, bolstering moral authority and justice for the dead.
+Refuses to follow his destiny for many years	Aragorn	Himself/Gondor	38	35	Helpless	Delays his own fulfillment and leaves his people without a rightful ruler for a long time.
+Resists offers to take the Ring from Frodo	Aragorn	Frodo/Free peoples	92	97	Intelligent	Protects himself from corruption and ensures Frodo can continue his vital mission.
+Chooses Frodo’s mission “For Frodo” when Sauron tempts him	Aragorn	Frodo/Allies	90	98	Intelligent	Rejects personal temptation to fully commit himself and the army to supporting Frodo’s success.
+Maintains a long interspecies friendship with Legolas and Gandalf	Aragorn	Legolas/Gandalf	75	80	Intelligent	Builds strong alliances that aid him and create effective, cooperative resistance.
+Stops Théoden from killing Wormtongue to prevent more bloodshed	Aragorn	Rohan/Théoden	45	30	Helpless	Intends mercy but unintentionally preserves an enemy agent, enabling severe later losses at Helm’s Deep.
+Chooses exile instead of leading his people	Aragorn	Gondor/His own house	35	30	Helpless	Abandons power and influence for solitude, weakening his own position and denying leadership to his realm.
+Defuses tensions between Legolas and Gimli when they get too fight-happy	Aragorn	Legolas and Gimli	70	85	Intelligent	Spends effort mediating but prevents internal conflict and keeps the team functional.
+Leads the defense of the Hornburg at Helm’s Deep	Aragorn	Rohan defenders	82	92	Intelligent	Heavily risks himself while greatly improving the fortress’s survival chances.
+Leads the army of the dead at Pelennor Fields	Aragorn	Free peoples/Enemies	85	93	Intelligent	Gains overwhelming force that secures victory for his side at high personal spiritual and political risk.
+Leads the united Men of the West at the Black Gate	Aragorn	Allied armies	88	96	Intelligent	Risks his life as front-line commander while providing indispensable strategic leadership.
+Scarily tracks the Uruk-hai and deduces Merry and Pippin are alive	Aragorn	Merry and Pippin	75	90	Intelligent	Uses tracking skills to instill hope and guide an effective rescue.
+Decapitates the Mouth of Sauron to stop his taunting	Aragorn	Mouth of Sauron	65	60	Bandit	Eliminates a demoralizing enemy speaker, boosting his side’s morale with minimal strategic downside.
+Honors Boromir by wearing his vambraces thereafter	Aragorn	Himself/Boromir’s memory	70	78	Intelligent	Strengthens his own resolve and symbolically upholds a promise that inspires others.
+Leads years of wandering as a Ranger, gaining wide knowledge	Aragorn	Himself/Future subjects	80	85	Intelligent	Improves his own competence and later provides rich experience to better serve his people.

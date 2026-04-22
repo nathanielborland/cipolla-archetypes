@@ -1,0 +1,41 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Gimli demands to know what's happening beyond the wall at Helm's Deep	Gimli	Legolas	55	55	Intelligent	Seeking information in battle slightly aids his awareness with no harm to others.
+Legolas mockingly asks Gimli if he wants a description or a box to stand on	Legolas	Gimli	60	40	Bandit	Legolas amuses himself at Gimli’s expense with mild teasing.
+Gimli glares at Legolas for the first suggestion	Gimli	Legolas	45	50	Helpless	Glaring vents irritation but gains nothing and slightly dampens camaraderie.
+Gimli laughs at the "box to stand on" joke	Gimli	Legolas	70	70	Intelligent	Laughter improves his own mood and reinforces friendly banter.
+Gimli wields ancestral axes passed down from his forefathers	Gimli	Gimli's lineage	80	60	Intelligent	Using inherited high-quality weapons benefits him and honors family legacy.
+Gimli displays affection through gruff insults toward the Fellowship	Gimli	Fellowship members	65	65	Intelligent	His abrasive endearments maintain bonds without real harm.
+Gimli shoves through a crowd roaring threats while searching for presumed-dead Aragorn	Gimli	Bystanders in crowd	55	40	Bandit	Forces his way to Aragorn’s side, jostling others to satisfy his urgent concern.
+Gimli hugs Aragorn and blesses him after the faux "I'm gonna kill him" outburst	Gimli	Aragorn	80	80	Intelligent	Open affection strengthens their relationship and morale.
+Gimli scolds Merry and Pippin for feasting and smoking after the long search	Gimli	Merry and Pippin	60	65	Intelligent	Light reprimand expresses care and reinforces group norms.
+Gimli fights back-to-back with Aragorn at Helm's Deep	Gimli	Enemy forces	90	90	Intelligent	Coordinated fighting boosts both his survival and the defense effort.
+Gimli eagerly enters the thick of fighting as a Blood Knight	Gimli	Enemy forces	75	60	Intelligent	His enthusiasm for battle increases his own glory and helps his side, despite risk.
+Gimli competes with Legolas in a kill-count contest on battlefields	Gimli	Legolas / enemies	70	65	Intelligent	Rivalry motivates both to fight harder, benefiting themselves and allies.
+Gimli taunts a Warg with "Bring yer pretty face to my axe!"	Gimli	Warg	65	60	Intelligent	Provoking the foe into close combat suits his strengths and aids the fight.
+Gimli shouts in Moria, "Let them come! There is one Dwarf yet in Moria who still draws breath!"	Gimli	Approaching enemies	70	60	Intelligent	Bravado steels his own courage and signals readiness to allies.
+Gimli struggles to keep up while running across Rohan	Gimli	Himself	40	50	Helpless	Exertion strains him without noted benefit beyond just not falling behind.
+Gimli spends the Warg fight stuck under a pile of corpses	Gimli	Enemies	30	50	Helpless	His situation removes him from effective combat with no clear gain.
+Gimli fails to see over the wall at Helm's Deep due to short stature	Gimli	Himself	35	50	Helpless	Loss of situational awareness hinders him, with no benefit shown.
+Gimli wears chainmail that is too big for him	Gimli	Himself	40	50	Helpless	Ill-fitting armor hampers movement or comfort without compensating advantage.
+Gimli is tossed by Aragorn because he can't make the long jump himself	Gimli	Enemy below / self	65	75	Intelligent	Being thrown puts him into the fight and over the gap, aiding both him and allies.
+Gimli drinks so much ale he passes out while Legolas barely feels it	Gimli	Himself	20	55	Helpless	Overindulgence harms him and contributes nothing useful to others.
+Gimli gets spooked about entering the Paths of the Dead	Gimli	Himself	45	50	Helpless	Fear increases his own distress without affecting the outcome.
+Gimli almost falls off a staircase into a chasm in Moria	Gimli	Himself	10	50	Helpless	A near-fatal misstep threatens him with no compensating benefit.
+Legolas grabs Gimli by the beard to save him from falling	Legolas	Gimli	85	90	Intelligent	Quick action preserves Gimli’s life with no downside.
+Gimli asks only to look on Galadriel one last time as a gift	Gimli	Galadriel / himself	80	80	Intelligent	A modest, respectful request deepens mutual regard without cost.
+Gimli delivers snark after Aragorn beheads the Mouth of Sauron	Gimli	Aragorn and nearby allies	65	65	Intelligent	Gallows humor lightens tension and boosts group morale.
+Gimli, believing the last battle is hopeless, declares "What are we waiting for?" and presses onward	Gimli	Allied forces	85	90	Intelligent	He accepts likely death to support a desperate, necessary gambit.
+Gimli initially behaves antagonistically toward elves and promotes dwarven superiority	Gimli	Elves	45	40	Bandit	Racial posturing satisfies his pride while straining potential alliances.
+Gimli becomes friendly with Legolas and admires Galadriel	Gimli	Elves	80	85	Intelligent	Overcoming prejudice strengthens crucial cross-racial bonds.
+Gimli refuses to eat Eowyn's stew despite being unfed for days	Gimli	Eowyn	35	40	Bandit	His pickiness harms his own nourishment and mildly offends the cook.
+Gimli maintains a body-count competition as a friendly rivalry with Legolas	Gimli	Legolas / enemies	70	70	Intelligent	Mutual competition drives both to greater battlefield effectiveness.
+Gimli insists on identifying others mainly by race rather than by name	Gimli	Non-dwarves	45	40	Bandit	Habit flatters his own group identity while risking social friction.
+Gimli shouts Aragorn's name and jumps into a horde to protect the downed man at Helm's Deep	Gimli	Aragorn	90	90	Intelligent	Self-endangerment protects an ally and key leader, benefitting them both.
+Gimli forms a deep friendship with Aragorn and Legolas, healing the elf–dwarf rift	Gimli	Legolas and elves/humans	95	95	Intelligent	Enduring bonds greatly enrich his life and inter-racial peace.
+Gimli deliberately pretends his horse fall was intentional ("It was deliberate")	Gimli	Bystanders	55	55	Intelligent	Self-deprecating cover preserves his dignity and amuses others harmlessly.
+Gimli becomes the first dwarf to form a true friendship with an elf	Gimli	Legolas	95	95	Intelligent	The friendship profoundly benefits both and sets a historic positive precedent.
+Gimli remains steadfastly loyal to the Free Peoples of Middle-earth	Gimli	Free Peoples	95	95	Intelligent	His unwavering allegiance furthers their cause and gives him purpose and honor.
+Gimli leaps into the thick of combat and keeps hacking until surrounded by corpses	Gimli	Enemies	85	80	Intelligent	Relentless aggression produces major battlefield gains despite personal risk.
+Gimli eagerly "jumps at the call" to enter battles	Gimli	Allied forces	80	75	Intelligent	Readiness to fight supports every major engagement and his own warrior identity.
+Gimli resists all temptation from the One Ring	Gimli	Sauron / corruptive influence	95	85	Intelligent	Immunity protects his integrity and removes a potential internal threat to allies.
+Gimli attempts to destroy the One Ring with a swing of his axe	Gimli	The One Ring	30	80	Helpless	He loses a good axe but quickly tests the most straightforward solution that would have saved all if it had worked.

@@ -1,0 +1,59 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Places third at a swim meet after narrowly missing second place	AJ	Opposing swimmers	70	60	Intelligent	Competes successfully in sports, benefiting his health and esteem without harming others.
+Joins the high school football team	AJ	His team	75	70	Intelligent	Engages in team athletics, gaining skills and status while helping the team.
+Becomes defensive captain after starting as bench player	AJ	His team	80	75	Intelligent	Shows growth and leadership that benefit him and improve team performance.
+Moves in with his father to avoid Carmela’s discipline	AJ	Tony	40	35	Helpless	Gains temporary escape from discipline but situation “doesn’t work,” offering little benefit and mild strain on Tony.
+Grows a “beard of sorrow” during breakup and suicide attempt	AJ	Himself	30	50	Helpless	Externalizes inner turmoil; offers no clear self-benefit but harms no one else.
+Attempts to drown himself in the backyard pool	AJ	Himself	0	30	Helpless	Severely harms himself while mainly distressing but not materially benefiting others.
+Saves AJ from drowning in the pool	Tony	AJ	90	85	Intelligent	Prevents AJ’s death and preserves the family’s well-being.
+Flunks out of junior college	AJ	Himself	15	45	Helpless	Seriously damages his own future while having negligible effect on others.
+Gives up on education altogether	AJ	Himself	10	45	Helpless	Further undermines his own prospects with no clear impact on others.
+Openly criticizes his mother	Carmela	Carmela	55	40	Bandit	Relieves his own frustration while mainly hurting Carmela emotionally, with little positive outcome.
+Confronts Tony (rarely) over issues	AJ	Tony	55	55	Intelligent	Expresses grievances to a fearsome father, risking backlash but potentially clarifying their relationship.
+Becomes more cynical and socially aware in final season	AJ	Himself	60	65	Intelligent	Gains awareness that may help him orient his life and sharpen his social understanding.
+Becomes obsessed with government involvement in Iraq	AJ	Himself	50	55	Intelligent	Develops political interest; no clear personal gain but some increase in awareness without harming others.
+Falls apart when Blanca leaves him, growing angrier and angrier	AJ	Those around him	25	30	Stupid	His escalating anger worsens his own depression and drags others down emotionally.
+Attempts suicide after Blanca breakup	AJ	Himself	0	25	Helpless	Extreme self-harm that chiefly causes pain to family without helping them.
+Calls out Tony and Carmela on hypocrisy	AJ	Tony and Carmela	60	45	Bandit	He is often right, which may help his clarity, but mostly embarrasses and destabilizes his parents.
+Points out social injustice and crises	AJ	General others	55	65	Intelligent	Raises awareness of real issues, marginally helping discourse with little cost to himself.
+Attempts to kill Uncle Junior in revenge for shooting Tony and fails	AJ	Junior	10	10	Stupid	Endangers himself and others, achieves nothing, and forces Tony to bail him out.
+Gets diagnosed with ADD	Medical professionals	AJ	70	60	Intelligent	Provides explanation and potential support for his struggles, benefiting him and indirectly others.
+Learns Tony’s true profession	AJ	Himself	30	40	Helpless	Gains unpleasant knowledge that harms his innocence and mental state without clear benefit.
+Spends one-on-one time with Livia, absorbing her negativity	Livia	AJ	20	30	Stupid	Imparts a nihilistic worldview that harms him and adds no benefit to anyone.
+Moves from mostly happy kid to causing mayhem at school	AJ	School	25	25	Stupid	His disruptive behavior gets him expelled and burdens the school with no gain.
+Gets expelled from school for causing mayhem	School administration	AJ	35	50	Helpless	Protects the school but severely hurts his own academic path.
+Bungles minimum-wage jobs handed to him	AJ	Employers	20	30	Stupid	Loses easy employment and burdens employers while gaining nothing.
+Flunks out of basically everything he does	AJ	Himself	15	40	Helpless	Repeated failure damages his prospects, with minimal effect on others.
+Tries to emulate Michael Corleone’s arc by attacking Junior	AJ	Himself	10	10	Stupid	Attempts a cinematic revenge path that instead exposes his incompetence and risks legal trouble.
+Calls out social injustice after exposure to war-on-terror climate	AJ	Broader society	55	60	Intelligent	Engages critically with politics; modestly improves discourse at low cost.
+Is openly critical toward his mother over time	AJ	Carmela	50	40	Bandit	He vents his resentment, slightly relieving himself while mostly hurting Carmela.
+Sacrifices his bike for Blanca and her son	AJ	Blanca and Hector	40	80	Helpless	Rids himself of a valued possession to help them, taking a loss to their benefit.
+Makes a genuine effort to be a good boyfriend and provider for Blanca	AJ	Blanca	70	75	Intelligent	Improves his own maturity and relationship quality, clearly benefiting her.
+Takes to construction work quickly when forced into it	AJ	His employer	75	70	Intelligent	Develops skills and work ethic that help him and add value to the job.
+Impresses his parents with his construction work ethic	AJ	Tony and Carmela	80	70	Intelligent	Gains approval and self-respect while making his parents proud.
+Comes to enjoy construction work	AJ	Himself	75	55	Intelligent	Finds satisfaction in honest work, improving his mental state without harming others.
+Expresses desire to work in restaurant business while at pizza job	AJ	Himself	65	60	Intelligent	Sets a realistic goal tied to an area where he’s doing well.
+Nets a $300 share after organizing a backyard party with friends	AJ	Party guests	80	70	Intelligent	Uses organizational skill to profit and provide an enjoyable event.
+Gets along great with Blanca’s son Hector	AJ	Hector	70	75	Intelligent	Forms a caring bond that emotionally benefits both.
+Reads about Christopher Columbus and forms a critical view	AJ	His family’s narrative	60	55	Intelligent	Develops independent thinking, modestly challenging family mythology without major harm.
+Enjoys college history classes on Middle East conflict	AJ	Himself	65	55	Intelligent	Engages intellectually with complex topics, bettering himself without harming others.
+Visits Meadow’s clients in New York with Devin and sees their conditions	AJ	Disenfranchised clients	60	70	Intelligent	Confronts harsh realities, gaining empathy while giving them respectful attention.
+Struggles with guilt after seeing poor people’s living conditions	AJ	Himself	55	65	Intelligent	Moral discomfort deepens his conscience and awareness, ultimately growth-promoting.
+Complains about the healthiness of food his parents serve	AJ	Tony and Carmela	55	45	Bandit	Attempts to manage his weight but mostly irritates his parents without helping them.
+Steals promotional items from Blockbuster	AJ	Blockbuster	30	20	Bandit	Gains items at the cost of his job and the store’s property.
+Gets fired from Blockbuster for stealing from the till	AJ	Himself	20	60	Helpless	Loses income and work record; mildly protects the store by removing a thief.
+Lies to Carmela that everything is fine at Blockbuster despite being fired	AJ	Carmela	35	40	Bandit	Temporarily protects himself from conflict while deceiving and worrying her later.
+Unwittingly tells Livia that Tony is seeing a psychiatrist	AJ	Tony	30	20	Stupid	Reveals sensitive information that endangers Tony and offers no benefit to anyone.
+Attempts to kill Junior as revenge after Tony is shot	AJ	Junior	10	10	Stupid	Risks prison and violence, fails to hurt Junior, and creates problems for his family.
+Tony steps in to keep AJ from being charged for attempting to kill Junior	Tony	AJ	85	60	Intelligent	Protects AJ from legal ruin and stabilizes the immediate fallout.
+Tony tells AJ he’s not a little kid anymore and can’t keep being bailed out	Tony	AJ	70	60	Intelligent	Delivers a hard truth that may catalyze AJ’s maturity.
+Throws a backyard party with friends and profits $300	AJ	Attendees	80	70	Intelligent	Successfully manages an event, earning money while providing a good time.
+Attends a Mudvayne concert	AJ	Mudvayne / himself	65	55	Intelligent	Pursues leisure and identity-building with no harm to others.
+Analyzes early Bob Dylan work	AJ	Himself	65	60	Intelligent	Engages in reflective listening that develops his intellect and taste.
+Credits breaking out of his depression to watching his SUV catch fire	AJ	Himself	40	30	Stupid	Derives emotional uplift from a dangerous event, reinforcing unhealthy attraction to risk.
+Attempts to kill himself by sitting in an SUV that then catches fire	AJ	Himself	0	25	Helpless	Severely endangers his life; others are only burdened by the aftermath.
+Feels uplifting joy at narrowly escaping the SUV fire	AJ	Himself	50	20	Stupid	Associates emotional relief with destructive chaos, supporting future risky impulses.
+Gets mocked by Tony for being a virgin	Tony	AJ	55	30	Bandit	Momentarily amuses Tony while damaging AJ’s self-esteem.
+Wants to live up to Tony’s expectations but fails repeatedly	AJ	Himself	30	40	Helpless	Internal pressure largely harms his own psyche, with little effect on others.
+Avoids being dragged into the mafia world	AJ	Tony’s organization	80	75	Intelligent	Protects his own long-term safety and keeps the mob insulated from his incompetence.
+Takes interest in Nietzsche as a teen	AJ	Himself	60	55	Intelligent	Explores philosophical ideas that may deepen his thinking without harming others.

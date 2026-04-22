@@ -1,0 +1,13 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+She began an affair with McNulty while he was still married	Rhonda McNulty	McNulty and his wife	40	10	Bandit	Rhonda gains a relationship/sex but contributes to marital harm and emotional fallout.
+He would only be with her for sexual favors and blatantly told her so	McNulty	Rhonda	35	20	Bandit	McNulty gains casual sex while emotionally devaluing Rhonda and treating her instrumentally.
+Rhonda eventually wises up and begins an actual and healthy relationship with Daniels	Rhonda McNulty	Daniels	80	80	Intelligent	Rhonda improves her emotional life and Daniels gains a mutually caring relationship.
+She frequently brings up the implications for her career to others to justify her point of view	Rhonda McNulty	Colleagues / counterparts	65	40	Bandit	She protects/advances her career but potentially constrains legal action and broader justice.
+She points out that pushing too hard against Levy would antagonize the whole profession, harming her career	Rhonda McNulty	Justice process / colleagues	60	35	Bandit	She preserves her standing and future options while holding back aggressive pursuit of a problematic lawyer.
+McNulty confronts her about the implications of her ambitions	McNulty	Rhonda McNulty	45	55	Helpless	McNulty gains little professionally but pushes for more principled action that could help the system and the public.
+She uses Judge Phelan's attraction to her to get favorable rulings in weak cases	Rhonda McNulty	Judge Phelan / defendants	70	25	Bandit	She boosts her cases and career through manipulation while undermining judicial fairness and defendants’ rights.
+She ultimately gets fed up with McNulty	Rhonda McNulty	McNulty	70	60	Intelligent	By ending a lopsided affair she protects her own well-being and removes an unhealthy dynamic for both.
+She begins a relationship with responsible, hardworking Daniels	Rhonda McNulty	Daniels	80	80	Intelligent	Both enter a committed, mutually respectful relationship that benefits their emotional stability.
+Daniels does not even think of sleeping with other women	Daniels	Rhonda McNulty	80	75	Intelligent	His fidelity strengthens trust and stability in the relationship for both partners.
+She and Daniels keep their relationship a secret to avoid harming Marla's political career	Rhonda McNulty and Daniels	Marla Daniels	55	65	Intelligent	They take on secrecy costs to themselves to protect Marla’s public image and career prospects.
+She and McNulty carry on a discontinuous affair while working together	Rhonda McNulty and McNulty	Each other / workplace	35	30	Stupid	Both get intermittent gratification but create ongoing emotional tension and professional awkwardness that undermine them and colleagues.

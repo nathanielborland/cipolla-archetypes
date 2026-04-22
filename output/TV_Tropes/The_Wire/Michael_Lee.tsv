@@ -1,0 +1,36 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Snoop lies to Michael about the purpose of their outing (claiming they're killing someone else, not him)	Snoop	Michael	70	10	Bandit	Snoop deceives Michael to set up his murder, benefiting her organization at his expense.
+Snoop orders Michael not to bring a gun to the supposed hit	Snoop	Michael	75	5	Bandit	Disarming Michael increases her safety and ability to kill him, directly endangering him.
+Snoop tells Michael she’ll give him a gun when they reach the location	Snoop	Michael	70	10	Bandit	She maintains the ruse to keep control of the situation and preserve her plan to execute him.
+Michael becomes suspicious of Snoop’s inconsistent instructions about the gun	Michael	Michael	85	60	Intelligent	His suspicion protects his life and indirectly reduces Snoop’s power to harm others.
+Michael pretends he needs to pee so Snoop will pull into an alley	Michael	Snoop	90	30	Bandit	He manipulates her into a vulnerable position to save himself at her lethal expense.
+Michael gets the drop on Snoop and kills her	Michael	Snoop	95	20	Bandit	Eliminating someone about to kill him greatly benefits his survival while harming her and her side.
+Middle-school Michael stares down Marlo	Michael	Marlo	70	40	Intelligent	His fearless stance impresses Marlo and boosts his standing, though it draws him toward a dangerous world.
+Marlo decides to consider recruiting Michael after seeing his nerve	Marlo	Michael	70	20	Bandit	Marlo gains a promising soldier while steering Michael deeper into crime.
+Michael becomes a viciously effective fighter and skilled with firearms in Stanfield’s crew	Michael	Others in the drug trade	75	20	Bandit	His new skills give him power and security while enabling more effective violence against others.
+Michael diligently takes care of and protects his brother from their sexually abusive stepfather	Michael	Bug	60	80	Intelligent	He sacrifices and risks himself to keep Bug safer and more stable.
+Michael shows open affection and loyalty toward his younger brother	Michael	Bug	65	85	Intelligent	Emotional care strengthens both his own bonds and Bug’s well-being.
+Michael senses Snoop’s assassination setup due to experience with hits	Michael	Michael	90	55	Intelligent	He applies learned assassination tactics defensively to avoid being killed, reducing future risk to himself and others she might kill.
+Michael’s molestation and addict mother lead him to distrust authority and older men	Michael	Michael	30	50	Helpless	His trauma-driven distrust harms his own prospects while not clearly affecting others positively or negatively.
+Michael jerks away or becomes uncomfortable when most people try to touch him	Michael	Others trying to touch him	40	60	Helpless	His reactions protect psychological boundaries but hinder healthy connection more for him than others.
+Michael becomes a stick-up man like Omar	Michael	Drug-world targets	70	20	Bandit	Robbing dealers funds him while imposing loss and fear on those he hits.
+Michael shoots Vinson in the knee while robbing him	Michael	Vinson	80	10	Bandit	He gains money and a reputation at the cost of Vinson’s safety and livelihood.
+Michael distrusts the reformed Cutty for being “too friendly”	Michael	Michael	35	55	Helpless	Misreading Cutty deprives him of a positive mentor with no compensating gain.
+Michael chooses Marlo instead of going to a responsible adult about his problem	Michael	Michael	20	40	Helpless	Falling in with a sociopathic boss severely harms his future while offering only short-term survival/security.
+Michael abandons promising boxing training to support himself and Bug	Michael	Michael	25	65	Helpless	He sacrifices long-term opportunity and development to meet immediate family needs.
+Michael sends Bug to their aunt with all his money to keep him safe from the game	Michael	Bug	35	90	Helpless	He greatly improves Bug’s safety and prospects while impoverishing and isolating himself.
+Michael promises Bug more money will come in the future	Michael	Bug	45	80	Intelligent	He maintains Bug’s sense of security and continuity while committing himself to continue supporting him.
+Michael repeatedly pounds smaller, younger Kenard	Michael	Kenard	65	5	Bandit	He asserts dominance and reputation while causing physical harm to a much weaker kid.
+Namond refuses to take his drug package back from unconscious Kenard	Namond	Namond	30	60	Helpless	He forgoes income and favor from the package because he’s disturbed, showing empathy at his own cost.
+Michael stands up for Randy when other kids accuse Randy of snitching	Michael	Randy	60	70	Intelligent	He risks some social standing to protect Randy from dangerous stigma.
+Michael visits Cutty’s gym and trains in boxing	Michael	Michael	70	65	Intelligent	Training improves his physical capability and discipline with no clear harm to others.
+Michael leaves Cutty’s gym because Cutty’s kindness and mentoring make him uncomfortable	Michael	Michael	30	60	Helpless	Trauma-driven discomfort makes him reject a healthy support and development outlet.
+Michael has a one-night romantic encounter with a girl despite emotional difficulty	Michael	Girl	55	60	Intelligent	It offers some mutual intimacy and normalcy with no clear harm to either.
+Michael sees through Snoop’s plan to kill him using lessons learned from Chris and Snoop	Michael	Michael	90	60	Intelligent	He turns their own methods into protection, preserving himself and curbing their capacity to kill.
+Michael stares down Marlo in an early scene	Michael	Marlo	70	40	Intelligent	Displays of courage win Marlo’s respect and enhance Michael’s perceived strength despite future risks.
+People underestimate Michael’s toughness and intelligence due to his youth and quietness	Others underestimating him	Michael	20	80	Helpless	Their misjudgment benefits him tactically but often leads to their ruin, so net effect is worse for them than him.
+Michael kills Snoop after she underestimates him	Michael	Snoop	95	15	Bandit	Her fatal miscalculation allows him to survive at her total expense.
+Michael kneecaps Vinson after Vinson dismisses him as a threat	Michael	Vinson	80	10	Bandit	Vinson’s underestimation lets Michael rob and injure him for gain.
+Michael wins a paintball-gun training exercise against experienced killers Chris and Snoop	Michael	Chris and Snoop	80	60	Intelligent	He gains skill, respect, and confidence without real harm to others in a simulated environment.
+Michael accepts training with Chris and Snoop to become more dangerous	Michael	Michael	65	30	Bandit	He increases his own lethality and standing while setting up more future harm to others.
+Michael refuses to kill a child during the Junebug house massacre	Michael	Target child	40	70	Helpless	He preserves the child’s life but risks angering his superiors and complicating his position.

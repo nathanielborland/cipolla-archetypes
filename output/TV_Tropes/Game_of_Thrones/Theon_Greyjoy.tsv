@@ -1,0 +1,61 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He seizes Winterfell	Theon	Garrison and people of Winterfell	40	10	Bandit	Gains short‑term status and power while gravely harming Northerners and destabilizing the region.
+He starts resorting to brutal tactics to keep his crew in line	Theon	His Ironborn crew	30	20	Bandit	Intimidates subordinates to bolster his shaky authority, worsening morale and loyalty.
+He brutally hacks off Ser Rodrik’s head after being spat on	Theon	Ser Rodrik Cassel	25	5	Bandit	Executes a respected elder to project toughness, slightly consolidating rule but enraging everyone.
+He has two peasant boys killed and burned to pass them as Bran and Rickon	Theon	Farmer’s sons / North	20	0	Bandit	Kills innocents purely to sustain his ruse, marginally delaying backlash while maximally harming others.
+He ignores Maester Luwin’s advice to flee or take the Black and insists on holding Winterfell	Theon	Himself / Winterfell	15	10	Stupid	Clings to a doomed position, ensuring his own downfall and further suffering in the castle.
+He captures Winterfell by luring Ser Rodrik away and sneaking men over the walls	Theon	Defenders of Winterfell	55	15	Bandit	Executes a tactically clever surprise seizure that benefits his cause at locals’ expense.
+He publicly declares himself Prince of Winterfell and demands respect	Theon	People of Winterfell	45	20	Bandit	Gains formal status but deepens resentment and resistance from the subjected populace.
+He rejects Sansa’s offer to join the Night’s Watch and refuses forgiveness	Theon	Himself	30	70	Helpless	Declines a real path to safety and legal absolution to preserve his guilt, but respects Sansa’s moral framing.
+He betrays Robb and the Starks by leading an Ironborn invasion of the North	Theon	Robb Stark and House Stark	25	5	Bandit	Trades a loyal foster family for a shot at Greyjoy approval, gravely harming the Starks and himself.
+He chooses his biological family’s cause over the Starks at Pyke	Theon	Starks	30	15	Bandit	Pursues paternal validation via hostile alignment, injuring his foster family and later regretting it.
+He confronts Balon with “You gave me away… Did you ‘take what was yours’ then?!”	Theon	Balon Greyjoy	40	60	Intelligent	Verbally forces his father to face his hypocrisy, gaining some self‑respect and moral clarity.
+He follows Balon’s orders and forsakes the alliance he proposed to Robb	Theon	Robb Stark / North	35	20	Bandit	Abandons a mutually beneficial alliance for status in Pyke, undermining Robb’s campaign.
+He gropes and attempts to seduce Yara, not knowing she is his sister	Theon	Yara Greyjoy	40	30	Bandit	Derives brief gratification and bravado while disrespecting a stranger who turns out to be his ally.
+He abuses and threatens Ros and Osha	Theon	Ros and Osha	35	15	Bandit	Uses power to intimidate women for ego, deepening his reputation and harming them for no lasting gain.
+He tries to force himself on Osha	Theon	Osha	30	10	Bandit	Attempts sexual coercion for gratification, damaging his own standing and threatening her safety.
+He insists on harsh punishment for the farmer while Dagmer kills the boys	Theon	Farmer and sons	20	0	Bandit	Chooses fear tactics and allows murder to protect his image of strength.
+He spares the farmer’s life and pays him off instead of killing him	Theon	Farmer	55	70	Intelligent	Avoids an extra killing while keeping his secret for a while, slightly improving his moral ledger.
+He returns to Pyke expecting a grand welcome	Theon	Himself	45	50	Intelligent	Seeks reconnection with his origins; hurt pride aside, he gains information about his true standing.
+He throws his father’s name around to claim status as Balon’s son	Theon	Various interlocutors	45	30	Bandit	Attempts to leverage lineage for personal respect, often annoying or alienating others.
+He gives Balon the armor‑piercing question about bending the knee to Robert	Theon	Balon Greyjoy	40	60	Intelligent	Pierces Balon’s self‑image and exposes his responsibility for losses, giving Theon insight and agency.
+He proposes alliance with Robb and warns the Ironborn about the North	Theon	Balon and Ironborn war council	55	70	Intelligent	Suggests a realistic, mutually beneficial strategy that would spare lives and strengthen both sides.
+He ignores his own better judgment and embraces the reaving plan	Theon	Himself / Northern victims	25	20	Stupid	Abandons sound counsel for a doomed raiding strategy that hurts others and later destroys him.
+He tries to live up to Ironborn standards by escalating ruthlessness	Theon	Himself / Northerners	20	15	Stupid	Hardens his behavior to win respect, deepening his guilt, isolation, and others’ suffering.
+He delivers a rousing speech to his men at Winterfell before planned last stand	Theon	Ironborn garrison	40	35	Bandit	Inspires men for a mutually fatal stand that would serve his pride more than their survival.
+He plans a suicidal last stand against the Northern army	Theon	Himself / Ironborn men	15	20	Stupid	Seeks death in battle for honor, disregarding better options for his and his men’s survival.
+He is sold to the enemy by his own Ironborn after exhorting them to die with him	Theon	Ironborn garrison	5	40	Helpless	Loses freedom and status, but his removal spares them a pointless slaughter.
+He begs Ramsay to kill him after torture and castration	Theon	Ramsay Bolton	10	50	Helpless	Seeks death to end suffering, signaling Ramsay his control, while harming no one else.
+He submits to Ramsay and accepts the name “Reek”	Theon	Himself	5	40	Helpless	Survival instinct leads to loss of identity and autonomy, sparing others no particular harm.
+He blindly obeys Ramsay and betrays Sansa’s escape plan to him	Theon	Sansa Stark	10	5	Stupid	Trades Sansa’s safety for marginally less punishment, reinforcing Ramsay’s power over both.
+He initially abandons and refuses to recognize Yara during her rescue attempt	Theon	Yara Greyjoy	10	20	Helpless	His fear sabotages his one chance at liberation and wastes Yara’s effort and men’s lives.
+He rats out Sansa’s plans and gets her accomplice killed	Theon	Sansa and her ally	10	5	Stupid	Protects himself from torture in the moment, yet tightens his own psychological chains and ruins her chance.
+He kills Myranda when she threatens Sansa with a bow	Theon	Myranda	70	80	Intelligent	Risks lethal punishment to eliminate a sadistic captor and immediately protect Sansa from torture.
+He urges Sansa to hide and tries to lure Bolton soldiers away from her	Theon	Bolton pursuit party	35	75	Intelligent	Knowingly risks recapture to misdirect enemies and buy Sansa time to reach safety.
+He lies to the soldiers that Sansa broke both legs and was left to die	Theon	Bolton soldiers	35	65	Intelligent	Attempts to mislead pursuers away from Sansa at additional risk to himself.
+He escapes Winterfell with Sansa by jumping from the walls	Theon	Himself and Sansa	30	70	Helpless	Accepts a dangerous fall to free Sansa and himself from Ramsay’s reach, risking serious injury.
+He sincerely regrets betraying the Starks and seeks atonement	Theon	Himself	55	70	Intelligent	Reframes his life around responsibility and repair, benefiting his psyche and future behavior.
+He saves Sansa’s life and helps her escape from the Boltons	Theon	Sansa Stark	40	90	Intelligent	Endangers himself to reverse past harm, securing Sansa’s survival and improving his own moral standing.
+He admits to Sansa he deserves his torture for killing children	Theon	Sansa Stark	35	65	Intelligent	Honest contrition helps Sansa understand his state and anchors his own moral recovery.
+He plans to take Sansa to Castle Black to reunite her with Jon	Theon	Sansa Stark	40	80	Intelligent	Chooses a destination maximizing her security while not obviously improving his own prospects.
+He refuses to join the Night’s Watch despite Sansa’s assurance	Theon	Himself	30	60	Helpless	Rejects a plausible amnesty route to preserve his sense of deserved guilt, while respecting Stark justice.
+He returns to the Iron Islands and supports Yara’s claim at the Kingsmoot	Theon	Yara Greyjoy	60	75	Intelligent	Deploys his influence and rhetoric to aid his sister’s bid, gaining a meaningful role for himself.
+He flees with Yara and the best ships after Euron wins the Kingsmoot	Theon	Euron Greyjoy	55	70	Intelligent	Sacrifices home ties to preserve his and Yara’s lives and significantly delay Euron’s ambitions.
+He joins Daenerys with Yara and the dissident Ironborn	Theon	Daenerys and allied cause	60	75	Intelligent	Aligns with a powerful, anti‑Bolton coalition, improving his security and aiding a larger anti‑tyrant effort.
+He panics during Euron’s attack and abandons Yara by jumping overboard	Theon	Yara Greyjoy	10	10	Stupid	Saves his own skin in the moment but destroys trust and leaves Yara to torture with no real long‑term gain.
+He later resolves to rescue Yara from Euron	Theon	Yara Greyjoy	60	75	Intelligent	Accepts danger to rectify his prior cowardice and save his sister, regaining purpose and honor.
+He discovers his castration lets him no‑sell Harrag’s groin kicks and wins the fight	Theon	Harrag (Ironborn captain)	70	55	Intelligent	Uses his disability tactically to win a brutal duel and secure command, giving his men a worthy leader.
+He beats the captain into submission to rally the men to rescue Yara	Theon	Ironborn followers	65	60	Intelligent	Establishes leadership through combat and channels the crew toward a difficult but just mission.
+He rescues Yara from Euron’s ship	Theon	Yara Greyjoy	65	85	Intelligent	Endangers himself to free his sister, restoring their bond and strengthening the anti‑Euron faction.
+He leaves Yara at the Iron Islands so he can aid the Starks against the Night King	Theon	Yara / Starks	70	85	Intelligent	Allocates strength where each sibling is most useful, protecting the islands and contributing to the existential fight.
+He returns to Winterfell to fight for the Starks	Theon	House Stark	70	85	Intelligent	Chooses to risk death defending the family he betrayed, aiding their war effort and cementing his redemption.
+He volunteers to guard Bran as bait for the Night King	Theon	Bran Stark	65	90	Intelligent	Takes on a lethal posting to protect Bran and atone specifically for taking Winterfell.
+He helps defend Bran from the wights with archery and melee	Theon	Wights threatening Bran	60	90	Intelligent	Fights effectively in a near‑hopeless situation, greatly delaying the enemy at high risk to himself.
+He throws his bow at a wight after running out of arrows	Theon	Nearest wight attacker	55	80	Intelligent	Improvises with his only remaining tool to buy a few more moments of survival and defense.
+He makes a last suicidal charge at the Night King with a spear	Theon	Night King	10	80	Helpless	Knowingly trades his life for a few seconds’ delay that ultimately enable Arya’s kill, but with no benefit to himself.
+He dies being impaled by his own broken spear	Theon	Himself	5	80	Helpless	Sacrifices his life in a final stand that directly contributes to Bran’s survival and the Night King’s defeat.
+Yara openly defies Balon to mount a rescue mission for Theon	Yara	Balon and Ironborn resources	65	75	Intelligent	Risks political capital and men to try to save her brother, strengthening their bond and her moral authority.
+Dagmer convinces Theon he must execute Ser Rodrik for spitting on him	Dagmer	Ser Rodrik / Theon’s rule	40	15	Bandit	Trades a respected captive’s life for a short‑term increase in fear‑based authority.
+Dagmer and the Ironborn knock Theon out and sell him to the Boltons	Dagmer and Ironborn	Theon	10	40	Helpless	Gain leniency and survival by betraying their lord, at the cost of honor and Theon’s freedom.
+Ramsay tortures and castrates Theon, forcing him to become “Reek”	Ramsay	Theon	10	0	Stupid	Inflicts maximal suffering for sadism with no strategic gain beyond what ordinary captivity provided.
+Ramsay forces Theon to watch Sansa’s wedding‑night rape	Ramsay	Theon and Sansa	5	0	Stupid	Compounds trauma for both captives without adding meaningful control or advantage.

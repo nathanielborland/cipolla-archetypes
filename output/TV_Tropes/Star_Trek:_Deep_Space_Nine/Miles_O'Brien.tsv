@@ -1,0 +1,36 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Keeps DS9’s mixed tech running by constant work	O'Brien	DS9 crew and station	70	90	Intelligent	His nonstop engineering labor keeps the crucial station functional and safe for everyone.
+Obeys Bashir when Bashir pulls rank	Bashir	O'Brien	55	65	Intelligent	Bashir enforces proper chain of command, and O'Brien following orders maintains discipline and mission effectiveness.
+Decorates O'Brien 15 times for service	Starfleet	O'Brien	80	70	Intelligent	Formal recognition benefits O'Brien’s career and incentivizes competence that helps Starfleet.
+Takes on brainwashed Garak in booby-trapped station and wins	O'Brien	Garak (brainwashed threat)	75	85	Intelligent	He risks himself to neutralize a dangerous operative, protecting the station.
+Command staff vents frustrations on O'Brien when things break	Command staff	O'Brien	55	25	Bandit	They gain emotional relief while unfairly dumping stress on him.
+Attempts the “Scotty Time” trick on Sisko to get margin	O'Brien	Sisko	45	40	Stupid	The ruse fails, slightly hurting his credibility without gaining him extra time.
+Moves to remote station for more stable environment for family	O'Brien	O'Brien’s family	30	20	Helpless	His plan for stability backfires when the wormhole turns DS9 into a war focal point.
+Demands constant fixes so O'Brien never gets five minutes’ peace	DS9 personnel	O'Brien	60	35	Bandit	Others get continuous service at the cost of his rest and wellbeing.
+Maintains one of Starfleet’s most important outposts under harsh conditions	O'Brien	Federation/Starfleet	65	95	Intelligent	His survival and competence keep a vital, war-critical station operating.
+Vaporizes a Cardassian at Setlik III not knowing phaser is at maximum	O'Brien	Cardassian soldier	40	25	Bandit	He survives but is traumatized; the Cardassian is killed without tactical nuance.
+Harbors lasting resentment over what he became due to the war	O'Brien	Himself	25	50	Helpless	His self-directed guilt and trauma hurt him without clear benefit to others.
+Shows prejudice toward Cardassians in language and attitude	O'Brien	Cardassians	40	30	Bandit	His venting may ease his internal conflict a bit while stigmatizing Cardassians.
+Throws punches to protect friends	O'Brien	O'Brien’s enemies	70	80	Intelligent	He risks himself in fights that primarily serve to defend his comrades.
+Runs holosuite historical battle programs with Bashir	O'Brien & Bashir	Themselves	70	55	Intelligent	They gain recreation and bonding with negligible external impact.
+MacGyvers old and alien technology to make it work	O'Brien	DS9 users	75	90	Intelligent	His creative engineering benefits his own reputation and keeps systems functional.
+Keiko smacks him when he misses meditation cue	Keiko	O'Brien	40	20	Bandit	She vents frustration physically, slightly harming him with no stated gain.
+O'Brien wishes Keiko were more like Bashir	O'Brien	Keiko	50	50	Intelligent	Private thought affects no one’s outcomes in the text.
+Starfleet security sends low-ranking O'Brien undercover against Orion Syndicate	Starfleet Security	O'Brien	35	75	Helpless	He faces high danger and stress to help bring down a criminal organization.
+O'Brien goes undercover in Orion Syndicate	O'Brien	Orion Syndicate	30	85	Helpless	The mission greatly endangers him while substantially helping Starfleet and victims.
+O'Brien works himself ragged to meet endless work orders	O'Brien	DS9 crew	35	80	Helpless	He harms his own health to keep the station running smoothly for everyone.
+Wears sleeves rolled up so they don’t catch in machinery	O'Brien	Himself	75	55	Intelligent	Practical uniform adjustment aids his own safety and efficiency without harming others.
+Builds deep friendship with Kira during her pregnancy	O'Brien	Kira	65	75	Intelligent	The emotional support benefits both, despite some awkward tension.
+Builds close, initially prickly, then inseparable friendship with Julian	O'Brien & Bashir	Themselves	80	80	Intelligent	Their mutual support and camaraderie benefit both men personally and professionally.
+Cuts himself off from friends during Dominion War to preempt loss trauma	O'Brien	O'Brien’s friends	20	20	Stupid	He isolates himself, increasing his own suffering and depriving friends of support without helping anyone.
+Acts as unpredictable factor thwarting Sloan’s manipulations	O'Brien	Sloan	70	85	Intelligent	His resistance helps undo Sloan’s agenda and protects others from covert abuse.
+Future O'Brien travels back and replaces “our” O'Brien (our O'Brien dies)	Time-displaced O'Brien	Original O'Brien	40	60	Helpless	The original dies; the replacement preserves the mission and others’ survival with some personal discontinuity.
+Refuses offered prostitute while undercover out of marital fidelity	O'Brien	Prostitute offerer & his marriage	70	65	Intelligent	He maintains mission cover and loyalty to Keiko without creating harm.
+Refuses all opportunities to cheat on Keiko	O'Brien	Keiko	80	80	Intelligent	Fidelity sustains a strong marriage and personal integrity.
+Volunteers/accepts role as instructor at Starfleet Academy	O'Brien	Academy cadets	75	85	Intelligent	He gains a stable, respected role while training the next generation.
+Serves as war hero in 200+ combat engagements	O'Brien	Starfleet/Allies	70	85	Intelligent	His actions earn him decorations and contribute to Starfleet’s combat success.
+Kills a good man for bread in simulated prison	O'Brien	Illusory prisoner	10	5	Stupid	He psychologically damages himself by committing a desperate act for trivial gain in an artificial context.
+Takes his anger out on Molly after release	O'Brien	Molly	5	10	Stupid	He harms his daughter emotionally while worsening his own guilt and self-loathing.
+Attempts suicide from guilt over prison actions	O'Brien	Himself	0	15	Helpless	His suicide attempt destroys his own life and deeply harms loved ones with no benefit.
+Talks O'Brien down from suicide	Bashir	O'Brien	90	90	Intelligent	He saves O'Brien’s life and preserves his continued contributions and family stability.
+Explains that O'Brien’s remorse proves he is still a good man	Bashir	O'Brien	70	80	Intelligent	This reframing helps O'Brien emotionally recover and remain functional.

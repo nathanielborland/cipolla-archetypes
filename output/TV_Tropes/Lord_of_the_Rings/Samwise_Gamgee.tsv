@@ -1,0 +1,38 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He follows Frodo into Mordor and refuses to abandon him	Sam	Frodo	88	95	Intelligent	Gravely risks himself to ensure Frodo reaches Mount Doom, crucially aiding the quest.
+He dedicates orc kills to Mr. Frodo, the Shire, and his Gaffer while fighting	Sam	Orcs	80	85	Intelligent	Killing enemy orcs protects the quest and his homeland while enhancing his combat role.
+He goes on to save Frodo countless times and drives off Shelob	Sam	Frodo	92	98	Intelligent	Repeated rescues and defeating Shelob massively protect Frodo and the mission with little downside to Sam beyond risk.
+He kills a squad of orc warriors after trying to scare them	Sam	Orcs	83	90	Intelligent	Eliminating an orc squad removes direct threats to the mission and boosts their chances of success.
+He marries Rosie and raises a family	Sam	Rosie and children	95	90	Intelligent	Builds a loving family life that fulfills him and benefits Rosie and their children.
+His care and concern help Frodo bear the Ring long enough to reach Mount Doom	Sam	Frodo	90	98	Intelligent	Emotional support significantly sustains Frodo’s ability to carry the Ring and complete the quest.
+Frodo elects to take the Ring, enabling Sam to be part of the Fellowship	Frodo	Sam	70	85	Intelligent	Frodo’s decision lets Sam accompany him, giving Sam purpose while providing Frodo essential support.
+He wields Sting in Frodo's defense	Sam	Frodo	82	90	Intelligent	Using a superior weapon increases his battlefield effectiveness to shield Frodo.
+He never backs down from threats despite fear	Sam	Enemies threatening Frodo	88	90	Intelligent	Bravery yields successful defenses of the group and cements his heroism despite personal risk.
+He saves Frodo from an Eldritch Abomination	Sam	Frodo	90	95	Intelligent	Directly rescuing Frodo from a powerful foe preserves both Frodo’s life and the quest.
+He saves Frodo from a horde of orcs	Sam	Frodo	90	95	Intelligent	Again preserves Frodo and the mission under overwhelming odds.
+He carries Frodo partway up Mt. Doom on his back	Sam	Frodo	96	99	Intelligent	Enormous self-sacrifice at peak exhaustion is indispensable to completing the quest.
+He kicks the crap out of a giant spider (Shelob)	Sam	Shelob	88	92	Intelligent	Defeating a major enemy removes a critical obstacle and threat with huge benefit to their cause.
+He is rescued from drowning by Frodo	Frodo	Sam	75	80	Intelligent	Frodo saves Sam’s life at some risk, preserving his vital companion.
+He is rescued by Frodo from Easterlings after falling among rocks	Frodo	Sam	72	78	Intelligent	Frodo again protects Sam, maintaining their partnership and survival.
+He and Frodo disguise themselves as orcs	Sam and Frodo	Enemies searching for them	80	85	Intelligent	Disguise helps them evade hostile forces and approach their goal more safely.
+He dual-wields weapons in Moria and at Cirith Ungol	Sam	Enemies	78	82	Intelligent	Increasing his combat capability helps clear threats and rescue Frodo.
+He threatens Gollum with murder if he steps out of line	Sam	Gollum	60	45	Bandit	Hostile deterrence may keep Gollum in check but also worsens relations and risks internal conflict.
+He is unrelentingly hostile toward Gollum without trying to be civil (film version)	Sam	Gollum	40	30	Stupid	Consistent hostility strains the trio’s dynamics without clear net benefit, aiding Gollum’s manipulations.
+He almost beats Gollum to death in a rage when accused over the lembas bread	Sam	Gollum	35	20	Stupid	Losing control gives Gollum a weaponized grievance and nearly destroys group cohesion with little gain.
+He ventures into the tower of Cirith Ungol to rescue Frodo	Sam	Orcs and Frodo	90	95	Intelligent	Heroic solo incursion frees Frodo and removes numerous enemies despite great danger to himself.
+He follows Frodo when Frodo tries to set off to Mordor alone, almost drowning because he can't swim	Sam	Frodo	65	88	Helpless	Reckless act harms himself (near drowning) but successfully keeps Frodo from going alone.
+Frodo rescues Sam from drowning in the river	Frodo	Sam	78	85	Intelligent	Saving Sam preserves his indispensable ally with manageable risk.
+Sam reminds Frodo of the promise he made to Gandalf to stick by his side	Sam	Frodo	82	88	Intelligent	Reasserting the promise keeps the partnership intact, benefiting both and the mission.
+He willingly returns the Ring to Frodo near Mordor	Sam	Frodo	92	96	Intelligent	Yielding immense potential power prevents corruption and restores the burden to its rightful bearer, protecting everyone.
+He maintains unwavering optimism and reminds Frodo what they are trying to save	Sam	Frodo	88	97	Intelligent	His hopeful mindset bolsters Frodo’s morale and keeps him moving toward completion.
+He expresses that "there’s some good in this world... and it’s worth fighting for"	Sam	Frodo	85	95	Intelligent	Articulating this belief emotionally strengthens Frodo’s resolve at a critical moment.
+He eagerly accepts Gandalf’s call to go (jumped at the call)	Sam	Gandalf's mission	80	85	Intelligent	Enthusiastic acceptance helps launch the quest and leads to his growth and contributions.
+He acts as literal and emotional support for Frodo, staying steadfast despite Ring’s toll	Sam	Frodo	92	98	Intelligent	Long-term support sustains Frodo’s fading strength and sanity with huge benefit to the world.
+He brings up Rosie and his wish to marry her as Mount Doom erupts	Sam	Frodo	70	80	Intelligent	Sharing his personal hope humanizes their struggle and gives both a reason to endure.
+He cooks for the Fellowship as team chef	Sam	Fellowship	75	82	Intelligent	Preparing food keeps the group nourished and cohesive with modest cost to himself.
+He beats up goblins with a frying pan and notes he's getting the hang of it	Sam	Goblins	78	82	Intelligent	Effective fighting improves his confidence and removes immediate threats to the group.
+He is baffled that Sméagol doesn't find potatoes appetizing	Sam	Sméagol	55	55	Intelligent	Mild social friction but essentially neutral; expresses simple preference without effect on outcomes.
+Frodo pushes Sam to dance with Rosie at Bilbo’s party	Frodo	Sam	80	80	Intelligent	Gentle encouragement helps Sam overcome shyness and move toward later happiness with Rosie.
+He dances with Rosie when pushed, later marrying her	Sam	Rosie	90	90	Intelligent	Taking the social risk leads to deep mutual happiness and future family.
+Gandalf makes Sam swear never to leave Frodo	Gandalf	Sam	70	85	Intelligent	The oath binds Sam to Frodo, greatly benefiting the quest while burdening Sam with danger.
+Gandalf gives Sam the call seeing how eager he was	Gandalf	Sam	78	85	Intelligent	Recruiting eager Sam gives the mission a uniquely steadfast ally and offers Sam a meaningful role.

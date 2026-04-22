@@ -1,0 +1,41 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Kills Ana Lucia with her own gun	Michael	Ana Lucia	20	0	Bandit	Murders her to advance his deal to get Walt back, severely harming her and later himself while seeking benefit.
+Accidentally kills Libby when startled	Michael	Libby	10	0	Stupid	Reflexively shoots Libby, gaining no real benefit and causing severe harm to her and later himself.
+Delivers selected survivors to the Others	Michael	Selected survivors (Jack, Kate, Hurley, Sawyer)	25	5	Bandit	Betrays them into a trap to secure Walt’s release, marginally helping himself while gravely endangering them.
+Burns the list the Others gave him	Michael	Survivor group	10	15	Stupid	Destroys potential evidence that could exonerate him or explain his behavior, hurting group understanding and his own position.
+Lies badly about who must go to the Others	Michael	Survivor group	30	20	Bandit	Misleads them under pressure for his agenda, slightly helping his mission while raising suspicion and risk for others.
+Attempts suicide by ramming his car into a wall	Michael	Himself	0	45	Helpless	Tries to kill himself, gravely harming himself while incidentally removing a threat to others.
+Attempts suicide by shooting himself in the head	Michael	Himself	0	45	Helpless	Another direct self-destruction attempt that could only lessen future harm to others.
+Returns to the Island intending to die to atone	Michael	Himself	30	70	Intelligent	Seeks death in a context where his presence may help others and his atonement; costs himself but benefits others’ safety.
+Agrees to be Ben’s mole on Widmore’s freighter	Michael	Freighter crew	40	20	Bandit	Takes a covert role to sabotage the freighter, advancing Ben’s/Island’s goals at the crew’s expense while gaining purpose and proximity to Walt.
+Becomes an effective inside man with detailed intel	Michael	Freighter crew	45	25	Bandit	Secretly gathers and relays extensive personal data, aiding his side while endangering the crew.
+Initially accepts blowing up a freighter full of people	Michael	Freighter crew	35	10	Bandit	Resolves to kill many to protect those on the Island and possibly free himself from guilt, prioritizing his side over strangers’ lives.
+Gets to know freighter crew and starts doubting the plan	Michael	Freighter crew	55	60	Intelligent	Reconsidering mass murder after humanizing the targets improves his moral stance and reduces harm.
+Lets Tom’s argument push him back “on track”	Michael	Freighter crew	40	20	Bandit	Recommits to a deadly mission after rationalization, favoring his group while keeping the crew in danger.
+Confesses killing Ana Lucia and Libby to Walt	Michael	Walt	20	15	Stupid	Unburdens his guilt onto his son without preparing him, damaging both Walt and their relationship without real benefit.
+Leaves Walt with Michael’s mother after confession	Walt	Michael’s mother	40	55	Intelligent	Chooses distance from his unstable, guilty father, improving his own safety and giving his grandmother a relationship.
+Refrains from tearing down Susan and Brian to Walt	Michael	Walt	55	70	Intelligent	Protects Walt’s image of his mother and stepfather despite personal grievances, helping Walt more than himself.
+Returns to the Island as Ben’s inside man (Season 4)	Michael	Ben’s enemies on freighter	40	25	Bandit	Reengages in espionage in a way that aids Ben and his cause while threatening the targeted crew.
+Becomes friends with Locke, Jin, and Sawyer over time	Michael	Locke/Jin/Sawyer	60	65	Intelligent	Overcoming initial conflict yields mutual emotional support and cooperative benefits.
+Warns Hurley et al. about freighter threat (implied by mole role)	Michael	Island survivors	60	70	Intelligent	Using his mole position helps protect his former friends from Widmore’s people.
+Stays under the radar with Walt after leaving the Island	Michael	Walt	35	40	Helpless	Life in hiding keeps Walt physically safe but damages both their freedom and stability.
+Tells Sayid and Desmond “I’m here to die” and cooperates	Michael	Sayid and Desmond	45	65	Intelligent	Accepts a likely fatal role that aids their mission and serves his atonement.
+Stays behind on the Kahana to keep the bomb frozen	Michael	Helicopter passengers	35	80	Intelligent	Sacrifices his life to delay the explosion and save others’ lives.
+Urges Jin to escape and reunite with Sun while he stays	Michael	Jin	40	75	Intelligent	Chooses to face death himself while encouraging Jin to survive and find his family.
+Saves Desmond and Jin by his actions on the freighter	Michael	Desmond and Jin	40	80	Intelligent	Ensures their survival at the cost of his own life.
+Frees Ben after shooting Ana Lucia and Libby	Michael	Ben	35	10	Bandit	Releases the prisoner to honor his deal, seeking Walt’s safety while empowering a dangerous leader.
+Shoots himself in the shoulder as a cover story	Michael	Survivor group	15	10	Stupid	Inflicts serious self-harm and misleads others in a way that soon collapses and worsens trust.
+Stages the scene to make it look like Ben escaped and shot them	Michael	Survivor group	20	15	Bandit	Attempts a frame-up to preserve his cover and deal, briefly protecting himself while deepening group confusion and danger.
+Leads a raft expedition to leave the Island	Michael	Raft group	55	35	Intelligent	Proactively seeks rescue for himself and others, though it inadvertently leads to later harm.
+Unwittingly causes Tailies encounter via raft journey	Michael	Tailies/Shannon	40	5	Stupid	Accidentally triggers a chain of events ending in Shannon’s death without benefit to anyone.
+Volunteers to blow up the freighter for Ben	Michael	Freighter crew	35	20	Bandit	Accepts a suicide-sabotage mission that serves Ben’s and Island’s goals while dooming many on board.
+Asks Hurley’s spirit-visit to relay apology to Libby	Michael	Libby (via Hurley)	60	55	Intelligent	Seeks emotional closure for a victim, gaining some peace while offering her acknowledgment.
+Promises ghost-Michael he’ll tell Libby	Michael (Hurley’s promise makes sense only if Hurley acts)	Michael’s spirit	55	60	Intelligent	Agreeing to carry the message helps Michael move on and gives Hurley a constructive role.
+Keeps Sun’s English a secret until she chooses to reveal it	Michael	Sun	60	70	Intelligent	Respects her autonomy and trust, benefiting their relationship and her agency without real cost to himself.
+Others force Michael into evil acts to free Ben	Others	Michael and survivors	65	5	Bandit	Manipulate him into betrayal, helping their own agenda while harming Michael and the camp.
+Ben orders Michael to blow up the freighter	Ben	Freighter crew	70	10	Bandit	Plans mass murder of adversaries to protect the Island and his power.
+Ben later disclaims responsibility for the killings	Ben	Michael	60	10	Bandit	Shifts blame onto Michael to preserve his own moral and political standing at Michael’s expense.
+Island prevents Michael’s suicide attempts	Island	Michael	35	45	Intelligent	Blocks his self-destruction so he can later help save lives, improving net outcomes.
+Island keeps Michael’s spirit trapped as a whisper	Island	Michael	5	30	Helpless	Imposes a lingering, guilty existence on him while slightly enabling warnings to others.
+Hurley later works with Ben to bring Walt back to help Michael move on	Hurley and Ben	Michael	60	75	Intelligent	Act to free Michael’s spirit and offer closure, benefiting him and the Island’s moral balance.
+Walt returns to the Island to help his father’s spirit	Walt	Michael’s spirit	65	80	Intelligent	Chooses to aid his father’s trapped soul, giving Michael peace and himself closure.

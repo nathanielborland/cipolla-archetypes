@@ -1,0 +1,43 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Sam’s father threatens to personally murder him if he doesn’t join the Night’s Watch	Father	Sam	10	5	Stupid	Gratuitously traumatizes and expels his son, gains only a marginal inheritance “benefit” he could have arranged nonviolently.
+Sam “voluntarily” joins the Night’s Watch under threat of death	Sam	Father	25	60	Helpless	He loses freedom and status but slightly benefits his house by removing succession conflict and gains some long‑term survival.
+Jon intervenes to stop other trainees and Thorne bullying Sam	Jon	Sam	70	65	Intelligent	He risks some conflict but improves Sam’s safety and cohesion in the group.
+Jon threatens a trainee with Ghost at night to ensure Sam isn’t harmed	Jon	Bully	60	20	Bandit	Protects his friend using intimidation that harms/terrorizes another brother.
+Sam spends spare time in the library doing research	Sam	Sam and Night’s Watch	80	80	Intelligent	He improves his knowledge and later uses it to help the Watch with precedents and White Walker info.
+Sam establishes precedent for Jon to become Lord Commander	Sam	Jon and Night’s Watch	70	85	Intelligent	He gains influence and pride while enabling the best candidate to lead, strengthening the Watch.
+Stannis approves Sam’s research into combating White Walkers	Stannis	Realm	65	75	Intelligent	He invests political support in useful knowledge that could help defeat a common enemy.
+Sam attempts to save Pyp after Ygritte shoots him with an arrow	Sam	Pyp	40	70	Helpless	Emotionally painful with little chance of success, but it’s a selfless attempt to preserve a friend’s life.
+Sam collects all dragonglass daggers and arrowheads at the Fist of the First Men	Sam	Night’s Watch	75	85	Intelligent	He expends effort to secure resources that later prove crucial in killing White Walkers.
+Sam converts from Faith of the Seven to the Old Gods	Sam	Sam	55	55	Intelligent	Personal spiritual realignment gives him internal coherence with neutral effect on others.
+Sam falls in love with Gilly, a Wildling girl	Sam	Gilly	70	70	Intelligent	The bond brings mutual emotional support and protection without harming others.
+Sam owns and keeps a dragonglass dagger	Sam	White Walker	70	75	Intelligent	Retaining the weapon later allows him to kill a White Walker, aiding everyone.
+Sam uses dragonglass dagger to slay a White Walker	Sam	White Walker	85	90	Intelligent	He survives and gains status while removing a highly dangerous enemy threatening others.
+Sam’s father plans a “hunting accident” for him if he doesn’t take the black	Father	Sam	10	0	Stupid	Plotting filicide for inheritance optics is pure harm with negligible rational gain.
+Sam chooses to help Gilly because the Watch should protect people	Sam	Gilly	70	85	Intelligent	He risks censure but lives his values and actively aids a vulnerable person.
+Sam takes a “go through me” stance when men try to rape Gilly	Sam	Attempted rapists	60	80	Intelligent	He endures a beating to resist sexual violence and uphold duty to protect.
+Two sworn brothers beat Sam for defending Gilly	Two brothers	Sam	45	5	Bandit	They express power and sadism at the cost of discipline and trust in the Watch.
+Ghost intervenes and stops the brothers assaulting Sam and Gilly	Ghost	Two brothers	70	75	Intelligent	Ghost protects allies and deters attackers with minimal downside.
+Sam takes House Tarly’s Valyrian steel sword Heartsbane when leaving Horn Hill	Sam	House Tarly	65	60	Intelligent	He gains a vital anti‑White Walker weapon while slightly harming his house’s armory.
+Sam escapes Horn Hill with Gilly, defying his abusive father	Sam	Father	75	80	Intelligent	He secures safety and dignity for himself and Gilly, reducing their exposure to abuse.
+Sam defends Gilly and her baby from a White Walker (“Papa Wolf”)	Sam	White Walker	80	90	Intelligent	He risks his life but successfully protects his family from supernatural threat.
+Sam acts as parental substitute to Gilly’s baby	Sam	Baby	75	80	Intelligent	He gains family and purpose while providing care and stability for the child.
+Sam re‑reads the Night’s Watch oath to find a loophole for sex	Sam	Night’s Watch norms	65	55	Bandit	He personally benefits from intimacy while quietly bending communal rules.
+Sam voluntarily joins the defense in “Watchers on the Wall” instead of hiding	Sam	Night’s Watch	80	85	Intelligent	He risks death but contributes meaningfully to the battle and his self‑respect.
+Sam reloads crossbows and supports the defenders during the battle	Sam	Defenders of the Wall	75	85	Intelligent	He plays to his strengths, bolstering the fight with relatively low personal risk.
+Sam runs through arrow‑fire for reinforcements after Alliser falls	Sam	Night’s Watch	70	85	Intelligent	He endangers himself to bring help, improving the Wall’s chances of holding.
+Sam kills a charging Thenn with a crossbow headshot	Sam	Thenn warrior	80	80	Intelligent	He saves himself and comrades by eliminating an immediate threat.
+Sam nominates Jon as Lord Commander and makes the case for him	Sam	Jon and Night’s Watch	75	90	Intelligent	He boosts his friend into leadership and greatly improves the institution’s direction.
+Sam gives a pep‑talk to a terrified Olly, inspiring him to fight	Sam	Olly	60	40	Bandit	He boosts morale and defense, but it indirectly leads to Ygritte’s death and Jon’s loss.
+Sam reminds Maester Aemon of their real cause to justify helping Gilly	Sam	Maester Aemon	70	70	Intelligent	He risks rebuke but reorients their duty toward protecting the vulnerable.
+Sam shames Janos Slynt for his cowardice with a “Shut Up, Hannibal!”	Sam	Janos Slynt	65	70	Intelligent	He gains respect while reinforcing norms of courage and exposing hypocrisy.
+Sam stays visibly polite when farewelling Daenerys after she kills his kin	Sam	Daenerys	60	55	Intelligent	He manages his anger strategically, preserving his safety and some political capital.
+Sam runs to take Gilly away when Mormont is attacked, forgetting Edd and Grenn	Sam	Gilly	55	40	Bandit	He prioritizes his loved ones’ safety while leaving comrades in chaos.
+Edd stops to help an overwhelmed Sam during “The Long Night” and dies as a result	Edd	Sam	20	65	Helpless	He sacrifices his life to rescue Sam, who gains survival at a great cost to his helper.
+Sam decides to go to the front lines at Winterfell, leaving crypts less defended	Sam	Women and children in crypts	45	30	Bandit	He asserts agency and fights, but his absence helps leave noncombatants exposed to wights.
+Sam abandons the Citadel, disillusioned with the Archmaesters’ passivity	Sam	Citadel	65	70	Intelligent	He loses formal training but moves to where he can actually help against the threat.
+Sam repeatedly tries to convince the maesters to take the Army of the Dead seriously	Sam	Archmaesters	60	80	Intelligent	He risks his standing to push for preparations that could save countless lives.
+The maesters refuse to take the threat seriously and choose passivity	Archmaesters	Realm	55	10	Stupid	They preserve short‑term comfort and status but endanger the world by inaction.
+Sam steals tomes and scrolls from the forbidden archives	Sam	Citadel knowledge store	60	80	Intelligent	He risks expulsion to get vital information to where it might save humanity.
+Sam flees south‑to‑north with the stolen texts to reach Winterfell	Sam	North/Realm	70	85	Intelligent	He abandons his dream career but increases the chances of defeating the undead.
+Sam turns his back on the Citadel library and rides to war because Jon needs him	Sam	Jon and allied forces	70	90	Intelligent	He sacrifices personal ambition to support leadership in the existential war.
+Sam keeps Undying Loyalty to Jon, including going beyond the Wall for vows	Sam	Jon	65	75	Intelligent	He incurs grave danger to back a worthy leader, strengthening their cause.

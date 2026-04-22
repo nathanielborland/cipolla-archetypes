@@ -1,0 +1,40 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Lectures rookies on importance of smart detective work over violent busts	Aesop Amnesia (Herc)	Rookie detectives	55	65	Intelligent	Passing on a better policing approach helps rookies and slightly improves his standing as a mentor.
+Ignores his own lesson and returns to haphazard violent busts	Herc	Suspects / public	60	20	Bandit	He gets the kind of action he likes but undercuts effective policing and harms community.
+Complains about police paperwork when doing property seizures	Herc	Himself / department	40	40	Stupid	His aversion to bureaucracy discourages him from better policing with no clear gain.
+Asks to be the person briefing Major Crimes as sergeant	Herc	Major Crimes unit	55	45	Bandit	He seeks status without competence, offering little benefit and risking confusion.
+Ignores Herc’s request to brief Major Crimes	Lester	Herc	60	55	Intelligent	Lester preserves briefing quality and mildly harms Herc’s ego but helps the unit.
+Accidentally reveals Randy talked to police when interrogating Little Kevin	Herc	Randy	30	5	Stupid	His loose talk gains him no clear leverage and devastates Randy’s life.
+Eagerly roughs up suspects as primary policing method	Herc	Suspects	65	10	Bandit	He indulges his strength/temper while routinely harming suspects and investigations.
+Favors physical solutions to departmental problems	Herc	Department / suspects	55	25	Bandit	He enjoys the work and sometimes “gets results” but undermines smart policing.
+Steals money from a drug stash during a bust	Herc	Drug organization / state	75	15	Bandit	He personally profits while corrupting the operation and evidence integrity.
+Throws some stolen stash money to Carver	Herc	Carver	65	20	Bandit	He shares illicit gain but further implicates a colleague and corrupts policing.
+Steals an expensive police camera without approval	Herc	BPD / courts	40	20	Stupid	Short-term convenience or thrill leads directly to his firing and harms department.
+Gets fired because of the stolen camera incident	BPD leadership	Herc	20	60	Intelligent	Firing him seriously harms his career but protects institutional integrity.
+Blows the whistle on Hamsterdam’s downward spiral to a reporter	Herc	Police command / Hamsterdam project	45	35	Helpless	His disclosure hurts his own career and collapses an experiment that had mixed benefits.
+Works for Levy as an investigator after firing	Herc	Levy’s clients / BPD cases	80	30	Bandit	He gains high pay and perks by undermining prosecutions and aiding criminals.
+Indirectly enables Levy to free Marlo	Herc	Marlo case victims / city	70	5	Bandit	He secures a valued role for himself while facilitating a major criminal’s release.
+Keeps silent about Mayor Royce’s sexual misconduct after Valchek’s counsel	Herc	Mayor Royce / public	70	30	Bandit	He trades silence for a career boost while perpetuating official misconduct.
+Mayor Royce rewards Herc with promotion and transfer for his silence	Mayor Royce	Herc	80	20	Bandit	The Mayor secures his own protection while promoting an incompetent officer.
+Searches and roughs up a minister’s car on a false tip	Herc	Minister / community	30	5	Stupid	He gets no lasting benefit and triggers complaints and political fallout.
+Makes a racist faux pas while wrongfully detaining the black minister	Herc	Black minister / clergy	30	5	Stupid	He damages community relations and his own reputation without gain.
+Ministers complain and demand Herc’s head for his actions	Ministers	Herc / BPD	40	60	Intelligent	They successfully press for accountability, harming his career but improving norms.
+Ruins Randy’s life through careless interrogation of Little Kevin	Herc	Randy	25	0	Stupid	The outcome is catastrophic for Randy and yields Herc no lasting advantage.
+Loses a police camera he took without authorization	Herc	BPD / courts	35	10	Stupid	Misusing and losing the device hurts his career and the department’s casework.
+Pisses off pillars of the community, sparking a minor political crisis	Herc	Mayor / BPD leadership	35	20	Stupid	He gains nothing and creates headaches for political and police leadership.
+Is dismissed from the BPD after accumulated screwups	BPD leadership	Herc	25	65	Intelligent	His removal harms him but protects the department and public from further damage.
+Engages in repeated acts of police brutality generating complaints	Herc	Suspects / community	55	10	Bandit	He gratifies his violent impulses while causing physical and civil-rights harm.
+Apologizes to Bodie’s grandmother for the raid and foul language	Herc	Bodie’s grandmother	55	65	Intelligent	The apology costs him little but repairs some trust and respect.
+Takes the fall to Internal Affairs without dragging others in	Herc	Colleagues / himself	40	70	Helpless	He accepts career damage to shield coworkers from similar or worse consequences.
+Supports Carver’s decision to report Colicchio to IID	Herc	Carver / civilian victim	60	75	Intelligent	He encourages ethical action that helps victims and Carver’s integrity with little cost to himself.
+Voices regret about having been a violent and incompetent cop	Herc	Himself / Carver	55	65	Intelligent	Honest reflection aids his growth and supports Carver’s moral stance.
+Admits to Carver he was a useless, brutal police and wishes he’d done better	Herc	Himself / Carver	60	70	Intelligent	Deeper self-critique promotes long-term self-improvement and validates Carver’s path.
+Drives on the Mayor’s detail as his role	Herc	Mayor	55	55	Intelligent	He performs a basic protective service competently, with neutral-to-modest benefit.
+Abruptly surprises Royce during sexual activity while on detail	Herc	Mayor Royce	45	40	Stupid	His clumsiness creates mutual embarrassment with no upside beyond accidental leverage.
+Transfers away from MCU due to frustration with lowly surveillance	Herc	Himself / MCU	60	45	Bandit	He seeks more exciting work for himself at the cost of leaving where he fit best.
+Returns to MCU after failing to earn respect elsewhere	Herc	MCU	45	50	Helpless	The move signals his lack of progress and doesn’t clearly help the unit.
+Reveals Randy’s cooperation by over-sharing leverage with Little Kevin	Herc	Randy / investigation	30	5	Stupid	His loose lips wreck an informant’s life without yielding a strong case.
+Goes to work for Levy and helps Marlo “walk” on charges	Herc	Court system / citizens	80	20	Bandit	He gains lucrative employment while undermining justice and public safety.
+Buys drinks for former cop friends so Levy can pump them for information	Herc	Police colleagues	75	25	Bandit	He enjoys socializing and perks while compromising colleagues’ discretion.
+Levy uses Herc’s access to extract inside information from cops	Levy	BPD investigations	85	15	Bandit	Levy profits from insider knowledge while weakening active cases.
+Accepts invitation into Levy’s inner circle and “family”	Herc	Justice system	85	25	Bandit	He secures long-term high-status benefits while continuing to aid a defense manipulator.

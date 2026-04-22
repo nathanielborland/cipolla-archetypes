@@ -1,0 +1,18 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Saving Carter from the bucking horse (getting fatally wounded in the process)	He (the character who dies)	Carter	10	90	Intelligent	Sacrifices his life to save Carter, extreme self-harm with great benefit to Carter.
+Bucking horse fatally wounding him	Bucking horse	Him	15	40	Stupid	The horse harms him severely with no clear benefit to itself or others.
+Skinny-dipping with Teeter	Colby	Colby & Teeter	60	60	Intelligent	Mutual leisure/romantic activity that benefits both without shown harm.
+Skinny-dipping with Colby	Teeter	Teeter & Colby	60	60	Intelligent	Shared intimate activity that provides mutual enjoyment and bonding.
+Attacking them near the river (nearly killing Colby)	Wade Morrow's men	Colby	10	5	Stupid	They inflict serious harm/risk on Colby with no stated benefit in this excerpt.
+Attacking them near the river (nearly killing Teeter)	Wade Morrow's men	Teeter	10	5	Stupid	They nearly kill Teeter without any described gain or strategic payoff here.
+Rushing half-dressed to find warmth by a fire	Colby	Colby & Teeter	55	55	Intelligent	Pragmatic move to avoid further harm and stay alive, helps both.
+Rushing half-dressed to find warmth by a fire	Teeter	Teeter & Colby	55	55	Intelligent	Same survival action, mutually protective and beneficial.
+Rescuing them in the morning	Rip & other ranchers	Colby & Teeter	70	85	Intelligent	Saving colleagues from potentially fatal exposure, strong help to others with modest self-risk.
+Carrying on a secret romantic relationship	Colby	Colby & Teeter	70	70	Intelligent	Mutual emotional/romantic benefit with no indicated harm.
+Carrying on a secret romantic relationship	Teeter	Teeter & Colby	70	70	Intelligent	Shared, reciprocated relationship that benefits both.
+Colby racing outside to tell Teeter goodbye	Colby	Teeter & Colby	75	70	Intelligent	Emotional honesty strengthens their bond before separation, no harm.
+Teeter whispering that she loves him	Teeter	Colby & Teeter	80	75	Intelligent	Affirming love benefits both emotionally and solidifies their relationship.
+Teeter openly flirting with Colby in front of others	Teeter	Colby	65	40	Bandit	She pursues her attraction and enjoyment while causing him social/emotional discomfort.
+Colby acting aloof and dismissive toward Teeter’s advances	Colby	Teeter	45	35	Bandit	He protects his comfort/reputation somewhat while discouraging and hurting her feelings.
+Colby rescuing Teeter after their encounter with Wade Morrow at the river	Colby	Teeter	75	85	Intelligent	He incurs risk to save her from danger, strongly benefiting her and modestly affirming his own values/relationship.
+Acting as half of the comedic duo commenting on ranch events	Colby	Other ranchers / audience	65	70	Intelligent	Provides levity and social cohesion while also giving him a role and status benefit.

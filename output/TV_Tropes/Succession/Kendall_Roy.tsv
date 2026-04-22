@@ -1,0 +1,81 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Takes over company as acting CEO after Logan’s stroke	Kendall	Logan/Waystar	65	60	Intelligent	Gains power and keeps company running despite later risks.
+Struts around office emulating Logan as CEO	Kendall	Waystar staff	40	30	Bandit	Inflates ego while degrading leadership quality and stability.
+Partners with Stewy, putting company at risk	Kendall	Waystar	30	20	Bandit	Gains short‑term leverage but endangers company long‑term.
+Exposes cruises scandal publicly	Kendall	Waystar executives	35	25	Bandit	Boosts his own position/moral image while severely harming company and colleagues.
+Throws wild celebratory parties after exposure	Kendall	Himself/associates	20	30	Helpless	Self‑destructive partying mildly benefits hangers‑on.
+Ignores legal team’s advice	Kendall	His own legal team	15	20	Stupid	Undermines his own case and adds risk for everyone.
+Makes PR attempts to paint himself as social‑justice martyr	Kendall	Public	25	35	Bandit	Chases image with little gain while worsening credibility and case optics.
+Reverts to arrogant “season 1” self after believing he has CEO role	Kendall	Siblings/board	10	20	Stupid	Directly sabotages his own near‑certain CEO win and alienates others.
+Shiv votes against him for CEO	Shiv	Kendall	60	30	Bandit	Protects herself/company from his instability at heavy cost to him.
+Spends majority of time as strung‑out, suicidal kleptomaniac	Kendall	Himself	5	40	Helpless	Severe self‑harm with incidental benefits to people he gifts/stole for.
+Shits his own bed after bender	Kendall	Himself	0	60	Helpless	Pure self‑harm with only trivial impact on others.
+Mocks Connor for shitting on camping trip	Kendall	Connor	60	30	Bandit	Entertains himself/others at Connor’s expense.
+Frequently apologizes to Logan when cowed	Kendall	Logan	20	40	Helpless	Reinforces his own subservience while marginally placating Logan.
+Attempts suicide / contemplates repeatedly	Kendall	Himself	0	70	Helpless	Harms himself; others only marginally “benefit” via reduced burden.
+Uses addiction and self‑destruction after Humiliation Conga	Kendall	Himself	5	40	Helpless	Ongoing self‑harm with limited external fallout.
+Works behind Logan’s back to oust him	Kendall	Logan	55	30	Bandit	If successful he’d gain power while harming father’s position.
+Drunk‑drives with waiter and crashes into lake	Kendall	Waiter	10	0	Stupid	Endangers self and kills another with no net benefit.
+Tries multiple times to dive to save waiter	Kendall	Waiter	40	60	Intelligent	Risks self to attempt saving another.
+Flees crash scene to avoid responsibility	Kendall	Authorities / victim’s family	30	5	Bandit	Protects himself legally while deeply harming justice for victim.
+Accepts Logan’s blackmail and becomes subservient	Kendall	Logan	15	40	Helpless	Saves himself from prison but destroys autonomy and mental health.
+Agrees to be “blood sacrifice” for cruises scandal	Kendall	Waystar	20	65	Helpless	Offers himself as scapegoat, shielding company while ruining his own standing.
+Later refuses to be fall guy and betrays Logan on TV	Kendall	Logan	60	20	Bandit	Reclaims agency/position while wrecking his father’s.
+Uses known weakness to collect info as Logan’s Dragon	Kendall	Targets of biography	55	25	Bandit	Advances his and Logan’s power while harming unwary talkers.
+Calls Lawrence, insults him to provoke negative story	Kendall	Waystar (indirect)	50	30	Bandit	Gets the damaging story he wants while hurting company reputation.
+Cries when people are kind to him	Kendall	Comforters	40	55	Intelligent	Emotional release and bonding with others who mean well.
+Has belated love epiphany about Rava	Kendall	Himself	30	55	Intelligent	Gains self‑knowledge but no material benefit; helps respect her autonomy.
+Pretends to be cool crusader in Season 3 while panicking	Kendall	Public associates	25	35	Bandit	Thin self‑image boost while misleading allies about his stability.
+Explodes when dismissed as “mentally disturbed”	Kendall	Karl	35	30	Bandit	Regains some dignity but looks volatile and easier to manipulate.
+Attacks Roman over infertility insult	Kendall	Roman	10	10	Stupid	Damages himself and Roman and wrecks sibling alliance.
+Plays “Rape Me” at Shiv’s press conference	Kendall	Shiv	20	5	Stupid	Humiliates his sister and his own cause with no gain.
+Yells at Logan for hitting Roman and comforts Roman	Kendall	Logan	65	70	Intelligent	Protects brother at some risk to his own standing.
+Yells at Logan for making Shiv cry	Kendall	Logan	60	65	Intelligent	Stands up for Shiv while risking father’s wrath.
+Scolds Tom for disrespecting Shiv and offers to “take him down”	Kendall	Tom	55	60	Intelligent	Backs his sister and potentially deters Tom at minor personal cost.
+Comforts Shiv after Logan’s death	Kendall	Shiv	60	70	Intelligent	Provides support and deepens sibling bond with some self‑soothing too.
+Bonds with Naomi over shared drug issues	Kendall	Naomi	40	40	Intelligent	Mutual emotional relief despite destructive context.
+Is repeatedly broken by Logan’s abuse and returns to him	Kendall	Himself	10	40	Helpless	Perpetuates his own suffering while preserving Logan’s control.
+Orders closure of Vaulter to please Logan	Kendall	Vaulter employees	25	10	Bandit	Buys limited favor from Logan while devastating many workers.
+Lets Logan’s mild affection make him hesitate on no‑confidence vote	Kendall	Logan	20	30	Helpless	Sabotages his own strategic move to indulge need for love.
+Blackmails himself emotionally into martyr pose over cruises	Kendall	Himself	25	35	Helpless	Continues self‑flagellation while modestly advancing victims’ exposure.
+Backs out of being true Atoner and defends his dad	Kendall	Assault victims	30	25	Bandit	Protects himself/family while undercutting justice.
+Frequently causes drama to gain attention	Kendall	Family/Public	25	20	Bandit	Satisfies attention craving while stressing and harming others.
+Goes off the wagon after failed no‑confidence vote	Kendall	Himself	10	60	Helpless	Deeply harms himself; others only loosely affected.
+Steals items during klepto phase	Kendall	Owners of items	20	30	Bandit	Briefly soothes himself while harming victims of theft.
+Takes drugs with dangerous meth head group	Kendall	Himself	5	50	Helpless	Extreme self‑endangerment with negligible effect on others.
+Almost overdoses out of spite when Greg sent to babysit	Kendall	Greg	5	40	Helpless	Risks killing himself to scare/hurt others slightly.
+Almost drowns himself in pool	Kendall	Himself	0	60	Helpless	Suicide attempt solely harms him while lightly affecting observers.
+Contemplates jumping off office roof in Season 2	Kendall	Himself	5	60	Helpless	Suicidal ideation harms him; minor burden on others.
+Attempts to leave company and asks Logan to let him go	Kendall	Logan	60	45	Intelligent	Tries to free himself from abuse, arguably healthier for both.
+Logan refusing to buy him out to retain control	Logan	Kendall	80	5	Bandit	Retains power through Kendall’s suffering.
+Initially rats out Roman and Shiv in “Hunting”	Kendall	Roman and Shiv	40	10	Bandit	Slightly improves his standing with Logan by selling out siblings.
+Reports back when people speak against Logan to “hang themselves”	Kendall	Targets/Logan	55	20	Bandit	Strengthens his utility to Logan while harming those who spoke freely.
+Allows Logan to use his son Iverson as power‑play piece	Kendall	Iverson	15	20	Helpless	Submits to Logan, failing to protect his child.
+Lashes out at Logan after Logan hits Iverson	Kendall	Logan	65	70	Intelligent	Risks relationship with father to defend his son.
+Insists kids shouldn’t be around Logan	Kendall	Logan	70	70	Intelligent	Protects children and asserts healthy boundary at some personal cost.
+Gives free cereal and small perks to lower employees	Kendall	Lower staff	55	70	Intelligent	Gains some goodwill while materially helping staff at low cost.
+Pays more attention to staff, sometimes to retraumatize himself	Kendall	Staff	40	60	Intelligent	Feeds his guilt but also humanizes workers and aids relations.
+Ruins Dust by branding them coke addicts	Kendall	Dust artists	25	5	Stupid	Torches their reputation over hurt pride with minimal gain.
+Orders Frank to spread that Dust girls are “junkies and sluts”	Kendall	Dust women	25	5	Stupid	Amplifies their harm without concrete benefit to himself.
+Takes theatre actor to Dundee, disrupting Connor/Willa’s play	Kendall	Connor & Willa	25	10	Bandit	Satisfies his own whims and optics while sabotaging their production.
+Breaks up with Dundee girlfriend over saying “awesome”	Kendall	Girlfriend	55	35	Bandit	Frees himself from minor annoyance at cost to her and play.
+Tells Rava they should reunite because otherwise he’ll be unhappy	Kendall	Rava	40	30	Bandit	Attempts to secure his comfort while dismissing her happiness.
+Cancels second cringe performance before it happens	Kendall	Himself/audience	60	65	Intelligent	Spares himself and others from humiliation.
+Publicly calls out Logan on live TV in S2 finale	Kendall	Logan	70	40	Bandit	Frees himself and gains moral capital while gravely injuring Logan and company.
+Demolishes Logan’s bathroom in tantrum, then cleans it	Kendall	Logan	30	40	Helpless	Brief catharsis followed by subservience; little net benefit.
+Becomes Logan’s “number one enforcer” after blackmail	Kendall	Logan	20	30	Helpless	Keeps status and safety while degrading his autonomy and hurting others for Logan.
+Gets close to snorting enough coke “so his heart would explode”	Kendall	Himself	0	55	Helpless	Targets only himself with lethal intent.
+Chooses to burn Vaulter despite misgivings	Kendall	Vaulter staff	25	10	Bandit	Buys Logan’s favor/discipline at huge cost to employees.
+Willingness to take fall for cruises as atonement for waiter	Kendall	Waystar	20	65	Helpless	Offers himself up, slightly easing his guilt and greatly protecting company.
+Secretly wants justice for cruises victims while seeking revenge	Kendall	Victims/Logan	40	50	Intelligent	Mixed motives still bring real exposure and potential redress.
+Confesses waiter killing to Shiv and Roman in S3 finale	Kendall	Shiv & Roman	45	80	Intelligent	Harms his image but gains support and gives siblings truth.
+Later denies killing waiter in S4 to win CEO vote	Kendall	Shiv & Roman	15	5	Stupid	Undermines his own integrity and destroys sibling trust without gain.
+Gives strong Living+ investor presentation	Kendall	Investors/Waystar	70	75	Intelligent	Improves his standing and company value.
+Delivers powerful off‑the‑cuff eulogy at Logan’s funeral	Kendall	Family/public	70	80	Intelligent	Strengthens his stature and helps others process grief.
+Buys Pierce jointly with siblings	Kendall	Pierce owners	75	75	Intelligent	All siblings gain a win and target gains a lucrative deal.
+Lets mania guide birthday party into humiliating spectacle	Kendall	Himself/guests	20	30	Helpless	Primarily self‑destructive with awkward impact on others.
+Asks Shiv to look after him if she becomes CEO	Kendall	Shiv	45	60	Intelligent	Shows vulnerability and trust, strengthening sibling bond.
+Asks Shiv and Roman to back him as CEO in finale	Kendall	Shiv & Roman	40	30	Bandit	Attempts to secure power using familial leverage, destabilizing them.
+Strikes Roman during final confrontation	Kendall	Roman	10	10	Stupid	Physical attack damages both brothers and their alliance.
+Pushes through grief to comfort Shiv and Roman after Logan’s death	Kendall	Shiv & Roman	65	80	Intelligent	Uses his own pain to support and unify siblings.
+Contemplates suicide by river at series end	Kendall	Himself	5	65	Helpless	Suicidal ideation solely harms him; siblings worry but are free of his power quest.

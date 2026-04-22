@@ -1,0 +1,25 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Selena constantly demeans Mike	Selena	Mike	55	10	Bandit	Selena gains emotional dominance/relief while repeatedly harming Mike’s well‑being.
+Mike stuffs his face whenever there is food around	Mike	Mike	25	45	Helpless	Overeating harms his health with no clear benefit to others.
+Jonah warns Mike his lungs will turn into pastry	Jonah	Mike	52	48	Intelligent	Hyperbolic warning may nudge Mike toward better habits with little cost to Jonah.
+Mike tries to eat more healthily at his wife's insistence	Mike	Mike	80	65	Intelligent	Changing diet significantly benefits his health and slightly benefits family/colleagues.
+Mike’s wife insists he eat more healthily	Mike’s wife	Mike	70	80	Intelligent	She exerts effort to improve his health, benefiting him and their relationship.
+Dan mocks Mike’s attempt to be healthy	Dan	Mike	55	20	Bandit	Dan gains amusement/status while discouraging Mike and harming him emotionally.
+Mike performs “Bullshitzu” (BS maneuvers) in situations	Mike	Others involved	40	30	Bandit	His spin tactics sometimes protect him but often mislead and complicate things for others.
+Mike uses sarcastic humor in team situations	Mike	Team/others	60	45	Bandit	His snark gives him coping/status gains but often undercuts or needles others.
+Mike repeatedly screws up at his job	Mike	Selina/administration	30	20	Stupid	His incompetence undermines his career and the team with little offsetting gain.
+Mike effectively schmoozes press to make administration likable	Mike	Selina/administration	75	80	Intelligent	He leverages social skills to improve both his standing and the administration’s image.
+Mike gets Selina to cry in an interview to make her look sympathetic	Mike	Selina	35	25	Stupid	Plan backfires when journalist sees through it, damaging him professionally and her image.
+Mike hypothetically suggests Tom Hanks might die as a PR distraction	Mike	Team/others	45	15	Stupid	The remark horrifies everyone and offers him no real benefit, only reputational harm.
+Mike rebuffs only the “bad in a fire” insult	Mike	Selena	55	40	Bandit	He preserves a sliver of self-respect but offers no help and mildly irritates/baffles Selina.
+Mike ignores scandals when the Veeple People learn about them	Mike	Selina/team	35	25	Stupid	Denial impairs crisis response and his job security without benefiting him.
+Mike complains “Christ, I hate knowledge” about learning scandals	Mike	Mike	40	30	Helpless	Rejecting information weakens his competence while only minimally easing his discomfort.
+Mike accidentally emails Kent’s sensitive polling to the entire West Wing	Mike	Administration/West Wing	20	10	Stupid	The leak escalates scandal risk and threatens his job, harming both him and others.
+Anthony describes Mike as a “gay Irish fireman”	Anthony	Mike	55	40	Bandit	Anthony gains a colorful line/social amusement while subjecting Mike to awkward labeling.
+Mike repeatedly tries to get rid of his boat in season 2	Mike	Mike	45	55	Helpless	His ongoing struggle wastes his effort and resources, with modest benefit in reducing future hassle.
+Mike falls for a blatantly obvious pyramid scheme	Mike	Scheme operators	10	20	Helpless	He loses money/time to benefit the scammers, clearly harming himself.
+Selina keeps Mike on despite his PR incompetence	Selina	Selina/administration	35	25	Stupid	Retaining him sustains scandals and weakens her position without clear benefit.
+Selina decides to find a new Press Secretary to replace Mike	Selina	Selina/administration	65	70	Intelligent	Seeking a competent replacement would improve her image and operations if completed.
+Selina’s re-election loss prevents replacing Mike as Press Secretary	Electoral outcome	Selina	20	30	Helpless	The loss harms her career and blocks the potentially beneficial staff change.
+Selina excludes Mike from her new presidential campaign team in season 6	Selina	Mike	70	30	Bandit	Selina gains by removing an incompetent liability while harming Mike’s career prospects.
+Mike gets Selina to cry on camera to play up sympathy (Wounded Gazelle variant)	Mike	Selina	35	25	Stupid	Again, the gambit backfires, damaging both his professional standing and her image.

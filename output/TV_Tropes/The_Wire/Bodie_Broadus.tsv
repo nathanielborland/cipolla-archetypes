@@ -1,0 +1,50 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Organizes a posse with Poot to defend the Pit using a bat	Bodie	Rival dealers	60	10	Bandit	Strengthens his own crew’s position and income while escalating violence against rivals.
+Repeatedly outsmarts the police in his dealing	Bodie	Police	70	20	Bandit	Protects himself and his operation at the expense of law enforcement’s efforts to curb crime.
+Plays friendly pool with Herc and Carver after being beaten and arrested	Bodie	Herc and Carver	40	40	Helpless	Builds rapport but only after suffering a serious beating and arrest, with limited broader benefit.
+Organizes defense of the Pit with Poot	Poot	Rival dealers	60	10	Bandit	Helps secure their territory for profit while contributing to violent turf conflict.
+Kills Wallace on Stringer’s orders	Bodie	Wallace	20	0	Stupid	Gains only a short‑term, hollow promotion while destroying a close friend and deepening his own trauma.
+Kills Wallace on Stringer’s orders	Poot	Wallace	30	0	Bandit	Obeys orders and preserves his own standing while helping murder a friend.
+Rallies to defend the Pit in finale (general crew action)	Bodie’s posse	Rival upstarts	55	15	Bandit	Protects their trade and income while fostering more violence and fear.
+Escapes juvenile hall using a mop bucket disguise	Bodie	Juvenile facility	65	20	Bandit	Improves his own situation by escaping custody, undermining the facility’s control.
+Takes initiative to fight another crew for territory when business is bad	Bodie	Rival crew	55	15	Bandit	Aims to improve his crew’s position and product flow while escalating conflict.
+Escalates street brawl into a shootout where an innocent boy is killed	Bodie	Bystander boy	10	0	Stupid	Brings heavy police heat and guilt on himself while an uninvolved child dies.
+Chastises Bodie for causing the boy’s death	Stringer	Bodie	55	30	Intelligent	Reasserts control and teaches limits, mildly checking Bodie’s recklessness and protecting the organization.
+Keeps working hard for Barksdales believing effort leads to promotion	Bodie	Barksdale organization	40	30	Helpless	Benefits the organization’s stability while trapping himself in a rigged system with little return.
+Kills rival gangsters in conflicts (non‑Wallace violence)	Bodie	Rival gangsters	60	10	Bandit	Protects his crew and standing while harming others in the game.
+Gets enraged at Little Kevin’s body being pulled from a vacant and denounces Marlo	Bodie	Marlo / his practices	35	40	Helpless	Expresses moral outrage that costs him standing and draws attention but offers some truth and solidarity to others.
+Vents anger by breaking a police car window	Bodie	Police	20	10	Stupid	Feels brief catharsis while inviting arrest and trouble, and damaging public property.
+Scuffles with cops after breaking the window	Bodie	Police	15	15	Stupid	Further worsens his legal situation and provokes physical conflict with no real upside.
+Gets McNulty to have the charges dropped	Bodie	Himself	70	30	Intelligent	Regains freedom and avoids a case while minimally burdening the system via McNulty’s discretion.
+Drives Bodie from prison after getting charges dropped	McNulty	Bodie	55	45	Intelligent	Builds a cooperative relationship and advances his own investigative interests while helping Bodie immediately.
+Decides to go out fighting when he realizes Chris and Snoop are hunting him	Bodie	Chris and Snoop	25	10	Stupid	Chooses a stance that ensures his death while inflicting only marginal resistance.
+Stands his ground on his corner instead of running	Bodie	Himself	20	20	Stupid	Affirms pride and code but sacrifices any chance of survival with little broader effect.
+Engages Chris and Snoop in a last stand gunfight	Bodie	Chris and Snoop	25	10	Stupid	Inflicts some threat and symbolic defiance while all but guaranteeing his own death.
+Shoots at Chris and Snoop diagonally like a pawn	Bodie	Chris and Snoop	25	10	Stupid	Slight tactical move that doesn’t materially change his doomed outcome.
+Kills Bodie with two bullets to the back of the head	O-Dog	Bodie	50	5	Bandit	Carries out an execution that secures his standing in Stanfield’s crew at the cost of another life.
+Successfully alleges “contrapment” after Hamsterdam arrest	Bodie	Police case	75	30	Intelligent	Uses street‑level legal insight to escape charges, forcing police to drop a weak case.
+Treats Bodie with amused respect as “Mr. Entrapment”	McNulty	Bodie	55	45	Intelligent	Builds rapport with a useful informant prospect while acknowledging Bodie’s savvy.
+Expresses disgust at Marlo’s brutality and denounces his killings	Bodie	Marlo / “anybody that thinks it’s alright”	35	45	Helpless	Speaks moral truth and solidarity while making himself a target and gaining little immediate safety.
+Works hard, honest, and loyal for higher‑ups	Bodie	Barksdale leadership	40	35	Helpless	Sustains the organization and protects others on his crew while remaining exploited and discarded.
+Decides he must inform on Marlo despite his own anti‑snitch code	Bodie	Stanfield organization	30	40	Helpless	Sacrifices personal safety and core identity to try to stop a more ruthless regime, with only potential benefit to others.
+Offers to “do what I gotta” and refuses to “live on my knees”	Bodie	Himself	30	40	Helpless	Chooses a risky, principled stand that may help bring Marlo down but almost certainly endangers him.
+Secretly follows Bodie’s Philly run as a test of character	Stringer	Bodie	60	45	Intelligent	Evaluates and trains a promising subordinate, strengthening both Bodie’s skills and Stringer’s trust.
+Chooses a detour through construction during the test run	Bodie	Himself / Stringer	70	50	Intelligent	Shows adaptive thinking, impressing Stringer and proving his own competence under pressure.
+Sees through Herc and Carver’s bad cop/good cop routine	Bodie	Herc and Carver	70	40	Bandit	Protects himself in interrogation using street smarts while undercutting the officers’ strategy.
+Uses his entrapment argument to get off after Hamsterdam	Bodie	Prosecution	75	30	Intelligent	Secures his own freedom using a legal concept in his favor with limited systemic harm.
+Speaks with McNulty about being “pawns” and the game being rigged	Bodie	McNulty	40	55	Helpless	Exposes his own disillusionment and vulnerability while giving McNulty valuable insight into the street reality.
+Begins talking to McNulty about informing on Stanfield	Bodie	Stanfield organization	30	40	Helpless	Attempts to act against Marlo’s regime at great personal risk with possible benefit to future victims.
+Spots Bodie talking to McNulty and reports it (implied)	Stanfield enforcer	Bodie	60	10	Bandit	Protects his own position and loyalty standing by flagging a suspected snitch, leading to Bodie’s death.
+Murders Bodie for suspected cooperation with police	Stanfield organization	Bodie	55	10	Bandit	Eliminates a perceived threat to the crew’s secrecy and power by killing him.
+Agrees to inform under condition he won’t implicate his own people	Bodie	Police case (excluding his own crew)	30	55	Helpless	Tries to shield his subordinates and friends while still moving against Marlo, increasing his peril for others’ sake.
+Reminisces about “the old days” of Barksdale dominance with nostalgia	Bodie	His crew	45	35	Helpless	Boosts crew morale and shared identity while locking himself into a past that can’t return.
+Attempts to fight rival dealers in towers not knowing Stringer gave away territory	Bodie	Rival dealers	35	20	Helpless	Defends what he believes is his turf but actually wastes effort and invites conflict for a lost cause.
+Transfers Bodie to towers after Wallace’s killing	Stringer	Bodie	50	20	Bandit	Appeases and uses Bodie with a seemingly better post while keeping him a disposable pawn.
+Lets police attention fall on Barksdales after boy’s death	Stringer	Barksdale organization	45	25	Helpless	Accepts fallout and manages it, slightly protecting the crew but also bearing investigative pressure with limited gain.
+Fails to support Bodie when he needs backup (former Barksdales)	Former Barksdale members	Bodie	55	20	Bandit	Protect their own safety by avoiding involvement while abandoning a loyal soldier.
+Eats lunch with McNulty in Season 4	Bodie	McNulty	55	45	Intelligent	Builds a quasi‑friendship that provides him with some protection and gives McNulty access and information.
+Develops a friendly‑enemy rapport with Carver	Bodie	Carver	55	45	Intelligent	Creates mutual respect that reduces unnecessary conflict, benefiting both street and cop.
+Decides not to step away from the drug trade because he thinks gangster life is “cool”	Bodie	Himself	20	20	Stupid	Clings to a romanticized identity that keeps him in a deadly, low‑reward path yielding little benefit to anyone.
+Keeps selling drugs as his main livelihood	Bodie	Customers / community	60	10	Bandit	Supports himself economically while feeding addiction and social harm in the neighborhood.
+Kills or fights rival gangsters as part of territory defense (general)	Bodie	Rival crews	60	10	Bandit	Protects and advances his business while inflicting violence on others in the game.
+Remains loyal to his workers and refuses to snitch on them	Bodie	His crew	40	60	Helpless	Accepts increased personal risk to give his people some protection from prosecution.

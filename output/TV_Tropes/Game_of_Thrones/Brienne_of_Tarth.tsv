@@ -1,0 +1,60 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Brienne defeats Loras in melee and tourney duel	Brienne	Loras Tyrell	80	60	Intelligent	She proves her skill and gains Renly’s favor while Loras only suffers a modest bruised ego.
+Renly rewards Brienne by offering her anything she desires	Renly	Brienne	70	70	Intelligent	He honors her achievement, strengthening her loyalty and giving her status.
+Brienne asks Renly for a position on his Kingsguard	Brienne	Renly	85	80	Intelligent	She gains rank and purpose while giving Renly an extraordinarily loyal and capable bodyguard.
+Brienne faithfully serves Renly as Kingsguard	Brienne	Renly	75	70	Intelligent	She gains belonging and identity while enhancing Renly’s safety and image.
+Renly shows kindness and respect to Brienne	Renly	Brienne	65	70	Intelligent	His empathy wins him a fiercely loyal champion and emotionally uplifts her.
+Bolton men attempt to rape Brienne	Bolton men	Brienne	5	0	Stupid	They risk their lives for no strategic gain and threaten an ally prisoner, causing pure harm.
+Brienne fights off her would-be rapists	Brienne	Bolton men	70	40	Intelligent	She defends herself and deters further abuse while the men are justly harmed for predation.
+Locke captures and imprisons Brienne (badass in distress)	Locke	Brienne	40	15	Bandit	He gains leverage and pleases his superiors at the cost of abusing a prisoner.
+Locke throws Brienne into a bear pit with only a wooden sword	Locke	Brienne	30	10	Bandit	He entertains and intimidates others but nearly destroys a valuable captive.
+Brienne fights the bear with only a wooden sword	Brienne	Bear	65	40	Intelligent	She maximizes her slim chances of survival while harming only a dangerous animal.
+Brienne develops a crush on Renly because of his kindness	Brienne	Renly	55	60	Helpless	Her feelings give her purpose and loyalty but also long-term emotional pain for unrequited love.
+Brienne quickly deduces Jaime has affection for her	Jaime	Brienne	60	60	Intelligent	His emotional openness gives them both a deeper bond and mutual respect.
+Jaime knights Brienne with Oathkeeper and black armor gift	Jaime	Brienne	70	80	Intelligent	He redeems himself symbolically and empowers a just protector with elite gear.
+Brienne swears vengeance on Stannis for killing Renly	Brienne	Stannis	40	20	Bandit	Her vendetta gives her purpose but risks clouding judgment and harms a man already at war with mutual enemies.
+Jaime confronts Brienne in the bath about following Renly’s immoral orders	Jaime	Brienne	60	70	Intelligent	He risks offending her to give her crucial insight into honor vs. justice, deepening her understanding.
+Brienne offers to train Podrick in combat	Brienne	Podrick	75	80	Intelligent	She gains a more competent squire and gives him skills and purpose.
+Brienne becomes a stern but mentoring “beleaguered boss” to Podrick	Brienne	Podrick	65	70	Intelligent	Her strictness costs her patience but accelerates his growth and loyalty.
+Cersei directly asks Brienne if she loves Jaime	Cersei	Brienne	55	20	Bandit	She gains intel about a rival’s feelings while making Brienne uncomfortable and exposed.
+Brienne lies to deny her crush on Renly	Brienne	Jaime	40	45	Helpless	She tries to protect herself from embarrassment but undermines her own emotional honesty and gains little.
+Jaime realizes Brienne had a crush on Renly	Jaime	Brienne	60	55	Intelligent	He reads her correctly, deepening their emotional understanding despite some embarrassment.
+Brienne groin-stabs the rapist Northerner in “Valar Morghulis”	Brienne	Rapist Northerner	75	35	Intelligent	She removes a direct threat and asserts deterrence, though it’s a very painful death.
+Brienne slowly kills the ringleader rapist “as payback”	Brienne	Rapist Northerner	60	25	Bandit	She gains emotional satisfaction and removes a predator but adds unnecessary cruelty.
+Brienne protects Jaime from the same rapist gang	Brienne	Jaime	70	75	Intelligent	She risks herself to keep her prisoner alive, preserving both his safety and their mission.
+Lord Selwyn trains Brienne formally as a fighter instead of stopping her	Lord Selwyn Tarth	Brienne	70	80	Intelligent	He channels her aggression into skill, benefiting her and ensuring she can defend herself and others.
+Brienne almost kills Jaime when he insults Renly’s sexuality	Brienne	Jaime	35	30	Bandit	Acting on rage gives her emotional release but nearly sabotages her vow and his safety.
+Brienne restrains herself from killing Jaime because of her vow	Brienne	Jaime	70	65	Intelligent	She preserves her honor and mission while sparing Jaime, enabling later mutual benefit.
+Brienne gives Jaime a sudden, powerful full-frontal assault in the baths	Brienne	Jaime	55	40	Bandit	She vents anger and asserts herself but risks alienating him and potentially worsening their situation.
+Jaime apologizes to Brienne for mocking her failure to protect Renly	Jaime	Brienne	60	75	Intelligent	He repairs their relationship and acknowledges her worth, emotionally benefiting them both.
+Brienne pledges allegiance to Catelyn Stark after Renly’s death	Brienne	Catelyn Stark	70	80	Intelligent	She gains purpose and belonging while Catelyn gains an elite, loyal protector.
+Brienne spends a long time seeking and protecting Catelyn’s daughters	Brienne	Stark children	75	85	Intelligent	Her life gains meaning while they receive unusually steadfast protection.
+Brienne attempts to “save” Arya while visibly allied with Lannister symbols	Brienne	Arya	30	15	Stupid	Her miscalculated appearance and escort cause Arya to distrust her, harming the mission without helping herself.
+Brienne fights and defeats Sandor Clegane to “protect” Arya	Brienne	Sandor Clegane	45	20	Bandit	She gains moral satisfaction but removes Arya’s last guardian, endangering Arya.
+Brienne loses track of Arya after the fight with the Hound	Brienne	Arya	25	10	Stupid	She fails her goal and leaves Arya alone without gaining anything in return.
+Brienne decides to fulfill her oath to kill Stannis instead of guarding Sansa	Brienne	Sansa	35	15	Stupid	She chases vengeance, leaving Sansa exposed for little net advantage.
+Brienne kills Stannis in the name of Renly	Brienne	Stannis	40	30	Bandit	She fulfills her vendetta and oath to Renly but eliminates someone fighting a common enemy, indirectly prolonging Bolton power.
+Brienne later rescues Sansa from Bolton hunters	Brienne	Sansa	80	90	Intelligent	She risks herself to save Sansa, directly fulfilling her core oaths and securing Sansa’s safety.
+Brienne taunts Davos and Melisandre over Stannis’s death	Brienne	Davos & Melisandre	35	25	Bandit	She gains emotional closure while insulting potential allies on the same side.
+Brienne goes to Joffrey’s wedding and personally greets him	Brienne	Joffrey	45	20	Helpless	She preserves access and safety in King’s Landing but appears compromised to the Starks’ cause.
+Brienne calls Renly “our king” to Margaery after his death	Brienne	Margaery	35	20	Helpless	She risks treason accusations out of loyalty, gaining only an emotional assertion of her stance.
+Brienne swears an oath directly to Sansa	Brienne	Sansa	85	85	Intelligent	She secures a clear mission and status while Sansa gains one of the realm’s most reliable protectors.
+Brienne acts as champion and bodyguard to Sansa	Brienne	Sansa	80	90	Intelligent	She gains belonging and rank while Sansa’s survival and autonomy are strongly improved.
+Jaime leaps into the bear pit unarmed to rescue Brienne	Jaime	Brienne	40	80	Helpless	He seriously risks his life and bargaining value but saves her from near-certain death.
+Brienne and Jaime become fire-forged friends through shared ordeals	Brienne & Jaime	Each other	75	80	Intelligent	Their mutual trust transforms both their arcs and yields repeated life-saving cooperation.
+Brienne keeps Jaime’s secret about killing Aerys	Brienne	Jaime	60	70	Intelligent	She honors his vulnerability and gains his deep trust, protecting his reputation while preserving the realm’s political stability.
+Brienne expresses admiration and pride in Arya’s fighting ability	Brienne	Arya	65	70	Intelligent	She emotionally validates Arya, cementing mutual respect and alliance potential.
+Brienne rescues one of Cat’s daughters in Season 6 (Sansa)	Brienne	Sansa	85	90	Intelligent	This completes a long-standing vow and firmly secures Sansa’s immediate safety.
+Brienne maintains Undying Loyalty to Renly after his death	Brienne	Renly’s memory	55	50	Helpless	It sustains her identity but repeatedly distorts her judgment (e.g., Stannis vendetta) without helping others much.
+Brienne maintains Undying Loyalty to Catelyn’s charge (her daughters) after Catelyn’s death	Brienne	Stark daughters	80	85	Intelligent	Her steadfastness gives her a stable purpose and materially improves the Stark children’s chances.
+Brienne attends siege of Riverrun to fulfill oath to Sansa	Brienne	Sansa	70	75	Intelligent	She risks herself in a war zone to aid Sansa’s strategic interests.
+Brienne chooses not to confront Jaime about fighting alongside the Freys	Brienne	Jaime	55	50	Helpless	She preserves their friendship and avoids conflict but fails to challenge a grave injustice.
+Brienne is willing to fight Jaime if necessary despite friendship	Brienne	Jaime	60	65	Intelligent	She keeps her priorities straight: oaths over personal ties, benefiting her integrity and Sansa’s cause.
+Brienne repeatedly insults and distrusts Davos despite being on same side	Brienne	Davos	35	25	Bandit	Her hostility yields emotional satisfaction but risks alienating a valuable ally.
+Brienne becomes knighted by Jaime in Season 8	Jaime	Brienne	80	85	Intelligent	He elevates her status and honors her service, while it deepens his redemption and alliance with her.
+Brienne accepts knighthood and identity as “Ser Brienne”	Brienne	Herself	90	80	Intelligent	She gains full social legitimacy and self-acceptance, inspiring others’ respect.
+Brienne becomes Lord Commander of the Kingsguard under Bran	Brienne	King Bran & realm	95	90	Intelligent	This crowns her career, maximizing her influence and giving the realm a uniquely just and competent protector.
+Brienne and Jaime finally sleep together	Brienne & Jaime	Each other	65	60	Intelligent	They gain mutual emotional and physical fulfillment, even if short-lived, with minimal harm to others.
+Jaime leaves Brienne to return to Cersei	Jaime	Brienne	30	20	Bandit	He follows compulsion/loyalty to Cersei but emotionally devastates Brienne and weakens a key alliance.
+Tormund openly tries to court Brienne, whom she rejects	Brienne	Tormund	55	55	Helpless	She stays true to her own preferences but forgoes a loyal, harmless admirer who respects her.
+Brienne writes Jaime’s deeds into the Kingsguard book after his death	Brienne	Jaime’s legacy	70	80	Intelligent	She honors his complexity and improves historical memory while gaining closure.

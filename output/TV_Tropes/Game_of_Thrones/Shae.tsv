@@ -1,0 +1,36 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Mother “made sure” Shae stopped being a child at nine	Mother	Shae	10	0	Stupid	Severely harms Shae’s well-being and gives the mother no stated benefit.
+Shae leaves Lorath	Shae	Herself	70	60	Intelligent	Leaving implied abuse and limited options likely improves her life and removes a burden from others around that abuse.
+Shae becomes a camp follower/prostitute	Shae	Clients	55	55	Intelligent	Provides income and survival for herself while supplying a wanted service without noted harm.
+Shae becomes Tyrion’s camp follower	Shae	Tyrion	65	65	Intelligent	She gains income/affection and Tyrion gains companionship and support.
+Shae carries a dagger in her garter	Shae	Potential attackers	80	70	Intelligent	Protects herself from rape while discouraging or preventing serious harm from others.
+Shae interrogates Tyrion jealously about Sansa and Ros	Shae	Tyrion	40	30	Stupid	Her clingy interrogation strains the relationship, upsetting Tyrion with no clear gain for herself.
+Shae acts as confidant to Sansa	Shae	Sansa	60	80	Intelligent	She gains trust and position while giving Sansa emotional support and information safety.
+Shae keeps Sansa’s engagement to Loras from Tyrion	Shae	Tyrion	45	65	Helpless	She preserves Sansa’s confidence but denies Tyrion useful information, slightly disadvantaging herself politically.
+Shae tells Tyrion men praise her cooking only as a whore	Shae	Herself	55	50	Intelligent	By framing it as a joke, she maintains agency and self-awareness without clear harm or benefit to others.
+Shae expresses anger that Tyrion thinks she’s there only for money	Shae	Tyrion	55	45	Helpless	Affirming her feelings slightly helps her self-respect but worsens mutual trust and stability.
+Shae refuses to accept how much danger she is in	Shae	Herself	30	35	Helpless	Her denial leaves her exposed to lethal political threats while giving others a minor respite from her departure plans.
+Tyrion offers to hide Shae by giving her a job in the kitchens	Tyrion	Shae	70	70	Intelligent	He tries to secure her safety and continued presence, benefiting both.
+Varys tries to buy Shae off to leave for Tyrion’s safety	Varys	Shae/Tyrion	60	75	Intelligent	Varys sacrifices some resources to reduce risk to Tyrion and, by extension, the realm.
+Shae rejects/undercuts Varys’s warning as exaggeration	Shae	Herself	35	40	Helpless	Ignoring a credible warning increases her danger while only preserving her preferred status quo.
+Tywin warns Tyrion he’ll hang the next whore he finds in Tyrion’s bed	Tywin	Shae/Tyrion	70	20	Bandit	He reinforces his control and honor at the cost of putting Shae in mortal danger.
+Cersei and Tywin discover Tyrion’s relationship with Shae	Cersei & Tywin	Shae/Tyrion	65	25	Bandit	They gain leverage and perceived security through knowledge while endangering both lovers.
+Tyrion lies to Shae that he never loved her to drive her away	Tyrion	Shae	35	80	Helpless	He emotionally harms himself and Shae to save her life, strongly benefiting her if she had stayed away.
+Tyrion arranges for Shae to sail to Pentos with comfort	Tyrion	Shae	60	85	Intelligent	He loses her company and resources but secures her a safer, more comfortable life.
+Shae leaves for Pentos after Tyrion’s speech	Shae	Herself	75	60	Intelligent	Leaving King’s Landing likely increases her safety and opportunities while mildly abandoning those tied to her.
+Tywin/Cersei later secure Shae’s testimony (via threat or incentive)	Tywin & Cersei	Tyrion & Sansa	80	15	Bandit	They strengthen their case and power while putting Tyrion and Sansa at lethal risk.
+Shae returns to King’s Landing as Cersei’s star witness	Shae	Herself	25	15	Stupid	Coming back into Tywin’s orbit and political crossfire risks her life and reputation with minimal long-term gain.
+Shae provides false testimony about Tyrion and Sansa murdering Joffrey	Shae	Tyrion & Sansa	35	5	Bandit	She gains protection and/or revenge at the cost of placing both in mortal peril.
+Shae publicly humiliates Tyrion by twisting intimate moments	Shae	Tyrion	30	10	Bandit	She may gain emotional catharsis or favor, while deeply damaging Tyrion and helping condemn him.
+Shae’s testimony helps move Tyrion beyond the “Despair Event Horizon”	Shae	Tyrion	15	20	Stupid	Her betrayal breaks him psychologically, harming him and destabilizing politics, with no lasting clear benefit to her.
+Shae’s testimony contributes to Tyrion’s death sentence	Shae	Tyrion & Sansa	30	5	Bandit	She secures immediate safety/patronage by helping condemn them to death.
+Shae threatens Sansa’s life implicitly through her testimony	Shae	Sansa	35	10	Bandit	She may secure her own position or revenge while seriously endangering Sansa.
+Shae becomes Tywin’s bed partner and calls him “My Lion”	Shae	Tywin	40	15	Bandit	She likely gains status/protection and perhaps revenge on Tyrion while supporting Tywin’s power.
+Tyrion is broken by the trial and erupts in rage at his family and nobles	Tyrion	Family & court	25	20	Stupid	He gains emotional release but worsens his situation and undermines any remaining support.
+Tyrion escapes his cell and goes to confront Tywin	Tyrion	Tywin	40	25	Bandit	He pursues personal vengeance and justice at high risk to himself and with destabilizing consequences.
+Tyrion finds Shae in Tywin’s bed	Tyrion	Himself	30	35	Helpless	The discovery emotionally devastates him and sets off lethal conflict, while merely revealing others’ betrayals.
+Shae attempts to kill Tyrion with a knife when discovered in Tywin’s bed	Shae	Tyrion	20	10	Stupid	She escalates to lethal violence, fails, provokes her own death, and offers no real gain to anyone.
+Tyrion strangles Shae to death in self-defense	Tyrion	Shae	40	20	Bandit	He saves his own life and clears an immediate threat at the high personal emotional cost and loss of her life.
+Tyrion later admits to Tywin that he still loved Shae	Tyrion	Himself	30	35	Helpless	Confession brings emotional honesty but deepens his pain and gives Tywin leverage in that moment.
+Shae chases down another handmaiden at knife-point to protect Sansa	Shae	Other handmaiden	55	70	Intelligent	She risks some trouble to deter a threat and effectively defends Sansa.
+Shae maintains a protectorate over Sansa	Shae	Sansa	65	80	Intelligent	She gains purpose and some security through her role while substantially increasing Sansa’s safety and emotional support.

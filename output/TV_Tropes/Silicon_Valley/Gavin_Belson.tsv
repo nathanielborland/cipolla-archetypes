@@ -1,0 +1,44 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Makes opaque "bear is sticky with honey" remark then leaves	Gavin	Underlings	40	10	Bandit	Maintains mystique/control while wasting employees’ time and stressing them out.
+Engineers quit after realizing he fired and re-hired them without noticing	Gavin	Engineers	30	10	Stupid	His obliviousness costs him talent and gains him nothing.
+Reassigns failed Nucleus team to censor negative news about Hooli	Gavin	Nucleus team / Public	45	15	Bandit	Short‑term PR benefit via team reuse while harming public by manipulating information.
+Asks legal team for permission to have critics killed	Gavin	Critics	10	0	Stupid	Extreme reaction that brings legal and reputational risk with no benefit.
+Demands shutdown of building power to stop tracker on his personal devices	Gavin	Building occupants / Hooli	20	10	Stupid	Overreaction disrupts operations while not clearly improving his own situation.
+Interprets Jack’s 20‑minute flight delay as plot rather than family visit	Gavin	Jack Barker	35	40	Stupid	Paranoia strains relations and planning while not helping him.
+Organizes charity triathlon but jumps the gun	Gavin	Other racers / Charity	55	30	Bandit	Gains advantage and image at expense of fair competition.
+Orders bodyguards to knock out competitors in triathlon	Gavin	Competitors	60	5	Bandit	Cheats to improve his standing while directly harming others.
+Brings in a ringer when tired in charity triathlon	Gavin	Competitors / Charity	60	25	Bandit	Offsets his fatigue by deceptive substitution, undermining fairness and charity spirit.
+Moves Jack to tiny sub-basement office as petty punishment	Gavin	Jack Barker	45	15	Bandit	Gets satisfaction and perceived dominance while harming Jack’s status and comfort.
+Instructs stooge to fly company jet six times on same route to spite Jack	Gavin	Company / Jack Barker	20	10	Stupid	Wastes corporate resources for petty vindication with minimal personal gain.
+Buys out all 63 coders Pied Piper approached just to spite them	Gavin	Pied Piper / Coders	35	20	Bandit	Hurts Pied Piper’s hiring options while gaining some talent but at high cost and pettiness.
+Accepts handwritten contract giving him full control of Pied Piper (ruse)	Gavin	Pied Piper	20	75	Helpless	His ego makes him accept a fake deal that stalls him and lets Piper Net recover.
+Rolls out Nucleus early with bad algorithm and scrambles for scapegoat	Gavin	Hooli	25	25	Stupid	Rushes launch causing failure that threatens his job without clear benefit.
+Promotes Big Head to influential role as legal tactic	Gavin	Hooli / Big Head	30	20	Stupid	Maneuver backfires since Big Head can’t produce a cover product, worsening Hooli’s position.
+Uses illegal non-compete clauses to attack Richard and Jared	Gavin	Hooli employees	15	10	Stupid	Attempt to control IP voids thousands of contracts and harms Hooli, including him.
+Buys company that ex-Hooli employees took Richard’s algorithm to	Gavin	That company / Pied Piper	65	60	Intelligent	Acquires a platform and inadvertently sets a helpful price benchmark for the market.
+Orders Hooli search to eliminate negative results about company	Gavin	Public / Users	30	20	Bandit	Temporarily protects image while harming information integrity and risking scandal.
+Illegally monitors employees’ personal e‑mails	Gavin	Employees	25	15	Bandit	Gains intel on Pied Piper but breaks privacy and triggers later retaliation and walkouts.
+Uses info from illegal surveillance to access Pied Piper beta	Gavin	Pied Piper	40	20	Bandit	Gets competitive insight but further compounds legal and ethical exposure.
+Has over-the-top response and angry outburst at EndFrame team	Gavin	EndFrame team	20	25	Stupid	Tantrum leads several team members to walk out, weakening his own position.
+Hooli board votes to relieve him of duties and transition him out	Hooli board	Gavin	20	50	Helpless	Loss of power for him while company benefits from removing a liability.
+Uses elephant as prop; it dies from stress	Gavin	Elephant / Hooli	10	5	Stupid	Stunt kills the animal and creates reputational risk with no real gain.
+Fires employee who protests illegal elephant dumping	Gavin	Protesting employee	15	5	Stupid	Retaliation triggers whistleblowing that worsens his scandal.
+Employee reports elephant incident to tech blog	Protesting employee	Hooli / Gavin	65	30	Bandit	Protects ethics and exposes wrongdoing but harms Gavin/Hooli.
+Buys the tech blog reporting elephant story (owned by Erlich)	Gavin	Blog / Pied Piper	25	75	Helpless	Attempt to kill story pays $2M to Pied Piper, benefiting his rivals more than himself.
+Acquires Piper Chat from Dinesh to spy on Jack Barker	Gavin	Jack Barker / Piper Chat users	30	25	Bandit	Gains surveillance tool but inherits severe liability users.
+Fails to notice under-age users/pedophiles included with Piper Chat	Gavin	Hooli / Users	20	15	Stupid	Negligence saddles him with major legal and reputational risk.
+Demotes Jack Barker to sub-basement D out of vindictiveness	Gavin	Jack Barker	35	20	Bandit	Short-term dominance but breeds an enemy who later undermines him.
+Tries to get Seppen to sue Pied Piper over Gilfoyle’s hacking	Gavin	Pied Piper / Seppen	30	40	Stupid	Retaliatory move backfires and leads Seppen to partner with Pied Piper instead.
+Rejects Amazon buyout because of planned rebranding	Gavin	Hooli	30	35	Stupid	Ego-driven refusal triggers heavy downsizing and instability that harms him too.
+Considers moving Denpok and Hoover overseas post-downsizing	Gavin	Denpok & Hoover	30	30	Stupid	Provokes Hoover’s betrayal and regulatory trouble with no clear gain.
+Buys out Gwart from Jared earlier	Gavin	Jared / Hooli	40	30	Bandit	Gains a useful coder at the expense of Jared and contributes to Hooli’s later vulnerability.
+Rejects Richard’s offer to take security‑sensitive assets off Hooli’s hands	Gavin	Hooli / Richard	20	70	Helpless	Spites Richard but exposes low stock value and enables Pied Piper to buy Hooli.
+Runs a vanity charity race that he cheats at while sale proceeds	Gavin	Hooli / Competitors	20	30	Stupid	Focuses on ego event and cheating as a key sale goes through without his objection.
+Crushes competition to "make the world better" mainly for credit	Gavin	Pied Piper / Others	45	25	Bandit	Pursues dominance and recognition at others’ expense rather than genuine improvement.
+Manipulates people and fires them for his own mistakes	Gavin	Employees	40	20	Bandit	Deflects blame to protect himself, harming workers’ careers.
+Throws a sloth down a flight of stairs	Gavin	Sloth	5	5	Stupid	Cruel act that risks legal and PR fallout with no benefit to him.
+Smashes and throws objects when things don’t go his way	Gavin	Inanimate objects / Onlookers	35	35	Stupid	Releases frustration but damages property and undermines authority.
+States millionaires are persecuted worse than Jews in Nazi Germany	Gavin	Public / Himself	10	20	Stupid	Outrageous remark shocks audience and harms his reputation.
+Blocks mutually beneficial app purchase that would aid Richard and himself	Gavin	Richard / Himself	10	60	Helpless	Refuses a deal that would solve both their problems purely to avoid helping Richard.
+Surrounds himself with yes-men through fear of his outbursts	Gavin	Hooli / Himself	25	20	Stupid	Creates an echo chamber that withholds bad news, hurting decisions.
+Tries to stream live UFC fight in HD using unready Nucleus	Gavin	Nucleus team / Viewers	20	25	Stupid	Demands premature demo that fails, publicly exposing product weakness.

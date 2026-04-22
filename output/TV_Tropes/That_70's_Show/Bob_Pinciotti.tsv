@@ -1,0 +1,27 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Experiments with drugs at home around Donna	Bob	Donna	30	15	Stupid	Drug use at home risks his well‑being and clearly distresses his daughter without benefit to her.
+Throws nudist parties at their house	Bob	Donna	40	10	Bandit	He gains pleasure/social fun while repeatedly making Donna uncomfortable.
+Dates Jackie’s mother Pam despite daughters’ distress	Bob	Donna and Jackie	65	20	Bandit	He pursues a relationship he enjoys while knowingly causing emotional discomfort to both girls.
+Becomes extremely angry about Eric and Donna’s intimacy	Bob	Eric and Donna	45	25	Stupid	His anger stresses the couple and damages relationships without bringing clear benefit to himself.
+Intimidates Red after discovering Donna’s birth control pills	Bob	Red (and implicitly Donna)	35	30	Stupid	His intimidating reaction strains ties and upsets others while giving him no real gain or control.
+Blocks Eric as Donna’s boyfriend when sex begins	Bob	Eric and Donna	40	20	Stupid	His escalation against their relationship hurts the couple and increases conflict without improving his own situation.
+Tries his best at fatherhood despite being unsuited	Bob	Donna	60	70	Intelligent	His consistent effort, though clumsy, aims to support Donna and generally helps both.
+Goes out of business due to Price Mart	Price Mart	Bob	80	20	Bandit	Price Mart presumably profits while Bob’s business is ruined.
+Falls into deep depression after wife leaves	Bob	Bob	10	40	Helpless	His collapse harms his own functioning while eliciting care/support from others.
+Refuses to leave bed after later girlfriend leaves	Bob	Bob and close others	15	45	Helpless	His withdrawal hurts himself most, while others rally around or accommodate him.
+Advises Eric to hit rival with a banjo	Bob	Eric’s rival (and Eric)	30	20	Stupid	Violent advice could backfire on Eric and harm another for no real constructive gain.
+Advises Red to buy Kitty a banjo to cheer her up	Bob	Kitty	55	60	Intelligent	Well‑meant suggestion that could lift Kitty’s mood and mildly improve his standing.
+Stands up to Donna and Jackie about dating Pam	Bob	Donna and Jackie	70	35	Bandit	He asserts his happiness and autonomy while dismissing their strong discomfort.
+Curses Red out after years of insults	Bob	Red	60	40	Bandit	Ventilating anger gives him relief and boundaries while momentarily hurting Red.
+Quickly apologizes to Red after cursing him out	Bob	Red	55	65	Intelligent	Apology mildly humbles him but repairs and benefits the relationship.
+Competes with Red over giving Leia the better birthday gift	Bob	Leia (and Red)	70	65	Intelligent	His over‑generosity aids Leia and boosts his own sense of grandparenthood despite rivalry.
+Becomes disappointed that Leia prefers Red	Bob	Bob	35	55	Helpless	His emotional hurt damages only himself while others retain positive relationships.
+Acts as an extreme doormat after wife leaves	Bob	Others around him	20	55	Helpless	His passivity harms his own interests while accommodating and benefiting others.
+Runs goofy promotions at work to boost business	Bob	Donna (future)	75	70	Intelligent	His antics improve his business and directly fund Donna’s college.
+Brings a monkey to work “for his own amusement”	Bob	Coworkers/customers	65	45	Bandit	He entertains himself while creating potential nuisance or discomfort for others.
+Invents a car accessory and earns patent royalties	Bob	Car owners/market	85	75	Intelligent	He significantly improves his finances and offers a presumably useful product to consumers.
+Increasingly badmouths Eric to the Formans	Bob	Eric	55	30	Bandit	He protects his sense of Donna’s interests and vents frustration while harming Eric’s reputation.
+Becomes worse after Eric leaves Donna at the altar	Bob	Eric	60	25	Bandit	He gains vindication and emotional release at Eric’s expense, worsening Eric’s social standing.
+Puts his family ahead of himself many times	Bob	Family	35	80	Helpless	He repeatedly sacrifices his own welfare to significantly benefit his family.
+Sends Donna to Catholic school for running away	Bob	Donna	60	40	Bandit	He believes it teaches her a lesson and asserts authority while restricting her and causing her distress.
+Rebukes attempts to break up him and Pam	Bob	Those opposing relationship	70	35	Bandit	He defends his romantic happiness while disregarding the discomfort and objections of others.

@@ -1,0 +1,112 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Sansa insists on staying in King’s Landing to marry Joffrey after Ned orders his daughters sent home	Sansa	Sansa	10	5	Stupid	Her refusal to leave a dangerous court directly traps her in years of abuse and benefits no one else.
+Sansa calls Joffrey a “golden lion” instead of a stag	Sansa	Ned	55	65	Intelligent	The slip gives Ned the clue to investigate Joffrey’s parentage, ultimately aligning with his protective goals despite later fallout.
+Ned starts investigating Joffrey’s heritage after Sansa’s remark	Ned	Lannister-Baratheon regime	10	20	Helpless	He gains nothing and is destroyed, but his inquiry weakens the illegitimate regime and informs others.
+Sansa survives multiple deadly situations and war through guile and caution	Sansa	Sansa	90	60	Intelligent	Her nonviolent survival strategies keep her alive and later useful to others without evident harm.
+Arya corrects Sansa about Joffrey’s sigil being a stag	Arya	Sansa	55	55	Intelligent	The correction improves Sansa’s factual understanding without harming or greatly helping anyone immediately.
+Ned arranges Sansa’s betrothal to Joffrey	Ned	Sansa	40	5	Helpless	Intended as an alliance, it destroys Sansa’s safety while barely stabilizing a doomed political situation.
+Joffrey orders Ned’s execution in front of Sansa	Joffrey	Sansa	40	0	Bandit	He asserts power and removes an enemy while traumatizing Sansa and destabilizing the realm.
+Cersei has Sansa’s direwolf Lady executed in place of Nymeria	Cersei	Sansa	45	5	Bandit	She preserves her son’s position by punishing Sansa, gaining short-term control at cruel cost to Sansa.
+Sansa lies and refuses to refute Joffrey’s story about the Mycah incident	Sansa	Mycah	30	10	Bandit	She protects her engagement status while enabling injustice that gets Mycah and Lady killed.
+The Hound saves Sansa from gang rape by the mob	Sandor	Sansa	70	80	Intelligent	He risks himself to rescue her, preserving his own code and her safety.
+Joffrey threatens to rape Sansa after marriage	Joffrey	Sansa	5	0	Stupid	The threat further terrorizes Sansa, offers no political gain, and corrodes his own support network.
+Tyrion refuses to consummate his forced marriage with Sansa	Tyrion	Sansa	70	80	Intelligent	He forgoes immediate gratification and paternal approval to spare her more trauma, enhancing his moral standing.
+Littlefinger and Tywin arrange for Sansa to marry Tyrion for political advantage	Littlefinger and Tywin	Sansa	65	15	Bandit	They strengthen their power blocs at Sansa’s emotional and dynastic expense.
+Littlefinger arranges Sansa’s marriage to Ramsay Bolton	Littlefinger	Sansa	30	0	Bandit	He gains leverage in the North while subjecting her to horrific abuse.
+Ramsay repeatedly rapes and beats Sansa	Ramsay	Sansa	5	0	Stupid	His sadism brings short-lived satisfaction but creates the conditions for his downfall and death.
+Theon pushes Myranda off the rampart to save Sansa	Theon	Sansa	75	80	Intelligent	He risks Ramsay’s wrath to save Sansa, catalyzing his own moral recovery and their escape.
+Sansa escapes Winterfell with Theon’s help	Sansa	Sansa	85	70	Intelligent	Flight removes her from immediate torture and eventually aids the North without harming others.
+Sansa almost pushes Joffrey off the battlements but is stopped by the Hound	Sansa	Joffrey	30	30	Helpless	Killing him might avenge her father but would almost certainly cause her own execution and chaos.
+Sansa hides that she has started menstruating to delay marrying Joffrey	Sansa	Sansa	40	40	Helpless	It might briefly delay marriage but risks severe punishment if discovered, offering little real benefit.
+Sansa fakes heartbreak when Joffrey repudiates her for Margaery	Sansa	Lannister court	65	70	Intelligent	She conceals her relief to maintain safety and sympathy while avoiding further ire.
+Sansa refuses food and isolates herself in the godswood after the Red Wedding	Sansa	Sansa	20	40	Helpless	Her withdrawal harms her own health and agency while minimally affecting others.
+Sansa protects Littlefinger from the lords of the Vale by supporting his story	Sansa	Littlefinger	45	25	Helpless	She keeps an abuser and manipulator alive, slightly securing her own position but empowering a future threat.
+Littlefinger kisses Sansa without consent at the Eyrie	Littlefinger	Sansa	20	5	Bandit	He indulges obsession with minimal strategic gain while risking exposure; Sansa gains nothing.
+Sansa later pushes Littlefinger away when he tries to kiss her again	Sansa	Littlefinger	70	60	Intelligent	She asserts boundaries and signals independence, weakening his emotional hold without clear collateral damage.
+Joffrey has his guards beat Sansa instead of striking her himself	Joffrey	Sansa	35	0	Bandit	He preserves his “kingly” image and vents cruelty at Sansa’s expense.
+Sansa pleads with Joffrey to spare Ser Dontos and suggests making him a fool	Sansa	Dontos	60	75	Intelligent	She creatively preserves her own safety while saving Dontos’s life.
+Sansa attempts to cut blood from the mattress to hide her first period	Sansa	Sansa	25	40	Helpless	She risks severe punishment with little chance of delaying political plans meaningfully.
+Sansa glomps Jon when reunited at Castle Black	Sansa	Jon	80	85	Intelligent	The reconnection strengthens both their morale and alliance with no downside.
+Sansa glomps and forgives Theon when he returns to Winterfell in Season 8	Sansa	Theon	75	80	Intelligent	Forgiveness stabilizes an important ally and emotionally benefits both.
+Sansa slaps Robin Arryn after he destroys her Winterfell snow castle	Sansa	Robin	40	40	Helpless	She vents justified anger but risks alienating her nominal lord with no strategic gain.
+Sansa chooses not to leave King’s Landing when Littlefinger first offers escape	Sansa	Sansa	20	40	Helpless	Rejecting escape deepens her captivity and preserves Littlefinger’s options but not in a way that really helps her.
+Sansa escapes King’s Landing with Dontos and Littlefinger after the Purple Wedding	Sansa	Sansa	80	60	Intelligent	She seizes a risky chance to flee a lethal court, improving her safety though falling into Littlefinger’s orbit.
+Sansa reveals her identity as Sansa Stark to the Lords of the Vale	Sansa	Lords of the Vale	75	75	Intelligent	Claiming her name earns their loyalty and later decisive military support.
+Sansa agrees to marry Ramsay to retake Winterfell	Sansa	Ramsay and Boltons	10	30	Helpless	She gains proximity to her home but submits herself to severe abuse that outweighs the tactical chance.
+Sansa maintains polite contempt and verbal barbs toward Ramsay	Sansa	Ramsay	65	40	Bandit	Her trolling marginally affirms her dignity but provokes a sadist, offering little benefit to others.
+Ramsay threatens to hunt Sansa for sport with Myranda	Ramsay	Sansa	10	0	Stupid	The terrorization breeds hatred and resistance without lasting advantage for him.
+Myranda aims an arrow at Sansa and taunts her	Myranda	Sansa	5	0	Stupid	Her cruelty leads directly to Theon killing her, harming herself and helping Sansa.
+Sansa mocks Myranda for believing Ramsay would marry her	Sansa	Myranda	45	35	Bandit	She asserts dominance over a tormentor but needlessly escalates hostility with limited gain.
+Sansa tells Jon she wants to take Winterfell back and make Ramsay pay	Sansa	Jon	80	75	Intelligent	Her strategic insistence directs Jon toward reclaiming their home and rescuing Rickon.
+Sansa pushes Jon to join her in retaking Winterfell after Ramsay’s letter	Sansa	Jon	80	80	Intelligent	She motivates him to act, leading to liberation of the North despite high losses.
+Sansa withholds from Jon that the Knights of the Vale are coming	Sansa	Stark army	35	20	Bandit	Keeping the secret enhances her leverage but contributes to needless casualties at the battle.
+Sansa warns Jon that Ramsay will try to provoke him into a trap	Sansa	Jon	70	80	Intelligent	Her accurate warning could have mitigated losses, even though Jon ignores it.
+Sansa arranges with Littlefinger to bring the Knights of the Vale to the Battle of the Bastards	Sansa	Stark cause	85	90	Intelligent	Her unseen maneuver decisively saves their forces and wins Winterfell.
+Jon attacks Ramsay in blind rage, abandoning formation	Jon	Stark army	45	20	Bandit	He satisfies vengeance but walks into Ramsay’s trap, nearly dooming his men.
+Sansa tells Ramsay before the battle, “You’re going to die tomorrow. Sleep well.”	Sansa	Ramsay	65	40	Bandit	The psychological strike bolsters her own resolve and rattles him, with little direct help to others.
+Sansa frees Ramsay’s hounds and has them eat him alive	Sansa	Ramsay	80	40	Bandit	She exacts personal justice and removes a terror, but in a cruel way offering no special extra benefit to others.
+Sansa walks away smiling as Ramsay is devoured	Sansa	Sansa	70	40	Bandit	She gains closure and emotional release while neither especially helping nor harming others further.
+Sansa confronts Littlefinger about Ramsay and says if he knew, he’s her enemy	Sansa	Littlefinger	75	60	Intelligent	Openly defining him as adversary clarifies her stance and warns him, aiding her later moves.
+Sansa leaves Littlefinger at Moat Cailin after rejecting his excuses	Sansa	Littlefinger	80	70	Intelligent	Cutting emotional ties and distance weakens his influence and strengthens her autonomy.
+Sansa chooses Brienne as her sworn protector	Sansa	Sansa	85	85	Intelligent	This alliance enhances her personal security and gives Brienne purpose.
+Sansa orders Brienne to go to the Riverlands leaving her with only Podrick	Sansa	Sansa	45	55	Helpless	She strengthens the Stark cause but personally becomes more vulnerable at Winterfell.
+Sansa dyes her hair black and changes her wardrobe to disguise herself	Sansa	Sansa	80	60	Intelligent	Adopting a new identity increases her safety while fleeing, harming no one.
+Sansa washes out the dye and resumes Stark appearance at Winterfell	Sansa	Northern lords	80	75	Intelligent	Reclaiming her visual Stark identity builds legitimacy and support.
+Sansa sews herself a new black feathered dress signaling her new political role	Sansa	Sansa	75	65	Intelligent	This self-fashioned image shift increases her perceived power and agency.
+Sansa adds a leather bodice to her gown before the battle with the White Walkers	Sansa	Sansa	70	60	Intelligent	Light armor increases her odds of survival without burdening fighters.
+Sansa arms herself with dragonglass and leaves the crypt to fight wights	Sansa	Wights	65	60	Intelligent	She risks herself to actively help in defense, increasing survival odds for herself and others.
+Sansa questions Jon if he bent the knee to Daenerys out of love or to save the North	Sansa	Jon	70	65	Intelligent	The probe clarifies motivations and helps her assess political risk.
+Jon leaves Sansa in charge of the North when he goes to meet Daenerys	Jon	Northern realm	80	75	Intelligent	Delegating to the most politically capable Stark stabilizes governance.
+Sansa manages Winterfell and keeps peace among the Northern lords in Jon’s absence	Sansa	Northern lords	85	85	Intelligent	Her governance prevents fracturing and secures supplies and order.
+Lyanna Mormont questions Sansa’s surname status publicly	Lyanna	Sansa	55	60	Intelligent	Raising the legal point clarifies political legitimacy dynamics with minimal harm.
+Sansa apologizes to Jon for being “an ass” to him as a girl	Sansa	Jon	75	80	Intelligent	The apology repairs their relationship and builds trust.
+Sansa forgives Tyrion and acknowledges he was kind to her	Sansa	Tyrion	75	80	Intelligent	Reframing him as an ally strengthens cooperation and benefits both.
+Tyrion writes to Jon from Dragonstone asking him to come	Tyrion	Jon	70	70	Intelligent	The letter initiates an alliance that eventually helps fight the dead and reshapes politics.
+Sansa doubts the authenticity of Tyrion’s letter until Jon cites the private phrase	Sansa	Jon	60	60	Intelligent	Her skepticism avoids easy manipulation while allowing her to update when given evidence.
+Sansa and Jon decide Jon will go to Dragonstone despite Northern concerns	Jon and Sansa	North	70	65	Intelligent	The journey creates a vital anti-White-Walker alliance while risking Jon’s life.
+Sansa takes a strong dislike to Daenerys and acts passive-aggressively at Winterfell	Sansa	Daenerys	50	40	Bandit	Her suspicion partly protects Northern autonomy but worsens cohesion against the dead.
+Sansa asks Daenerys what happens to the North after Dany takes the crown	Sansa	Daenerys	70	70	Intelligent	The direct question exposes conflicting goals and informs the North’s strategic stance.
+Sansa correctly predicts Cersei will betray the alliance despite Tyrion’s hopes	Sansa	Allied forces	75	75	Intelligent	Her accurate assessment prepares the North for southern unreliability.
+Sansa warns that Northern forces need rest before fighting another battle	Sansa	Allied forces	80	85	Intelligent	Her logistical realism serves everyone’s survival interests at some political cost.
+Jon swears Sansa and Arya to secrecy about his Targaryen parentage	Jon	Sansa and Arya	50	55	Intelligent	The attempt to contain destabilizing knowledge could preserve unity, though it later backfires.
+Sansa breaks her oath and tells Tyrion Jon’s true parentage	Sansa	Jon	45	20	Bandit	She gains leverage against Daenerys but contributes to Varys’s plot and destabilization, harming Jon and Dany.
+Tyrion tells Varys Jon’s secret after hearing it from Sansa	Tyrion	Realm	40	20	Bandit	He advances an alternative succession idea but triggers Varys’s execution and Daenerys’s paranoia.
+Daenerys executes Varys for treason after he acts on Jon’s secret	Daenerys	Varys	35	10	Bandit	She removes a scheming threat but fuels fear and isolation, setting up her later fall.
+Daenerys later burns King’s Landing despite surrender	Daenerys	Civilians of King’s Landing	5	0	Stupid	The massacre gains her only terror and universal opposition, dooming her reign.
+Sansa plants seeds of Daenerys’ downfall by spreading doubts	Sansa	Daenerys	55	25	Bandit	She improves the North’s postwar position at the cost of contributing to instability and Daenerys’s mental break.
+Sansa and Arya pretend to be at odds to lure Littlefinger into overconfidence	Sansa and Arya	Littlefinger	85	80	Intelligent	The feigned feud draws him out and allows them to expose and eliminate him.
+Sansa has Bran testify about Littlefinger’s past crimes at the trial	Sansa	Littlefinger	85	85	Intelligent	Using Bran’s knowledge secures conviction and vindicates the Starks.
+Sansa publicly accuses Littlefinger of treason and murder instead of Arya	Sansa	Littlefinger	85	85	Intelligent	The reversal removes a master manipulator and restores Stark authority.
+Sansa orders Littlefinger’s execution	Sansa	Littlefinger	85	80	Intelligent	Eliminating him ends a chronic destabilizing force and protects House Stark.
+Arya executes Littlefinger by slitting his throat on Sansa’s order	Arya	Littlefinger	80	80	Intelligent	Carrying out the sentence removes a threat and symbolically restores Stark justice.
+Sansa tells Littlefinger “Thank you for your many lessons. I will never forget them” before sentencing him	Sansa	Littlefinger	80	70	Intelligent	She asserts mastery over his methods, strengthening her own authority and deterring future schemers.
+Sansa and Arya choose not to betray each other despite Littlefinger’s manipulation	Sansa and Arya	Littlefinger	85	85	Intelligent	Their solidarity defeats his divide-and-conquer strategy.
+Sansa forgives Arya and reaffirms their bond by Ned’s statue	Sansa	Arya	80	85	Intelligent	Reconciliation strengthens their collective power and emotional resilience.
+Sansa and Jon team up to retake Winterfell	Sansa and Jon	House Bolton	80	75	Intelligent	Their alliance liberates the North and restores Stark rule, despite costs.
+Sansa becomes Lady of Winterfell after retaking it	Sansa	Northern realm	90	80	Intelligent	Her leadership brings relative stability and Stark-centered governance.
+Jon is crowned King in the North while Sansa is sidelined	Jon	Sansa	60	45	Bandit	He gains legitimacy but overlooks her contribution and seniority, weakening her position.
+Sansa visibly accepts Jon’s coronation but is unhappy internally	Sansa	Jon	55	60	Intelligent	She maintains public unity while privately recognizing political slight, biding her time.
+The Northern lords ignore Sansa and acclaim Jon as the avenger of the Red Wedding	Northern lords	Sansa	55	45	Bandit	They gain a charismatic war leader but undervalue their best politician.
+Sansa argues with Jon over stripping traitor houses of their castles	Sansa	Northern houses aligned with Boltons	60	40	Bandit	Her stance would reward loyalists but punish children and risk unrest; Jon opts otherwise.
+Sansa and Arya form a “power trio” with Bran to try Littlefinger	Sansa, Arya, Bran	Littlefinger	90	90	Intelligent	Pooling their abilities eliminates a systemic threat and legitimizes their rule.
+Sansa keeps wearing a chain of office as Lady of Winterfell	Sansa	Sansa	70	60	Intelligent	The symbol reinforces her authority and continuity of governance.
+Gatekeepers at Winterfell take Arya’s warning about Sansa’s wrath seriously	Gatekeepers	Sansa	60	60	Intelligent	Fear of her displeasure ensures correct protocol and security.
+Sansa arms Jaime’s admission with Brienne’s testimony to allow him to fight for the living	Sansa	Jaime	70	75	Intelligent	She weighs his past harm against present need and makes a pragmatic choice aiding survival.
+Sansa gives Ramsay a “Reason You Suck” speech before his death	Sansa	Ramsay	75	55	Bandit	The speech provides her closure and frames his erasure, with minor broader effect.
+Sansa decides to feed Ramsay to his own hounds instead of a cleaner execution	Sansa	Ramsay	75	45	Bandit	She chooses poetic cruelty that serves vengeance more than communal justice.
+Sansa slams Littlefinger for orchestrating the Stark-Lannister war during his trial	Sansa	Littlefinger	80	80	Intelligent	Publicly outlining his crimes justifies execution and warns future schemers.
+Sansa accepts Jaime after Brienne vouches for his character	Sansa	Jaime	70	75	Intelligent	Her conditional trust turns a former enemy into a useful ally in the coming battle.
+Sansa negotiates Northern independence at the Great Council	Sansa	Other kingdoms	90	85	Intelligent	She secures full autonomy for the North while accepting a shared system for others.
+Sansa refuses to have the North ruled by Bran and insists it remain independent	Sansa	Bran’s realm	88	80	Intelligent	She prioritizes Northern self-rule without undermining Bran’s broader kingship.
+Sansa is crowned Queen in the North	Sansa	Northern people	95	90	Intelligent	Her coronation formalizes stable leadership beneficial to both herself and her subjects.
+Sansa criticizes Jon for not having enough men before the battle	Sansa	Jon	45	40	Helpless	Her frustration strains cooperation but doesn’t materially improve their odds.
+Sansa apologizes later for criticizing Jon about the troop numbers	Sansa	Jon	70	75	Intelligent	The apology repairs their working relationship before the crucial battle.
+Sansa refuses to fully trust Jon and hides her continued contact with Littlefinger	Sansa	Jon	45	40	Bandit	Her secrecy preserves her own leverage but undermines coordination against Ramsay.
+Sansa uses the corkscrew to pick her room lock and escape Ramsay’s imprisonment	Sansa	Sansa	85	70	Intelligent	This act of self-rescue enables her later role in the North’s liberation.
+Sansa brushes off Septa Mordane saying “Oh, wait, I just realized... I don’t care.”	Sansa	Septa Mordane	55	40	Bandit	Her rudeness affirms adolescent independence while slightly harming their relationship.
+Sansa chooses Shae as a confidante and asks her to brush her hair	Sansa	Shae	65	70	Intelligent	Seeking companionship supports her emotional survival and bonding.
+Sansa takes to building a miniature Winterfell in the Vale	Sansa	Sansa	65	60	Intelligent	Recreating home helps her process trauma and plan for eventual return.
+Sansa plans with Littlefinger to use her marriage to Ramsay to get close enough for revenge	Sansa	Ramsay	40	45	Helpless	The plan offers a path to vengeance but severely underestimates the personal cost she will pay.
+Sansa dismisses Arya’s early warnings about Joffrey’s violent nature	Sansa	Arya	35	40	Helpless	Her refusal to listen damages sisterly trust and keeps her in denial.
+Sansa focuses on idealized knights like Loras, misreading his orientation	Sansa	Sansa	50	55	Intelligent	Her misjudgment has no significant cost beyond private disappointment and fuels social learning.
+Sansa sarcastically refers to Joffrey’s past cowardice in front of him	Sansa	Joffrey	55	45	Bandit	She gains personal satisfaction and minor status while increasing his resentment.

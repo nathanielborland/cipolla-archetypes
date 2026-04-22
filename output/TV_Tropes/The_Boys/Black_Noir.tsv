@@ -1,0 +1,54 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Subdues Maeve on Homelander's orders	Black Noir	Maeve	70	20	Bandit	Completes a mission and proves competence, but harms her and furthers Vought/Homelander’s control.
+Carries out assassinations as needed by Vought	Black Noir	Assassination targets	65	5	Bandit	Gains status as reliable hitman at the cost of others’ lives.
+Refuses to hurt children during operations	Black Noir	Children in operational areas	55	75	Intelligent	Foregoes easy ruthlessness with minimal personal cost, significantly protecting innocents.
+Enjoys brutal violence in combat (beats Supes and butchers humans)	Black Noir	Combat victims	60	5	Bandit	Indulges violent impulses and professional role while severely harming others.
+Kills friendlies and ignores collateral in military interventions	Black Noir	Friendlies/civilians	40	10	Stupid	Indiscriminate violence risks consequences for him while severely harming allies.
+Kills superpowered terrorist Naqib on Edgar’s orders	Black Noir	Naqib	65	40	Bandit	Successfully fulfills a dangerous mission with some broader security benefit but lethal harm to target.
+Mercilessly beats Kimiko and leaves her for dead	Black Noir	Kimiko	60	10	Bandit	Neutral–positive gain as enforcer, heavy harm to her.
+Attempts to kill Butcher, Hughie, and MM in their safehouse	Black Noir	Butcher, Hughie, MM	60	10	Bandit	Pursues mission effectively, seriously endangering them.
+Continues attack on the Boys despite their traps and injuries to him	Black Noir	Butcher, Hughie, MM	55	15	Bandit	Perseveres professionally but accepts real personal risk while harming them.
+Stands down and leaves when Edgar calls him off from killing the Boys	Black Noir	Butcher, Hughie, MM	55	60	Intelligent	Protects himself from further risk and spares enemies once order changes.
+Ambushes and beats Starlight when she turns against Vought	Black Noir	Starlight	60	15	Bandit	Enforces corporate interests and his role while severely harming a defector.
+Slices a woman’s throat during Naqib compound operation	Black Noir	Woman in compound	60	5	Bandit	Quickly removes an obstacle without clear added personal gain, gravely harming her.
+Spare child witness and uses toy to cheer him up after killing Naqib	Black Noir	Child witness	55	80	Intelligent	Accepts minimal operational risk to comfort and protect a traumatized child.
+Distributes blankets at Vought PR event	Black Noir	Attendees	52	60	Intelligent	Takes part in low-cost PR work that modestly helps others and his public image.
+Feels upset at gruesome death of the whale	Black Noir	Whale / team present	50	60	Intelligent	Emotional response has no clear self-gain but reflects concern that tempers overall cruelty.
+Plans Soldier Boy’s kidnapping with Edgar’s approval	Black Noir	Soldier Boy	45	20	Bandit	Eliminates abusive leader and fulfills Vought’s agenda but sparks severe personal injury and instability.
+Fights Soldier Boy in Nicaragua with Payback	Black Noir	Soldier Boy	20	25	Helpless	Helps remove an abuser but sustains catastrophic, life-altering injuries.
+Gets horrifically disfigured and brain-damaged in the Soldier Boy fight	Soldier Boy	Black Noir	5	40	Stupid	Soldier Boy’s assault cripples Noir and undercuts team effectiveness without real benefit to himself.
+Covers up Homelander’s lethal outing in Diabolical, absolving him of blame	Black Noir	Homelander / future victims	55	5	Bandit	Gains trust and influence with Homelander while fostering his dangerous, unaccountable behavior.
+Teaches Homelander PR tactics and how to maintain public image	Black Noir	Homelander / public	60	10	Bandit	Strengthens his standing with Homelander but helps empower a future menace.
+Reliably “cleans up” Homelander’s messes on Edgar’s orders	Black Noir	Operational targets	60	10	Bandit	Builds status as Edgar’s top enforcer while harming many others.
+Tries to build an acting career (Beverly Hills Cop)	Black Noir	Black Noir	70	55	Intelligent	Pursues a legitimate aspiration that would benefit him and offers harmless entertainment to others.
+Confronts Soldier Boy about sabotaging his acting opportunity	Black Noir	Soldier Boy	25	30	Helpless	Attempts to defend his career but provokes brutal retaliation that ruins his life.
+Spends decades as a mute, scarred Vought weapon, following orders blindly	Black Noir	Society at large	30	20	Helpless	Gains material survival at the cost of autonomy and psychic damage, while doing net harm through killings.
+Assassinates for pay as Edgar’s personal hitman	Black Noir	Targets of hits	65	10	Bandit	Enjoys security and status from lethal work that heavily harms others.
+Mercilessly beats and guts normal humans during operations	Black Noir	Civilians	55	5	Bandit	Reinforces fearsome reputation with little direct gain, devastating victims.
+Shows soft spot for teammates and joins plan to stand up to Soldier Boy	Black Noir	Payback	30	40	Helpless	Helps group free themselves but pays far higher personal price than others.
+Feels lonely and seeks comfort in hallucinated cartoon friends	Black Noir	Black Noir	30	55	Helpless	Coping mechanism eases his suffering somewhat but reflects deep unresolved trauma.
+Uses stealth to eliminate an entire terrorist compound alone	Black Noir	Terrorists	70	35	Bandit	Displays peak competence and mission success while lethally harming opponents.
+Ambushes Starlight silently in a lit hallway	Black Noir	Starlight	60	10	Bandit	Executes a highly effective ambush, seriously endangering her.
+Glowers at a pianist until he leaves, then plays the Minute Waltz	Black Noir	Pianist / patrons	60	65	Intelligent	Gains a chance to perform and entertains others despite using mild intimidation.
+Watches Compound V news and breaks down crying	Black Noir	Black Noir	25	60	Helpless	Emotional collapse harms his well-being but reflects genuine horror at what was done to Supes.
+Puts his hand over his heart seeing Lucy the whale eviscerated	Black Noir	Lucy / onlookers	50	65	Intelligent	Shows empathy that may restrain further cruelty with no real cost to him.
+Rips out his tracking chip and flees when learning Soldier Boy is alive	Black Noir	Homelander / Seven	35	40	Helpless	Protects himself from a trauma trigger but abandons team at a critical moment, worsening future fallout.
+Hides in abandoned Suck E. Cheese’s and has panic-attack hallucinations	Black Noir	Black Noir	25	55	Helpless	Coping in isolation marginally soothes him but exacerbates his detachment and instability.
+Imaginary friends encourage him to face Soldier Boy again	Imaginary friends	Black Noir	20	60	Helpless	Drive him toward confronting trauma and likely death, potentially benefiting others more than him.
+Returns to Homelander after deciding to face Soldier Boy	Black Noir	Homelander / general public	20	60	Helpless	Prepares to confront a major threat at huge personal risk with possible broader benefit.
+Shares a hug with Homelander, sincerely showing affection	Black Noir	Homelander	55	60	Intelligent	Strengthens a fragile emotional bond that comforts Homelander and slightly secures Noir’s position.
+Withholds knowledge that Soldier Boy is Homelander’s father for years	Black Noir	Homelander	15	10	Stupid	Protects himself from a painful truth short term but triggers Homelander’s lethal rage when revealed.
+Gets guts ripped out by Homelander for his perceived betrayal	Homelander	Black Noir	70	5	Bandit	Homelander removes a “disloyal” subordinate, consolidating power at fatal cost to Noir.
+Homelander executes Noir quickly after learning of the withheld secret	Homelander	Black Noir	65	5	Bandit	Eliminates someone he feels betrayed by, reinforcing control while removing a competent ally.
+As a child, paralyzes another kid and hides in a ball pit	Young Black Noir	Other child	40	10	Bandit	Seems to avoid immediate consequences while causing severe harm to another child.
+Force-fed an Almond Joy by Maeve, triggering his tree nut allergy	Maeve	Black Noir	10	70	Helpless	She incapacitates a lethal foe to save others but risks his potential death and possible backlash.
+Reacting to that attack, he’s put out of commission for some time	Black Noir	Public / Seven	25	65	Helpless	His incapacitation harms his status but removes a dangerous enforcer, helping many.
+Nearly kills Starlight before Maeve intervenes	Black Noir	Starlight	60	10	Bandit	Fulfills his role by neutralizing a defector, gravely harming her.
+Is used as public terror hero to intimidate everyone he encounters	Vought / PR	General public	65	10	Bandit	Vought profits from his image; public lives under fear.
+Remains with Homelander after Edgar is ousted, as his trusted associate	Black Noir	Homelander	60	20	Bandit	Stays close to power for security, enabling a dangerous leader.
+Later abandons Homelander during Homelander’s moment of emotional need	Black Noir	Homelander	30	15	Stupid	Protects himself from Soldier Boy but deepens Homelander’s instability, leading to his own death.
+Helps cover up Homelander’s failures, fostering his “Never my fault” mindset	Black Noir	World at large	55	5	Bandit	Strengthens his standing with Homelander while helping create a future global threat.
+Agrees with Edgar to let Russians take Soldier Boy	Black Noir	Soldier Boy	45	25	Bandit	Removes abusive teammate and pleases Vought but starts a chain of violent consequences and his own maiming.
+Kills friendlies “on reflex” during Payback operations	Black Noir	Payback allies	35	10	Stupid	Uncontrolled violence harms teammates and offers him no clear benefit.
+Uses poison gas and stealth against stronger Supes	Black Noir	Enemy Supes	65	25	Bandit	Maximizes his survival and mission success while lethally harming opponents.
+Shows upset reaction and needs comfort over Hard Rock Cafe “war crime”	Black Noir	Black Noir	35	55	Helpless	Remorse and trauma hurt him while indicating some moral awareness that could restrain future excesses.

@@ -1,0 +1,32 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He works with enthusiasm and drive to better himself and make something out of his life	Jimmy	Jimmy	82	70	Intelligent	His determined self‑improvement benefits his prospects and indirectly others who rely on his competence.
+Other wranglers force him to take on the most menial and humiliating jobs and treat him as a pariah	Other wranglers	Jimmy	55	15	Bandit	They gain status/relief from dumping bad tasks on him while significantly harming him socially and emotionally.
+He gains more maturity and experience over time, improving his situation at the ranch	Jimmy	Jimmy and ranch	80	72	Intelligent	His growth increases his own standing and usefulness to the ranch community.
+He perseveres despite repeated insults, belittling, beating, near‑fatal injury, and time at another ranch	Jimmy	Jimmy	78	60	Intelligent	His persistence preserves and eventually improves his future, modeling resilience for others.
+A larger man beats him	Jimmy’s assailant	Jimmy	52	10	Bandit	The assailant asserts dominance with some short‑term personal gratification while seriously harming Jimmy.
+John sends him to Texas to apprentice at the Four‑Sixes Ranch as a last chance	John	Jimmy	75	78	Intelligent	John risks losing a hand but gives Jimmy a growth opportunity that strongly benefits Jimmy and likely the ranching community.
+Wranglers at Four‑Sixes treat him considerately and help him take his life choices into consideration	Four‑Sixes wranglers	Jimmy	70	80	Intelligent	Their supportive mentorship aids Jimmy’s development and strengthens the broader ranching network.
+He works hard at Four‑Sixes to become a cowboy	Jimmy	Jimmy and Four‑Sixes ranch	85	82	Intelligent	His effort upgrades his skills and value while directly helping the ranch.
+He enters into a relationship and engagement with Emily	Jimmy	Emily	88	85	Intelligent	The mutual, supportive engagement benefits both his emotional life and hers.
+He returns to Yellowstone, demonstrating confidence and competence that earn him respect	Jimmy	Yellowstone ranch hands	86	78	Intelligent	His improved skills raise his status and directly benefit work quality at the ranch.
+John forgives Jimmy’s obligations to the Duttons and tells him to go back to Texas where he can be happy	John	Jimmy	70	88	Intelligent	John sacrifices some control over Jimmy to greatly improve Jimmy’s autonomy and well‑being.
+He consistently refrains from bullying or killing anyone	Jimmy	Other characters	65	82	Intelligent	His non‑aggression safeguards others while costing him some status in a harsh environment.
+He expresses interest in rodeo‑riding and pursues it despite risk	Jimmy	Jimmy	20	30	Helpless	His choice leads to serious injury and reputational damage, with no clear benefit to others.
+Lloyd spots him the cash to enter a riding contest	Lloyd	Jimmy	55	60	Intelligent	Lloyd incurs some financial risk but supports Jimmy’s ambition and potential future earnings.
+Mia supports him behind the scenes for the rodeo attempt	Mia	Jimmy	60	55	Intelligent	She invests time/effort to help him chase his goal, modestly benefiting him at limited cost to herself.
+His rodeo contest attempt results in a near‑fatal neck injury and ruined reputation	Jimmy	Jimmy	5	35	Helpless	The attempt gravely harms him and provides at most minimal entertainment benefit to others.
+Mia functionally abandons him in his hour of need after the injury	Mia	Jimmy	60	10	Bandit	She avoids the burden of supporting an injured partner while severely harming him emotionally.
+John tells him to give up rodeo after his injury	John	Jimmy	72	75	Intelligent	John restricts Jimmy’s risky ambition but strongly protects his life and long‑term prospects.
+He keeps trying to continue rodeo against advice	Jimmy	Jimmy	30	40	Helpless	Persisting in a dangerous, low‑reward path threatens his health without clear gains for others.
+Rip brings him to a professional rodeo contest to show him the skill gap	Rip	Jimmy	70	80	Intelligent	Rip spends effort to give Jimmy clarity, helping him avoid further self‑harm and guiding his choices.
+He elects to abandon rodeo and pursue a different path	Jimmy	Jimmy	82	70	Intelligent	Quitting preserves his health and lets him focus on a more promising life direction.
+He falls in love at first sight with Mia	Jimmy	Mia	60	55	Intelligent	The attachment potentially benefits both, though it later proves unstable, but initial impact is mutually positive.
+He falls in love at first sight with Emily at Four‑Sixes	Jimmy	Emily	88	82	Intelligent	This attraction develops into a stable, supportive engagement that benefits both.
+He participates in difficult herding operations without complaint after training	Jimmy	Yellowstone ranch	82	80	Intelligent	His skillful, cooperative work improves ranch operations and his own reputation.
+He becomes an extremely skilled roper who outperforms the other wranglers	Jimmy	Other wranglers	85	68	Intelligent	His excellence advances his career and pushes the crew’s standard higher despite minor status friction.
+He plants dynamite with Rip and an associate to deny Jenkins an area advantage	Rip, associate, Jimmy	Jenkins	40	15	Bandit	They damage Jenkins’ position to benefit their ranch, with Jimmy bearing risk and limited direct gain.
+Others duct‑tape him to a wild stallion for hours as part of “training”	Other wranglers	Jimmy	10	20	Stupid	The hazing severely endangers him without adding real skill or broader benefit.
+Fred harasses him when he’s too tired to take a shower	Fred	Jimmy	52	12	Bandit	Fred reinforces status at Jimmy’s expense, offering no productive gain to the group.
+Other wranglers mock him when his horse flips him off during bull herding	Other wranglers	Jimmy	55	18	Bandit	Their ridicule boosts their amusement and status while undermining Jimmy’s confidence.
+Nearly everyone (except Lloyd) mocks and insults him for weeks and continues bullying him	Other wranglers	Jimmy	58	10	Bandit	The bullying cements their hierarchy but significantly harms Jimmy’s well‑being and learning.
+Yellowstone wranglers’ “training” fails to teach him anything useful	Yellowstone wranglers	Jimmy	20	25	Stupid	The abusive methods hurt Jimmy and waste effort without providing real skill or benefit to the ranch.

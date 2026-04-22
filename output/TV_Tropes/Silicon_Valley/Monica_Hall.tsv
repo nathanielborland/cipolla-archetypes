@@ -1,0 +1,13 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Admits she smokes heavily when stressed	Monica	Herself	35	50	Helpless	Self-disclosure neither helps nor harms others but reflects and reinforces a harmful habit for herself.
+Smokes like a chimney when stressed (general pattern)	Monica	Herself	20	50	Helpless	Her heavy stress-smoking harms her health and offers no clear benefit to others.
+Chainsmokes two cigarettes after $10B offer	Monica	Herself	10	50	Helpless	Intensified smoking under pressure severely harms her health with no offsetting gains to others.
+Goes beyond her duties to give Richard helpful advice	Monica	Richard	70	80	Intelligent	Providing extra advice likely improves her work outcomes and strongly benefits Richard’s decisions.
+Tells Richard she has his back no matter what happens	Monica	Richard	75	85	Intelligent	Offering strong personal support builds mutual trust and stability, helping both her and Richard.
+Sticks up for Pied Piper when they need her most	Monica	Pied Piper	80	90	Intelligent	Defending the company helps protect her investment/position and significantly aids the team.
+Maintains an odd friendship with Richard, Jared, and Gilfoyle	Monica	Richard, Jared, Gilfoyle	70	70	Intelligent	Sustaining these friendships provides mutual social and professional support.
+Falls out of favor with Laurie and gets reassigned to awkward office	Monica	Monica	30	45	Helpless	Losing favor and being moved to an undesirable office harms her status with at best minimal neutral effect on others.
+Officially joins Pied Piper as its CFO	Monica	Pied Piper	90	85	Intelligent	Taking the CFO role advances her career and strongly benefits the company through her competence.
+Attempts to screw over coworker Ed Chen via SeeFood setup	Monica	Ed Chen	40	20	Bandit	Her intent is to advance herself by risking Ed’s failure, aiming for her gain at his expense.
+Turns Ed onto Jian Yang's SeeFood app as a trap	Monica	Ed Chen	35	25	Bandit	Directing Ed toward what she expects to be a bad app seeks to undercut him while boosting her standing.
+Ed spins the situation so Monica becomes point person and he can claim credit or shift blame	Ed Chen	Monica	80	10	Bandit	He positions himself to capture upside and offload downside onto her, strongly favoring himself while risking serious harm to her.

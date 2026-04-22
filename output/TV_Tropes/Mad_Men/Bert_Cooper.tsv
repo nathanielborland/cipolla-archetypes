@@ -1,0 +1,31 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Bert watches the moon landing in awe and wonder	Bert	Co-workers/observers	70	70	Intelligent	Bert gains joy and inspiration and dies peacefully, while others later cherish that image of him.
+Co-workers mourn Bert deeply	Bert's coworkers	Bert/each other	20	80	Helpless	The mourning coworkers suffer grief but their shared mourning honors Bert and strengthens their bonds.
+Don envisions Bert singing and gets teary-eyed	Don	Don	30	65	Helpless	Don is emotionally pained by the vision yet gains insight/comfort from remembering Bert fondly.
+Bert resorts to blackmail	Bert	Don	75	15	Bandit	Bert secures leverage over Don for his own purposes while harming Don’s autonomy and security.
+Bert (allegedly) has the doctor who removed his testicles killed	Bert	Doctor	5	0	Stupid	Bert loses his testicles and then (if true) destroys the doctor, gaining no net benefit while inflicting maximum harm.
+Bert keeps Sterling Cooper afloat as an excellent businessman	Bert	Sterling Cooper	85	90	Intelligent	He maintains the firm’s survival and success, benefiting himself financially and everyone tied to the agency.
+Bert delivers a verbal smackdown to Pete	Bert	Pete Campbell	70	40	Bandit	Bert reinforces his authority and protects the firm while sharply undercutting Pete, providing limited direct benefit to Pete.
+Bert successfully blackmails Don without retaliation	Bert	Don	80	20	Bandit	Bert secures compliance and control while Don is coerced and must live with the threat.
+Bert displays pornographic woodcut in his office	Bert	Office visitors	60	40	Bandit	Bert enjoys his eccentric decor but risks discomfort and reputational harm for visitors and the firm.
+Don and Roger try to fire Pete	Don and Roger	Pete Campbell	55	30	Bandit	They attempt to rid themselves of a troublesome employee, which would improve their work lives but seriously damage Pete’s career.
+Bert blocks Don and Roger from firing Pete	Bert	Pete Campbell	65	75	Intelligent	Bert preserves Pete’s position to protect the firm’s reputation while safeguarding Pete’s career.
+Bert explains Pete’s family connections and reputational risk	Bert	Don and Roger	80	80	Intelligent	By clarifying the political stakes he protects the agency and educates the partners.
+Pete tells Bert the truth about Don’s past	Pete Campbell	Don	40	25	Bandit	Pete risks some backlash but hopes to gain leverage/status; Don is endangered by exposure.
+Bert responds “Who cares?” to Pete’s revelation	Bert	Don and Pete	70	85	Intelligent	He shields Don and the agency from scandal while subtly guiding Pete away from destructive office politics.
+Bert demands that everyone remove their shoes in his office	Bert	Office visitors	60	55	Intelligent	Bert gets the environment he likes; mild inconvenience to others is offset by demonstrating his authority and cultural preferences.
+Bert votes against firing Don in “Waterloo”	Bert	Don	55	60	Intelligent	He upholds loyalty and stability in the short term, modestly helping Don and preserving team cohesion.
+Bert admits to Roger that Don is now a liability	Bert	Roger/Partners	65	70	Intelligent	Honest assessment aids better strategic decisions while slightly distancing Bert emotionally.
+Bert explains he must be loyal to his team member	Bert	Don/Partners	60	70	Intelligent	He forgoes an easy political move to model loyalty, helping both his own moral standing and the team’s trust.
+Bert cultivates an image of a doddering old man	Bert	Outsiders/underestimators	80	40	Bandit	The ruse protects him and gives strategic advantage while causing others to misjudge situations to their detriment.
+Bert semi-retires and stops having an office, hanging out in the lobby	Bert	Himself/Agency	55	60	Intelligent	He lightens his workload while remaining available, giving space for new leadership yet still contributing when needed.
+Bert resumes involvement in SCDP business in Season 5	Bert	SCDP	75	80	Intelligent	He re-engages his skills to improve the firm’s prospects, benefiting himself as partner and the company.
+Bert and the partners vote that Joan’s prostitution is acceptable if she’s okay with it	Bert and partners	Joan	45	25	Bandit	They enable a harmful quid pro quo that secures business value while exposing Joan to serious personal cost.
+Bert tells Pete he can’t force Joan if she changes her mind	Bert	Pete and Joan	60	75	Intelligent	He imposes a limit that protects Joan’s autonomy while reducing potential legal and moral fallout for the firm.
+Bert blackmails Don into signing his contract	Bert	Don	80	20	Bandit	Bert secures Don’s binding commitment to the agency at Don’s expense, strengthening firm control over him.
+Bert leaves the company after Don’s anti-tobacco ad	Bert	SCDP	35	20	Helpless	He preserves his principles but loses direct influence and slightly destabilizes the firm.
+Bert returns to the company soon after leaving	Bert	SCDP	70	75	Intelligent	He regains his position and helps stabilize leadership, which benefits both him and the agency.
+Bert’s spirit appears to Don and gives advice	Spirit-Bert	Don	50	70	Intelligent	Bert himself gains nothing but Don benefits from guidance and renewed resolve.
+Bert increasingly views Don as a liability and opposes him working for the company	Bert	Don	60	40	Bandit	He protects the firm and his interests by moving against Don, to Don’s detriment.
+Bert refuses to back Jim’s unilateral attempt to fire Don and seize his shares	Bert	Jim Cutler	65	75	Intelligent	He safeguards corporate governance and Don’s rights, protecting both the firm’s stability and his own stake.
+Bert acknowledges Jim Cutler as a worthy opponent with vision	Bert	Jim Cutler	65	70	Intelligent	Recognizing Jim’s strengths sharpens Bert’s strategic thinking and fosters more effective, if adversarial, collaboration.

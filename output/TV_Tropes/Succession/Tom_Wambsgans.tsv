@@ -1,0 +1,51 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Tom bullies Greg on first meeting, asking if he'd kiss him	Tom	Greg	55	20	Bandit	Asserting dominance mildly boosts Tom’s ego while stressing and humiliating Greg.
+Tom reacts with jealousy when Greg moves in with Kendall	Tom	Greg	20	40	Helpless	His jealousy causes him distress without affecting Greg’s material position.
+Tom compares his and Greg’s relationship to Nero and Sporus and uses it to bind Greg closer	Tom	Greg	70	25	Bandit	He deepens Greg’s emotional/psychological entanglement to secure loyalty at Greg’s expense.
+Tom kisses Greg’s forehead to celebrate not going to prison	Tom	Greg	60	65	Intelligent	The gesture comforts Greg and expresses Tom’s joy, benefiting both relationally.
+Tom is unhappy and jealous when Greg wants to ask out Comfrey	Tom	Greg	30	45	Helpless	His jealousy upsets him and applies possessive pressure on Greg with little upside.
+Tom invites Greg to join Logan against the siblings, framed as a “marriage proposal”	Tom	Greg	85	25	Bandit	He secures a political ally and patronage for himself while pulling Greg into a morally compromised side.
+Tom advises Greg not to trust anyone in business	Tom	Greg	60	70	Intelligent	The advice realistically helps Greg navigate a predatory environment and costs Tom little.
+Tom withholds Greg’s confidential meeting with Michelle Pantsil from others	Tom	Waystar leadership	65	55	Intelligent	He protects Greg’s secret while gaining private leverage, with limited harm shown.
+Tom uses an employee as a physical footstool	Tom	Employee	70	5	Bandit	He indulges his dominance with no real benefit to others and clear humiliation for the employee.
+Tom encourages a hesitant Greg to join him as footstool	Tom	Greg	60	10	Bandit	He pressures Greg into degrading complicity, tightening control more than offering benefit.
+Tom praises Greg for blackmailing him and offers more than demanded	Tom	Greg	55	65	Intelligent	He reframes blackmail into a negotiation, giving Greg more upside and slightly stabilizing their power dynamic.
+Tom openly admits he loves being rich and refuses to deny himself luxuries	Tom	Tom	75	40	Bandit	He gains personal clarity and comfort while signaling selfishness and alienating others.
+Tom suddenly obsesses over Shiv’s periods due to fear of prison	Tom	Shiv	40	20	Stupid	His anxiety-driven baby trap harms Shiv emotionally and doesn’t materially solve his prison fear.
+Tom gets deeply involved in wedding details and is horrible to the wedding planner	Tom	Wedding planner	60	10	Bandit	He satisfies his control impulses at the planner’s expense.
+Tom delivers brutally honest attacks on Shiv’s attitude and fitness for motherhood	Tom	Shiv	30	10	Stupid	The venting damages Shiv and their relationship without yielding him any clear benefit.
+Tom throws water bottles at Greg when Greg wants to “see other people” professionally	Tom	Greg	25	10	Stupid	His tantrum physically and emotionally intimidates Greg and makes Tom look unstable.
+Tom pushes a woman aside during a shooting scare, saying “executives are coming through”	Tom	Random woman	65	0	Bandit	He marginally increases his own safety while directly endangering someone else.
+Tom humiliates Shiv’s lover at the wedding and has him removed	Tom	Nate	70	30	Bandit	He asserts boundaries and emotional satisfaction while socially humiliating Nate.
+Tom tells Shiv to “fuck off” when she mocks him too far at dinner	Tom	Shiv	60	45	Intelligent	He finally asserts a boundary, benefiting his self-respect and giving Shiv needed feedback.
+Tom tells Shiv he’s considering leaving her	Tom	Shiv	55	35	Intelligent	The threat signals limits, potentially prompting change and clarifying his own position.
+Tom betrays Shiv and the siblings by warning Logan of their plan to block the sale	Tom	Shiv, Kendall, Roman	90	5	Bandit	He secures power and proximity to Logan while gravely harming the siblings’ leverage.
+Tom sides with Matsson in the GoJo deal and takes over as Waystar CEO	Tom	Siblings and employees	95	10	Bandit	He gains top office and status while enabling a sale that strips power from the Roy kids and likely harms staff.
+Tom uses human furniture and relishes the idea of firing fifty ATN people	Tom	ATN employees	80	5	Bandit	He enjoys and consolidates power by inflicting job loss and humiliation on subordinates.
+Tom willingly offers himself as the fall guy to go to prison for Waystar	Tom	Tom	10	60	Helpless	He incurs extreme personal risk partly to protect the company and others, hoping vaguely for future reward.
+Tom misses Logan’s funeral to work at Waystar	Tom	Tom’s family circle	75	15	Bandit	He boosts his standing with Matsson while slighting familial/relational obligations.
+Tom overturns Greg’s desk in joy after learning he’s not going to prison	Tom	Greg’s property	70	30	Bandit	He celebrates at Greg’s expense, causing disruption without Greg’s consent.
+Tom checks on Kendall’s son after Logan harms him at Thanksgiving	Tom	Iverson	65	80	Intelligent	He shows rare concern, giving comfort at negligible cost to himself.
+Tom chooses to learn about Waystar’s illegal activities instead of keeping plausible deniability	Tom	Tom	25	30	Helpless	He increases his personal legal exposure while positioning himself to potentially manage or expose wrongdoing.
+Tom involves Greg in knowledge of the illegal cruise activities	Tom	Greg	60	10	Bandit	He offloads risk and labor onto Greg, gaining shared culpability leverage over him.
+Tom tells Greg to trust no one and warns that even he can’t be fully trusted	Tom	Greg	60	55	Intelligent	His candor realistically helps Greg assess him and the environment, albeit cynically.
+Tom keeps Greg’s meeting with Michelle Pantsil secret	Tom	Greg	65	65	Intelligent	He protects Greg’s risk-taking while preserving a bond and leverage for himself.
+Tom sucks up to Logan from his first scene and throughout	Tom	Logan	80	30	Bandit	He accrues patronage and protection through sycophancy that enables Logan’s power.
+Tom continues to be submissive to Matsson, even as Matsson insults him and lusts after Shiv	Tom	Matsson	90	20	Bandit	He tolerates personal humiliation to secure the CEO role and Matsson’s favor.
+Tom accepts being a puppet CEO under Matsson	Tom	Matsson	80	25	Bandit	He gains title and material rewards while ceding real authority and participating in Matsson’s agenda.
+Tom protects Greg from Logan’s wrath after Greg betrays Ewan to a biographer	Tom	Greg	35	75	Helpless	He risks his own standing with Logan to shield Greg with no clear compensating gain.
+Tom agrees to absorb Greg’s personal blame in the cruise scandal with no quid pro quo	Tom	Greg	20	80	Helpless	He takes on serious potential liability solely to spare Greg.
+Tom decides to back Gil Eavis out of idealism	Tom	Political sphere	40	70	Helpless	His idealistic support offers him limited personal benefit while aiming at broader systemic good.
+Tom mocks employees’ distress as Greg fires them over video call	Tom	Fired ATN employees	70	5	Bandit	He extracts amusement and a sense of power from their misery without aiding anyone.
+Tom takes advantage of Logan calling him “son” to ingratiate himself further	Tom	Logan	80	25	Bandit	He opportunistically leverages Logan’s confusion to deepen his own position.
+Tom grudgingly accepts Shiv’s offer of an open marriage while not wanting details	Tom	Shiv	45	35	Helpless	He suppresses his discomfort to keep the relationship, sacrificing his emotional well-being.
+Tom yells at Greg to “man up” and drop his principles about ATN	Tom	Greg	60	15	Bandit	He pressures Greg to conform to immoral work norms, making Greg easier to use.
+Tom considers taking Shiv’s last name to aid his social climbing	Tom	Tom	70	40	Bandit	He uses the symbolism of marriage mainly to boost his own status.
+Tom pelts Greg with water bottles when Greg tries to break up professionally	Tom	Greg	25	10	Stupid	He vents anger in a way that harms Greg and further undermines his own image and relationship.
+Tom becomes increasingly cruel to Shiv, treating her like property while she’s pregnant	Tom	Shiv	40	5	Stupid	His escalating cruelty damages Shiv and their bond without giving him durable advantage.
+Tom tells Shiv she’s incapable of love and unfit for motherhood while she’s pregnant	Tom	Shiv	30	5	Stupid	The attack is deeply wounding and destabilizing, and only worsens his emotional and strategic position.
+Tom helps scrub evidence of the cruise scandal once reform is blocked	Tom	Victims / public	75	5	Bandit	He protects his career and the company by perpetuating harm and denying justice.
+Tom humiliates Shiv’s lover at the wedding reception with a “who’s laughing now” moment	Tom	Nate	75	25	Bandit	He gains emotional vindication and status while socially crushing Nate.
+Tom performs a Wounded Gazelle Gambit, offering himself as the fall guy who “won’t wriggle”	Tom	Logan	30	30	Helpless	He tries to buy protection with self-sacrifice, exposing himself to major risk for uncertain favor.
+Tom assumes Caroline’s cruelty to Shiv is just a joke and laughs along	Tom	Shiv	50	30	Helpless	His misreading reinforces Shiv’s abuse dynamics and costs him genuine understanding without helping him much.
+Tom continues to act as a Yes-Man to Logan despite seeing how badly Logan treats Shiv	Tom	Logan	80	20	Bandit	He prioritizes personal advancement by echoing Logan while further isolating Shiv.

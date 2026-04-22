@@ -1,0 +1,66 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+John makes it clear Jamie’s only value is as ranch legal representation	John	Jamie	65	5	Bandit	He secures legal services and control while deeply devaluing Jamie, damaging Jamie with no real cost to himself at the time.
+John allows Beth’s physical abuse of Jamie	John	Jamie	60	0	Bandit	He maintains Beth’s loyalty and family power dynamics while letting Jamie be harmed with no benefit to Jamie.
+Beth physically abuses Jamie	Beth	Jamie	55	0	Bandit	Beth vents rage and asserts dominance at Jamie’s expense, gaining emotional release and control while only harming him.
+John realizes the ramifications of Beth blackmailing Jamie over the murder of Jamie’s father	John	Jamie	40	40	Helpless	Insight creates internal conflict and no practical gain, and it doesn’t stop the abuse so any benefit to Jamie is minimal.
+Beth functionally blackmails Jamie over murdering his real father	Beth	Jamie	70	10	Bandit	She gains leverage and control over Jamie while leaving him vulnerable and traumatized, with little upside for him.
+John comments he still loves Jamie regardless	John	Jamie	45	30	Helpless	Verbal reassurance gives John some emotional relief and Jamie marginal comfort but doesn’t alter abusive dynamics.
+John returns to abusing Jamie as before	John	Jamie	60	0	Bandit	He reasserts dominance and vents spite with no self-cost in the short term while continuing to harm Jamie.
+John robs Jamie of his efforts to be Governor out of spite	John	Jamie	50	10	Bandit	He blocks Jamie’s political ascent to keep control yet later loses from this choice; Jamie is clearly harmed.
+Jamie declares John’s impeachment from being Governor	Jamie	John	70	20	Bandit	Jamie gains power and revenge while destabilizing John and the family, causing broad collateral damage.
+Jamie tacitly suggests Sarah use her contacts to have John killed	Jamie	John	35	5	Bandit	He seeks freedom and safety from John but is wracked by guilt and fallout, and John is gravely harmed.
+Sarah tells Jamie to stop crying after John’s murder	Sarah	Jamie	60	10	Bandit	She keeps Jamie focused on her agenda and power play while emotionally invalidating him.
+John falls down from a ruptured ulcer	John	John	10	50	Helpless	His prior stress and lifestyle lead to serious self-harm with no gain, though others react caringly.
+Ranch-hands rush John to the on-site veterinarian	Ranch-hands	John	55	80	Intelligent	They expend effort and worry to save his life, benefiting him greatly with minor personal cost.
+John undergoes diagnosis and treatment for colon cancer	John	John	30	50	Helpless	Treatment is painful and frightening with uncertain benefit; he at least preserves a chance to survive.
+Militia members shoot John multiple times	Militia	John	10	5	Stupid	They nearly kill him but fail long-term and provoke lethal retaliation, causing harm with no durable benefit.
+John kills members of the Montana Free Militia after they threaten his family	John	Militia	70	15	Bandit	He protects his family and deterrence at the cost of others’ lives and escalation risks.
+John disagrees with outsiders on principle and disregards useful ranching practices	John	Outsiders	25	25	Stupid	His contrarianism undermines his own and the ranch’s interests while also rejecting beneficial proposals for others.
+John refuses to install solar panels to “protect” sage grass	John	Ranch/outsiders	30	30	Stupid	He blocks revenue and modernization for a useless plant, hurting both himself and wider economic/environmental gains.
+John ruthlessly uses violence (“train station”) to secure his rule	John	Various enemies	65	10	Bandit	He preserves power and territory through killings that create fear, bodies, and a bad reputation for others.
+John runs his family with an iron fist and no compromise	John	Family	35	20	Stupid	His rigidity eventually tears the family apart and ruins their reputation, harming both him and them.
+John tells Jamie suicide is the most shameful thing a man can do	John	Jamie	45	15	Helpless	He discourages suicide with shaming, giving Jamie some reason to live while inflicting lasting emotional damage and hypocrisy.
+John dotes on his grandson Tate	John	Tate	70	80	Intelligent	He gains emotional fulfillment and gives Tate love and attention, benefiting them both.
+John allows Beth to abuse Jamie and only mildly asks her to “take it easy” once	John	Jamie	55	5	Bandit	He preserves Beth’s loyalty and his quiet status quo at Jamie’s continued expense.
+John gives Beth no ire when she admits pushing Jamie toward suicide	John	Jamie	50	5	Bandit	He avoids confronting Beth to maintain their alliance while signaling Jamie’s suffering doesn’t matter.
+John irrationally hates and regularly abuses Jamie	John	Jamie	40	5	Bandit	He indulges his resentment and vents frustration while deeply damaging Jamie and eventually himself.
+Hitmen murder John and stage it as suicide	Hitmen	John	5	5	Stupid	They complete the job but trigger cascading consequences they do not seem to profit from within this account.
+John puts aside differences with Rainwater and Jenkins to go after the Beck clan	John	Beck clan	70	60	Intelligent	He protects his family and area while curbing a worse threat, benefiting both himself and the valley.
+John hosts a sit-down meeting with Rainwater and Jenkins to coordinate against the Becks	John	Rainwater & Jenkins	65	65	Intelligent	He forges a pragmatic alliance that improves everyone’s ability to fight a mutual enemy.
+John and Rainwater ally again to oppose Market Equities	John	Market Equities	65	60	Intelligent	They both strengthen their positions and resist an external corporate threat.
+John mercy-kills a mortally-wounded horse after an auto accident	John	Horse	40	75	Helpless	He suffers emotional loss to end the animal’s suffering, clearly benefiting the horse.
+John investigates the crash scene, asserting authority	John	Officers/scene	70	55	Intelligent	He maintains control and ensures matters are handled his way, and the scene benefits from experienced oversight.
+John keeps the family cowboy code and “things we do to keep you fed” attitude	John	Family	55	40	Bandit	He gains power and identity, while his harsh methods extract obedience and fear from family and workers.
+John cannot comprehend why Jamie would turn on him despite years of abuse	John	Jamie	20	20	Stupid	His blindness undermines his own safety and precludes repairing the relationship, harming both sides.
+Jamie impeaches John as governor	Jamie	John	65	25	Bandit	He frees himself and gains leverage while destabilizing the family and state politics.
+John allows Beth to continue abusing Jamie for defending himself	John	Jamie	55	5	Bandit	He upholds Beth’s primacy while confirming Jamie’s helpless status and trauma.
+John orders Rip to murder a mortician to destroy evidence	John	Mortician	75	10	Bandit	He protects himself and the ranch from legal risk at the cost of an innocent life.
+Jamie reveals John’s dirty secrets leading to impeachment	Jamie	John	70	25	Bandit	He gains power and vengeance, while damaging John’s image and the family’s stability.
+Market Equities/Jamie exploit tax/legal problems to strip the ranch’s assets	Market Equities & Jamie	Dutton family	75	10	Bandit	They gain legal and financial leverage at the direct loss of the Duttons’ assets and power.
+Kayce and Beth sell equipment and animals to pay debts	Kayce & Beth	Dutton ranch	30	40	Helpless	They reduce their own long-term capacity and legacy to stave off more immediate financial collapse.
+Kayce decides to sell the Yellowstone ranch to Rainwater	Kayce	John’s legacy	35	60	Helpless	He sacrifices his inheritance and father’s wish to secure some financial/strategic stability and tribal benefit.
+John refuses Market Equities’ massive cash offer for the land	John	Dutton family	5	20	Stupid	He preserves pride and promise while dooming the family financially, helping no one in the end.
+John insists on holding on to the land as ancestors once did	John	Dutton family	10	25	Stupid	His obstinacy eventually destroys the ranch’s viability and his family’s future.
+John uses Jamie solely as “a lawyer on the inside” when talking him out of suicide	John	Jamie	60	10	Bandit	He keeps a useful asset alive for legal cover with little regard for Jamie’s wellbeing.
+John has Kayce hand-picked as new Livestock Commissioner	John	Kayce	70	40	Bandit	He secures institutional power and boosts Kayce’s status but contributes to nepotism and potential governance issues.
+John installs Jamie as Attorney General	John	Jamie	75	45	Bandit	He gains legal control and gives Jamie high office, yet does so self-servingly and sets up later conflict.
+John stops to help a woman and her son with a flat tire	John	Stranded woman & son	40	85	Intelligent	He risks exposure to danger but offers significant help; harm only comes because others attack.
+Militia member shoots John and the woman he tried to help	Militia	John & woman	5	0	Stupid	They cause suffering and chaos with no articulated benefit, and fail to eliminate John permanently.
+John becomes governor primarily to protect the ranch	John	State/government	60	25	Bandit	He gains power and shields the ranch while neglecting broader public responsibilities.
+John abdicates gubernatorial duties to capture and brand cattle	John	Montana citizens	30	20	Stupid	He prioritizes ranch chores over governing, hurting his legitimacy and underserving the public.
+John ignores his advisors as governor	John	Advisors/public	25	20	Stupid	His refusal to listen weakens his own administration and the quality of governance.
+John manipulates his family to serve his goals	John	Family	45	20	Bandit	He consolidates control and advances his agenda while eroding their autonomy and trust.
+John refuses to support Kayce’s move to empower Rainwater’s investigation	John	Kayce & Rainwater	30	40	Helpless	His resistance strains relations and slows a just investigation, but Kayce’s decision still benefits victims.
+Kayce defers livestock officers to help Rainwater investigate a missing native woman	Kayce	Missing woman’s case	65	80	Intelligent	He risks John’s ire but advances justice and tribal authority.
+Jamie finally sees John as a millstone dragging him down	Jamie	Jamie	40	30	Helpless	The insight hurts him emotionally yet sets up his eventual push for change, with limited broader impact.
+John forgets or ignores the damage his family has done while moralizing	John	Others	30	25	Stupid	His double standards undercut his credibility and worsen conflicts without benefit.
+John starts a relationship with Governor Lynette Perry	John	Lynette	65	55	Intelligent	He gains personal and political benefits while she gains companionship and alliance.
+John starts a relationship with Summer after helping her skirt charges	John	Summer	60	40	Bandit	He wins a lover and influence while compromising legal fairness and reinforcing his own power.
+John allies with Rainwater and others against Market Equities after his death (indirect legacy effect)	John (legacy)	Market Equities	55	60	Intelligent	His death triggers circumstances that ruin Market Equities’ plans and help preserve the land, albeit unintentionally.
+John keeps Jamie around despite hating him because he’s useful legally	John	Jamie	65	15	Bandit	He exploits Jamie’s skills while continuing emotional abuse, giving Jamie only a role, not care.
+John serves as a father figure to Rip	John	Rip	70	80	Intelligent	He gains a fiercely loyal surrogate son and Rip gains stability and belonging.
+John gives his blessing for Rip to marry Beth	John	Beth & Rip	75	80	Intelligent	He secures family continuity and emotional bonds, which benefit both the couple and himself.
+John chooses “ranch before anything else” and rarely shows empathy beyond it	John	Family	25	30	Stupid	His priority structure erodes relationships and legacy, harming both him and his loved ones.
+Jamie indirectly arranges circumstances leading to John’s staged-suicide death	Jamie	John	30	15	Bandit	He removes his abuser and potential threat but incurs guilt and massive collateral damage.
+Kayce plans to sell the ranch to Rainwater in defiance of John’s wishes	Kayce	John’s legacy	40	65	Helpless	He sacrifices family heritage to gain financial/ethical stability and support tribal stewardship.
+Beth and Kayce ultimately sell the ranch to Rainwater	Beth & Kayce	Dutton family	35	70	Helpless	They lose ownership and identity but ensure the land is protected and creditors paid.

@@ -1,0 +1,57 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He temporarily fills in as City Manager during the budget crisis	Chris	City government / staff	86	88	Intelligent	Steps into leadership in a crisis, stabilizing the city and advancing his own career.
+He takes the City Manager position permanently	Chris	Chris	90	80	Intelligent	Secures a powerful role he’s good at, benefiting both himself and the administration.
+He refuses to play favorites in government	Chris	City employees / citizens	82	88	Intelligent	Maintains fairness and integrity, preserving trust and his own credibility.
+He makes time to listen to Parks Department problems	Chris	Parks Department staff	78	82	Intelligent	Invests effort to support subordinates, building loyalty and solving issues.
+He reminds the Parks Department of his authority when needed	Chris	Parks Department staff	70	72	Intelligent	Uses authority to ensure necessary work gets done, with some friction but net benefit.
+He offers Ron the assistant city manager position	Chris	Ron	78	70	Intelligent	Gives Ron a career opportunity and potential organizational support.
+He tells Ron he must actually lead the department if he stays	Chris	Ron	75	80	Intelligent	Holds Ron accountable, improving leadership behavior despite short-term discomfort.
+He launches a formal investigation into Leslie and Ben’s relationship	Chris	Leslie and Ben	40	35	Bandit	Protects institutional integrity and himself at significant cost and stress to the couple.
+He refuses to half‑ass Leslie’s ethics trial despite caring for them	Chris	Leslie and Ben	45	38	Bandit	Overzealous rigor hurts them more than it helps anyone, while preserving his rule-bound identity.
+He clearly warns Tammy Two not to lie under oath	Chris	Tammy Two	78	85	Intelligent	Deters perjury, safeguarding the process and his own legal/ethical position.
+He intimidates Tammy Two into recanting and leaving	Chris	Tammy Two / trial	75	80	Intelligent	Removes a dishonest witness, protecting the trial and himself from tainted evidence.
+He prepares to physically confront Jamm at the wedding	Chris	Jamm	55	40	Bandit	Defending Leslie’s honor would emotionally satisfy him but escalate harm; Ron preempts it.
+He scolds the Parks Department for goofing off instead of fixing the fountain	Chris	Parks Department staff	65	68	Intelligent	Applies negative feedback to restore focus and responsibility.
+He makes a vegetable loaf instead of cake for April and Andy’s party	Chris	Party guests	60	20	Bandit	Imposes his health agenda, gaining self‑satisfaction while disappointing everyone else.
+He later criticizes Ron for ruining the employee appreciation barbecue	Chris	Ron / Parks Department	68	70	Intelligent	Points out misaligned priorities, improving future events despite prior hypocrisy.
+He delegates bad‑news delivery to Ben as a strategy	Chris	Ben	70	25	Bandit	Shields himself from unpopularity while shifting reputational damage onto Ben.
+He asks Ben “is there anything we can do about that?” then leaves him with the bad news	Chris	Ben / complainant	68	28	Bandit	Retains a benevolent image while forcing Ben to be the visible naysayer.
+He adopts a hyper-polite full‑name, pointing greeting with new people	Chris	People he meets	60	55	Intelligent	Builds memorable rapport though occasionally off‑putting, mildly helping himself and others.
+He accepts Andy’s admiration that he’d “pick a dude” as flattering	Chris	Andy	62	60	Intelligent	Responds positively, strengthening social bonds with no downside.
+He is openly flattered when Jean-Ralphio suggests a threesome	Chris	Jean-Ralphio / Ann	60	55	Intelligent	Takes the compliment without escalating awkwardness, preserving social ease.
+He warmly accepts Milton calling him a “very pretty man”	Chris	Milton	60	55	Intelligent	Handles an odd remark graciously, smoothing interaction.
+He pushes intense health habits (10k, vitamins, strict diet)	Chris	Chris	82	60	Intelligent	Greatly improves his own health, with some secondhand benefit via example.
+He replaces party cake with a “healthier” option for others’ good	Chris	Party guests	55	30	Bandit	Attempts to improve their health but mainly imposes preferences and ruins enjoyment.
+He implements a town-wide health initiative	Chris	Citizens of Pawnee	80	85	Intelligent	Uses policy to improve public health in line with his values.
+He tries to help everyone with any problem, even when he doesn’t understand it	Chris	People with problems	50	45	Stupid	Overhelping often stresses him and makes others’ situations worse.
+He learns to sometimes just say “That sucks” and listen to Ann	Chris	Ann	78	82	Intelligent	Adjusts behavior to meet her emotional needs, improving the relationship and easing his own burden.
+He breaks up with Ann through an obscure feng shui metaphor	Chris	Ann	20	10	Stupid	Causes confusion and hurt without benefiting himself; the breakup is mishandled and delayed.
+He deliberately seeks a contrasting love interest (Shauna) to break his pattern	Chris	Chris	75	70	Intelligent	Consciously expands his dating scope, likely improving his own growth and her experience.
+He dates Shauna despite her liking red meat	Chris	Shauna	70	65	Intelligent	Accepts differences, gaining a relationship and showing flexibility.
+He acts as a matchmaker for Ben	Chris	Ben	68	60	Intelligent	Invests effort to improve Ben’s love life, gaining satisfaction from helping.
+He enforces a strict “no office relationships” rule on Ben and Leslie	Chris	Ben and Leslie	42	35	Bandit	Protects rules/organization but harms them emotionally and professionally.
+He drinks Lagavulin on occasion despite his usual avoidance of alcohol	Chris	Chris	63	55	Intelligent	Allows limited indulgence, modest personal benefit with negligible effect on others.
+He substitutes a vegetable loaf for cake on health grounds (noted hypocrisy context)	Chris	Party guests	58	25	Bandit	Again imposes health values in a celebratory context, benefiting only his principles.
+He tries to remove hamburgers from the commissary in favor of a turkey burger	Chris	Citizens / staff	45	30	Bandit	Pursues a health goal that conflicts with widespread preference and enjoyment.
+He bets Ron his turkey burger can beat a beef burger	Chris	Ron / tasters	50	40	Bandit	Seeks validation of his worldview; loses socially when proven wrong.
+He honestly acknowledges that Ron’s beef burger is better	Chris	Ron / tasters	65	70	Intelligent	Admits defeat, aligning with reality and social goodwill.
+He pushes himself to physical extremes, causing flu and electrolyte vulnerability	Chris	Chris	40	50	Helpless	Extreme optimization backfires on his own health with no clear gain for others.
+He avoids “poisoning his body” with alcohol almost entirely	Chris	Chris	70	55	Intelligent	Protects long‑term health with minor social trade‑offs.
+He insists on involving Garry closely in courting Millicent out of respect	Chris	Garry	75	70	Intelligent	Strengthens trust with her father, supporting family dynamics and his own image.
+He tells Garry whenever Millicent sleeps over	Chris	Garry	40	20	Stupid	Overshares intimate details, making everyone uncomfortable without benefit.
+He persistently pursues Ann when she’s initially not interested	Chris	Ann	55	35	Bandit	Invests in getting what he wants while creating pressure and awkwardness for her.
+He moves on quickly after breaking up with Ann	Chris	Ann	60	35	Bandit	Protects his own emotional state while intensifying her post‑breakup pain.
+He later pines for Ann while she dates Tom, spiraling into depression	Chris	Chris	10	50	Helpless	Harms his own mental health while not materially affecting others.
+He starts dating Shauna, making Ann jealous	Chris	Ann	65	30	Bandit	Improves his own love life but triggers Ann’s jealousy and discomfort.
+He gives every guy his own ideal bachelor party when he learns they never had one	Chris	Ben and friends	88	92	Intelligent	Spends effort/resources to create joy and closure for multiple friends, gaining fulfillment.
+He applies strict non-favoritism to Ben in rule enforcement	Chris	Ben	60	70	Intelligent	Protects institutional fairness, even at some personal/relational cost.
+He listens to Ron’s expertise where he lacks it	Chris	Ron	80	80	Intelligent	Defers appropriately, improving outcomes and deepening mutual respect.
+He scares off Orin with overwhelming positivity	Chris	Orin	65	60	Intelligent	Rids the space of a disturbing presence with relatively harmless cheerfulness.
+He uses constant movement and mental occupation to avoid despair	Chris	Chris	35	55	Helpless	Short‑term coping preserves function but sustains underlying psychological harm to himself.
+He loads up on herbal remedies during Leslie’s trial, like an addict	Chris	Chris	20	52	Helpless	Attempts self‑medication that worsens his own physical and mental state.
+He refuses to bend rules as a Principles Zealot, even when he wants to	Chris	Leslie and Ben	40	40	Stupid	Clinging to form over substance stresses him and harms others without clear net gain.
+He tells Tammy 2 he will have her charged and fired if she lies	Chris	Tammy Two	78	83	Intelligent	Strong deterrent to corruption, protecting both his role and institutional integrity.
+He leaves Pawnee with Ann to start their family	Chris	Ann / their family	90	82	Intelligent	Chooses personal life and family stability, with the town losing him but net family benefit.
+He expresses that he has to go to the bathroom twelve times a night	Chris	Chris	25	55	Helpless	His hyper‑tuned body severely disrupts his own comfort without clear benefit to anyone.
+He continues to investigate Leslie and Ben fully despite hating the role	Chris	Chris	35	45	Helpless	Sticks to a painful process that harms him emotionally and doesn’t clearly help others.
+He holds witnesses to high standards even if their lies would help his case	Chris	His own case / witnesses	72	82	Intelligent	Sacrifices an easy win to maintain justice and institutional legitimacy.

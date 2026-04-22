@@ -1,0 +1,32 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+She holds down the GEO team in a shootout	Action Girl / Tokyo	GEO team	75	10	Bandit	Successfully restraining special forces helps her team’s heist while strongly harming opponents.
+She incapacitates Gandia by thrusting grenade shrapnel in his back	Tokyo	Gandia	70	20	Bandit	Neutral-to-positive for her side’s survival but seriously harms Gandia.
+She makes out with Allison as a possible power move	Tokyo	Allison Parker	55	30	Bandit	Boosts her dominance/psychological leverage over a hostage while likely unsettling the hostage.
+She correctly deduces Lisbon is alive from media and torture clues	Tokyo	Heist team	80	85	Intelligent	Accurate inference guides strategy and benefits both her and her allies.
+She becomes less reckless over time and takes over leading the team	Tokyo	Heist team	85	80	Intelligent	Leadership growth improves her odds and stabilizes the team’s functioning.
+She deposes Palermo from leadership	Tokyo	Palermo	65	40	Bandit	Seizing command increases her influence while reducing Palermo’s authority and agency.
+She narrates specific moments as character narrator	Tokyo	Audience / story recipients	50	70	Intelligent	Her narration doesn’t change her fate but informs and benefits listeners’ understanding.
+She gets angry when Rio gets closer to Allison	Tokyo	Rio	40	35	Stupid	Jealous rage offers no gain and strains her relationship.
+When captured, she insults Gandia and tries to kick him	Tokyo	Gandia	45	30	Stupid	Defiance wins no advantage and risks harsher treatment from a dangerous captor.
+She takes down Gandia and Spec Ops soldiers with her grenades instead of letting them kill her	Tokyo	Gandia and Spec Ops	20	35	Stupid	She dies and only partially benefits her side while inflicting harm on others.
+Her mother repeatedly leaves young Tokyo alone at home for work	Mother	Young Tokyo	55	30	Bandit	Mother preserves her job/income while exposing child Tokyo to neglect risk.
+Tokyo effectively disowns her mother after the last call	Tokyo	Her mother	25	25	Stupid	Cutting ties gives her no clear benefit and leads to deep later regret for both.
+Tokyo regrets disowning her mother and confides in Rio	Tokyo	Herself / Rio	35	60	Helpless	Emotional honesty helps Rio/understanding but intensifies her own regret.
+Her attractiveness draws men (Rio, Denver, Gandia) toward her	Tokyo	Suitors	70	45	Bandit	Being a “dude magnet” advantages her but can complicate or harm others’ emotions.
+She acts bravely and recklessly, endangering the plan multiple times	Tokyo	Heist team	40	25	Stupid	Her courage gives her little lasting gain while jeopardizing the operation and comrades.
+Her impulsivity makes things worse for the team many times	Tokyo	Heist team	35	20	Stupid	Acting without thinking repeatedly damages the heist with scant benefit to her.
+Her actions lead to Rio being captured in season 3	Tokyo	Rio	20	10	Stupid	Rio’s capture severely harms him and the crew while also triggering trouble for Tokyo.
+She stalls for time when captured, following the Professor’s tip	Tokyo	Heist team / Professor	75	85	Intelligent	Time-wasting ploy helps her escape and aids the team’s overall plan.
+She assumes Raquel is alive and suggests using sound deception	Tokyo	Heist team / Raquel	80	90	Intelligent	Her insight creates a successful plan that greatly benefits her and her allies.
+The Professor heeds her suggestion and crafts a plan	Professor	Heist team	85	90	Intelligent	Using her idea yields a high-payoff stratagem for both him and the crew.
+She behaves as a hot‑blooded, impulsive member, causing internal problems	Tokyo	Heist team	35	25	Stupid	Temper-driven actions create internal conflict without real benefit to her.
+She often acts before thinking for plot reasons	Tokyo	Heist team	35	25	Stupid	Repeated rashness undermines the plan and relationships with no clear gain.
+She denies being in a relationship with Rio, calling him a kid	Tokyo	Rio	40	30	Stupid	Denial damages Rio emotionally and destabilizes their connection without helping her.
+She later makes up with Rio and confirms their love	Tokyo	Rio	80	75	Intelligent	Reconciliation strengthens their bond and mutual emotional wellbeing.
+She cares about team members despite being selfish and short-tempered	Tokyo	Heist team	60	70	Intelligent	Her underlying care benefits others and moderately benefits her through bonds.
+She flirts with men and sometimes women as a tease	Tokyo	Flirt targets	60	45	Bandit	Flirting gratifies/empowers her while risking confusion or minor hurt for others.
+She causes serious trouble that leads to Rio’s capture and second heist	Tokyo	Heist team (esp. Rio)	25	15	Stupid	Chain of her actions sets off a cascade of harms with little payoff.
+The second heist leads to Nairobi’s death, Helsinki’s injury, and Tokyo’s death	Tokyo	Heist team (Nairobi, Helsinki, herself)	10	10	Stupid	Outcome is devastating to her and her closest allies with scant offsetting benefit.
+Her threat causes Sierra to ally with the heist team indirectly through events	Tokyo	Heist team	60	65	Intelligent	Event chain she set in motion eventually produces a strategic new ally.
+Gandia suffers a karmic death due to her actions in the explosion	Tokyo	Gandia	40	35	Bandit	She dies but also eliminates a lethal enemy, a mixed benefit for her side and harm to him.
+She goes berserk after Helsinki beats Rio and threatens to kill him/Berlin/Helsinki	Tokyo	Berlin/Helsinki	30	25	Stupid	Extreme reaction risks team unity and future violence without real gain.

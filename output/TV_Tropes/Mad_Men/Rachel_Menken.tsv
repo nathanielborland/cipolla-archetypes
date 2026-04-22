@@ -1,0 +1,9 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Appears as an illusion to Don	Her (illusion)	Don	10	10	Stupid	The illusion unsettles Don without clear benefit to anyone.
+Keeps leading her store during marriage and while having children	Her	Herself, family/customers	80	70	Intelligent	She maintains her business, supporting herself and providing goods/income for her family and community.
+Quits running the store because she became sick	Her	Herself, family/customers	40	40	Helpless	Stopping work reduces her income and service to others but is driven by illness rather than benefit.
+Her mother dies in childbirth	Her mother	Herself, newborn child	0	0	Stupid	The mother’s death provides no benefit and harms both herself and her child.
+She grows up without a mother (due to mother’s death)	Her life circumstances	Herself	10	20	Helpless	Lacking a mother harms her development with no corresponding benefit to her.
+She dies of leukemia, leaving behind young children	Her illness	Herself, her children	0	5	Stupid	Her death harms her and especially her young children without bringing any benefit.
+She marries Tilden Katz	Her	Tilden Katz (and herself)	80	80	Intelligent	Marriage appears to bring mutual emotional fulfillment and stability.
+She continues relationship aiming for appreciation as a person	Her	Tilden Katz	85	85	Intelligent	Seeking and seemingly attaining a loving, appreciative partnership benefits both her and her partner.

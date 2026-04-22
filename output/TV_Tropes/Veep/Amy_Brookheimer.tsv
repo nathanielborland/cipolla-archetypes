@@ -1,0 +1,22 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Tells off Selina and quits due to overwork	Amy	Selina	60	40	Intelligent	She escapes an intolerable job at some personal/professional risk, while depriving Selina of a key staffer but not clearly harming others overall.
+Has drunken sex with Dan, leading to pregnancy	Amy	Dan	20	35	Helpless	She gains an unwanted pregnancy and emotional fallout while giving Dan brief pleasure and no clear harm.
+Has drunken sex with Amy, leading to pregnancy	Dan	Amy	65	30	Bandit	He gets sex with no later consequence shown for him while Amy bears the pregnancy and its burdens.
+Tries to nudge Dan into settling and raising the child	Amy	Dan	40	45	Helpless	She makes herself vulnerable pursuing a commitment he doesn’t notice, and there’s no evident benefit to him or others.
+Remains oblivious to Amy’s attempts to settle down	Dan	Amy	55	30	Bandit	His inaction lets him avoid responsibility while emotionally undermining Amy’s hopes.
+Decides to get an abortion after Dan ignores her	Amy	Fetus/relationship	35	40	Helpless	She avoids an unwanted child but suffers clear regret later, while sparing others from a dysfunctional family situation.
+Delivers a fiery rant at Selina’s expense and feels overwhelmed	Amy	Selina	55	35	Bandit	She gains emotional catharsis and power while verbally attacking Selina with no benefit to Selina or others.
+Joins Jonah’s campaign as a “Blonde Republican Sex Kitten”	Amy	Jonah’s campaign / electorate	65	25	Bandit	She advances her career and visibility while aiding a harmful campaign that risks damaging the country.
+Manipulates events so Dan has a breakdown and loses his position	Amy	Dan	75	20	Bandit	Her scheming wins her the campaign manager job while severely harming Dan’s mental health and career.
+Takes Dan’s job as campaign manager after breakdown	Amy	Dan	80	25	Bandit	She gains status and power directly at the expense of Dan’s position.
+Tells boyfriend Ed he has to leave despite it being their anniversary	Amy	Ed	55	30	Bandit	She prioritizes work and immediate needs over the relationship, slightly benefiting her and clearly hurting him.
+Dismisses the importance of their one-year anniversary	Amy	Ed	50	25	Bandit	She preserves her work focus while devaluing the relationship and upsetting her partner.
+Shows complete disinterest in sex with her fiancé	Amy	Fiancé	45	35	Helpless	She maintains emotional distance that undermines the relationship without bringing her clear benefit.
+Becomes energized only when ranting about hating fiancé’s opponent	Amy	Fiancé / opponent	55	35	Bandit	She gains political excitement while turning intimacy into political venting, offering no benefit to her partner.
+Plays major role enabling Jonah’s worst campaign aspects for career	Amy	Country / electorate	70	10	Bandit	She advances her political career by amplifying a harmful, demagogic campaign that risks large-scale damage.
+Realizes she helped create a monster when Selina wants Jonah as running mate	Amy	Amy	30	50	Helpless	The realization brings guilt and no material gain, but may help others if it leads her to resist further harm.
+Aborts pregnancy after Dan expects it and ignores settling down	Amy	Fetus/relationship	35	40	Helpless	She avoids a likely unsupported motherhood but is shown to harbor long-term regret, with some avoidance of broader family strain.
+Breaks down and begs Selina not to offer Jonah the Vice Presidency	Amy	Selina / country	30	80	Intelligent	She risks her standing to try to stop a dangerous ticket, sacrificing self-interest to protect the country.
+Joins Jonah’s campaign fully to defeat Selina and “God fuck America”	Amy	Country / electorate	65	5	Bandit	She knowingly backs a destructive candidate to hurt Selina and advance herself, with near-total disregard for national harm.
+Enables Jonah to the point Selina wants to capitalize on his popularity	Amy	Selina / Jonah / country	70	15	Bandit	Her effectiveness boosts Jonah’s viability and Selina’s opportunism for her own career, worsening prospects for the country.
+Marrying Bill Ericsson in the distant finale	Amy	Bill Ericsson	65	55	Intelligent	She eventually gains personal stability and partnership, and there’s no indication this harms anyone else.

@@ -1,0 +1,41 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Puts Merry and Pippin to work cleaning dishes as punishment	Gandalf	Merry and Pippin	55	60	Intelligent	Mild punishment teaches them a lesson while causing no serious harm and preserving order at the party.
+Merry and Pippin set off Gandalf's dragon firework	Merry and Pippin	Party guests / Gandalf's supplies	65	40	Bandit	They get fun and excitement for themselves but damage Gandalf’s property and create dangerous chaos.
+Merry and Pippin immediately try to find another firework	Merry and Pippin	Party guests / Gandalf's supplies	60	35	Bandit	They seek more thrill at further risk to others and Gandalf’s resources.
+Gandalf tweaks the ash-covered hobbits by the ear	Gandalf	Merry and Pippin	55	55	Intelligent	Light reprimand asserts authority and discipline without real harm to anyone.
+Gandalf pleads with Frodo not to tempt him with the Ring	Gandalf	Frodo / himself	80	85	Intelligent	He protects himself from corruption and ensures the Ring stays with a safer bearer.
+Frodo offers Gandalf the Ring to keep it safe	Frodo	Gandalf	40	40	Helpless	He tries to secure the Ring but would in fact endanger both Gandalf and the world.
+Gandalf uses intimidating display (voice, lights, shadow) to stop Bilbo’s outburst	Gandalf	Bilbo	70	85	Intelligent	He briefly frightens Bilbo into keeping his promise and leaving the Ring, safeguarding both Bilbo and Middle-earth.
+Gandalf hugs Bilbo twice before Bilbo leaves	Gandalf	Bilbo	80	80	Intelligent	He strengthens their bond and eases Bilbo’s departure, benefiting both emotionally.
+Gandalf manipulates and directs events behind the scenes to resist Sauron	Gandalf	Free Peoples of Middle-earth	75	95	Intelligent	His long-term orchestration massively aids others and fulfills his own mission.
+Gandalf uses a deafening blast of white light to flatten the goblin horde about to behead Thorin	Gandalf	Goblin horde	80	90	Intelligent	He decisively saves Thorin and company with no apparent downside to himself.
+Gandalf allows himself to be cruciform-pinned by Saruman (telekinetic wall pinning)	Saruman	Gandalf	20	20	Stupid	Saruman gains temporary dominance but ultimately loses power and the war, while harming Gandalf.
+Gandalf calls an eagle to escape from Isengard	Gandalf	Saruman’s imprisonment	85	70	Intelligent	He saves himself and returns to the wider struggle, also helping the Free Peoples.
+Gandalf tells Pippin to throw himself in the well (snark)	Gandalf	Pippin	55	55	Intelligent	Verbal snark vents frustration and discourages foolishness without real harm.
+Gandalf fights and defeats the Balrog	Gandalf	Balrog	30	90	Helpless	He destroys a great evil at the cost of his own life as Gandalf the Grey.
+Gandalf dies from exhaustion after slaying the Balrog	Gandalf	Fellowship / Middle-earth	20	85	Helpless	His death protects the Fellowship but removes their leader temporarily.
+Gandalf returns as Gandalf the White	Gandalf	Middle-earth	90	95	Intelligent	He comes back stronger and better able to aid others.
+Gandalf encourages Radagast to calm down by giving him pipeweed	Gandalf	Radagast	65	60	Intelligent	He soothes Radagast and maintains camaraderie with minimal self-cost.
+Gandalf scares off the Nazgûl chasing Faramir’s men on the road to Minas Tirith	Gandalf	Faramir and men	80	90	Intelligent	He uses power to preserve a key ally’s forces with no evident self-harm.
+Gandalf sets off fireworks to delight hobbit children	Gandalf	Hobbit children	70	85	Intelligent	He expends minor resources to give joy and strengthen goodwill.
+Gandalf refuses to touch the One Ring and puts it in Frodo’s care	Gandalf	Middle-earth / Frodo	85	95	Intelligent	He avoids catastrophic corruption and entrusts the task to a more suitable bearer.
+Gandalf beats up Denethor when Denethor starts raving	Gandalf	Denethor	70	85	Intelligent	Physical intervention stops harmful orders and preserves Gondor’s defense.
+Gandalf yells at Thorin to stop him throwing Bilbo from the battlements	Gandalf	Bilbo / Thorin	75	90	Intelligent	He asserts power to prevent Thorin harming Bilbo, saving their relationship and the quest.
+Gandalf wrestles and subdues Thráin in Dol Guldur	Gandalf	Thráin	60	70	Intelligent	Temporary force lets him gain control and likely aid Thráin’s sanity and safety.
+Gandalf destroys the bridge in Moria while shouting “You Shall Not Pass!” to block the Balrog	Gandalf	Fellowship	30	95	Helpless	He sacrifices his position and falls with the Balrog to save the others’ escape.
+Gandalf holds off the Balrog in Moria to save the Fellowship	Gandalf	Fellowship	35	95	Helpless	He knowingly risks (and loses) his life to ensure the others get away.
+Gandalf smokes and blows smoke rings/ships for relaxation	Gandalf	Himself / onlookers	60	65	Intelligent	Harmless indulgence relaxes him and amuses others without significant downside.
+Gandalf uses explosive light to obliterate orcs in Dol Guldur and escape captivity	Gandalf	Orcs / Dol Guldur forces	75	85	Intelligent	He frees himself and weakens Sauron’s forces in one move.
+Gandalf knocks Denethor unconscious and orders the army to stand their ground	Gandalf	Denethor / Gondor’s army	80	95	Intelligent	Overriding Denethor preserves discipline and the city’s defense.
+Gandalf assumes control of Minas Tirith’s army after Denethor falls	Gandalf	Gondor’s army	80	95	Intelligent	His leadership keeps the city fighting until reinforcements arrive.
+Pippin attempts to steal the Palantír from sleeping Gandalf	Pippin	Gandalf	35	20	Bandit	He risks grave danger and betrays trust for his own curiosity with likely harm to others.
+Gandalf frequently leaves Thorin’s company to cool off and seek his own company	Gandalf	Thorin and company	55	60	Intelligent	He preserves his composure and avoids futile conflict, indirectly benefiting the group.
+Gandalf breaks Saruman’s hold over Théoden and expels him from Théoden’s body and mind	Gandalf	Théoden / Saruman	85	95	Intelligent	Liberating Théoden restores a crucial ally and weakens Saruman.
+Gandalf No-Sells Saruman’s fireball and breaks his staff as Gandalf the White	Gandalf	Saruman	80	90	Intelligent	He decisively disarms a major enemy and asserts his new authority.
+Gandalf wrestles and spinebusters Thráin in Dol Guldur	Gandalf	Thráin	60	65	Intelligent	He restrains a dangerous, deranged dwarf to prevent further harm and learn more.
+Gandalf selects Bilbo for the quest, believing in small acts of kindness and love	Gandalf	Bilbo / Middle-earth	80	90	Intelligent	He chooses a morally resilient hobbit whose small heroism later proves pivotal.
+Gandalf tells the troops at Minas Tirith to stand their ground at the gate	Gandalf	Gondor’s troops	75	90	Intelligent	His command bolsters morale and organizes resistance against the assault.
+Gandalf conducts research on the Ring and returns to Frodo twitchy and paranoid	Gandalf	Frodo / himself	70	85	Intelligent	His investigation confirms the Ring’s identity and prompts urgent protective action.
+Gandalf breathes a sigh of relief when Frodo at first sees nothing on the Ring	Gandalf	Himself	60	50	Intelligent	He gains brief emotional ease believing the threat may be lower, with no external effect.
+Gandalf shifts to despair when the Ring’s markings appear	Gandalf	Himself / Fellowship	45	50	Helpless	His realization harms his own peace and offers no immediate benefit, though it reflects accurate understanding.
+Gandalf rallies the defenders at Minas Tirith’s gate despite his own brief fear	Gandalf	Gondor’s defenders	80	90	Intelligent	He masters his fear to inspire the soldiers to hold the line.

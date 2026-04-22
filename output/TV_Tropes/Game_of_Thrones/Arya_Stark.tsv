@@ -1,0 +1,71 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Arya throws food at Sansa in front of the court	Arya	Sansa	40	20	Stupid	Humiliates her sister publicly for no gain and risks angering powerful onlookers.
+Arya stuffs sheep dung in Sansa's mattress	Arya	Sansa	45	15	Stupid	Petty revenge that gives Arya brief satisfaction but entrenches hostility at home.
+Arya persuades Gold Cloaks to stop hunting Gendry by claiming he’s dead	Arya	Gendry	70	80	Intelligent	Protects Gendry from capture without clear downside to herself.
+Arya overcomes her grudge and vows to find Sansa too	Arya	Sansa	80	85	Intelligent	Letting go of resentment strengthens her motivation to reunite the family.
+Arya refuses to mercy-kill the Hound and robs him	Arya	Hound	60	10	Bandit	Takes his valuables and leaves him to suffer, improving her resources while harming him.
+Arya ultimately does not kill the Hound despite strong temptation	Arya	Hound	55	60	Intelligent	Resisting revenge avoids unnecessary killing and lets her move on somewhat.
+Arya admits she removed the Hound from her list before abandoning him	Arya	Hound	70	60	Intelligent	Emotional clarity helps her reconcile conflicting feelings and reduces fixation on revenge.
+Arya and Sansa reunite and embrace under Ned’s statue	Arya	Sansa	90	95	Intelligent	Reaffirming sisterly bond brings mutual emotional and political support.
+Arya heeds Sandor’s advice, abandons revenge, and leaves King’s Landing	Arya	Herself (and Sandor)	90	75	Intelligent	Saves her own life and symbolically honors Sandor’s lesson against destructive revenge.
+Arya thanks Sandor sincerely and forgives him	Arya	Sandor	85	80	Intelligent	Closure helps both of them emotionally and cements mutual respect.
+Arya calmly watches Polliver choke on his blood after killing him	Arya	Polliver	70	20	Bandit	She gains revenge satisfaction while showing increasing desensitization that darkens her psyche.
+Arya takes up Jaqen’s offer to have three people killed	Arya	Three chosen targets	65	40	Bandit	Uses deadly favors for immediate problems, but squanders a strategic asset and normalizes killing.
+Yoren cuts Arya’s hair to disguise her as a boy	Yoren	Arya	80	75	Intelligent	Disguise greatly increases her chances of survival with limited downside mentioned.
+Arya abandons plan to go to King’s Landing and heads home when she hears Jon took Winterfell	Arya	Herself / Stark family	85	90	Intelligent	Choosing reunion and safety over a risky assassination benefits her and her kin.
+Arya kills the Frey soldier mocking Robb and Catelyn at the campfire	Arya	Frey soldier	65	25	Bandit	Satisfies her grief and anger but risks exposure and escalation for little strategic gain.
+Arya gives Sansa a weapon and Jon’s lesson before the White Walkers arrive	Arya	Sansa	80	85	Intelligent	Improves Sansa’s odds of survival and strengthens sibling trust with minimal cost.
+Arya acts as a distraction so Sansa can reach Winterfell’s crypts	Arya	Sansa	60	80	Helpless	She endangers herself to draw wights away, directly increasing Sansa’s safety.
+Arya sneaks into the Godswood and kills the Night King	Arya	Humanity (via Bran)	95	100	Intelligent	Eliminates existential threat and saves countless lives with no evident downside to herself.
+Arya threatens to kill Yara if she speaks against Jon	Arya	Yara	55	35	Bandit	Intimidation defends Jon’s interests but escalates tensions among allies for little gain.
+Gendry forges Arya a dragonglass spear	Gendry	Arya	70	85	Intelligent	Improves Arya’s combat effectiveness against the dead and reinforces their bond.
+Arya runs away after striking Joffrey and releasing Nymeria	Arya	Herself / Nymeria	40	30	Stupid	Reaction protects Nymeria short-term but triggers Mycah’s and Lady’s deaths and royal wrath.
+Arya strikes Joffrey to defend Mycah	Arya	Mycah	35	40	Helpless	Attempts to save Mycah but provokes a prince, leading to worse punishment for others and herself.
+Arya spares farmer at Sandor’s urging when traveling with him	Sandor	Farmer	55	65	Intelligent	Sandor moderates his own brutality due to Arya, modestly benefiting both conscience and victim.
+Arya attempts to steal a letter from Tywin and causes Amory Lorch’s death	Arya	Lannister forces / smallfolk	30	20	Stupid	Blunder wastes Jaqen’s kill, hardens Tywin’s reprisals, and worsens the war effort against her side.
+Arya uses Jaqen’s three deaths on minor Harrenhal figures	Arya	Minor Lannister servants	40	25	Stupid	Removes small threats but misses chance to cripple key enemies like Tywin, prolonging the conflict.
+Arya flees the Brotherhood and is captured by the Hound	Arya	Herself	20	50	Helpless	Emotional outburst puts her in greater danger, though it incidentally brings her under Sandor’s protection.
+Arya murders Meryn Trant in Braavos using a stolen face	Arya	Meryn Trant	60	30	Bandit	Avenges Syrio and Sansa but violates Faceless rules, leading to blinding and retaliation.
+Faceless Men blind Arya for stealing a face	Faceless Men	Arya	20	50	Helpless	They severely punish her; it harms her short-term but inadvertently improves her blind-fighting later.
+Waif stabs Arya repeatedly for trying to leave the Faceless Men	Waif	Arya	10	40	Stupid	Inflicts serious harm while provoking a deadly, skilled opponent and violating internal rules.
+Arya lures the Waif into darkness and kills her using blindness training	Arya	Waif	70	60	Bandit	Eliminates her pursuer and regains freedom, though through lethal intra-guild conflict.
+Arya leaves the Faceless Men, reclaims identity, and goes home	Arya	Herself / Starks	85	90	Intelligent	Rejecting the cult restores her selfhood and lets her support her family’s cause.
+Arya serves Frey pies made from Walder’s sons then kills him	Arya	Walder Frey	70	30	Bandit	Secures brutal revenge and emotional closure but uses extreme cruelty and gains no wider political leverage.
+Arya poisons all male Freys responsible for the Red Wedding	Arya	House Frey males	65	35	Bandit	Erases a hostile house and avenges the Starks but destabilizes the region and deepens her killer identity.
+Arya spares Walder’s new wife from the poisoned wine	Arya	Walder’s young wife	70	80	Intelligent	Shows selective mercy, saving an innocent with no cost to her revenge.
+Arya executes Littlefinger in Winterfell hall	Arya	Littlefinger	80	85	Intelligent	Removes a dangerous manipulator threatening Stark unity and northern stability.
+Arya attacks Polliver’s group, kills Polliver and another man	Arya	Polliver & ally	70	40	Bandit	Recovers Needle and avenges Lommy but escalates violence with limited broader benefit.
+Arya kills Rorge after learning his name	Arya	Rorge	65	45	Bandit	Eliminates a direct, sadistic threat, but once armed and restrained he posed limited current danger.
+Arya refuses to mercy-kill the Hound and leaves him to die	Arya	Hound	55	20	Bandit	She preserves her own emotional boundary but inflicts prolonged suffering instead of quick mercy.
+Arya bakes and serves Frey pies herself instead of Wyman Manderly	Arya	House Frey	65	35	Bandit	Takes on vengeance personally, gaining satisfaction while employing terroristic brutality.
+Arya leaves Brienne and sails to Braavos instead of accepting protection	Arya	Herself	45	55	Helpless	Rejects reliable guardianship for risky solo training, which later pays off but with huge danger.
+Yoren cuts Arya’s hair and smuggles her north with Night’s Watch	Yoren	Arya	85	90	Intelligent	Disguise and cover save her from imminent Lannister capture.
+Arya abandons an assassination of Cersei to go to Winterfell once she learns Jon is King in the North	Arya	Stark family	85	90	Intelligent	Shifts from suicidal mission to strengthening her house and personal safety.
+Arya kills Walder Frey’s sons Black Walder and Lothar	Arya	Black Walder & Lothar	65	35	Bandit	Targets direct perpetrators of the Red Wedding but does so with extreme cruelty and no due process.
+Arya uses her faces to intimidate Sansa with “I could be you”	Arya	Sansa	50	40	Bandit	Short-term ploy to fool Littlefinger strains trust and traumatizes her sister.
+Arya and Sansa stage a fake conflict to lure Littlefinger into a trap	Arya	Littlefinger	80	85	Intelligent	Deception neutralizes a major schemer and solidifies Stark unity.
+Arya kills the stable boy while fleeing King’s Landing	Arya	Stable boy	40	20	Stupid	Saves herself in panic but kills a non-enemy child, deepening her trauma for marginal tactical need.
+Arya mercy-kills no one at Harrenhal despite witnessing torture	Arya	Prisoners	50	50	Intelligent	Not acting keeps her alive; intervening would likely lead to her capture and more deaths.
+Arya kills Ser Meryn Trant with sadistic brutality	Arya	Meryn Trant	60	30	Bandit	Removes a sadistic killer but at great personal psychological and professional cost.
+Arya confronts Melisandre; Melisandre foresees her future killings	Arya	Melisandre	55	50	Intelligent	Shows fearlessness; interaction later guides Arya at Winterfell, no clear harm to others.
+Arya uses blindness training to defeat the Waif in the dark	Arya	Waif	70	60	Bandit	Transforms earlier suffering into advantage, though it cements her as a lethal operator.
+Arya initiates sex with Gendry before Battle of Winterfell	Arya	Herself / Gendry	75	65	Intelligent	Pursues a consensual, humanizing experience that comforts both before a lethal battle.
+Arya rejects Gendry’s marriage proposal after he’s legitimized	Arya	Gendry	70	65	Intelligent	Stays true to her nature and avoids a mismatched life, despite hurting him short-term.
+Arya threatens to cut Yara’s throat at the post-war council	Arya	Yara	55	40	Bandit	Defends Jon’s honor but risks fracturing fragile political peace for pride.
+Sandor convinces Arya to abandon her suicide mission against Cersei	Sandor	Arya	85	80	Intelligent	Prevents her likely death in collapsing King’s Landing and breaks her from revenge obsession.
+Arya attempts to reach Cersei during Daenerys’ rampage	Arya	Herself	20	40	Helpless	Nearly dies in a collapsing city pursuing a hopeless revenge goal before Sandor intervenes.
+Arya helps civilians escape during Daenerys’ destruction of King’s Landing	Arya	Civilians	60	80	Helpless	Risks her life to guide people out of danger, saving others at significant personal peril.
+Arya uses the white horse to flee ruined King’s Landing	Arya	Herself	80	70	Intelligent	Escaping the devastation preserves her life and her potential to act in the future.
+Arya plans a suicide mission to kill Cersei in King’s Landing	Arya	Herself / Cersei	30	35	Helpless	Goal is noble to her but odds are terrible and death would remove her as an asset to her family.
+Arya lists her enemies’ names nightly as a “prayer”	Arya	Herself	45	35	Stupid	Coping mantra steels her resolve but entrenches obsession and narrows her life to revenge.
+Arya trains with Syrio and Faceless Men to become an assassin	Arya	Herself	85	40	Bandit	Greatly improves her survivability and power but primarily to kill, at cost to her empathy.
+Arya kills the Night King with a surprise dagger move	Arya	Night King	95	100	Intelligent	Her unique skills and courage end the undead threat and save the living worldwide.
+Arya charters a ship and sails west of Westeros	Arya	Herself / future explorers	90	80	Intelligent	Chooses a self-directed, low-risk path that may also benefit others via exploration.
+Arya spares innocent Frey wife by stopping her from drinking poison	Arya	Frey wife	70	80	Intelligent	Selective mercy avoids collateral damage while preserving her revenge goals.
+Arya threatens Sansa with killing and taking her face (as part of ploy)	Arya	Sansa	50	35	Bandit	Serves strategic deception but genuinely endangers their trust and Sansa’s sense of safety.
+Arya abandons the Faceless “no one” identity to be Arya Stark again	Arya	Herself	90	85	Intelligent	Reclaiming her name restores her autonomy and aligns her skills with her family’s cause.
+Arya confronts Tywin while posing as a lowborn cupbearer	Arya	Tywin	65	40	Bandit	Gathers minor intel and hones her guile but risks discovery with limited strategic payoff.
+Arya saves Jaqen and two prisoners from the burning cart	Arya	Jaqen & prisoners	70	75	Intelligent	Rescue earns her the three-deaths favor and demonstrates compassion with future benefits.
+Arya lists Littlefinger among those she holds responsible and later kills him	Arya	Littlefinger	80	85	Intelligent	Her long memory guides a justified execution that stabilizes northern politics.
+Arya offers to be Gendry’s family when he laments never having one	Arya	Gendry	75	80	Intelligent	Emotional support strengthens their bond and helps both cope with loneliness.
+Arya turns down life as Lady of Storm’s End	Arya	Herself	70	75	Intelligent	Rejects an ill-fitting role to pursue an authentic life of travel and autonomy.

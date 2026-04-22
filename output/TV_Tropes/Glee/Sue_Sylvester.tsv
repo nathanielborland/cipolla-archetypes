@@ -1,0 +1,57 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Sue pushes people down the stairs when she doesn’t get her way	Sue	Students she pushes	55	5	Bandit	She vents frustration and enforces fear-based control while physically harming others.
+Sue punches out a Regionals judge for choosing New Directions	Sue	Regionals judge	30	10	Stupid	The attack vents anger but risks serious consequences and doesn’t change the result.
+Sue almost shoots Brittany out of a cannon and rampages when prohibited	Sue	Brittany / school	20	5	Stupid	She endangers Brittany and wrecks property purely out of tantrum, with no clear gain.
+Sue gets a boyfriend to deflect suspicion she’s gay	Sue	General observers	60	40	Intelligent	She protects her chosen image with minor deception and no evident direct harm to others.
+Finn calls Sue’s baby “retarded”	Finn	Sue’s baby / Sue	5	0	Stupid	He deeply offends Sue over her Berserk Button with no benefit and serious social cost.
+Sue slips Figgins a roofie and fabricates blackmail photos	Sue	Principal Figgins	80	5	Bandit	She regains power over the school via coerced leverage that humiliates another.
+Sue leaks New Directions’ setlists to sabotage them	Sue	New Directions	60	10	Bandit	She tries to secure competitive advantage through unethical disclosure that risks punishment.
+Sue slashes the tires of Vocal Adrenaline’s bus	Sue	Vocal Adrenaline	40	5	Stupid	She commits a crime and risks major consequences just to inconvenience a rival team.
+Sue unleashes her real hounds on Vocal Adrenaline	Sue	Vocal Adrenaline	45	10	Bandit	She violently intimidates the rival team for revenge, gaining satisfaction and deterrence at their expense.
+Sue teams with Will to teach Vocal Adrenaline a lesson	Sue	Vocal Adrenaline	65	30	Intelligent	She cooperates with an enemy to discipline bullies, protecting others while enjoying payback.
+Sue teams with Roz to educate girls about domestic violence	Sue	Glee club girls	70	80	Intelligent	She uses her authority to correct harmful attitudes and raise awareness.
+Sue resigns as principal in protest of Karofsky’s return	Sue	School administration	30	70	Helpless	She sacrifices her powerful position to stand up for Kurt and against bullying.
+Sue expels Karofsky when the death threat is revealed	Sue	Karofsky	75	85	Intelligent	She uses her authority to protect Kurt and other students from a credible threat.
+Sue offers Beiste a place to stay after learning of the abuse	Sue	Beiste	70	85	Intelligent	She gives personal support and shelter to a domestic-violence victim with minimal cost to herself.
+Sue goes to great lengths looking after Becky	Sue	Becky	80	90	Intelligent	She invests time and care to protect and mentor Becky, strengthening a treasured relationship.
+Sue drugs Figgins and stages “tryst” photos to get her job back	Sue	Principal Figgins	80	10	Bandit	She regains employment and power via orchestrated humiliation and coercion.
+Sue manipulates Figgins into giving New Directions another year	Sue	New Directions	70	85	Intelligent	She secures their continuation out of respect for Will’s bond with the students.
+Sue kicks Becky off the Cheerios after Jean’s death	Sue	Becky	10	5	Stupid	She lashes out at a vulnerable student due to her own grief, hurting both of them emotionally.
+Sue reinstates Becky on the Cheerios later	Sue	Becky	75	80	Intelligent	She corrects a cruel decision and restores inclusion, rebuilding their bond.
+Sue accepts Becky into the Cheerios despite her disability	Sue	Becky	80	90	Intelligent	She gives Becky equal opportunity and belonging while gaining a devoted protégé.
+Sue treats Becky no differently than other Cheerios	Sue	Becky / squad	70	80	Intelligent	She normalizes inclusion and maintains high standards for everyone, benefiting team cohesion.
+Sue donates money to build three wheelchair ramps at school	Sue	Wheelchair users / school	60	90	Intelligent	She spends her own resources to improve accessibility for disabled students.
+Sue reads Little Red Riding Hood to Jean	Sue	Jean	70	85	Intelligent	She invests emotionally in comforting her sister, strengthening their relationship.
+Sue promises to keep an eye on Karofsky for Kurt’s safety	Sue	Kurt	65	80	Intelligent	She offers active protection to a bullied student at little cost to herself.
+Sue sells a valuable Christmas tree to a toothpick factory	Sue	Her own finances	40	60	Helpless	She forfeits potential personal gain to turn the asset into cash for others’ benefit.
+Sue leaves the tree money at Marley’s house for therapy	Sue	Marley and her mother	70	95	Intelligent	She quietly funds essential treatment, significantly helping them with no clear downside.
+Sue leaves presents for Marley’s family	Sue	Marley and her mother	65	90	Intelligent	She improves their holiday and preserves therapy funds, at her own expense.
+Sue manipulates Will into canceling Rocky Horror with her expose plan	Sue	Will / New Directions	30	40	Helpless	Her attempt to win a Local Emmy backfires and only sabotages a production she wanted to condemn.
+Sue gets Quinn, Santana, and Brittany to join Glee as moles	Sue	New Directions	55	20	Bandit	She seeks intel and sabotage capabilities inside the club for her own advantage.
+Sue’s mole plan leads the girls to stay with Glee	Sue	New Directions	20	80	Helpless	Her scheme unintentionally strengthens the club and costs her useful minions.
+Sue tortures Glee before Regionals, inspiring their winning song	Sue	New Directions	30	80	Helpless	Her cruelty motivates them to succeed, improving their outcome and reducing her relative power.
+Sue attempts “Sue-icide” as a feint	Sue	Will / school community	20	10	Stupid	The stunt risks reputational and institutional backlash without giving her clear net benefit.
+Sue starts a violent rampage in school when frustrated	Sue	School property / bystanders	25	10	Stupid	She vents anger via destruction, risking penalties far outweighing any relief.
+Sue tries to win a Local Emmy with a scathing expose on Glee	Sue	Glee production	50	20	Bandit	She pursues personal prestige by attacking the club’s show, offering them no benefit.
+Sue drugging Figgins in “Sectionals” and denying it to his face	Sue	Principal Figgins	60	10	Bandit	She stonewalls accountability to protect herself while undermining authority and trust.
+Sue destroys everything in her path when enraged	Sue	School property	20	10	Stupid	She indulges tantrums through vandalism, inviting serious consequences with no real gain.
+Sue salts the earth in her backyard after selling her house	Sue	Buyer of her house	40	5	Bandit	She spitefully devalues the property for the next owner while losing any goodwill herself.
+Sue tries to marry herself	Sue	Herself / observers	55	40	Intelligent	She indulges in a narcissistic act that amuses her and, at worst, bemuses others without real harm.
+Sue threatens to pull Artie’s teeth out to extract information	Sue	Artie	45	5	Bandit	She deploys torture threats to gain information, traumatizing him to serve her investigation.
+Sue terrorizes the school as principal while boosting academics	Sue	Students	65	35	Bandit	Her fear regime improves results but harms students’ well-being and autonomy.
+Sue calls minority students by demeaning nicknames	Sue	Minority students	70	15	Bandit	She asserts dominance and amusement through insults at the cost of their dignity.
+Sue repeatedly calls Kurt insulting names like “Lady”	Sue	Kurt	65	15	Bandit	She bolsters her persona and power by belittling him, offering him no benefit.
+Sue tries to torture Artie at prom to find who spiked the punch	Sue	Artie	40	20	Bandit	She seeks control and answers via intimidation, partially aligned with discipline but abusive.
+Sue attempts to pull Artie’s teeth but is stopped	Sue	Artie	30	15	Stupid	The escalating threat risks severe consequences for her while giving little more than she already had.
+Sue gives “Reason You Suck” speeches to Will	Sue	Will	70	65	Intelligent	She unloads justified criticism that may also push him to reflect and improve, while satisfying herself.
+Sue calls Will out on his treatment of minority and disabled students	Sue	Will / his students	75	80	Intelligent	She highlights real issues that can lead to better treatment, and gains moral high ground.
+Sue calls Will out for relying on gimmicks instead of trusting kids	Sue	Will / Glee club	70	75	Intelligent	Her critique might redirect him toward healthier pedagogy while reinforcing her own savvy image.
+Sue confesses the fired gun was hers to protect Becky	Sue	Becky	25	80	Helpless	She sacrifices her job to shield Becky from expulsion or worse, massively helping Becky.
+Sue accepts being fired for the gun incident	Sue	School administration	20	70	Helpless	She bears formal punishment so Becky avoids it, taking the institutional hit herself.
+Sue gradually becomes a begrudging Team Mom to New Directions	Sue	New Directions	75	80	Intelligent	She grows into a protective role that gives her connection and benefits the kids’ support system.
+Sue does everything to get Blaine and Kurt back together	Sue	Blaine and Kurt	70	60	Intelligent	Her extreme meddling achieves the reconciliation she wants and restores their relationship.
+Sue builds a Klaine stalker shrine and obsessively ships them	Sue	Blaine and Kurt	55	45	Intelligent	Her fixation entertains herself and, in context, indirectly supports their eventual reunion.
+Sue uses stalking/Saw-style tactics to reunite Klaine	Sue	Blaine and Kurt	30	20	Bandit	She gets her desired outcome through coercive, frightening methods that traumatize them.
+Sue tries to intimidate Will with near-face contact (“Child Star”)	Sue	Will	60	40	Bandit	She asserts dominance and enjoys unsettling him without offering him any benefit.
+Sue destroys the choir room after getting its keys post-Sectionals	Sue	New Directions	30	10	Stupid	Her spiteful reaction to their loss only vents anger and damages property, helping nobody.
+Sue secures another year for New Directions after they lose at Regionals	Sue	New Directions	75	90	Intelligent	She uses influence to save her enemies because she values their rivalry and their bonds.

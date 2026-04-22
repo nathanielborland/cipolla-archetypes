@@ -1,0 +1,31 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He persuades The Greek to ask the Sobotkas to keep quiet rather than killing them	Vondas	The Sobotkas	70	65	Intelligent	Reduces organizational risk while sparing the Sobotkas’ lives, helping both him and them.
+He is saddened when they drop Proposition Joe as a business partner, knowing Marlo would kill Joe	Vondas	Prop Joe	40	30	Helpless	He emotionally registers harm to Joe but does nothing to prevent it, minor self-cost with no benefit.
+Vondas slits Sailor Sam's throat for killing the girls in the can	Vondas	Sailor Sam	75	30	Bandit	Removes a dangerous liability and protects the organization while killing Sam and not directly aiding others.
+Killing Sailor Sam allows Major Crimes to solve the girls-in-the-can murders	Vondas	Major Crimes Unit	60	80	Intelligent	By eliminating Sam and forcing Sergei’s cooperation he unintentionally helps police clear multiple homicides while securing himself.
+He is never arrested for his role in the murders	Vondas	Law enforcement	90	20	Bandit	Personally benefits by evading justice while denying closure/accountability to the system and victims’ broader interests.
+He supplies Prop Joe with high quality heroin	Vondas	Drug users / community	80	10	Bandit	Profits from wholesale heroin distribution while contributing heavily to social harm.
+He engages in large-scale human trafficking	Vondas	Trafficked people	85	0	Bandit	Maximizes criminal profit while inflicting extreme exploitation and harm on victims.
+He smuggles stolen goods	Vondas	Original owners / society	75	20	Bandit	Gains criminal revenue while facilitating property crime and black markets that hurt others.
+Despite being tipped off, Herc and Carver get distracted and miss arresting Vondas	Herc and Carver	Law enforcement case against Vondas	40	10	Helpless	Their distraction weakens their own case and public safety without conferring them any benefit.
+He responds to The Greek’s comment about fatherhood with “But then I'd have a wife”	Vondas	The Greek	60	55	Intelligent	Uses humor to maintain rapport and signal his disinterest in conventional family life without hurting anyone.
+He kills both Sailor Sam and Frank Sobotka using a knife	Vondas	Sailor Sam and Frank	75	5	Bandit	Eliminates perceived traitors in a way that reinforces control but gravely harms the victims with no offsetting benefit to them.
+He explicitly slits Sam's throat from behind	Vondas	Sailor Sam	70	5	Bandit	Gains security by executing Sam treacherously while severely harming Sam alone.
+He serves as The Greek's Number Two and trusted lieutenant	Vondas	The Greek	80	60	Intelligent	Provides loyal, capable support that advances both his career and the boss’s interests.
+He acts as an evil mentor to Nick Sobotka	Vondas	Nick Sobotka	65	35	Bandit	Builds a useful protégé and emotional bond while drawing Nick deeper into crime.
+He maintains several passports from different countries in different names	Vondas	Governments / law enforcement	85	20	Bandit	Protects his mobility and evasion capabilities, undermining legal oversight.
+In Baltimore he uses a Greek name and speaks/texts in Greek	Vondas	Baltimore contacts	70	55	Intelligent	Builds a plausible, consistent identity that facilitates trust and operations without clear extra harm.
+He replies to Ziggy’s assumption with “Well, I'm Greek, anyway”	Vondas	Ziggy	55	55	Intelligent	Maintains cover ambiguity while deflecting attention, preserving his safety and not harming Ziggy.
+He prefers blending in rather than showing off power	Vondas	Criminal rivals / law enforcement	80	60	Intelligent	Staying low-profile keeps him free and stable while reducing open violence that would hit others.
+He avoids violence when possible to reduce mess and police attention	Vondas	General public / police	80	70	Intelligent	Strategic restraint lowers his risk and somewhat limits additional collateral damage.
+When necessary, he is willing to cut a throat or two	Vondas	Targets of violence	75	10	Bandit	Uses targeted killings to protect operations while inflicting extreme harm on specific others.
+He holds many false identities and cover IDs with legitimate documentation	Vondas	Authorities / victims of his crimes	85	20	Bandit	Improves his security and reach while undermining legal accountability and enabling ongoing harms.
+He escapes punishment entirely for his crimes	Vondas	Society / justice system	90	10	Bandit	Retains freedom and wealth while denying justice and deterrence benefits to others.
+He frequently acts as the Mouth of Sauron, meeting people for his boss	Vondas	The Greek’s counterparts	70	55	Intelligent	Buffers the boss, reducing risk while facilitating smoother dealings for partners.
+He casually destroys and burns the passport he showed Nick	Vondas	Nick Sobotka	75	30	Bandit	Protects his anonymity and operational security while unsettling and further manipulating Nick.
+He immediately takes out another passport after burning the previous one	Vondas	Nick Sobotka	80	35	Bandit	Demonstrates deep-cover capacity to impress/intimidate Nick, reinforcing his criminal pull on Nick.
+He is the only person shown to have a genuine bond with The Greek	Vondas	The Greek	70	65	Intelligent	Mutual trust provides emotional and operational benefits to both men.
+He is silent and scowling while looking at Sailor Sam during interrogation	Vondas	Sailor Sam	60	40	Bandit	Uses intimidation to assert dominance and prepare for punishment, helping his control while distressing Sam.
+He slits Sam's throat shortly after that interrogation	Vondas	Sailor Sam	75	5	Bandit	Removes a liability and reasserts order through lethal violence at Sam’s total expense.
+He tells The Greek he misses Frank the day after killing him	Vondas	The Greek / Frank’s memory	55	20	Bandit	Maintains emotional narrative with The Greek while having just destroyed Frank; no benefit to Frank, mild bonding benefit to Vondas.
+He goes out of his way to protect Nick from being cleaned up as a loose end	Vondas	Nick Sobotka	65	70	Intelligent	Uses his influence to preserve Nick’s life, benefitting Nick and retaining a valued associate.

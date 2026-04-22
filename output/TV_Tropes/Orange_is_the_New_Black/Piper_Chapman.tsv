@@ -1,0 +1,56 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Piper continues to pursue Alex after learning Alex already had a girlfriend in college	Piper	Alex and Alex’s then‑girlfriend	40	25	Bandit	Pursuit serves Piper’s desires while helping end Alex’s existing relationship and causing emotional harm.
+Piper cheats on Larry with Alex in prison	Piper	Larry	35	20	Bandit	She gains emotional/sexual gratification but damages Larry and their relationship.
+Piper cheats on Alex with Stella when bored of Alex	Piper	Alex	30	15	Bandit	Short‑term excitement for Piper at clear emotional cost to Alex.
+Piper initially wants a child	Piper	Future child/partner	60	55	Intelligent	Desire for family appears mutually beneficial and not shown to harm others.
+Piper changes her mind about wanting kids after babysitting her niece	Piper	Future child/partner	65	70	Intelligent	Reassessment likely prevents an unwanted child and future conflict for all involved.
+Piper reacts pedantically to Larry’s “sarcophagus” analogy by correcting him	Piper	Larry	40	20	Stupid	She gains no benefit, worsens Larry’s hurt, and escalates the argument.
+Piper breaks promises and repeatedly fails to learn lessons until branded and riots	Piper	Herself and inmates	30	30	Stupid	Her pattern of bad choices harms her and destabilizes others with no clear offsetting gain.
+Piper delivers a badass boast to Soso, warning she’ll rip her throat out	Piper	Soso	50	35	Bandit	She asserts dominance and self‑image while intimidating and upsetting Soso.
+Piper introspects about whether prison made her colder or revealed who she is	Piper	Herself	65	60	Intelligent	Self‑reflection improves her self‑understanding without hurting others.
+Piper comments that she doesn’t feel as bad as she “should” about her actions	Piper	Herself	55	45	Helpless	Awareness brings discomfort and self‑doubt without improving others’ situations.
+Piper reads extensively and cultivates literary interests	Piper	Herself and Alex	80	70	Intelligent	Her reading enriches her life and attracts Alex, benefiting both.
+Piper is framed and branded by Maria over the panty business and white‑power association	Maria	Piper	50	10	Bandit	Maria asserts dominance and revenge at great physical/psychological cost to Piper.
+Piper starts a panty‑selling business in prison	Piper	Other inmates and prison system	75	35	Bandit	She gains money/status but increases risk and tension for other inmates and conflicts with authorities.
+Piper frames Stella for contraband after Stella steals her money	Piper	Stella	60	25	Bandit	Piper protects her profits and power while inflicting severe punishment on Stella.
+Piper hires muscle and starts a white power group to protect her business	Piper	Non‑white inmates	45	10	Bandit	She secures short‑term protection at serious social and safety cost to others and to her own long‑term security.
+Piper later regrets starting the white power group	Piper	Herself	55	55	Intelligent	Regret can lead to behavior change and harms no one.
+Piper attempts granola/alt‑lifestyle diets and a soap company outside prison	Piper	Customers/partners	70	65	Intelligent	Entrepreneurial effort benefits her and provides products/engagement to others.
+Piper behaves innocently insensitive about first‑world problems in prison	Piper	Other inmates	45	35	Stupid	Her obliviousness undermines relationships without bringing meaningful benefit.
+Piper investigates financial irregularities under cover of a newsletter	Piper	Prison administration	65	70	Intelligent	She learns and potentially exposes corruption, helping herself and the inmate body.
+Piper decides to write a memoir about her prison experience	Piper	Future readers	80	70	Intelligent	Book project advances her career and can inform/entertain others.
+Piper has an affair with Alex while engaged to Larry	Piper	Larry and Alex	35	20	Bandit	She gains emotional/sexual satisfaction at substantial heartbreak to both partners.
+Piper runs back to Alex after Larry ends things	Piper	Alex	40	35	Bandit	She seeks comfort and continuity but reopens wounds and complicates Alex’s emotions.
+Piper complains that her hurt should be central when Polly and Larry get together	Piper	Polly and Larry	40	30	Helpless	Her self‑absorption fuels her own distress and tensions without helping anyone else.
+Piper gets Alex thrown back into prison partly because she wants Alex back	Piper	Alex	25	10	Bandit	She regains Alex’s presence at the cost of Alex’s freedom and safety.
+Piper cares more about Alex visiting than Red’s hospitalization	Piper	Red	45	30	Stupid	Prioritizing her own romantic drama strains friendships without real gain.
+Piper repeatedly mocks or minimizes Alex’s legitimate fear of being killed	Piper	Alex	40	25	Stupid	Hurting Alex’s sense of safety brings Piper little benefit and harms trust.
+Piper offers to trade Soso to Boo for a blanket	Piper	Soso	35	15	Bandit	She seeks personal comfort (warmth) while treating Soso as a commodity, damaging Soso.
+Piper excuses the Soso trade attempt by saying it’s very cold	Piper	Soso	40	20	Stupid	Rationalizing the act brings no extra benefit and deepens Soso’s shock and alienation.
+Piper makes back cream to reconcile with Red	Piper	Red	70	75	Intelligent	She repairs a relationship through a product that benefits them both.
+Piper re‑opens the track after causing Watson to be sent to solitary	Piper	Other inmates	60	80	Intelligent	She takes corrective action that benefits the larger inmate group while modestly restoring her standing.
+Piper coerces Fig to get her a marriage form	Piper	Fig	65	45	Bandit	She achieves her relationship goal by pressuring Fig, who experiences stress and risk.
+Piper gets a swastika burned on her arm as retaliation for her white power group	Maria and gang	Piper	20	10	Bandit	They enforce a brutal warning that enhances their control while gravely injuring Piper.
+Piper gets Red to burn the swastika into a window shape	Piper	Herself	70	65	Intelligent	She reduces her stigma and trauma while symbolically disowning the hate symbol.
+Piper and Alex repeatedly lie, cheat, and get each other thrown in prison	Piper and Alex	Each other	30	25	Stupid	Both gain unstable affection but cause each other imprisonment and emotional chaos net‑negative.
+Piper and Alex eventually patch things up and get engaged	Piper and Alex	Themselves and friends	75	70	Intelligent	Stable commitment benefits both and eases surrounding drama.
+Piper becomes more considerate after being jumped and branded	Piper	Other inmates	70	75	Intelligent	Trauma catalyzes personal growth that improves her behavior toward others.
+Piper’s articles about prison backfire	Piper	Prison and inmates	40	30	Stupid	Her attempt at expression ends up worsening conditions with little gain to herself.
+Piper falsely tells Red her store is still in business to comfort her	Piper	Red	45	35	Helpless	Short‑term comfort leads to worse hurt when truth emerges, and Piper gains nothing long‑term.
+Piper repeatedly punches a downed Pennsatucky after being attacked	Piper	Pennsatucky	30	20	Bandit	She protects and vents for herself but inflicts heavy damage on an already disabled opponent.
+Piper comforts Soso when she’s crying in her bunk	Piper	Soso	70	80	Intelligent	Emotional support strengthens both their connection and Soso’s wellbeing.
+Piper chases the legendary chicken instead of taking a crucial business call	Piper	Polly and their business	30	40	Helpless	She undermines her own venture and Polly’s interests for trivial curiosity.
+Piper tries to give back her furlough because others resent her	Piper	Other inmates	60	65	Intelligent	She attempts to reduce social tension and guilt despite personal sacrifice.
+Piper has a prisoner sent to max for stealing from her panty business	Piper	Thief inmate	50	20	Bandit	She reinforces her power and deterrence while severely harming the other inmate.
+Piper acts like this transfer makes her the “coldest, baddest bitch”	Piper	Other inmates	45	30	Stupid	Inflated ego yields status illusions and makes her a bigger target without real durable gain.
+Piper cheats on Alex with Stella because Stella is “new, hot, interesting”	Piper	Alex	30	15	Bandit	She chases novelty at the cost of Alex’s emotional safety and trust.
+Piper executes petty revenge on a worker seeking fair profit in her business	Piper	Inmate worker	45	25	Bandit	She protects disproportionate control/profit while unjustly punishing a reasonable request.
+Piper delivers extreme retribution to the girl who stole from her business	Piper	Thief inmate	40	15	Bandit	She asserts dominance with disproportionate harm, increasing her enemies.
+Piper gives herself a vanity tattoo while power‑drunk at the Season 3 end	Piper	Herself	55	40	Helpless	The act feeds her ego but isolates her further and alienates others.
+Piper becomes much more pleasant after her jerkass realization	Piper	Alex and other inmates	75	80	Intelligent	Sustained character improvement benefits relationships and her own social stability.
+Healy favors Piper (chicken incident, WAC seat, furlough)	Healy	Other inmates	60	30	Bandit	He gains emotional gratification from favoritism while creating resentment and unfairness.
+Piper leverages Healy’s favoritism even without seeking it initially	Piper	Other inmates	55	35	Bandit	She benefits from privilege while others are disadvantaged and resentful.
+Piper tattles on Maria’s gang to Piscatella to gain favor	Piper	Maria and her gang	45	25	Bandit	She seeks protection/status through informing at considerable risk and cost to Maria’s group.
+Piscatella later gets fed up with Piper’s attempts to be teacher’s pet	Piscatella	Piper	40	30	Stupid	His hostility undercuts a previously useful asset and worsens tension without benefit.
+Piper gradually realizes her manipulative, low‑empathy tendencies and tries to change	Piper	Herself and close others	75	80	Intelligent	Self‑awareness and course‑correction improve her life and relationships.
+Larry ends his relationship with Piper and calls out her self‑centeredness	Larry	Piper	55	60	Intelligent	He protects his own wellbeing and offers Piper needed perspective.

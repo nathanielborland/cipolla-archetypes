@@ -1,0 +1,49 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Suggests using the Ring as a weapon for Gondor at the Council of Elrond	Boromir	Gondor / Free Peoples	35	20	Stupid	Obsession with using the Ring endangers himself and the wider mission with no real chance of benefit given what he knows of its corruption.
+States “If this is indeed the will of the council, then Gondor will see it done.” and joins the quest	Boromir	Fellowship / Gondor	70	75	Intelligent	Commitment to the council’s decision aids the mission while aligning with his duty to Gondor.
+Treats Aragorn with prickly hostility while others get normal treatment	Boromir	Aragorn	40	35	Stupid	Antagonizing Aragorn strains Fellowship unity and offers Boromir no tangible gain.
+Defends Faramir verbally against Denethor’s cruel detractions	Boromir	Faramir	60	80	Intelligent	Risks displeasing his father but emotionally supports and validates his brother.
+Openly calls out Denethor for mistreating Faramir	Boromir	Denethor	55	60	Intelligent	Confrontation may cost him favor but pushes against harmful parenting for Faramir’s sake.
+Leads Gondor’s army to victory as its champion	Boromir	Gondor soldiers / Gondor	80	85	Intelligent	Successful leadership bolsters his status and directly benefits his people militarily and morally.
+Keeps his victory speech short so there’s “more time for drinking.”	Boromir	Gondor troops	70	65	Intelligent	Maintains camaraderie and morale while modestly enjoying celebration.
+Advocates repeatedly for bringing the Ring to Gondor despite warnings	Boromir	Fellowship / Gondor	30	25	Stupid	Persistence in a known-doomed strategy undermines trust and mission success with little realistic upside.
+Remains the only one to keep raising the “use the Ring” idea after black speech warning	Boromir	Fellowship	30	20	Stupid	Ignoring clear supernatural warning increases risk of catastrophe for all with no concrete benefit realized.
+Treats Hobbits supportively, teaching Merry and Pippin swordplay	Boromir	Merry and Pippin	70	80	Intelligent	He gains affection and capable allies while the Hobbits gain crucial skills.
+Defends Merry and Pippin first when Uruk-hai attack	Boromir	Merry and Pippin	40	80	Helpless	He endangers himself severely to shield them, substantially benefiting them at high personal cost.
+Comforts and restrains Gimli while he mourns in Moria	Boromir	Gimli	60	75	Intelligent	He expends emotional effort to steady a comrade, strengthening group cohesion.
+Comforts Frodo after Gandalf’s death in Lothlórien	Boromir	Frodo	60	80	Intelligent	Supports Frodo’s morale, indirectly aiding the quest while also deepening mutual trust.
+Tells Aragorn “Give them a moment, for pity’s sake!” to allow grieving	Boromir	Fellowship	65	75	Intelligent	He advocates rest and emotional processing, which likely improves resilience for everyone including himself.
+Implores Gandalf to turn back from Caradhras for the Hobbits’ safety	Boromir	Hobbits / Fellowship	60	70	Intelligent	He both protects vulnerable members and nudges path toward his strategic preference without harming them.
+Holds disregard for Elves, Dwarves, and Aragorn’s claim early on	Boromir	Elves / Dwarves / Aragorn	45	35	Stupid	Prejudice harms cooperation and brings him no concrete gain, even undermining his own aims.
+Eventually overcomes his racism toward Elves and Dwarves and accepts Aragorn	Boromir	Non-men allies	65	80	Intelligent	Revising his view enhances alliance strength and thus his own side’s chances.
+Grabs the cave troll’s chain with Aragorn to pull it from Sam	Boromir	Sam	65	85	Intelligent	He risks injury but successfully protects Sam, strengthening the Fellowship’s survival.
+Continues fighting after being slammed into a wall by the troll	Boromir	Orcs / Fellowship	60	70	Intelligent	Pushing through injury helps defeat the enemy and defend the group.
+Blows the Horn of Gondor to draw Uruks away from Frodo and others	Boromir	Fellowship / Uruk-hai	35	85	Helpless	He knowingly makes himself a focus of attack, sacrificing safety to save Frodo and relieve comrades.
+Makes a last stand against dozens of Uruk-hai to protect Merry and Pippin	Boromir	Merry and Pippin	20	90	Helpless	He effectively trades his life to buy them time, greatly aiding them while fatally harming himself.
+Keeps fighting after two arrows to the chest	Boromir	Uruk-hai / Merry and Pippin	25	85	Helpless	Perseveres through mortal wounds to continue shielding the Hobbits at enormous personal cost.
+Faces Lurtz defiantly, staring him down before the killing blow	Boromir	Lurtz / Himself	40	50	Intelligent	Though it doesn’t alter outcomes, it preserves his dignity and morale without affecting others much.
+Falls into despair over his failures as he dies	Boromir	Himself	20	50	Helpless	His self-condemnation harms his own peace of mind but doesn’t materially affect others.
+Regains his resolve after Aragorn’s reassurance	Boromir	Himself / Aragorn	60	70	Intelligent	Recovering his sense of honor comforts both him and Aragorn and strengthens Aragorn’s resolve.
+Tells Aragorn he would have been proud to recognize him as king	Boromir	Aragorn	55	80	Intelligent	His dying endorsement emotionally empowers Aragorn and gives Boromir some closure.
+Initially dismisses Aragorn as an unworthy Ranger with an empty claim	Boromir	Aragorn	40	35	Stupid	Undermining a key ally sours relations without improving Boromir’s position.
+Acknowledges Aragorn as “my brother, my captain, my king” as he dies	Boromir	Aragorn / Men of Gondor	55	85	Intelligent	Affirmation encourages Aragorn to embrace leadership, benefiting Gondor and honoring Boromir.
+Tries to get Aragorn to open up in private and speak emotionally	Boromir	Aragorn	60	65	Intelligent	Attempts at emotional connection can deepen trust and teamwork, also giving Boromir relational support.
+Tries to take the Ring from Frodo by force in the woods	Boromir	Frodo	10	10	Stupid	He gains nothing (Frodo escapes) while shattering trust and splintering the Fellowship, endangering all.
+Curses the Hobbits during his Ring-obsessed confrontation	Boromir	Hobbits	15	20	Stupid	Hostility damages relationships and brings him no compensating benefit.
+Experiences “My God, What Have I Done?” remorse after attacking Frodo	Boromir	Himself	35	55	Helpless	Realization pains him but starts moral recovery and indirectly helps reorient him to others’ good.
+Is motivated by guilt to defend Merry and Pippin afterward	Boromir	Merry and Pippin	30	85	Helpless	His self-punishing atonement leads him to die for their protection, heavily favoring them over himself.
+Sheds tears over his attempted theft of the Ring	Boromir	Himself	40	60	Helpless	His grief hurts him but marks sincere repentance and a turn back toward concern for others.
+Develops a protective “big brother” instinct for Merry and Pippin	Boromir	Merry and Pippin	65	80	Intelligent	His affection drives training and defense that benefit them and give him meaningful bonds.
+Shows open affection and hugs for Faramir despite their father	Boromir	Faramir	70	80	Intelligent	Affection strengthens Faramir emotionally and gives Boromir a healthier relationship.
+Argues that Gondor has done the fighting while others sat out	Boromir	Aragorn / Elves / Dwarves	55	55	Intelligent	His pointed criticism risks friction but prompts Aragorn’s later commitment to defend Gondor.
+Maintains a close, supportive sibling relationship with Faramir	Boromir	Faramir	75	80	Intelligent	Mutual emotional and practical support benefits both brothers and their effectiveness.
+Refuses to enjoy being Denethor’s favorite and resents the favoritism	Boromir	Himself / Denethor	45	55	Helpless	His stance hurts his standing with Denethor but morally backs fairness towards Faramir.
+Speaks with strong conviction that the Ring could be used for good	Boromir	Gondor / Fellowship	30	30	Stupid	His misplaced confidence encourages a path that would corrupt Gondor and himself with no success shown.
+Lets his desire for the Ring grow into sanity slippage	Boromir	Himself / Fellowship	15	25	Stupid	His deteriorating judgment endangers the quest and his own mind without any realized gain.
+Attempts to comfort Frodo in Lórien: “Gandalf’s death was not in vain…”	Boromir	Frodo	60	75	Intelligent	His consolation supports Frodo’s resolve and gives Boromir a constructive role after trauma.
+Puts his hand on Gimli’s shoulder and restrains him gently outside Moria	Boromir	Gimli	65	75	Intelligent	He provides physical and emotional grounding without harming himself.
+Implores Aragorn while dying: “They took the little ones!”	Boromir	Aragorn	30	85	Helpless	He uses his last strength to direct Aragorn’s efforts toward saving Merry and Pippin, sacrificing focus on himself.
+Aragorn promises Boromir he will not let the White City fall	Aragorn	Boromir / Gondor	70	80	Intelligent	The vow comforts Boromir and commits Aragorn to actions that will help Gondor.
+Aragorn takes Boromir’s bracers as a keepsake and reminder	Aragorn	Boromir’s memory / Gondor	65	70	Intelligent	The memento strengthens Aragorn’s sense of duty toward Gondor, aiding future actions.
+Faramir returns Boromir’s broken horn to Denethor	Faramir	Denethor	50	60	Intelligent	Returning the horn informs and emotionally impacts Denethor, shaping later decisions, without harming Faramir.
+Denethor keeps Boromir’s broken horn as a keepsake	Denethor	Himself / Memory of Boromir	55	55	Intelligent	It preserves his connection to Boromir and may indirectly influence his later behavior, with no clear harm.

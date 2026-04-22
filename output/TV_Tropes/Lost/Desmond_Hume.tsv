@@ -1,0 +1,28 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Desmond bangs Kelvin's head against a rock, accidentally killing him	Desmond	Kelvin	10	5	Stupid	He kills Kelvin without intending to and gains no clear benefit while removing another capable person.
+Kelvin tries to leave the Island and abandon Desmond to push the button alone	Kelvin	Desmond	60	15	Bandit	Kelvin improves his own situation by escaping while severely worsening Desmond’s workload and safety.
+Desmond saves "Our Mutual Friend" to read just before he dies	Desmond	Desmond	65	50	Intelligent	He defers a pleasure to give future meaning to his last moments without affecting others.
+Desmond tries to flee the island by boat	Desmond	Himself	40	50	Helpless	He expends effort and risk to escape but fails, ending up back where he started with no benefit to anyone.
+Kelvin drags Desmond into the Swan hatch	Kelvin	Desmond	55	75	Intelligent	He secures Desmond’s safety from a perceived outside threat and gains a compliant partner in the station.
+Kelvin tells Desmond it isn’t safe to go back outside	Kelvin	Desmond	45	70	Helpless	He protects Desmond based on his belief but also traps him in a confining, stressful life.
+Desmond dutifully enters the numbers into the computer for years	Desmond	World	25	85	Helpless	He sacrifices freedom, sanity, and comfort to prevent a catastrophe that protects countless others.
+Desmond spots a tear in Kelvin’s hazmat suit and learns the truth	Desmond	Desmond	60	50	Intelligent	He observes evidence, corrects his beliefs, and frees himself from a false danger without hurting others.
+Desmond almost commits suicide due to loneliness and mental stress	Desmond	Desmond	5	20	Helpless	His intended action would end his own life and remove a vital protector of others.
+Locke bangs on the Hatch loudly, revealing his presence	Locke	Desmond	80	70	Intelligent	His noise alerts Desmond to other survivors, restoring his will to live and eventually leading to cooperation.
+Desmond has himself several drinks whenever crushed by the world	Desmond	Desmond	35	45	Helpless	He gains brief relief at the cost of health and coping capacity without clearly affecting others.
+Desmond endures severe emotional and physical pain yet survives with Penny and their child intact	Desmond	Desmond & Family	90	80	Intelligent	His perseverance through suffering yields long-term happiness and a stable family that also benefits others around them.
+Desmond and Penny marry after reuniting	Desmond & Penny	Each other	88	80	Intelligent	Their mutual commitment creates a supportive family unit that benefits them and their child.
+Desmond follows Kelvin away from the Swan	Desmond	Passengers of Oceanic 815	10	5	Stupid	His choice distracts him from the button, helps no one, and contributes to a catastrophic crash.
+Desmond almost fails to push the button in time	Desmond	Passengers of Oceanic 815	5	10	Stupid	The near-failure directly causes the electromagnetic incident and plane crash without any compensating benefit.
+Desmond looks after his three brothers instead of graduating university	Desmond	His brothers	30	80	Helpless	He sacrifices his own educational advancement to ensure his brothers’ welfare.
+Desmond devotes himself to saving Charlie’s life by thwarting fatal scenarios	Desmond	Charlie	35	85	Helpless	He repeatedly risks his own safety and mental stability to keep Charlie alive, with little direct benefit to himself.
+Desmond trains in and uses his military background, becoming a tough, crafty fighter	Desmond	Desmond	75	60	Intelligent	His skills improve his survival and usefulness to allies without significant downside to others.
+Desmond is extremely hostile when first introduced, believing the intruders are dangerous	Desmond	New survivors	45	40	Helpless	His defensive hostility reduces potential cooperation and safety for both sides while slightly protecting himself.
+Desmond dedicates himself to pushing the button as “the only truly great thing” he will do	Desmond	World	30	85	Helpless	He accepts a constrained life with little personal fulfillment to prevent catastrophe for others.
+Desmond uses guile to operate as a hero in the flash-sideways timeline	Desmond	Others in flash-sideways	70	80	Intelligent	He leverages cunning to guide and protect others while advancing his and their ultimate resolution.
+Desmond runs over Locke in the flash-sideways timeline	Desmond	Locke	40	20	Bandit	In context it advances Desmond’s plan and understanding at Locke’s immediate expense.
+Desmond calls people “brother” or “sister,” building a friendly rapport	Desmond	Others	60	70	Intelligent	His verbal habit fosters warmth and connection that helps both him and those he addresses.
+Desmond remains generally pleasant and friendly despite isolation and trauma	Desmond	Others	65	75	Intelligent	His kindness aids group cohesion and support, which in turn benefits him socially.
+Desmond agrees to be Daniel’s “constant” for time-travel stability	Desmond	Daniel	55	80	Intelligent	He commits to a role that stabilizes Daniel’s mind while modestly improving his own understanding and connections.
+Desmond shaves or grows his beard in relation to his mental state	Desmond	Desmond	55	50	Intelligent	His grooming choices minimally affect others but can help regulate or express his own coping and identity.
+Desmond appears as a “Living MacGuffin” everyone seeks or tries to kill	Desmond	Various factions	40	30	Helpless	His special status draws lethal attention and manipulation, offering him little direct gain while destabilizing others’ actions.

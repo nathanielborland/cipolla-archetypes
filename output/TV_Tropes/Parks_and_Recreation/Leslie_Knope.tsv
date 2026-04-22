@@ -1,0 +1,56 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Leslie takes time off work	Leslie	Parks Department / City of Pawnee	60	10	Bandit	Her rest helps her personally but causes the entire department to stall without her.
+Leslie realizes she needs to stop being a control freak (repeatedly)	Leslie	Leslie	40	60	Helpless	She gains insight that could help everyone but fails to retain it, so she only mildly benefits and others benefit more.
+Leslie makes a Precision F-Strike at Ann due to needle phobia	Leslie	Ann	45	20	Stupid	Her outburst vents fear but damages Ann’s feelings/proximity with no real self-gain.
+Leslie considers using immoral methods to achieve goals	Leslie	Pawnee citizens	35	35	Stupid	Entertaining unethical shortcuts stresses her conscience and would hurt public integrity if enacted, with no realized upside in-story.
+Leslie rejects immoral methods out of guilt	Leslie	Pawnee citizens	70	80	Intelligent	She preserves her integrity and protects others from harm by refusing unethical shortcuts.
+Leslie consistently goes up against impossible odds and succeeds	Leslie	Pawnee citizens	90	85	Intelligent	Her persistence advances her career satisfaction while producing large civic benefits.
+Leslie’s lies fall flat and she rats herself out	Leslie	Various others	20	55	Helpless	Her bad lying harms her own position while yielding more honesty and clarity for others.
+Leslie overextends herself to ~100 hours per week for job and campaign	Leslie	Her colleagues / campaign team	10	60	Helpless	Extreme overwork harms her health and performance but helps sustain both job and campaign for others’ benefit.
+Leslie keeps making minor blunders from neglect on either side of her work life	Leslie	Pawnee citizens / campaign supporters	30	30	Stupid	Hurting both her own prospects and service quality yields net losses all around.
+Leslie decides to reduce her day-job hours to ten per week	Leslie	Pawnee citizens / campaign team	80	70	Intelligent	Rebalancing preserves her health and effectiveness while still serving both roles better overall.
+Leslie becomes extremely angry when pushed too far	Leslie	People pushing her	40	35	Stupid	Losing her temper provides little benefit to her and strains relationships, with limited deterrent value.
+Leslie counts backward from a thousand by sevens to calm down	Leslie	People around her	75	75	Intelligent	Using a coping strategy protects her own regulation and spares others from her anger.
+Leslie resorts to childish insults when frustrated	Leslie	Insult targets	45	35	Stupid	She vents but looks immature, and the name-calling harms others’ feelings or respect.
+Leslie calls Tom “a real dick” instead of softer insults	Leslie	Tom	50	40	Stupid	The blunt insult gives emotional release and clarity but mostly harms Tom and their rapport.
+Leslie helps Andy get his life back on track after finding him living in the pit	Leslie	Andy	75	90	Intelligent	She expends effort but gains satisfaction and reputation while greatly improving Andy’s situation.
+Leslie officiates the marriage of two penguins because it’s cute	Leslie	Zoo / public	65	55	Intelligent	It gives her joy and public goodwill with minor positive entertainment value for others.
+Leslie delivers a masterful sponsorship speech for the Harvest Festival while delirious with flu	Leslie	Harvest Festival / Pawnee citizens	25	90	Helpless	She seriously risks her health but secures crucial support and benefits for the town.
+Leslie’s friends must convince her she can’t change some situations she considers unacceptable	Leslie	Her friends	40	60	Helpless	Her refusal to accept limits exhausts herself and pressures friends even as her efforts sometimes still improve outcomes.
+Leslie finds ways to improve situations anyway despite being overzealous	Leslie	Pawnee citizens	80	80	Intelligent	Her overdrive yields real benefits for both her sense of purpose and public outcomes.
+Leslie infringes on her friends’ wants due to single-minded determination	Leslie	Friends and loved ones	55	25	Bandit	She advances her own agenda and satisfaction while overriding others’ preferences and harming their autonomy.
+Leslie makes Ann watch all eight Harry Potter movies despite Ann not liking them	Leslie	Ann	60	20	Bandit	Leslie indulges her fandom at Ann’s expense, providing little enjoyment to Ann.
+Leslie tries to help people while ignoring what they really want	Leslie	People she “helps”	55	35	Bandit	Her actions satisfy her need to help and control while partially disregarding others’ actual desires or comfort.
+Leslie ignores Ben’s request for distance after their breakup	Leslie	Ben	40	20	Stupid	Disregarding his boundary hurts him and complicates her own emotional process.
+Leslie continues to view Pawnee with rose-tinted glasses despite clear corruption	Leslie	Herself	35	30	Stupid	Her denial harms her effectiveness and wastes effort while not materially helping anyone else.
+Leslie accepts Jen Barkley’s advice to seek higher office instead of focusing on Pawnee government	Leslie	Wider electorate	85	80	Intelligent	She gains a more impactful platform and can benefit more people than in dysfunctional local politics.
+Leslie acts like a jerk toward Eagletonians even when they’re nice	Leslie	Nice Eagletonians	45	25	Stupid	Her hostility expresses local loyalty but damages relations without real practical benefit.
+Leslie plans out April’s entire parks career despite April wanting something else	Leslie	April	55	25	Bandit	She gains satisfaction from mentoring and controlling the plan while sidelining April’s own choices.
+Leslie “knows everything about everyone,” including Ron	Leslie	Coworkers	75	60	Intelligent	Her knowledge helps her manage, support, and anticipate others’ needs more effectively.
+Leslie is among the last to learn Ron is Duke Silver	Leslie	Leslie	40	50	Helpless	Her ignorance mildly disadvantages her while others remain largely unaffected.
+Leslie often laments that Pawnee never appreciates her work	Leslie	Herself	40	50	Helpless	Her complaints deepen her own frustration without changing public behavior.
+Leslie enthusiastically fangirls public figures and cute things	Leslie	Figures she admires / friends	70	60	Intelligent	Her enthusiasm fuels her motivation and entertains or energizes those around her.
+Leslie devotes herself to helping others even when she should not	Leslie	Friends / citizens	45	65	Helpless	Overinvestment harms her own balance while still providing net support to others.
+Leslie refuses to accept that most townspeople dislike her and oppose her policies	Leslie	Pawnee voters	35	30	Stupid	Clinging to idealism reduces her strategic effectiveness and yields little benefit to the ungrateful public.
+Leslie becomes more irrational when estranged from Ann and Ron	Leslie	Her colleagues	30	35	Stupid	Her instability harms her own functioning and makes work harder for others without compensating gains.
+Leslie constantly mocks Orin to his face	Leslie	Orin	55	20	Bandit	She gets to voice her discomfort and feel safer while needlessly belittling him.
+Leslie despises Greg Pikitis and treats him as an arch-enemy	Leslie	Greg Pikitis	60	30	Bandit	Her fixation gives her purpose and satisfaction but escalates a minor antagonist, causing friction.
+Leslie wears a tight French braid after being compared to a Greek goddess	Leslie	Herself	70	55	Intelligent	She enjoys the compliment and self-image, with no downside and mild aesthetic benefit to others.
+Leslie enforces pun-based rules at the Farmer’s Market	Leslie	Farmer’s Market vendors/visitors	80	75	Intelligent	Her regulations are functional and whimsical, benefiting order and enjoyment for everyone including herself.
+Leslie helps friends in ways that make everyone willing to return favors unasked	Leslie	Friends / colleagues	90	90	Intelligent	Her consistent kindness yields strong reciprocal support networks and broad positive spillovers.
+Leslie tries to stop Andy and April’s wedding	Leslie	Andy and April	30	20	Stupid	Her interference strains relationships and fails, offering no benefit to her or them.
+Leslie supports Andy and April once they’re married (implied by “wants them together forever”)	Leslie	Andy and April	75	80	Intelligent	After failing to block the wedding she still supports them, strengthening their relationship and her bonds.
+Leslie serves as Ben’s contrasting love interest and sticks with him	Leslie	Ben	85	85	Intelligent	Their stable relationship provides mutual emotional and practical support.
+Leslie runs for City Council and wins by a narrow margin	Leslie	Pawnee citizens	80	75	Intelligent	She secures a powerful platform and delivers substantial positive change despite future conflicts.
+Leslie immediately fights loudly for what she believes in on the council	Leslie	Fellow council members / voters	60	40	Bandit	She advances her agenda and sense of integrity while alienating colleagues and ignoring some constituents’ wishes.
+Leslie claims she “knows better” and ignores town criticism	Leslie	Pawnee voters	55	35	Bandit	She advances policies she believes in but erodes trust and responsiveness to the electorate.
+Leslie constantly fights fellow council members	Leslie	City Council	50	30	Stupid	The conflict imposes political costs on her and paralyzes cooperation, hurting the institution.
+Leslie ignores voters, contributing to a recall against her	Leslie	Pawnee voters	30	20	Stupid	She loses her office and leaves dissatisfied constituents, with no lasting compensatory benefit.
+Ron repeatedly tries to have Leslie fired for insubordination	Leslie	Ron	40	25	Bandit	She follows her conscience and achieves some wins but endangers her job and damages trust with her boss.
+Leslie supports Andy and April but tries to “ship” others like her child with Ann’s son	Leslie	Their children	65	45	Bandit	She enjoys fantasizing about their future romance, exerting a light social pressure the kids didn’t ask for.
+Leslie despises the library and maintains a rivalry	Leslie	Library staff	55	30	Bandit	The rivalry gives her identity and motivation while creating unnecessary hostility with another department.
+Leslie treats her municipal job as hugely important and aims to be president	Leslie	Herself / public	85	70	Intelligent	Her ambition motivates massive effort that ultimately leads to higher office and broad societal gains.
+Leslie becomes Governor of Indiana (and likely President)	Leslie	State/nation	100	95	Intelligent	She maximizes her own career fulfillment and exerts large-scale positive impact on others.
+Leslie chooses whipped cream and sugar-heavy foods despite disliking vegetables	Leslie	Herself	25	50	Helpless	Her diet preferences give short-term pleasure but likely harm her long-term health without major external effects.
+Ron locks Leslie in a hotel room so she can rest from overwork	Ron	Leslie	80	80	Intelligent	This forced rest significantly improves her health and later productivity with no real downside.
+Leslie tries to steal work from the office to do at home during paid suspension	Leslie	Herself / Parks Department	35	40	Stupid	Her compulsion undermines the purpose of rest, risking punishment and offering little net gain to the department.

@@ -1,0 +1,39 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Father beats and tortures Lane for "abandoning" the family	Father	Lane	70	0	Bandit	Father asserts control and vents rage while severely harming Lane.
+Lane harbors a long-term attraction to Joan without acting on it	Lane	Lane	40	60	Helpless	Unexpressed feelings give him little benefit while preserving Joan’s comfort and professional status quo.
+Lane finally makes a pass at Joan	Lane	Joan	30	30	Stupid	He risks rejection and awkwardness while offering Joan no benefit and damaging their dynamic.
+Lane embezzles funds from SCDP to fix his tax problems	Lane	SCDP	40	15	Bandit	He gains short-term financial relief while stealing from the firm and risking its trust and stability.
+Lane helps negotiate Jaguar deal	Lane	SCDP client deal	70	75	Intelligent	He secures valuable business, advancing both his career and the agency’s fortunes.
+Lane goes ballistic when Jaguar deal is scuttled	Lane	Pete & brothel group	20	20	Stupid	His rage brings him no clear gain and only adds conflict without helping the firm.
+Lane challenges Pete to a fist fight for mocking him	Lane	Pete	30	25	Stupid	He vents pride by escalating to violence, harming both reputations and office cohesion.
+Lane beats Pete in the fight	Lane	Pete	45	20	Bandit	He gains cathartic and status satisfaction at Pete’s expense and worsens workplace relations.
+Lane shows emotion only when drunk or very upset	Lane	Lane relationships	35	35	Stupid	His emotional repression harms his own well‑being and connection with others with no upside shown.
+Lane frequently drinks tea	Lane	Lane	55	50	Intelligent	Harmless preference that gives him small comfort without affecting others.
+Lane attempts suicide by car with a Jaguar (which fails mechanically)	Lane	Lane	5	50	Helpless	He nearly kills himself, devastating self while not affecting others due to the car’s failure.
+Lane gradually comes to enjoy America	Lane	Lane	80	65	Intelligent	Adapting and finding joy improves his life and his integration with colleagues.
+Lane gets along well with Don over time	Lane	Don	75	75	Intelligent	Mutual respect and friendship benefit both personally and professionally.
+PPL bosses condescend to Lane	PPL bosses	Lane	60	20	Bandit	They maintain dominance and self-satisfaction while undermining his dignity and loyalty.
+PPL sells Sterling Cooper and casts Lane overboard	PPL	Lane	65	15	Bandit	They pursue their corporate interests while discarding him and damaging his career.
+Lane participates in the mutiny to found SCDP	Lane	PPL	85	40	Bandit	He secures a new leadership role while undercutting PPL’s control and asset value.
+Lane helps found SCDP	Lane	SCDP partners	90	85	Intelligent	He co-creates a new firm, gaining partnership while enabling others’ independence and success.
+Lane battles with depression for a whole season	Lane	Lane	20	40	Helpless	His internal struggle harms him drastically while others mainly remain unaffected or mildly concerned.
+Don fires Lane for embezzlement	Don	Lane	60	35	Bandit	Don preserves firm integrity but devastates Lane’s position and triggers his crisis.
+Lane kills himself after being fired	Lane	Lane & colleagues	0	10	Stupid	His death utterly destroys his own prospects and gravely harms others emotionally and operationally.
+Lane often acts as hyper‑competent sidekick	Lane	Superiors	65	70	Intelligent	His competence advances his career while making organizations more effective.
+Lane clashes with Don and Roger, reminding them of financial obligations	Lane	Don & Roger	70	80	Intelligent	He protects the firm’s finances while reinforcing responsible behavior in others.
+Lane dates a black Playboy Bunny	Lane	Playboy Bunny	60	55	Intelligent	The relationship seems mutually chosen and enjoyable with no evident harm.
+Lane separates from his wife	Lane	Wife	45	30	Bandit	He gains personal freedom in line with his desires while causing her emotional harm and family disruption.
+Lane decks out his office with New York–related items	Lane	Lane & colleagues	70	60	Intelligent	Expressing identity increases his own satisfaction and creates a positive, engaged presence at work.
+Lane defends Jaguar as a proud Brit	Lane	Jaguar/UK identity	60	55	Intelligent	He gains pride and alignment with his heritage while offering support to the brand and fellow Brits.
+Lane cheers England in the 1966 World Cup	Lane	England team	65	55	Intelligent	His support boosts his own joy and expresses harmless national loyalty.
+Lane pays his US taxes before his UK taxes	Lane	British tax authority	50	35	Bandit	He fulfills US obligations first, provoking harsher UK pursuit that strains that system.
+Lane embezzles from the company to pay back UK taxes	Lane	SCDP	40	15	Bandit	He resolves his tax crisis short‑term by stealing from his firm and risking its stability.
+British tax authorities pursue Lane harshly for back taxes	British tax authorities	Lane	70	25	Bandit	They secure compliance and revenue while causing him severe stress and financial desperation.
+Lane comforts Joan when she fears replacement	Lane	Joan	75	85	Intelligent	His reassurance aids her emotionally while strengthening his own bonds and standing as a caring leader.
+Lane uses what he’s learned at PPL to act independently	Lane	Lane & partners	85	75	Intelligent	He leverages his skills to create better opportunities for himself and collaborators.
+Lane stands up to PPL and hijacks SCDP from under their noses	Lane	PPL	85	35	Bandit	He and allies gain independence and ownership while PPL loses control and value.
+Lane again beats Pete down in "Signal 30" after being insulted	Lane	Pete	45	25	Bandit	He regains face and vents anger through violence that harms Pete and the workplace climate.
+Lane hides from his wife that he has been forced to resign	Lane	Wife	25	25	Stupid	Concealing unemployment traps him in a lie and deprives her of information to respond or help.
+Lane’s relationship with Pete becomes strained over time	Lane	Pete	40	35	Stupid	His part in escalating conflict hurts both without delivering clear benefits.
+Lane invests many hours helping Pete develop professionally	Lane	Pete	50	70	Helpless	His extensive effort mainly benefits Pete’s growth while leaving Lane still unappreciated.
+Lane tells Pete he regrets helping him become a monster	Lane	Pete	45	30	Bandit	He vents justified frustration, gaining emotional release while wounding Pete with no constructive outcome.

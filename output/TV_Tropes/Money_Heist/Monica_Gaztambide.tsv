@@ -1,0 +1,21 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+She tells Arturo that she's pregnant and he's the father	Mónica	Arturo	40	40	Helpless	Being honest/claiming paternity risks her position while giving Arturo important information and shared responsibility.
+Arturo badgers her that it can't be his due to his low fertility	Arturo	Mónica	60	10	Bandit	He protects himself from responsibility while emotionally harming and invalidating her.
+She evolves from dominated to rebellious, fighting for what she believes in	Mónica	Mónica	85	70	Intelligent	Her personal growth improves her own agency and helps her stand up for her values, benefiting allies.
+She switches sides and joins the thieves for love of Denver	Mónica	Hostages/legal system	65	20	Bandit	Gaining emotional fulfillment and group belonging while harming hostages and contributing to crime.
+Arturo tells Mónica he will not divorce his wife	Arturo	Mónica	70	15	Bandit	He preserves his marriage and comfort while deeply hurting and discarding her needs.
+She requests an abortive pill after hearing Arturo won't divorce	Mónica	Fetus/self	25	40	Helpless	She attempts to solve her problem at serious personal/physical and emotional cost while arguably reducing later strain on others.
+Denver convinces her not to take the abortive pill (at least for a while)	Denver	Mónica/fetus	75	65	Intelligent	He protects her health and potential future of the child while also fulfilling his emotional interest.
+She genuinely likes Arturo in the beginning	Mónica	Arturo	45	55	Helpless	Her misplaced affection makes her vulnerable while boosting Arturo’s ego and support.
+She becomes enraged when Julia reveals herself as one of them, losing her as backup mother	Mónica	Julia/crew dynamic	40	30	Bandit	Her anger reflects loss of a safety option and may strain team relations more than it helps.
+She falls in love with Denver during the heist	Mónica	Denver	70	55	Intelligent	The mutual bond gives her emotional security and supports Denver’s morale and humanity.
+She officially joins the crew as “Stockholm”	Mónica	Heist crew/hostages	70	25	Bandit	Joining secures protection and belonging while reinforcing the criminals’ position over hostages.
+She serves as Morality Pet, bringing out Denver’s caring side	Mónica	Denver	75	80	Intelligent	Her presence stabilizes Denver emotionally and helps him act more human and protective, benefiting them both.
+She comforts Rio after his traumatic tortures	Mónica	Rio	60	80	Intelligent	She invests emotional energy to greatly support Rio’s recovery and group cohesion.
+She removes Arturo from the heist for good by shooting him	Mónica	Arturo	55	35	Bandit	Neutral–slightly risky for her but eliminates a disruptive threat, while seriously harming Arturo.
+She is a pregnant hostage during the Mint heist	Mónica	Herself/unborn child	25	20	Helpless	Being pregnant in a hostage crisis greatly endangers her and the fetus while offering negligible benefit to others.
+She maintains a long affair with Arturo over several years	Mónica	Herself/Arturo’s family	30	20	Helpless	She gains some affection but remains subordinate and emotionally damaged, while helping sustain Arturo’s double life.
+Arturo has an affair with her for several years	Arturo	Laura (wife)/family	80	15	Bandit	He gains excitement and validation while undermining his family’s trust and stability.
+During the Mint heist, she chooses Denver over Arturo as a better boyfriend	Mónica	Arturo	75	40	Intelligent	Leaving Arturo improves her emotional well‑being and removes her from a toxic relationship, with limited collateral harm beyond his feelings.
+She defects to the heist team at the end of the Mint heist	Mónica	State/hostages	70	20	Bandit	She secures safety and shared loot by fully siding with criminals, worsening outcomes for law and hostages.
+She keeps her cool after Nairobi dies and takes over parts of the operation	Mónica	Heist crew	80	75	Intelligent	Her composure and leadership strengthen the crew’s survival and operational success while supporting allies.

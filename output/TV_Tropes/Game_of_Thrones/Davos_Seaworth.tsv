@@ -1,0 +1,56 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Fights alongside his son in the War of the Five Kings	Davos	Matthos & Stannis's cause	40	40	Helpless	Takes major personal risk in war mainly serving Stannis, with unclear benefit to others given later defeat.
+Survives three wars through guile and luck	Davos	Himself	90	50	Intelligent	His survival strongly benefits himself and is at worst neutral to others in the text.
+Smuggles badly needed provisions into besieged Storm’s End	Davos	Storm’s End garrison	70	95	Intelligent	Gains future elevation while saving many people from starvation.
+Knights Davos for smuggling food into Storm’s End	Stannis	Davos	60	80	Intelligent	Rewards a useful ally and recognizes life‑saving service that benefits realm.
+Cuts off Davos’s fingers as punishment for smuggling	Stannis	Davos	40	55	Bandit	Affirms harsh justice and deterrence for himself/realm while seriously harming Davos.
+Accepts knighthood from Stannis for his smuggling	Davos	His family	75	85	Intelligent	Gains lands, title, and a better future for his son and family.
+Wears his fingerbones around his neck as a reminder	Davos	Himself	55	50	Intelligent	Keeps a painful memento that stabilizes his identity and sense of justice with no shown external cost.
+Uses an onion in his sigil and accepts the nickname	Davos	Other nobles	60	60	Intelligent	Defuses insult, solidifies identity, and reduces class tension slightly.
+Commands Stannis’s fleet at Blackwater	Davos	Stannis	45	55	Intelligent	Accepts high command that honors him and helps Stannis, despite later personal loss.
+Rescues Storm’s End out of Good Samaritan concern	Davos	Starving lords and soldiers	70	95	Intelligent	Risks himself but saves many lives and secures later elevation.
+Lives as a highly successful smuggler before going straight	Davos	Clients & populace	75	40	Bandit	Enriches himself by subverting laws, with mixed or limited benefit to others.
+Immediately calls Stannis and Melisandre out for burning prisoners instead of fighting	Davos	Stannis & Melisandre	65	70	Intelligent	Risks disfavor to push them toward more rational and humane conduct.
+Pulls a knife on Melisandre at Dragonstone	Davos	Melisandre	30	40	Helpless	Acts from grief and fear, gets imprisoned, and fails to change policy.
+Imprisons Davos in the Dragonstone dungeons for attacking Melisandre	Stannis	Davos	45	30	Bandit	Removes a critic and perceived threat but sidelines his best advisor, hurting his own cause.
+Frees Gendry to prevent Melisandre sacrificing him	Davos	Gendry	30	80	Helpless	Saves Gendry’s life but nearly gets himself executed and may worsen Stannis’s campaign prospects.
+Attempts to kill Melisandre despite oath not to harm her	Davos	Melisandre	25	40	Helpless	Violates terms and risks execution without meaningfully improving the situation.
+Saves Davos from execution after Gendry’s escape by saying he has a part to play	Melisandre	Davos	60	60	Intelligent	Keeps a useful player alive, which benefits her side and Davos.
+Shows no happiness at the Red Wedding despite being Stannis’s rival	Davos	Robb Stark’s cause	60	55	Intelligent	Maintains moral standard and reputation without real cost to himself.
+Accuses the Lord of Light of being evil	Davos	Lord of Light (via Melisandre)	55	40	Helpless	Expresses moral stance but gains little and further antagonizes a powerful religious faction.
+Counsels Lyanna Mormont about the true war (living vs dead)	Davos	Lyanna & the North	70	85	Intelligent	Uses credibility to shift her focus to existential threat, aiding both himself and the North.
+Advises Stannis candidly on strategy and morality	Davos	Stannis	65	80	Intelligent	Strengthens his own position as trusted counselor and improves Stannis’s decisions.
+Accepts sentence of death but insists on advising Stannis against executing him	Davos	Stannis	55	70	Intelligent	Uses his status as Hand to argue for a wiser course, slightly risking but likely preserving his life.
+Keeps serving as Conscience and Morality Chain to Stannis	Davos	Stannis	60	80	Intelligent	Helps steer Stannis from excesses while maintaining his valued advisory role.
+Leaves Castle Black when Stannis orders him away before Shireen’s sacrifice	Stannis	Davos	Stannis	40	20	Stupid	Removes his own best moral check and advisor, worsening his later catastrophic decision.
+Becomes Jon Snow’s advisor after Stannis’s death	Davos	Jon Snow	75	85	Intelligent	Gains security and status while greatly improving Jon’s political and strategic position.
+Teaches Shireen to read by accepting her lessons and practicing	Davos	Himself	70	60	Intelligent	Improves his capabilities, which later benefit his allies.
+Discusses Shireen’s death and denounces Melisandre to Jon	Davos	Melisandre	55	70	Intelligent	Risks conflict to bring crucial truth to light, leading to a measured sanction rather than impunity.
+Warns Jon that Melisandre must be punished for Shireen	Davos	Jon Snow	60	70	Intelligent	Pushes Jon toward a just, restrained response that maintains alliances.
+Requests permission to execute Melisandre for Shireen’s death	Davos	Melisandre	45	60	Helpless	Seeks personal vengeance that is partially checked; Jon’s choice limits the harm.
+Accepts Jon’s decision to exile rather than execute Melisandre	Davos	Melisandre	60	70	Intelligent	Forfeits revenge in favor of a solution that preserves order and potential utility.
+Threatens to kill Melisandre if he ever sees her again	Davos	Melisandre	50	55	Bandit	Extracts a strong deterrent and emotional satisfaction while slightly risking future conflict.
+Asks Melisandre to resurrect Jon Snow	Davos	Jon Snow	80	85	Intelligent	Takes a risky but hugely beneficial step that brings back a critical leader.
+Explicitly rejects worship while still asking Melisandre’s help with magic	Davos	Himself	70	55	Intelligent	Separates pragmatic use of power from belief, preserving autonomy while helping allies.
+Negotiates with the wildlings to support Jon	Davos	Wildlings & Jon	80	85	Intelligent	Uses diplomacy to secure vital forces, strengthening his own side and giving wildlings protection.
+Convinces Lyanna Mormont to back the Starks	Davos	House Mormont	80	90	Intelligent	Secures a powerful ally for Jon and Sansa, enhancing his standing as negotiator.
+Argues Stannis’s case successfully to the Iron Bank	Davos	Iron Bank & Stannis	80	80	Intelligent	Obtains crucial funding and restores some trust with the Bank, aiding both sides.
+Lashes out at Melisandre with “If he commands you to burn children, your lord is evil”	Davos	Melisandre	60	70	Intelligent	Undermines her moral authority and strengthens the argument against child sacrifice.
+Delivers “How many died because you were wrong?” to Melisandre	Davos	Melisandre	65	70	Intelligent	Forces her to confront the real cost of her errors, reducing her overconfidence.
+Warns Melisandre never to return to the North on pain of death	Davos	Melisandre	55	60	Bandit	Protects his region and gains personal closure while closing off a potentially useful asset.
+Moves to intercept Melisandre at Winterfell in Season 8 intending to kill her	Davos	Melisandre	45	40	Helpless	Almost commits a killing that would remove a key asset in a desperate battle, but stops short.
+Lets Melisandre live after she promises she’ll be dead by morning	Davos	Melisandre	65	80	Intelligent	Accepts a compromise that avoids distracting bloodshed and preserves her help.
+Seeks Melisandre at dawn to ensure she keeps her word or execute her	Davos	Melisandre	55	60	Bandit	Acts as enforcer of justice and personal vendetta with modest risk to himself.
+Uses his charisma and honesty to recruit Salladhor Saan for Stannis	Davos	Salladhor & Stannis	75	80	Intelligent	Builds Stannis’s fleet while reinforcing his own network and reputation.
+Shifts loyalty to Jon after Stannis’s death and helps crown him King in the North	Davos	Jon Snow	80	85	Intelligent	Aligns with a just, viable leader and stabilizes the North’s politics.
+Smuggles Melisandre to Renly’s camp, enabling the shadow assassination	Davos	Renly Baratheon	55	10	Bandit	Strengthens Stannis’s cause and his own favor at the cost of Renly’s life and stability.
+Keeps Matthos serving on the front line at Blackwater	Davos	Matthos	20	40	Helpless	Allows his son to remain in a deadly position that leads to Matthos’s death while serving Stannis.
+Continues to follow Stannis despite horrific decisions	Davos	Himself	40	30	Helpless	Loyalty exposes him to trauma and loss while failing to prevent ultimate defeat.
+Decides to join the Stark cause after Stannis’s fall	Davos	House Stark	80	85	Intelligent	Gains protection and influence while helping a more just and competent faction.
+Proposes that Jon and Daenerys marry to unite the realm	Davos	Jon & Daenerys	80	85	Intelligent	Suggests a political solution that could stabilize the kingdoms and legitimizes his counsel.
+Speaks humbly before key negotiations to lower defenses	Davos	Negotiation partners	70	75	Intelligent	Improves persuasive power while avoiding resentment from nobles.
+Advocates repeatedly for protecting children (Gendry, Shireen)	Davos	Vulnerable children	55	85	Helpless	Puts himself at risk opposing powerful figures to save or avenge children, gaining little for himself.
+Accepts literacy training from Shireen despite prior reluctance	Davos	Himself	70	65	Intelligent	Overcomes pride and suspicion to gain a skill that enhances his effectiveness.
+Maintains friendship and trust with Gendry, acting as a parental figure	Davos	Gendry	65	80	Intelligent	Builds a loyal ally and emotionally supports Gendry with no real downside.
+Stands on the frontlines in later battles despite being a poor fighter	Davos	Himself	35	70	Helpless	Risks his own life beyond his fighting skill primarily to support his side’s morale and numbers.
+Accepts role as King Bran’s Master of Ships at the end	Davos	The realm	85	85	Intelligent	Secures a stable, honorable position for himself while helping govern and rebuild the kingdom.

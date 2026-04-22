@@ -1,0 +1,37 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Intimidates and steals from street dealers	Omar	Street dealers	80	10	Bandit	He profits by robbing dealers, who lose money and safety.
+Takes his grandmother to church	Omar	Grandmother	70	75	Intelligent	Strengthens family bond and gives her care and respect.
+Refuses to hurt those not involved in the game	Omar	Civilians	60	85	Intelligent	He forgoes some easy crimes but protects innocents from harm.
+Robs drug dealers and has killed others	Omar	Drug dealers	80	15	Bandit	He gains wealth and power while killing/robbing targets.
+Spreads some robbery profits around the neighborhood	Omar	Neighborhood residents	60	65	Intelligent	He keeps most gains but materially benefits some locals.
+Targets and kills/cripples many of his robbery victims	Omar	Robbery targets	75	10	Bandit	He secures his lifestyle while severely harming opponents.
+Inspires children who idolize him into the game	Omar	Neighborhood children	60	5	Bandit	His legend boosts his ego/status but pulls kids into danger.
+Becomes arch-enemy of Stringer Bell	Omar	Stringer Bell	40	30	Helpless	The feud consumes him and destabilizes rivals without clear gain.
+Orders Brandon’s torture and murder	Stringer Bell	Brandon	70	5	Bandit	He removes a liability at the cost of extreme harm to Brandon.
+Tries to assassinate Omar on a Sunday truce	Stringer Bell	Omar	35	20	Helpless	Breaks norms and fails, undermining his own position more than helping.
+Uses a duster to conceal shotgun and vest while robbing	Omar	Robbery targets	75	15	Bandit	Improves his safety and effectiveness while victims are robbed.
+Treats his boyfriends well	Omar	Boyfriends	70	75	Intelligent	He builds mutual affection and stability in his relationships.
+Shoots and kills Omar from behind	Kenard	Omar	65	10	Bandit	He gains status/notoriety in the game but destroys Omar.
+Shoots Omar, then panics and runs away	Kenard	Himself	20	10	Stupid	He gains no clear benefit and increases his own risk and trauma.
+Frames Omar for murder	Marlo Stanfield / Andre	Omar	80	10	Bandit	They divert heat from themselves onto Omar, harming him.
+Comes forward as key witness against Bird	Omar	Bird	55	35	Helpless	He risks himself from retaliation to punish Bird, aiding justice somewhat.
+Kills a delivery woman to frame Omar	Chris / Marlo	Delivery woman	80	0	Bandit	They protect their enterprise while killing an innocent.
+Gives candy to neighborhood kids in Puerto Rico	Omar	Neighborhood kids	60	70	Intelligent	He gains affection and trust while giving harmless joy.
+Dismisses child Kenard as a non-threat	Omar	Himself	5	40	Helpless	His underestimation gets him killed but removes a major predator from streets.
+Mocks and calls out Marlo publicly	Omar	Marlo Stanfield	30	30	Stupid	He increases his exposure and risk without landing real damage.
+Burns Marlo’s stolen money and dumps his product	Omar	Marlo Stanfield	20	25	Stupid	He sacrifices large material gain just to hurt Marlo’s crew slightly.
+Makes Anthony return robbed civilian’s money at gunpoint (as a youth)	Omar	Robbed civilian	40	80	Helpless	He loses criminal profit and risks himself but helps the victim.
+Robs only from drug dealers, not civilians	Omar	Drug dealers	70	35	Bandit	He maintains income while sparing innocents but still harms dealers.
+Shows affection to a dope fiend’s baby and gives her a free fix	Omar	Dope fiend	55	25	Helpless	He gains some goodwill but deepens her addiction and harms her.
+Walks unarmed in pajamas; dealers throw him drugs and money	Omar	Dealers	75	20	Bandit	His reputation earns unearned loot while terrifying and costing dealers.
+Goes on a Roaring Rampage of Revenge for Butchie	Omar	Marlo’s organization	10	20	Stupid	He wrecks his own safety and dies, inflicting only limited organizational harm.
+Comes out of retirement to avenge Butchie	Omar	Himself	5	25	Helpless	He sacrifices a safe life to resume a vendetta with minimal broader benefit.
+Decides to resume war on Barksdales after church ambush	Omar	Barksdale organization	20	20	Stupid	He abandons a safer choice to continue a cycle that endangers him and others.
+Shaves off cornrows after killing Stringer	Omar	Himself	55	50	Intelligent	Symbolizes closing a destructive chapter, neutral to others.
+Uses wheelchair disguise to infiltrate stash house	Omar	Barksdale stash crew	80	15	Bandit	He gains access and loot while ambushing and harming targets.
+Burns Marlo’s money to “hurt his people”	Omar	Marlo’s people	25	25	Stupid	He loses resources he could use while only symbolically hurting rivals.
+Taunts Marlo via intermediaries to provoke him	Omar	Marlo Stanfield	25	25	Stupid	He heightens danger around himself without drawing Marlo into fair conflict.
+Gives hit list that becomes dying clue (found by Bunk)	Omar	Police	60	60	Intelligent	He aids efforts against Marlo’s crew while modestly improving his legacy/usefulness.
+McNulty puts Omar on a bus to New York	McNulty	Omar	65	60	Intelligent	He protects Omar from retaliation and removes a volatile actor from Baltimore.
+Bunk and McNulty conceal Omar’s role in Stinkum’s murder	Bunk & McNulty	Omar / Justice system	40	20	Helpless	They gain a better witness but compromise integrity and leave a killing unresolved.
+Bunk’s “reason you suck” speech that makes Omar rethink things	Bunk	Omar	55	60	Intelligent	He risks rapport but nudges Omar toward recognizing broader harm.

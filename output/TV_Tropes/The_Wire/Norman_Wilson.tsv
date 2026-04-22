@@ -1,0 +1,13 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Norman tells Carcetti he has no plans of voting for him while serving as his main campaign advisor	Norman	Carcetti	55	60	Intelligent	Honest disclosure risks his standing but builds trust and clarity in their working relationship.
+Norman gives Carcetti honest advice about navigating political obstacles	Norman	Carcetti	70	80	Intelligent	His counsel helps Carcetti politically while reinforcing Norman’s own value and influence.
+Norman shows Carcetti the ropes in a realistic, jaded way	Norman	Carcetti	65	75	Intelligent	Mentoring increases Carcetti’s competence and secures Norman’s role as essential guide.
+Norman frequently uses amusement or mockery toward what he observes	Norman	Various others	60	40	Bandit	His snark entertains and discharges his cynicism but can undercut or belittle others without clear benefit to them.
+Norman acts as Carcetti’s “man-behind-the-man” during the election	Norman	Carcetti	75	70	Intelligent	Backstage support advances Carcetti’s campaign and bolsters Norman’s career/power base.
+Norman later serves as a foil to Steintorf in the Mayor’s cabinet	Norman	Michael Steintorf	55	55	Intelligent	Providing a contrasting perspective balances Steintorf’s influence and maintains Norman’s relevance without clear harm.
+Norman openly criticizes Mayor Carcetti as his honest advisor	Norman	Carcetti	60	70	Intelligent	Candid criticism risks Norman’s position but can help the mayor course-correct and govern better.
+Carcetti explicitly invites Norman to “say it” and speak truth to power	Carcetti	Norman	65	75	Intelligent	Encouraging frank feedback improves Carcetti’s decisions and affirms Norman’s role.
+Norman laments he cannot publish sordid insider stories from City Hall	Norman	Public/readers	40	65	Helpless	He forgoes personal/professional gain to protect or respect others’ confidentiality and stability.
+Norman laughs at Clay Davis’ audacious attempt to rip off Carcetti	Norman	Carcetti	55	45	Bandit	His amusement gives him personal relief but offers no help and slightly trivializes Carcetti’s potential loss.
+Norman laughs hard when the truth about the serial killer hoax is revealed despite Carcetti’s objection	Norman	Carcetti	55	30	Bandit	He gains catharsis and dark humor while appearing insensitive to the political and moral damage Carcetti faces.
+Norman continues working for Carcetti despite disillusionment to speak truth to power and push him toward campaign promises	Norman	Carcetti / City	70	80	Intelligent	Staying in a compromised situation preserves his leverage to do real good for the city and keep Carcetti somewhat accountable.

@@ -1,0 +1,50 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+She blows her cover as a born-again convert to warn of Cersei's plot in the Great Sept	Margaery	Everyone in the Great Sept (nobles, Faith)	10	40	Helpless	She sacrifices her hard-won position and safety to try to save others, but dies with them.
+She very pointedly tells the High Sparrow to "forget about the bloody gods"	Margaery	High Sparrow	5	30	Helpless	Openly defying him ruins her protection without saving anyone, but at least tries to refocus him on the real danger.
+She supports Joffrey over Stannis, enabling further Lannister atrocities	Margaery	Realm / victims of Lannisters	60	5	Bandit	Backing a cruel but winning side advances her queenly ambitions while prolonging others’ suffering.
+She attempts to remove Cersei from power for slightly more influence	Margaery	Cersei	55	40	Bandit	Undermining Cersei increases her own sway and likely governance quality, but is still self-serving and destabilizing.
+She basically sexually exploits Tommen	Margaery	Tommen	55	15	Bandit	Secures tighter control and emotional leverage over him at the cost of his autonomy and well-being.
+She pragmatically marries Renly, Joffrey, and Tommen to be Queen	Margaery	Husbands / political rivals	70	40	Bandit	Serial political marriages maximize her power but treat spouses as tools and help entrench contested regimes.
+She reminds Renly he must father an heir despite preferring Loras	Margaery	Renly	65	45	Bandit	Strengthens her position and alliance by pressuring him into sex and succession duties.
+She and Olenna pry information about Joffrey from Sansa while comforting her	Margaery	Sansa	65	55	Intelligent	The intel helps House Tyrell, and the emotional support and potential rescue benefit Sansa.
+She tries to get Sansa out by convincing her to marry Loras	Margaery	Sansa	70	80	Intelligent	A politically useful match for Tyrells that would also free Sansa from Lannister captivity.
+She is horrified and guilty when she learns Olenna killed Joffrey for her	Margaery	Herself	30	40	Helpless	Emotionally harms herself and offers no benefit beyond moral awareness and empathy for victims.
+She seeks a meek husband like Tommen to better manipulate him	Margaery	Tommen	65	25	Bandit	Gains easier control over the throne by exploiting his malleability, which leaves the realm with a weak king.
+She plays along with the Faith Militant to try to save Loras	Margaery	High Sparrow / Loras	20	35	Helpless	Degrading collaboration slightly improves Loras’s short-term prospects but fails to prevent his maiming and their deaths.
+She becomes furious with the High Sparrow when he maims Loras despite their deal	Margaery	High Sparrow	10	5	Helpless	Her outrage changes nothing and leaves her still trapped, offering only moral protest.
+She uses no-sex gambits on Tommen to force him to free Loras	Margaery	Tommen	55	20	Bandit	Weaponizing sex may advance her brother’s release at the cost of Tommen’s emotional stability and agency.
+She fails to teach Tommen to rule while manipulating him	Margaery	Tommen	20	15	Stupid	Her short-sighted manipulation undermines the very power base she needs, leaving both herself and Tommen worse off.
+She marries Renly fully aware she’s his beard	Margaery	Renly	70	45	Bandit	Gains queenly rank while giving him political cover, but keeps them in a duplicitous public lie.
+She comforts a heartbroken Loras after Renly's death	Margaery	Loras	60	80	Intelligent	She gains stronger family bonds while providing genuine emotional support to her grieving brother.
+She consoles Loras in his jail cell and vows the Lannisters will pay	Margaery	Loras	45	65	Intelligent	Her reassurance and shared resolve help Loras cope while reinforcing mutual loyalty.
+She befriends Sansa initially to extract Lannister intel	Margaery	Sansa	70	60	Intelligent	Her alliance boosts her own strategy and gives Sansa protection, validation, and potential escape.
+She still comforts Sansa after the Loras betrothal is canceled	Margaery	Sansa	55	80	Intelligent	Continues emotional and social support even when political benefits diminish.
+She checks on Sansa’s reaction during the dwarf joust despite her own outrage	Margaery	Sansa	60	75	Intelligent	Balances her distress with concern for Sansa, strengthening trust and offering solidarity.
+She ogles Olyvar while walking in on him and Loras	Margaery	Olyvar	55	55	Intelligent	Minor mutual sexualized gaze with no clear harm or benefit beyond harmless desire.
+She visits and cares for war orphans as part of PR	Margaery	Orphans / smallfolk	80	85	Intelligent	Improves her popularity while tangibly helping and comforting vulnerable children.
+She offers Sansa political and sexual advice about Tyrion as husband	Margaery	Sansa	70	80	Intelligent	Uses knowledge to calm Sansa and help her cope, while investing in a useful ally’s stability.
+She touches Brienne reassuringly after believing her innocence	Margaery	Brienne	60	80	Intelligent	Signals alliance and earns a loyal potential protector while easing Brienne’s social isolation.
+She defends Brienne from Joffrey’s accusation and says she hopes to see more of her	Margaery	Brienne	65	85	Intelligent	Builds a powerful, grateful ally while publicly shielding Brienne.
+She constantly tries to stop Joffrey from mistreating Sansa and Tyrion at the wedding	Margaery	Sansa and Tyrion	70	75	Intelligent	Improves her image and power by appearing merciful while mitigating some abuse toward others.
+She glances to check if Sansa is crying during Joffrey’s cruel reenactment	Margaery	Sansa	60	75	Intelligent	Shows real concern and strengthens their bond at little cost to herself.
+She gives orphans food and access and shrugs off ruining her dress	Margaery	Orphans / smallfolk	80	85	Intelligent	Gains legitimacy and love of the people while materially aiding them.
+She distributes leftover royal wedding food to the poor	Margaery	Poor of King’s Landing	80	85	Intelligent	Boosts her popularity and legitimacy while directly feeding hungry citizens.
+She comforts Tommen about Joffrey’s death, telling him he shouldn’t feel guilty	Margaery	Tommen	70	80	Intelligent	Strengthens her emotional hold on him while helping him process grief.
+She ingratiates herself with Joffrey by pandering to his psychopathy with talk of killing	Margaery	Joffrey’s victims / realm	60	5	Bandit	Gains control and favor with Joffrey but emboldens his lethal violence against others.
+She acts as “Morality Pet” and channels Joffrey into charity work and better PR	Margaery	Joffrey / smallfolk	75	70	Intelligent	Enhances her position by helping Joffrey appear and sometimes act less monstrous, benefiting his subjects.
+She flees the Stormlands with Loras after Renly's assassination	Margaery	Stannis / Renly’s former bannermen	70	40	Bandit	Increases her survival and flexibility while abandoning Renly’s cause and contributing to instability.
+She keeps Olenna’s regicide secret, staying silent at Tyrion’s trial	Margaery	Tyrion	60	10	Bandit	Protects House Tyrell and Olenna at the cost of allowing an innocent man to be condemned.
+She quickly moves to entangle Tommen after Joffrey’s death	Margaery	Tommen	75	30	Bandit	Re-secures her path to queenship by targeting a vulnerable, naive boy.
+She manipulates Tommen away from Cersei’s influence	Margaery	Cersei	70	40	Bandit	Improves her own power and arguably Tommen’s environment while intensifying the feud and weakening Cersei.
+She pretends to convert to the Faith to become the High Sparrow’s “disciple”	Margaery	High Sparrow / Faith Militant	35	25	Helpless	Gains short-term leniency but ends trapped in the same power structure that will kill her.
+She passes Olenna a secret Tyrell rose sigil and urges her to leave King’s Landing	Margaery	Olenna	45	80	Intelligent	Sacrifices secrecy to warn Olenna away from impending danger, potentially saving her life.
+She drops her submissive act and openly orders everyone to leave the Sept	Margaery	Everyone in the Great Sept	10	40	Helpless	Attempts mass evacuation based on her insight but fails to save herself or others.
+She repeatedly engages in passive-aggressive barbs with Cersei	Margaery	Cersei	55	35	Bandit	Boosts her own standing and satisfaction while escalating a vendetta that will later destroy her.
+She delivers a scathing “reason you suck” speech to jailed Cersei	Margaery	Cersei	50	20	Bandit	Gains emotional catharsis and assertion of dominance but further provokes a dangerous enemy.
+She gloatingly ensures Cersei overhears how much Tommen enjoys their sex life	Margaery	Cersei	60	15	Bandit	Reinforces her control over Tommen and scores psychological points at Cersei’s expense.
+She runs a constant PR campaign traveling through the city and meeting smallfolk	Margaery	Smallfolk of King’s Landing	85	85	Intelligent	Her popularity and legitimacy soar while people feel seen, receive aid, and gain a more responsive court.
+She uses politeness and charm to win over Joffrey, Tommen, Tywin, and the court	Margaery	Royal court	80	80	Intelligent	Secures political capital while softening court tensions and slightly improving governance.
+She gives up her pious façade and dies as herself, defying the High Sparrow	Margaery	High Sparrow	5	20	Helpless	Reclaiming authenticity brings no survival benefit and does little to avert catastrophe.
+She misjudges Cersei’s willingness to empower the Faith Militant	Margaery	Herself	15	10	Stupid	This strategic error leaves her trapped by a force she helped legitimize and ultimately costs her life.
+She misjudges Cersei’s willingness to destroy the Sept	Margaery	Herself and everyone inside	10	0	Stupid	Failing to anticipate Cersei’s extremity results in her own death and mass casualties.
+She invests heavily in manipulating Tommen rather than governing with him	Margaery	Herself	20	20	Stupid	Her reliance on seduction over education creates a weak ally king and her own strategic ruin.

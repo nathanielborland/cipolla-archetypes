@@ -1,0 +1,41 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Fiona repeatedly takes the bat from Carl as he heads to school	Fiona	Carl	60	65	Intelligent	Protects Carl and others from his potential violence with minimal cost to herself.
+Carl beats up kids who mess with younger family members	Carl	Bullies at school	55	40	Bandit	He protects younger relatives but does so via severe violence that harms others more than it helps overall.
+Carl hides shivs and bladed weapons around the house	Carl	Household members	40	15	Stupid	Gives himself a sense of security but creates serious danger for everyone with little real benefit.
+Carl bullies other kids at his school	Carl	Other school kids	60	10	Bandit	Gains status and satisfaction from intimidation while significantly harming classmates.
+Carl becomes a low-level drug dealer	Carl	Community/Customers	70	10	Bandit	He profits and advances his criminal career at the cost of legal risk and social harm to others.
+Carl willfully goes to juvie by antagonizing the judge to get a "criminal education"	Carl	Himself/legal system	30	20	Stupid	He deliberately gets incarcerated for skills that further criminality, harming himself and society.
+Carl uses Chuckie as a drug mule	Carl	Chuckie	65	5	Bandit	He exploits his young nephew to facilitate drug dealing, heavily endangering Chuckie for Carl’s gain.
+Carl treats Chuckie like a slave and like crap	Carl	Chuckie	55	5	Bandit	He gains labor and a sense of power at substantial emotional and practical cost to Chuckie.
+Carl rejects legal advice and demands to go to juvie	Carl	Himself	20	35	Helpless	He worsens his own legal outcome to gain status/education as a criminal, with minimal benefit to others.
+Carl beats older kids “to a pulp” for calling Liam retarded	Carl	Bullies at school	55	35	Bandit	He defends Liam but uses disproportionate violence that seriously harms the bullies.
+Frank convinces Carl he “caught” cancer to get money	Frank	Carl	75	5	Bandit	Frank gains money via deceiving Carl and inflicting significant emotional harm on him.
+Carl supports Frank longer than the other kids despite Frank’s behavior	Carl	Frank	30	40	Helpless	He invests loyalty and effort in Frank with little payoff while mildly supporting Frank’s interests.
+Carl has his first kiss with Bonnie	Carl	Bonnie	70	70	Intelligent	Both experience mutual affection and positive development with no stated downsides.
+Carl goes to juvie and makes serious criminal connections	Carl	Broader community	65	20	Bandit	He increases his criminal skills and network, benefiting himself while posing greater harm risk to others.
+Carl joins a gang after juvie	Carl	Gang victims/Community	70	15	Bandit	He gains income, protection, and status while contributing to dangerous gang activity.
+Carl prospers in gang life and “rakes in cash”	Carl	Community	80	10	Bandit	He makes substantial money and thrives personally, but supports violent criminal enterprise.
+Carl refuses to work one day and gets beaten by the gang leader	Gang leader	Carl	20	10	Stupid	The leader enforces control by harming a subordinate in a way that doesn’t clearly benefit the gang.
+Carl gets out of gang life by second half of Season 6	Carl	Himself and community	80	70	Intelligent	He abandons a harmful lifestyle, improving his own safety and reducing danger to others.
+Carl is horrified when Nick murders a kid for stealing his bike	Carl	Himself (morality)	60	60	Intelligent	His shock triggers moral growth, benefiting his development and leading him away from greater harm to others.
+Nick murders a kid for stealing Carl’s bike	Nick	Bike thief	70	0	Bandit	He reasserts dominance and protects image/property by killing, gravely harming another with no commensurate necessity.
+Carl tries to kill Patrick as a “viable option”	Carl	Patrick	20	10	Stupid	He contemplates lethal violence that would bring huge risk to himself without clear gain.
+Carl kidnaps dogs to sell for drug money to “save Frank”	Carl	Dog owners	45	15	Stupid	He risks criminal consequences and harms others’ pets/property for a dubious plan that fails.
+After dog scheme fails, Carl steals drugs for money to save Frank	Carl	Drug owners	45	20	Bandit	He acquires valuable drugs at others’ expense, risking serious legal trouble for himself.
+Carl cripples Frank to get insurance money for Frank’s surgery	Carl	Frank	40	45	Helpless	He severely injures Frank to access funds for life-saving treatment, sacrificing both of their well-being for partial benefit.
+Carl quits thug life and decides to become a cop	Carl	Community	85	75	Intelligent	He pivots to a lawful, prosocial role that improves his prospects and public safety.
+Carl goes to military school	Carl	Himself	75	70	Intelligent	He gains discipline and structure, which benefits his own future and indirectly reduces his criminal risk to others.
+Carl returns from military school as a mature, dependable adult	Carl	Family/Community	85	80	Intelligent	His personal growth improves his life and makes him a more reliable positive force for others.
+Carl becomes a police officer	Carl	Public/Community	85	70	Intelligent	He secures stable employment and, despite imperfections, largely serves civil order.
+Carl takes pity on poor car owners by sparing them tickets	Carl	Poor car owners	60	80	Intelligent	He forgoes some citation metrics or revenue for himself/department to substantially help vulnerable people.
+Carl “vigilantly” tickets anyone with an expensive car	Carl	Owners of expensive cars	65	40	Bandit	He exercises power and perhaps bias against wealthier drivers, modestly benefiting himself/state while selectively harming others.
+Carl donates sperm that impregnates an older woman with six kids	Carl	Older woman and resulting children	55	35	Helpless	He gains minor benefit but creates large long-term obligations and strain for her and the new children.
+Carl impregnates a girl from one unprotected encounter	Carl	Girl	50	40	Helpless	He gets fleeting pleasure but creates major potential burdens for himself and especially the girl.
+Carl graduates high school despite prior issues	Carl	Himself	80	70	Intelligent	He meaningfully improves his future and models success within his context.
+Carl stops acting like a gangbanger and gets a dishwasher job	Carl	Employer/Community	75	70	Intelligent	He replaces criminal income with honest work, helping himself and reducing harm to others.
+Carl undoes his cornrows to signal change	Carl	Social perception	60	55	Intelligent	He aids his reintegration and trust-building with negligible downside.
+Dom’s father initially refuses to accept Carl despite reform	Dominique’s father	Carl	50	40	Helpless	He protects his daughter in his view but undermines a reformed teen, slightly harming both potential relationship and Carl.
+Dom’s father later bonds with Carl after seeing Dom’s behavior	Dominique’s father	Carl	70	70	Intelligent	He recognizes Carl’s growth, improving both their relationship and support for Dom.
+Carl attempts to be a heroic cop but is disillusioned by corruption/laziness/zeal in force	Carl	Himself	40	50	Helpless	His ideals clash with systemic flaws, hurting his motivation while his intent remains beneficial.
+Frank gets Carl and Chuckie arrested in the drug scheme	Frank	Carl and Chuckie	55	10	Bandit	Frank avoids full blame and furthers his ends by sacrificing the boys’ freedom and records.
+Fiona takes the family weapon from Carl explicitly as a running gag	Fiona	Household safety	60	70	Intelligent	Regularly disarming him reduces risk of violent incidents while costing her little.

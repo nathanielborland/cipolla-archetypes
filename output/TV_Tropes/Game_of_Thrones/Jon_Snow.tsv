@@ -1,0 +1,77 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Jon continuously wears coat-of-plate armor after resurrection	Jon Snow	Jon Snow	70	60	Intelligent	Staying armored reduces his risk of being stabbed again with minimal cost to others.
+Jon teaches fellow Night’s Watch recruits how to fight better	Jon Snow	Night’s Watch recruits	65	85	Intelligent	He gains their loyalty and competence while greatly improving their survival chances.
+Jon leads the raid on the mutineers at Craster’s Keep	Jon Snow	Mutineers at Craster’s Keep	70	80	Intelligent	He removes a lethal internal threat and restores order, benefiting himself and the Watch.
+Jon takes temporary command during the Battle of Castle Black and leads a sortie	Jon Snow	Night’s Watch and attacking wildlings	60	75	Intelligent	His leadership and combat skill help win the battle and enhance his standing.
+Jon kills the Magnar of Thenn in combat	Jon Snow	Magnar of Thenn	65	70	Intelligent	Eliminating a dangerous enemy leader aids the defense and bolsters his reputation.
+Jon forges alliance with Free Folk by leading Hardhome evacuation	Jon Snow	Free Folk and the living	40	90	Intelligent	He risks mutiny and later pays for it, but massively reduces enemy wight numbers and saves thousands.
+Jon’s prowess at Battle of the Bastards leads Northern lords to crown him King in the North	Jon Snow	Northern lords	80	75	Intelligent	His battlefield feats give him a crown and provide the North a unifying war leader.
+Melisandre resurrects Jon	Melisandre	Jon Snow	30	80	Intelligent	He’s dragged back from peace of death but becomes crucial to saving the living.
+Lord Commander Mormont appoints Jon as his steward to groom him for command	Jeor Mormont	Jon Snow	70	80	Intelligent	Mentoring Jon secures a talented future leader, strengthening both Jon and the Watch.
+Jon chooses to return to the Night’s Watch after time with the wildlings	Jon Snow	Night’s Watch	40	60	Helpless	He abandons a life and love with Ygritte to resume a burdensome duty that does aid the Watch.
+Jon allows Free Folk through the Wall against factional opposition	Jon Snow	Free Folk and realm	20	85	Intelligent	He greatly benefits humanity’s chances against the dead at heavy personal cost, including his murder.
+Night’s Watch mutineers kill Jon for letting wildlings through	Night’s Watch mutineers	Jon Snow	10	10	Stupid	They remove their best leader and defender based on ignorance, worsening survival odds for all.
+Jon hangs the Watch mutineers, including Olly	Jon Snow	Night’s Watch mutineers	55	55	Intelligent	He enforces discipline and justice, though it burdens him emotionally and slightly shrinks manpower.
+Jon leaves the Night’s Watch after resurrection	Jon Snow	Night’s Watch	55	60	Intelligent	He escapes a toxic command and later aids the living more broadly while the Watch survives under Edd.
+Jon tries to employ Janos Slynt by giving him a castle command	Jon Snow	Janos Slynt	60	70	Intelligent	He attempts to convert a political enemy into a useful officer, which could have benefited both sides.
+Janos Slynt repeatedly refuses orders and insults Jon	Janos Slynt	Jon Snow	20	25	Stupid	He torpedoes his own position and gets executed while offering nothing of value to the Watch.
+Jon beheads Janos Slynt for insubordination	Jon Snow	Night’s Watch	65	60	Intelligent	Swift punishment deters future mutiny and solidifies his authority despite loss of one experienced man.
+Ramsay murders Rickon in front of Jon to provoke him	Ramsay Bolton	Jon Snow	30	0	Bandit	He destroys a hostage to destabilize Jon emotionally and gain a battlefield edge.
+Jon charges alone at the Bolton army after Rickon’s death	Jon Snow	Jon Snow’s army	10	10	Stupid	His uncontrolled charge ruins the battle plan and nearly destroys his own forces.
+Sansa secretly brings the Knights of the Vale to the Battle of the Bastards	Sansa Stark	Jon Snow’s forces	75	90	Intelligent	Her hidden alliance saves Jon’s army from annihilation and secures victory.
+Jon brutally beats Ramsay with his fists after defeating him	Jon Snow	Ramsay Bolton	55	40	Bandit	He indulges personal vengeance with little strategic gain, though Ramsay’s removal still helps others.
+Jon yields Ramsay’s final fate to Sansa	Jon Snow	Sansa Stark	70	75	Intelligent	He forgoes his own revenge claim to empower Sansa and preserve Stark unity.
+Sansa feeds Ramsay to his own starving dogs	Sansa Stark	Ramsay Bolton	75	80	Intelligent	Removing an exceptionally sadistic enemy secures the North and avenges multiple victims.
+Jon threatens to kill Littlefinger if he touches Sansa	Jon Snow	Littlefinger	60	65	Intelligent	The warning protects Sansa and deters Littlefinger with minimal risk to Jon.
+Jon refuses Stannis’s offer to legitimize him as Jon Stark	Jon Snow	House Stark and the Watch	40	70	Intelligent	He sacrifices a lifelong dream to preserve his oath and avoid plunging the Watch into politics.
+Jon chooses not to execute the Karstark and Umber heirs for their families’ treason	Jon Snow	Karstark and Umber children	65	80	Intelligent	Sparing innocent heirs preserves future loyalty and manpower while reinforcing just rule.
+Umbers side with the Boltons and hand Rickon to Ramsay	House Umber	Rickon Stark and the North	20	10	Bandit	They gain short-term protection by empowering Ramsay, worsening things for the North and Rickon.
+Jon joins Qhorin’s ranging and kills Qhorin to pose as defector	Jon Snow	Qhorin Halfhand	45	70	Intelligent	He loses a mentor but gains deep cover among the wildlings, critical to later alliances.
+Jon refuses to kill an old man to prove loyalty to wildlings	Jon Snow	Old man	40	40	Helpless	He preserves personal honor but blows his cover, nearly wastes Qhorin’s sacrifice, and gains little else.
+Orell’s eagle savages Jon’s face after Jon kills Orell	Orell (warged eagle)	Jon Snow	20	30	Stupid	The post‑mortem attack injures Jon without changing the outcome of the fight.
+Jon protects Sam from bullies among Night’s Watch recruits	Jon Snow	Samwell Tarly	65	80	Intelligent	He risks some friction to shield Sam, who becomes vital for knowledge and morale.
+Jeor Mormont gifts Longclaw to Jon as ancestral sword	Jeor Mormont	Jon Snow	70	75	Intelligent	Rewarding Jon boosts his status and arms a key defender with Valyrian steel.
+Jon insists on defending Sam long-term despite risk	Jon Snow	Samwell Tarly	60	80	Intelligent	He invests in a vulnerable but valuable ally who later saves lives and supplies crucial information.
+Wildlings test Jon by demanding he kill an old man	Wildlings	Jon Snow	40	45	Helpless	They probe his loyalty but risk losing a useful recruit; the act backfires when he turns on them.
+Jon goes on a suicide mission to assassinate Mance after Ygritte’s death	Jon Snow	Mance Rayder	25	35	Helpless	He risks his life in grief with low success odds, though stopping Mance might help the Watch.
+Jon mercy-kills Mance with an arrow on the pyre	Jon Snow	Mance Rayder	55	70	Intelligent	He ends Mance’s agony and limits Stannis’s spectacle while only slightly angering Stannis.
+Jon refuses Melisandre’s sexual advances	Jon Snow	Melisandre	55	50	Helpless	He maintains fidelity to Ygritte’s memory but passes on potential political or magical advantage.
+Jon declines Melisandre’s offer to resurrect him again if he dies	Jon Snow	Jon Snow	45	50	Helpless	He protects his desire for a final death at the cost of reducing future chances to help others.
+Jon threatens Littlefinger in the crypts, choking him	Jon Snow	Littlefinger	60	60	Intelligent	The show of force deters a manipulator without major downside.
+Jon chooses to retake Winterfell after Ramsay’s letter threatens Sansa and Rickon	Jon Snow	House Stark and North	50	80	Intelligent	He re‑enters war out of duty, risking his life but offering the North liberation.
+Jon rejects Stannis’s counsel to send Alliser Thorne away from Castle Black	Jon Snow	Night’s Watch	20	30	Stupid	Keeping Thorne nearby enables the later mutiny that kills Jon and destabilizes the Watch.
+Night’s Watch brothers murder Jon for his wildling policy (each stab)	Night’s Watch conspirators	Night’s Watch and realm	10	5	Stupid	Their act removes their best protector and weakens defenses against the dead.
+Jon accepts election as Lord Commander	Jon Snow	Night’s Watch	60	70	Intelligent	He takes heavy burdens but gains authority to prepare the Watch against real threats.
+Jon bends the knee to Daenerys, surrendering the Northern crown	Jon Snow	Daenerys Targaryen and the North	45	75	Helpless	He sacrifices his kingship to secure dragons and armies that are critical to saving the living.
+Northern lords abandon Winterfell after learning Jon bent the knee	Northern houses	Jon’s coalition	25	30	Stupid	They weaken the joint defense against the dead out of political pique.
+Jon captures a wight beyond the Wall to convince Cersei	Jon Snow	Alliance against the dead	20	45	Helpless	He nearly dies and loses a dragon indirectly; proof marginally helps but doesn’t secure real aid.
+Daenerys flies north and loses Viserion rescuing Jon’s team	Daenerys Targaryen	Daenerys’s forces	25	40	Helpless	Her rescue preserves key heroes but hands the Night King a dragon and Wall-breaking weapon.
+Jon returns Longclaw to Jorah, who declines it	Jon Snow	Jorah Mormont	55	60	Intelligent	The gesture honors Jorah and strengthens trust while Jon keeps a vital weapon.
+Jon refuses to lie to Cersei about bending the knee	Jon Snow	Alliance negotiations	35	55	Helpless	His honesty preserves integrity but undermines trust, provoking Cersei’s false pledge and later betrayal.
+Cersei feigns joining the fight against the dead but withholds her forces	Cersei Lannister	Alliance against the dead	40	10	Bandit	She saves her own strength while nearly dooming the North to face the dead alone.
+Jon rides Rhaegal into battle against the White Walkers	Jon Snow	Defenders of Winterfell	55	65	Intelligent	Dragon-riding improves his mobility and threat projection with manageable personal risk.
+Jon refuses to be baited into a direct duel with the Night King at Winterfell	Jon Snow	Night King	45	60	Intelligent	He survives to keep fighting, even though he fails to reach Bran; Arya ultimately finishes the job.
+Jon tries to reach Bran during the Battle of Winterfell	Jon Snow	Bran Stark	40	70	Helpless	He exposes himself to extreme danger with slim odds, but his intent is to end the threat for all.
+Arya kills the Night King	Arya Stark	White Walkers and wights	85	100	Intelligent	Her strike annihilates the undead army and saves the living with little direct cost to herself.
+Jon keeps his true parentage secret at first after Sam tells him	Jon Snow	Seven Kingdoms polity	55	60	Intelligent	Concealment limits immediate political chaos while he processes the revelation.
+Jon reveals his Targaryen identity to Sansa and Arya	Jon Snow	Sansa and Arya	40	55	Helpless	Sharing the truth preserves trust but sparks political instability once the secret spreads.
+Sansa tells Tyrion about Jon’s true parentage	Sansa Stark	Daenerys-Jon alliance	35	40	Stupid	She weakens Daenerys’s position and destabilizes Jon’s relationship without a clear constructive plan.
+Tyrion tells Varys of Jon’s claim, prompting Varys’s plotting	Tyrion Lannister	Daenerys Targaryen	35	45	Helpless	He attempts to check Dany’s excesses but helps fracture her regime at a critical time.
+Jon tries and fails to dissuade Daenerys from further destruction in King’s Landing	Jon Snow	Daenerys Targaryen	40	55	Helpless	He preserves his moral stance but cannot avert her planned future atrocities.
+Daenerys burns King’s Landing after it surrenders	Daenerys Targaryen	Inhabitants of King’s Landing	30	0	Bandit	She secures power through terror while inflicting massive civilian slaughter.
+Tyrion convinces Jon that Daenerys must be stopped for his sisters’ safety	Tyrion Lannister	Jon Snow	55	70	Intelligent	He pushes Jon toward a painful act that likely prevents further massacres and protects Stark family.
+Jon kisses Daenerys and stabs her to end her campaign	Jon Snow	Daenerys Targaryen	20	80	Helpless	He destroys his own happiness and freedom to spare Westeros from her escalating tyranny.
+Jon cradles Daenerys’s body after killing her	Jon Snow	Jon Snow	30	55	Helpless	He gains no benefit and only deepens his emotional trauma, though his grief underscores sincerity to onlookers.
+Drogon melts the Iron Throne and flies away with Daenerys’s body	Drogon	Iron Throne and realm	60	70	Intelligent	Destroying the throne removes a key symbol fueling destructive power struggles.
+The new council exiles Jon back to the Night’s Watch for killing Daenerys	Council of lords	Jon Snow	35	60	Helpless	They avoid civil war by sacrificing Jon’s freedom, mildly stabilizing the realm at his expense.
+Jon accepts exile and returns to the Night’s Watch	Jon Snow	Seven Kingdoms	45	65	Intelligent	He trades personal desires for political compromise that prevents further bloodshed.
+Jon leaves the Watch in practice and goes north with the Free Folk	Jon Snow	Free Folk	70	75	Intelligent	He abandons southern politics for a life where he’s accepted, while helping the Free Folk rebuild.
+Jon years earlier voluntarily joined the Night’s Watch out of eagerness	Jon Snow	Jon Snow	40	65	Helpless	He gains purpose and training but gives up lands and normal life partly from naïve idealism.
+Ned raises Jon as his bastard son to hide his Targaryen heritage	Ned Stark	Jon Snow	60	85	Intelligent	He sacrifices his own honor and Catelyn’s peace to keep Jon alive from Robert’s wrath.
+Ned lies to Jon about his parentage for Jon’s whole life	Ned Stark	Jon Snow	45	70	Helpless	The lie protects Jon physically but causes long-term identity pain and betrayal when revealed.
+Robert’s hostility to Targaryens implicitly forces Ned to hide Jon	Robert Baratheon	Jon Snow	40	20	Bandit	Robert’s vendetta makes the realm less stable and forces a hidden heir into a life of exile and lies.
+Jon gives Arya the sword Needle before leaving for the Wall	Jon Snow	Arya Stark	70	80	Intelligent	He strengthens Arya’s self-defense and identity, which later proves invaluable for survival and heroism.
+Jon gifts Longclaw wolf-headed pommel, accepting Mormont’s house blade	Jon Snow	House Stark identity	65	70	Intelligent	He ties a key Valyrian steel weapon symbolically to his wolf heritage, reinforcing his role.
+Jon burns Ygritte’s body and grieves	Jon Snow	Jon Snow	25	50	Helpless	He gains closure but is emotionally wrecked; it doesn’t change external outcomes.
+Tyrion talks Jon out of his “no good deed goes unpunished” despair and back into action	Ser Davos/Tyrion (combined influence)	Jon Snow	70	80	Intelligent	Their counsel returns a critical hero to the fight, benefiting both him and humanity.
+Jon threatens to kill Littlefinger if he ever touches Sansa again (repeated)	Jon Snow	Littlefinger	60	65	Intelligent	The explicit death threat reinforces prior warning and helps protect Sansa from further manipulation.

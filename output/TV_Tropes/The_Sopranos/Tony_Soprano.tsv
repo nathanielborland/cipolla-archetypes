@@ -1,0 +1,81 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Tony’s parents routinely prioritize their own needs over their children	Tony’s parents	Tony and siblings	70	5	Bandit	They gain emotional gratification and autonomy while seriously damaging their children’s long‑term mental health.
+Livia regularly subjects the children to physical and emotional abuse	Livia	Tony and siblings	60	0	Bandit	She vents control and rage at the kids, leaving them scarred, with no benefit to them.
+Tony’s father is indifferent to his children’s emotional well-being	Tony’s father	Tony and siblings	65	10	Bandit	His neglect preserves his freedom and comfort while harming his children’s development.
+Tony is emotionally and verbally abusive toward A.J. and Meadow	Tony	A.J. and Meadow	30	15	Stupid	His outbursts damage his kids and also poison his own relationships and household.
+Tony threatens physical violence and intimidates his children	Tony	A.J. and Meadow	25	10	Stupid	Threats may gain short-term compliance but worsen fear, alienation, and his own family stability.
+Tony forgets his “focus on the good times” advice and scolds A.J. for recalling it	Tony	A.J.	35	20	Stupid	He undercuts his own earlier wisdom, belittles his son, and gets no real benefit in return.
+Tony kills Big Pussy and the stress contributes to his meaner, more aggressive behavior	Tony	Big Pussy / his circle	40	20	Stupid	Gaining short-term security as boss fuels guilt and psychological decline that harms him and everyone around him.
+Tony engages in age-gap romances with his goomahs	Tony	Younger mistresses	65	30	Bandit	He gains sexual gratification and ego boosts while exploiting power and maturity imbalances.
+Tony starts seeing a therapist to deal with panic attacks	Tony	Tony	55	40	Intelligent	Panic attacks cease and he gets tools and insight, though he misuses therapy and never reforms morally.
+Tony increasingly uses therapy to become more manipulative rather than better	Tony	People he manipulates	60	15	Bandit	He gains psychological leverage and coping while others face a more dangerous, cunning Tony.
+Tony’s therapist permanently cuts him off as a patient	Tony’s therapist	Tony	40	65	Intelligent	She loses a client but stops enabling him, reducing complicity and future harm.
+Tony insults his therapist and pretends ending therapy was his choice	Tony	Tony’s therapist	35	25	Stupid	He protects ego but loses a last chance at help and further alienates someone who understood him.
+Tony grooms Christopher to be his successor	Tony	Christopher	55	30	Bandit	He gains a loyal proxy while deepening Christopher’s entanglement in a deadly world.
+Tony kills Christopher after concluding he’s a liability	Tony	Christopher	50	10	Bandit	He removes a dangerous subordinate and feels relief while devastating others and erasing any remaining “family” bond.
+Tony rises from capo to boss and tries to expand and maintain the family	Tony	DiMeo crime family	45	20	Stupid	His leadership grants power and wealth but accelerates war, informants, and institutional collapse.
+Tony’s decisions deteriorate relations with the Lupertazzis into mob war	Tony	DiMeo & Lupertazzi families	30	15	Stupid	His ego and miscalculations cripple his own family and destabilize business for everyone.
+Tony takes pains to keep his wife and children separate from his criminal life	Tony	Carmela, Meadow, A.J.	45	35	Helpless	He wants their protection but his refusal to go straight ensures they’re morally and psychologically contaminated anyway.
+Tony refuses to abandon crime despite wanting his family “clean”	Tony	Tony’s family	35	10	Stupid	He clings to power and wealth at the cost of dooming the very separation he claims to value.
+Tony threatens to kill Christopher over Adriana’s dead dog	Tony	Christopher	40	20	Stupid	He indulges rage for an animal he cared about, further terrorizing and destabilizing his key lieutenant.
+Tony invests in and emotionally bonds with racehorse Pie-O-My	Tony	Pie-O-My	60	55	Intelligent	He gains pleasure, status, and a relatively innocent affection that doesn’t directly hurt others.
+Tony reads about dinosaurs in the hospital and engages with a physicist’s views on life	Tony	Tony	55	55	Intelligent	He expands his intellectual horizon and finds non-criminal sources of meaning without obvious harm.
+Tony robs Feech La Manna’s card game as a young man	Tony	Feech / players	70	15	Bandit	He and his crew gain money and reputation while harming a made man’s business and trust network.
+Tony returns some money to players in the Feech robbery	Tony	Robbed players	60	40	Bandit	He reduces blowback and shows selective leniency but keeps much of the illicit gain.
+Tony forgives his uncle Junior’s earlier plot to kill him as “business”	Tony	Junior	45	40	Intelligent	Forgiveness reduces vendetta risk and eases family tension, even if partly self-justifying.
+Tony blows up Artie’s restaurant to prevent Junior using it for a hit	Tony	Artie	25	30	Helpless	He protects Artie from mob stigma but ruins his friend’s livelihood and their relationship.
+Tony brutalizes HMO debtor Alex Mahaffey for nonpayment and “denigration”	Tony	Mahaffey	75	10	Bandit	He enforces his loan business and reputation while inflicting excessive, disproportional harm.
+Tony forces Mahaffey into an insurance-fraud scheme to settle debts	Tony	Mahaffey’s HMO	80	10	Bandit	He secures repayment and extra profit via fraud, harming institutional integrity and risk pools.
+Tony decides not to give up his cousin Tony B. to Phil Leotardo	Tony	Phil / DiMeo family	40	20	Stupid	He preserves personal loyalty and pride while worsening war risks for himself and his crew.
+Tony hunts down and beats the Russian who attacked Janice	Tony	Russian attacker	65	55	Intelligent	He asserts deterrence and protects his sister, with harm aimed squarely at a prior aggressor.
+Tony refuses to let Livia move in with Barbara’s family	Tony	Barbara	55	70	Intelligent	He shields his younger sister from Livia’s toxicity at the cost of taking the burden elsewhere.
+Tony starts therapy and honestly explores his panic attacks	Tony	Tony’s close circle	60	55	Intelligent	Better functioning and fewer collapses benefit him and those who depend on his stability.
+Tony gradually retools therapy insights into better manipulation	Tony	Tony’s victims	65	20	Bandit	He upgrades his capacity to exploit others under veneer of self-knowledge.
+Tony chooses to maintain the mob life over honest work after trying legit consulting	Tony	Tony	55	30	Bandit	He preserves money and status but locks himself into a path that later destroys his prospects.
+Tony refuses to let Vito remain in the life openly after he’s outed as gay	Tony	Vito	40	20	Bandit	He protects his standing with old-school mobsters but helps seal Vito’s deadly fate.
+Tony beats Coco nearly to death for sexually harassing Meadow	Tony	Coco	55	40	Helpless	He powerfully defends his daughter but triggers escalation that worsens the war with Phil.
+Tony dismisses and belittles AJ’s depression and crying	Tony	A.J.	30	15	Stupid	His contempt harms AJ’s mental health and undermines any future bond with his son.
+Tony rescues AJ from his suicide attempt in the pool	Tony	A.J.	70	90	Intelligent	He saves his son’s life and shows genuine paternal care with virtually no downside.
+Tony uses his influence to get AJ a job at Little Carmine’s company	Tony	A.J.	65	45	Bandit	He gives AJ income and structure but keeps him in mob-adjacent dependency instead of real independence.
+Tony pressures Christopher into sobriety while repeatedly undermining it	Tony	Christopher	35	20	Stupid	He wants a functional lieutenant but sabotages recovery, making Chris even more unstable for everyone.
+Tony murders Ralph Cifaretto after the Pie-O-My fire and insults	Tony	Ralph	45	10	Bandit	He gains emotional catharsis and removes a rival earner but weakens his own revenue base.
+Tony uses loansharking to strip Davey Scatino’s assets	Tony	Davey Scatino	80	5	Bandit	He profits heavily while driving a childhood friend into bankruptcy and breakdown.
+Tony justifies exploiting Davey by likening himself to the scorpion in the fable	Tony	Davey Scatino	70	20	Bandit	He preserves self-image and business while rationalizing extreme harm to a vulnerable debtor.
+Tony gives Eric Scatino’s car to Meadow after seizing it for debt	Tony	Eric / Meadow	60	25	Bandit	He pleases his daughter with a car obtained by deepening another family’s ruin.
+Tony secretly burns Vesuvio to save Artie from a murder stigma	Tony	Artie / Vesuvio	30	35	Helpless	His intention is to protect Artie’s future trade, but the act devastates Artie and their friendship.
+Tony orders Jackie Jr. executed after his botched heist	Tony	Jackie Jr.	50	10	Bandit	He removes a destabilizing screwup and reinforces discipline, at terrible cost to Jackie and those close to him.
+Tony protects Adriana’s health concerns and comforts her about IBS	Tony	Adriana	60	70	Intelligent	He offers empathy and validation that help her cope, without obvious self‑gain.
+Tony orders Adriana’s murder after learning she’s an informant	Tony	Adriana	55	10	Bandit	He shields himself and the family from exposure at the price of killing a vulnerable, remorseful insider.
+Tony defends Officer Wilmore’s job only weakly, then lets him be crushed by the system	Tony	Officer Wilmore	40	20	Stupid	He assuages his guilt briefly but ultimately allows further harm without real benefit.
+Tony later tries to buy off Officer Wilmore with a large tip	Tony	Officer Wilmore	35	25	Stupid	He soothes his conscience symbolically while insulting the officer’s integrity and gaining nothing.
+Tony sabotages Janice’s progress in anger management by taunting her about Harpo	Tony	Janice	45	15	Stupid	He gets petty satisfaction but drags his sister back into dysfunction that also harms the family.
+Tony forces Bobby to commit his first murder to punish him for winning their fight	Tony	Bobby	40	15	Stupid	He reasserts dominance but needlessly corrupts a relatively clean subordinate and risks Bobby’s psyche.
+Tony gets into a physical fight with Bobby after provoking him about Janice	Tony	Bobby	25	20	Stupid	He satisfies wounded pride, gets badly beaten, and destabilizes his own inner circle.
+Tony declines to allow Richie to sell cocaine along trash routes	Tony	DiMeo family	65	70	Intelligent	He sacrifices some potential profit to reduce law‑enforcement risk and protect the core business.
+Tony makes Vito’s son attend a harsh military school instead of funding a move	Tony	Vito Jr.	45	20	Stupid	He chooses a cheaper, punitive option, worsening the boy’s trauma without solving the stigma problem.
+Tony bets and loses the money he had collected to help Vito’s family	Tony	Vito’s family	20	10	Stupid	His gambling undermines even pragmatic charity and further entangles him in debt and resentment.
+Tony considers having Hesh killed to avoid repaying a gambling debt	Tony	Hesh	30	15	Stupid	He preserves short-term liquidity while catastrophically threatening a key long‑time ally.
+Tony repays Hesh only after Renata’s death and in the most insensitive way possible	Tony	Hesh	25	20	Stupid	He keeps his life and clears the debt, but kills the friendship and any future goodwill.
+Tony extracts a usurious loan from Hesh and drags the repayment out	Tony	Hesh	60	25	Bandit	He gets emergency cash and flexibility while imposing stress and alienating a trusted adviser.
+Tony brutalizes Zellman with a belt for dating his ex-mistress	Tony	Zellman	40	20	Stupid	He vents jealousy and dominance but wrecks a useful political contact and shows no clear gain.
+Tony breaks up with Valentina right after her severe burn accident	Tony	Valentina	35	20	Stupid	He preserves his freedom but callously abandons a wounded partner, damaging his own already-poor support network.
+Tony angrily refuses Carmela’s divorce by tainting every local lawyer	Tony	Carmela	60	20	Bandit	He keeps assets and marriage structure under his control while trapping Carmela and deepening her dependence.
+Tony buys Carmela’s engagement ring legitimately	Tony	Carmela	55	80	Intelligent	He forgoes stolen goods to give her something cleanly acquired, a rare unquestionable benefit for her.
+Tony confronts the soccer coach who slept with Meadow’s friend	Tony	Soccer coach	65	65	Intelligent	He uses intimidation in defense of exploited minors, with limited collateral damage shown.
+Tony personally curbstomps the Lupertazzi mobster who harassed Meadow	Tony	Lupertazzi soldier	55	45	Helpless	He correctly protects his daughter but triggers serious political fallout that endangers his side.
+Tony promotes Benny to soldier after Phil’s assault	Tony	Benny	65	55	Intelligent	He rewards loyalty, restores morale, and gives Benny status and protection.
+Tony arranges for Pussy’s execution after confirming he’s an informant	Tony	Pussy	55	10	Bandit	He plugs a dangerous leak, securing his own safety at the cost of murdering a close friend.
+Tony roughs up Artie and manipulates him into silence after Artie’s suicide attempt	Tony	Artie	35	15	Stupid	He saves his reputation but further crushes Artie and corrodes one of his few real friendships.
+Tony repeatedly beats up Georgie the bartender for minor mistakes	Tony	Georgie	30	10	Stupid	He vents frustration but demoralizes and injures a loyal, low‑value target who can barely fight back.
+Tony uses Patsy to confirm Jack Massarone is an informant, then has him killed	Tony	Jack Massarone	55	15	Bandit	He removes an active threat to his freedom at the expense of an associate who had once been trusted.
+Tony begins a sexual attempt with Adriana, then pulls back due to outside interruption	Tony	Adriana	50	20	Bandit	He gratifies his ego and risks destroying his nephew’s engagement, with no lasting gain once it’s stopped.
+Tony lies to Christopher and stonewalls about the car accident with Adriana	Tony	Christopher	40	20	Stupid	His evasiveness heightens Chris’s paranoia and damages trust without solving the underlying jealousy.
+Tony arranges Christopher’s fiancée Adriana’s murder instead of testing other options	Tony	Adriana	55	10	Bandit	He prioritizes secrecy and control over any chance of leniency or exit for her.
+Tony uses his “soldiers don’t go to hell” speech to rationalize killing	Tony	Himself / Melfi	55	20	Bandit	He gains psychological comfort and continued license to act while entrenching a worldview that harms others.
+Tony goes to Las Vegas after killing Chris, gambles, and takes peyote to “celebrate”	Tony	Tony	45	15	Stupid	He numbs guilt and reinforces nihilism, deepening his own psychological degradation.
+Tony sends the Quebec civilian drummer to be murdered over a pharma discount	Tony	Drummer	60	5	Bandit	He gains profit and leverage from the deal while killing an uninvolved civilian.
+Tony uses terror and extortion to keep underlings’ earnings flowing to him	Tony	His crew	70	20	Bandit	He enriches himself while generating fear, resentment, and eventual betrayal among his men.
+Tony repeatedly belittles Carmela’s dependence and emotions while maintaining her financial reliance	Tony	Carmela	55	15	Bandit	He keeps control over assets and household while eroding her autonomy and well‑being.
+Tony protects Junior from some consequences (e.g., cancer, decline), then abandons him emotionally after the shooting	Tony	Junior	40	35	Helpless	He oscillates between dutiful and rejecting, ending with mutual emotional loss for limited gain.
+Tony exploits his intelligence in war (using Art of War tactics) to win specific conflicts	Tony	Rival mobs	70	30	Bandit	He survives and wins tactical clashes while prolonging and sharpening overall violent competition.
+Tony uses his charm to recruit and maintain informants and allies (e.g., Agent Harris help)	Tony	Allies and informants	65	40	Intelligent	He secures critical survival help in ways that mostly trade on voluntary cooperation.

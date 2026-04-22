@@ -1,0 +1,54 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Jorah sells slaves to satisfy his wife's tastes	Jorah	His wife	20	10	Bandit	He gains short‑term approval/comfort for them at the cost of honor, lawbreaking, and long‑term ruin for himself and the poachers.
+Eddard Stark discovers Jorah’s crimes, leading to Jorah’s exile	Eddard Stark	Jorah	60	70	Intelligent	By enforcing the law he harms Jorah but upholds Westerosi norms and justice overall.
+Jorah’s wife abandons him after his exile	Jorah’s wife	Jorah	55	5	Bandit	She avoids sharing hardship and saves herself, but gives no sign of bettering anyone else’s lot.
+Jorah becomes a sellsword with the Golden Company after exile	Jorah	Employers / himself	55	40	Intelligent	He converts his skills into income and survival with no indicated harm to others.
+Jorah serves as Varys’s informant on Daenerys and Viserys to gain a royal pardon	Jorah	Daenerys & Viserys	40	20	Bandit	He advances toward a pardon while endangering those he’s sworn to protect.
+Jorah chooses to remain with Daenerys even after being pardoned by King Robert	Jorah	Daenerys	75	80	Intelligent	He sacrifices a safe return home to continue loyally aiding Dany’s cause.
+Jorah defends Daenerys’s life on several occasions	Jorah	Daenerys	80	90	Intelligent	He repeatedly risks himself to keep her alive and further her goals.
+Jorah gradually becomes a key ally in Daenerys’s plan to retake Westeros	Jorah	Daenerys & her followers	75	85	Intelligent	His counsel and arms strongly support her political and military project.
+Jorah counsels Daenerys to take a more pragmatic, less moral approach to conquest	Jorah	Daenerys	60	35	Bandit	He secures influence and perhaps success at the probable expense of moral costs to others.
+Jorah fights unarmored foes while armored and uses his armor strategically against Qotho	Jorah	Enemy combatants	65	45	Bandit	He increases his survival and victory odds while giving opponents no quarter.
+Jorah beats an opponent in the fighting pits by removing the opponent’s helmet and using it as a weapon	Jorah	Opponent	60	40	Bandit	He preserves his own life and chances with rough, one‑sided tactics in a lethal arena.
+Jorah gets jealous of men who help Daenerys and pushes her to distrust them	Jorah	Daenerys & rivals	35	25	Stupid	His possessiveness undercuts her alliances without yielding him romantic success.
+Jorah tends to find faults in everyone Daenerys meets	Jorah	Daenerys’s potential allies	40	30	Stupid	His negativity offers him no real gain while impeding her ability to form bonds.
+Jorah sells poachers into slavery	Jorah	Poachers	30	10	Bandit	He gains money and funds his lifestyle at severe cost to their freedom and his future.
+Jorah gets captured by slavers after previously selling slaves	Jorah	Jorah	10	20	Helpless	His earlier choices circle back to harm him, with no clear benefit to others.
+Jorah punches Tyrion for mocking his desperate plan	Jorah	Tyrion	30	30	Stupid	He vents frustration, risks worsening cooperation, and gains no strategic advantage.
+Jorah begins counseling Daenerys after exile in a way that ignores morality	Jorah	Daenerys’s future victims	50	30	Bandit	He retains influence and proximity while steering policy toward expedience over justice.
+Jorah kidnaps Tyrion intending to present him to Daenerys to regain favor	Jorah	Tyrion	30	25	Bandit	He hopes for reinstatement at the cost of Tyrion’s freedom and likely life.
+Jorah drags Tyrion through Valyria despite dangers	Jorah	Tyrion	35	30	Bandit	He pushes forward a dubious plan, risking both lives for a shot at personal redemption.
+Jorah continues toward Meereen after contracting greyscale	Jorah	Himself & Tyrion	40	35	Helpless	He perseveres for Dany but worsens his own prognosis and keeps Tyrion endangered.
+Jorah endures enslavement and fighting pits to reach Daenerys again	Jorah	Himself	45	55	Helpless	He repeatedly risks death and degradation mainly to give Dany another useful ally.
+Jorah punches out his master when not chosen to be presented to Daenerys	Jorah	Slave master	45	30	Bandit	He harms an abuser and forces his way toward the queen to pursue his own goal.
+Jorah wins the tournament in the fighting pits to get before Daenerys	Jorah	Other fighters	55	45	Bandit	He increases his status and access at the mortal expense of rival combatants.
+Jorah succeeds in getting Tyrion to Daenerys	Jorah	Daenerys	70	75	Intelligent	He regains some standing while delivering her a brilliant advisor.
+Jorah returns to his former master and sells himself back into slavery to reach Dany again	Jorah	Himself	20	65	Helpless	He sacrifices his freedom and safety mainly to serve her cause.
+Jorah fights again in the pits in front of Daenerys and wins	Jorah	Opponents	50	45	Bandit	He advances his bid for forgiveness at the cost of other fighters’ lives.
+Jorah saves Daenerys’s life in the arena by throwing a spear at an assassin	Jorah	Daenerys	80	90	Intelligent	He risks himself to foil an attack and preserve her and her mission.
+Daenerys exiles Jorah a second time after learning of his spying	Daenerys	Jorah	30	60	Intelligent	She protects her rule’s integrity though it gravely harms him.
+Daenerys orders Jorah to find a cure for his greyscale and return	Daenerys	Jorah	70	70	Intelligent	She spares and tasks him, giving him purpose and a path back to service.
+Jorah goes to the Citadel seeking treatment for greyscale	Jorah	Himself	75	65	Intelligent	He actively pursues survival and a chance to remain useful to Dany’s cause.
+Samwell Tarly cures Jorah’s greyscale using a painful procedure	Samwell Tarly	Jorah	80	80	Intelligent	Sam saves his life and restores his capacity to help others despite great effort.
+Jorah returns to Daenerys after his cure and resumes serving her	Jorah	Daenerys	80	85	Intelligent	He regains health and status while strengthening her leadership team.
+Jorah volunteers as a warrior in Daznak’s Pit hoping to earn forgiveness or die	Jorah	Himself	35	60	Helpless	He gambles his life primarily in service to her and her approval.
+Daenerys forgives Jorah after his repeated efforts and risks	Daenerys	Jorah	75	75	Intelligent	She regains a loyal, capable protector and he recovers position and meaning.
+Jorah goes out of his way not to kill anyone in the fighting pits when forced to fight	Jorah	Other fighters	45	70	Helpless	He limits his own strategic advantage to spare others unnecessary deaths.
+Jorah leaves the ancestral sword Longclaw behind for his father upon disgracing his family	Jorah	Jeor Mormont	40	70	Helpless	He loses a valuable heirloom but preserves his father’s honor and property.
+Jeor Mormont later gives Longclaw to Jon Snow instead of Jorah	Jeor Mormont	Jon Snow	30	75	Helpless	He writes Jorah off but empowers Jon with a priceless weapon.
+Samwell Tarly gives Jorah Heartsbane	Samwell Tarly	Jorah	60	80	Intelligent	Sam foregoes his house’s Valyrian sword to arm Jorah against the undead.
+Jorah declines Jon’s offer to return Longclaw, saying it belongs to Jon and his children	Jorah	Jon Snow	65	80	Intelligent	He forgoes reclaiming a family relic to affirm Jon’s ownership and future.
+Jorah develops an obsessive crush on Daenerys that harms his judgment	Jorah	Himself	35	40	Helpless	His unrequited love warps decisions without truly benefiting her.
+Jorah chooses to serve Daenerys loyally despite knowing his love is unrequited	Jorah	Daenerys	70	85	Intelligent	He channels his feelings into protection and counsel that help her greatly.
+Jorah warns Daenerys repeatedly as his main advisory style	Jorah	Daenerys	65	70	Intelligent	His cautious counsel often protects her from overreach and missteps.
+Jorah fails to tell Daenerys the truth about his past despite many chances	Jorah	Daenerys	25	30	Stupid	His secrecy undermines trust and ultimately leads to a worse fallout for both.
+Jorah leaves Westeros instead of facing Ned Stark over his crimes	Jorah	Himself	20	40	Helpless	He evades immediate punishment but loses home, title, and standing permanently.
+Jorah chooses to ignore his royal pardon to keep serving Daenerys	Jorah	Himself	55	75	Intelligent	He sacrifices a guaranteed safe return to pursue a meaningful, if risky, purpose.
+Jorah protects Daenerys from an assassination that his spying indirectly triggered	Jorah	Daenerys	65	60	Intelligent	He mitigates harm from his earlier betrayal and keeps her alive.
+Jorah acts as Daenerys’s Queensguard commander and leader of her guard	Jorah	Daenerys & guard	70	80	Intelligent	His leadership improves her personal security and military effectiveness.
+Jorah leads as Daenerys’s Number Two and closest advisor	Jorah	Daenerys	75	85	Intelligent	He enhances her decision‑making and consolidates her rule.
+Jorah warns Viserys “No further” and stops him from taking the dragon eggs	Jorah	Viserys	Daenerys	60	75	Intelligent	He preserves Daenerys’s most valuable assets and asserts boundaries on Viserys.
+Jorah protects Daenerys repeatedly during “The Long Night” against wights	Jorah	Daenerys	90	95	Intelligent	He spends his life‑energy to ensure her survival in a battle for the world.
+Jorah pushes Daenerys aside and takes a wight’s blade through the chest for her	Jorah	Daenerys	10	95	Heroic Sacrifice (Intelligent)	He incurs fatal harm to secure her safety in a high‑stakes battle.
+Jorah keeps fighting despite multiple stab wounds until the wights are dead	Jorah	Daenerys	5	95	Heroic Sacrifice (Intelligent)	He exhausts his life to buy her crucial seconds and ensure her survival.
+Jorah dies from his wounds in Daenerys’s arms after the battle	Jorah	Daenerys	0	80	Helpless	His death ends his own agency but solidifies her survival and emotional arc.

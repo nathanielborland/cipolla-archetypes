@@ -1,0 +1,61 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Jim pockets the early love-letter and delays confessing until Season 9	Jim	Pam	40	40	Helpless	He avoids short‑term conflict but prolongs his own and Pam’s emotional limbo for years with no clear benefit to either.
+Jim gives Pam an anguished declaration of love in Season 2 finale	Jim	Pam	30	30	Helpless	He gains catharsis but immediately suffers emotional pain and awkwardness while putting Pam in distress without concrete benefit.
+Jim agrees to marriage counselling after Athlead strains his marriage	Jim	Pam	80	80	Intelligent	He invests time to repair the relationship, directly benefiting himself and Pam.
+Jim chooses a meeting that undermines counselling progress	Jim	Pam	35	20	Stupid	He prioritizes the meeting at the cost of therapy gains, hurting Pam and his marriage with minimal lasting upside.
+Jim realizes what matters at the taxi and abandons the meeting to kiss Pam	Jim	Pam	85	75	Intelligent	He sacrifices a career opportunity to prioritize his marriage, strengthening both his happiness and Pam’s.
+Jim challenges Dwight to a snowball fight	Jim	Dwight	20	65	Helpless	He gets short‑term fun but ends up injured and terrified while Dwight enjoys a major victory.
+Jim turns down a management position when sales caps are removed	Jim	Company/branch	70	55	Intelligent	He rationally maximizes his income while still performing well enough that the branch benefits from his sales.
+Jim slacks off once he hits the reinstated sales cap	Jim	Company/branch	55	30	Bandit	He preserves his own comfort and avoids extra work while denying the company potential additional revenue.
+Jim pranks Dwight, usually when Dwight is arrogant or obnoxious	Jim	Dwight	65	40	Bandit	He entertains himself and vents frustration while mildly or moderately inconveniencing Dwight.
+Jim physically fights Dwight to stop him entering a scapegoat meeting	Jim	Dwight	75	80	Intelligent	He risks physical conflict to protect Dwight’s job and future, benefiting them both.
+Jim organizes the ultimate bachelor party to help Dwight reconcile with Kevin	Jim	Dwight and Kevin	80	85	Intelligent	He spends effort to give Dwight meaningful closure and mended relationships, deepening friendships that also benefit him.
+Jim steps aside so Dwight can have Michael as his best man	Jim	Dwight	70	85	Intelligent	He forgoes an honor he clearly values to give Dwight and Michael a more meaningful bond.
+Jim praises Michael and tells him he’s been the best boss ever when he’s leaving	Jim	Michael	70	85	Intelligent	He gains closure and goodwill while giving Michael deep emotional validation at a critical moment.
+Jim chooses love and stays in Scranton instead of New York job	Jim	Pam	80	75	Intelligent	He sacrifices a “cushy” career move to pursue a mutually fulfilling relationship with Pam.
+Jim teams up with Dwight whenever outsiders threaten the branch	Jim	Dwight/branch	75	80	Intelligent	He secures his own job and workplace stability while helping protect everyone’s livelihoods.
+Jim double-dates coworkers then decides to avoid coworker double-dates	Jim	Coworkers (Michael/Jan; Phyllis/Bob; Erin)	60	40	Bandit	He and Pam protect their own comfort while limiting social opportunities coworkers (like Erin) would have liked.
+Jim learns Morse code with Pam to mock Dwight silently	Jim	Dwight	65	35	Bandit	He strengthens his bond with Pam and entertains himself while covertly excluding and teasing Dwight.
+Jim fights Dwight’s scapegoating in “Drug Testing” and “Golden Ticket” scenarios	Jim	Dwight	70	80	Intelligent	He risks conflict with Michael to protect Dwight from unfair treatment, helping both ethically and relationally.
+Jim avoids pranks that could seriously endanger Dwight or his job	Jim	Dwight	65	70	Intelligent	He preserves his fun while consciously limiting harm and job risk to Dwight.
+Jim is suspected of disgusting pranks and explicitly denies responsibility	Jim	Office	55	60	Intelligent	He maintains his own boundaries and reassures others, preserving trust while avoiding escalation into nastier pranks.
+Jim gets an ambitious haircut and refined suits when applying for corporate	Jim	Himself/employers	80	60	Intelligent	He invests in his professional image, improving his prospects while offering a more polished representative for the company.
+Jim stays at Dwight’s bed-and-breakfast and comforts him after Angela dumps him	Jim	Dwight	80	85	Intelligent	He offers real emotional support, improving Dwight’s state and strengthening a friendship that’s also rewarding for Jim.
+Jim hosts a house party but deliberately doesn’t invite Michael	Jim	Michael	70	20	Bandit	He shields his own event from Michael’s chaos but unfairly excludes and hurts Michael.
+Jim sings karaoke with Michael when Michael is embarrassing himself	Jim	Michael	75	85	Intelligent	He sacrifices some social comfort to rescue Michael from humiliation, improving both of their evenings.
+Jim swaps Dwight’s planted beans with full-grown plants after tricking him	Jim	Dwight	60	70	Intelligent	He keeps the prank fun while ensuring Dwight feels like a winner rather than a dupe, creating net positive feelings.
+Jim occasionally gaslights Dwight (e.g., desk moving, “Dwayne,” Asian Jim)	Jim	Dwight	65	30	Bandit	He entertains himself and Pam while significantly disorienting Dwight with no concrete benefit to Dwight.
+Jim lets Dwight believe he poisoned him; Dwight’s appendix then fails	Jim	Dwight	20	15	Stupid	The prank accidentally amplifies Dwight’s medical crisis, leaving Jim panicked and with no benefit.
+Jim advises Michael to be patient with Holly, leading Michael to miss signals	Jim	Michael	65	40	Helpless	His well-meant advice improves Michael’s behavior but inadvertently sabotages Holly’s attempts to connect.
+Jim co-manages with Michael and becomes more serious and jerkish at work	Jim	Office staff	50	35	Bandit	He gains authority and pursues order but becomes less supportive and more abrasive, reducing colleagues’ morale.
+Jim tries to prank Andy at Stamford assuming a Dwight-like dynamic	Jim	Andy	40	30	Stupid	His misread of Andy’s anger issues backfires, giving him trouble with little entertainment payoff.
+Jim’s biggest prank drives Andy to punch a wall and attend anger management	Jim	Andy	25	15	Stupid	He pushes Andy to a breakdown and serious consequence while risking his own reputation and getting no meaningful gain.
+Jim continues to needle Andy even after the wall-punch incident	Jim	Andy	30	20	Stupid	He keeps provoking someone with known anger issues, heightening risk with little new benefit.
+Jim realizes, after Michael’s list, that his pranks on Dwight are excessive	Jim	Himself	70	65	Intelligent	This self-reflection leads him to see his own misery and wasted time, a step toward healthier behavior for both.
+Jim recognizes via Toby’s comment how his Philly time hurts Pam	Jim	Pam	75	75	Intelligent	He gains insight into his harmful pattern and begins to correct it, benefiting their marriage.
+Jim accepts criticism from strangers who find his snark annoying	Jim	Strangers	65	60	Intelligent	The feedback humbles him and nudges him toward more considerate behavior, mildly helping others around him.
+Jim supports Dwight in “Money,” confessing his own misery over Pam’s engagement	Jim	Dwight	70	80	Intelligent	He offers empathy and vulnerability, helping Dwight while processing his own pain.
+Jim limits his meanness mostly to Dwight and only when people “need” humbling	Jim	Selected coworkers	60	45	Bandit	He channels his aggression where he feels it’s deserved, gaining emotional relief at some costs to those targeted.
+Jim briefly takes the regional manager role and finds it miserable	Jim	Himself/office	45	45	Helpless	He gains status but quickly suffers stress and alienates staff, with little clear benefit to anyone.
+Jim calls out Michael for the “Murder” game during financial trouble	Jim	Michael/office	50	40	Helpless	He is trying to be responsible but initially dampens a morale-boosting coping strategy.
+Jim then embraces the “Murder” game after understanding its value	Jim	Office staff	70	80	Intelligent	He supports the game, improving group morale and reducing his own managerial friction.
+Jim proposes to Pam at a gas station in the rain	Jim	Pam	90	90	Intelligent	It’s odd but deeply meaningful, securing mutual long-term happiness.
+Jim accidentally convinces Pam’s father to leave her mother	Jim	Pam’s parents	35	10	Stupid	His well-meaning talk leads to a breakup and later messy drama with no benefit to him.
+Jim resists Cathy’s attempts to seduce him, preserving his marriage	Jim	Pam	85	85	Intelligent	He protects his relationship and integrity while sparing Pam major emotional harm.
+Jim gets Dwight to “kill the mood” to deter Cathy	Jim	Cathy	80	75	Intelligent	He cleverly defuses the situation, keeping himself faithful and preventing a worse fallout for everyone.
+Jim takes a promotion to Stamford to get away from Pam after her rejection	Jim	Himself/Pam	70	55	Intelligent	He escapes a painful situation and builds a new position while giving Pam space from an unresolved dynamic.
+Jim later returns to Scranton after the Stamford–Scranton merger	Jim	Scranton branch	75	70	Intelligent	He keeps a good job and rekindles important relationships, while his skills benefit the branch.
+Jim joins his friend from college to establish Athlead	Jim	Himself/friend	85	65	Intelligent	He pursues a more fulfilling career and potential growth while helping build a new enterprise.
+Jim splits time between Scranton and Philly for Athlead	Jim	Pam/family	55	35	Bandit	He advances his ambitions but strains his marriage and family time.
+Jim decides to step back from Athlead to focus on Pam	Jim	Pam/family	80	80	Intelligent	He sacrifices some career upside to repair and strengthen his family life.
+Jim occasionally omits Michael from events to avoid chaos (pattern)	Jim	Michael	60	35	Bandit	He improves his own and others’ immediate experience at the cost of Michael’s inclusion and feelings.
+Jim refuses Jo’s offer of the Regional Manager position	Jim	Office	70	65	Intelligent	He avoids a role he knows will make him unhappy while leaving a workable, low-drama structure for the office.
+Jim moves to Texas with Pam in the series finale	Jim	Family	85	80	Intelligent	He relocates for a promising new phase that appears to benefit his career and his family’s future.
+Jim resists being in the Season 7 lip-sync video, then participates energetically	Jim	Office staff	70	75	Intelligent	He ends up contributing to a fun group activity, boosting morale and social cohesion.
+Jim informs Michael of Pam’s pregnancy in front of her conservative grandmother	Jim	Pam	30	20	Stupid	He causes Pam social embarrassment and family awkwardness without gaining anything.
+Jim allows Michael to fall into a koi pond without helping out of annoyance	Jim	Michael	40	20	Stupid	He lets his irritation override basic assistance, leading to Michael’s humiliation and no real benefit to himself.
+Jim steps back from pranking when Dwight is depressed over Angela	Jim	Dwight	70	75	Intelligent	He suppresses his usual fun to support Dwight emotionally, improving their relationship.
+Jim’s pranks escalate enough that Dwight seeks to get him fired or transferred	Jim	Dwight	45	30	Bandit	The accumulated mischief entertains Jim but pushes Dwight toward formal retaliation.
+Jim accidentally reveals Pam is having twins, leading to tears of joy	Jim	Pam	90	85	Intelligent	The discovery profoundly delights both him and Pam, strengthening their family happiness.
+Jim protects Dwight from Michael’s harsh treatment in “Golden Ticket”	Jim	Dwight	75	80	Intelligent	He intervenes to shield Dwight from unfair blame, helping both Dwight and workplace fairness.
+Jim resists serious Halloween costumes except when Pam convinces him	Jim	Pam	65	70	Intelligent	He yields to Pam’s request, boosting their shared fun and relationship with minimal cost.

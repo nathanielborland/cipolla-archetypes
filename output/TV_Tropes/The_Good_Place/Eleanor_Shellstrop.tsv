@@ -1,0 +1,93 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+She frequently lied about her age.	Eleanor	Others around her 	60	35	Bandit	She gains perceived social benefit while mildly deceiving others.
+She legally emancipated herself from her parents at fourteen.	Eleanor	Eleanor	40	55	Helpless	She escapes neglectful parents (benefit) but incurs major hardship living alone so young.
+Her parents shrugged and signed the emancipation papers, happy to be rid of her.	Doug and Donna	Eleanor	70	5	Bandit	They relieve themselves of responsibility at great cost to their child.
+She worked two jobs while attending high school.	Eleanor	Eleanor	80	60	Intelligent	She sacrifices time/energy to improve her situation and harms no one.
+She put herself through college.	Eleanor	Eleanor	85	70	Intelligent	Long-term self-investment with no shown harm to others.
+She blew off a full-time job at a successful company for a commitment-free, dubious sales job.	Eleanor	Eleanor’s career prospects	30	35	Helpless	She trades long-term stability for short-term ease, ultimately limiting herself with little benefit to others.
+She sold fake allergy medication (NasaPRO) to the sick and elderly.	Eleanor	Customers (esp. sick and elderly)	75	5	Bandit	She gains money/status as top salesperson while knowingly selling ineffective product.
+She was the top salesperson five years running at NasaPRO.	Eleanor	NasaPRO customers	80	10	Bandit	Sustained personal success depends on ongoing exploitation of vulnerable buyers.
+She quit a high paying job because it required social bonding games with coworkers.	Eleanor	Eleanor’s future self	25	55	Helpless	She sacrifices significant long-term benefit to avoid momentary discomfort, without helping others.
+She abandoned her car the minute the oil change light came on.	Eleanor	Eleanor	20	50	Helpless	She avoids a small hassle but creates a much larger future problem for herself, affecting no one else.
+She frequented a nearby coffee shop owned by a pervert just because it was closer.	Eleanor	Herself (safety/comfort)	40	45	Helpless	She knowingly accepts a worse environment for minor convenience, with neutral impact on others.
+She asked a mailman repeatedly to take his shirt off and got banned from the post office.	Eleanor	Mailman / postal service	30	30	Stupid	She harasses workers, gets banned, and gains no lasting benefit.
+She lied about having a terminal illness to meet Scott Wolf.	Eleanor	Scott Wolf / event organizers	65	25	Bandit	She obtains a personal experience by exploiting others’ sympathy under false pretenses.
+She got into 88 fights with children selling fundraiser items.	Eleanor	Children fundraisers	35	10	Bandit	She vents aggression and refuses to support them, slightly gratifying herself while clearly harming kids’ efforts.
+She screamed at 22 different waiters.	Eleanor	Waiters	40	15	Bandit	She releases frustration at service staff, mildly satisfying herself while mistreating others.
+She crashed Vanessa Garcia’s quinceañera.	Eleanor	Vanessa / party guests	45	20	Bandit	She intrudes for her own amusement at others’ expense.
+She showed a 9‑year‑old child The Shining.	Eleanor	9-year-old child	40	15	Bandit	She amuses herself by exposing a child to inappropriate horror, likely scaring them.
+She cyberbullied a pregnant woman from her spin class.	Eleanor	Pregnant woman	40	10	Bandit	She gains emotional venting/power while clearly causing distress to a vulnerable target.
+She lived only to please herself and for instant gratification.	Eleanor	Others around her	55	30	Bandit	Her hedonism benefits her short-term but repeatedly harms or disregards others.
+She believed doing good was pointless and therefore didn’t try.	Eleanor	People she might have helped	35	30	Helpless	Her cynicism limits her growth and deprives others of possible help.
+She once lied about having a terminal illness to meet Scott Wolf (same act, noted again).	Eleanor	Scott Wolf / event organizers	65	25	Bandit	Same lie trades others’ compassion for her personal gain.
+She spent frequent time with her cousin’s daughter Little Julie to help because the cousin was a mess.	Eleanor	Little Julie	70	85	Intelligent	She gains some fulfillment while primarily giving altruistic, meaningful support to a child.
+She spent time with Brittany and Madison mainly for drinking, not friendship.	Eleanor	Co‑workers / herself	55	45	Helpless	She gets shallow gratification while preventing deeper connections, mildly harming her own long-term well-being.
+She announced at a new high school that she didn’t want to be friends with anyone.	Eleanor	Herself / peers	30	45	Helpless	She preemptively isolates herself, hurting her own social life without real benefit or clear harm to others.
+She refused praise from another loner who respected her.	Eleanor	Other loner	35	55	Helpless	She closes off potential connection, hurting herself more than anyone else.
+She frequently drowned her sorrows in alcohol (implied).	Eleanor	Herself	25	45	Helpless	Short-term relief undermines her long-term emotional health, with little effect on others.
+She showed a lifetime pattern of mocking others to distract from emptiness.	Eleanor	People around her	50	30	Bandit	She soothes her insecurity by belittling others, modestly helping herself while hurting social environment.
+She loved shrimp and margaritias to excess (hedonistic food habit).	Eleanor	Herself	60	50	Helpless	She gets pleasure while contributing to unhealthy habits; effects mostly on herself.
+She told off her mother for arriving drunk to Doug’s funeral and insulting him.	Eleanor	Donna	70	75	Intelligent	She protects her own grief and sets a needed boundary, indirectly respecting Doug’s memory and decorum.
+She told Donna not to “fork up” Patricia’s life like she did Eleanor’s.	Eleanor	Patricia (via Donna)	70	80	Intelligent	She uses her pain to push for better parenting, helping her stepsister and giving herself some closure.
+She took her young cousin for a churro dog outing.	Eleanor	Younger cousin	65	80	Intelligent	She gains warmth/connection while giving the child a positive experience.
+She frequently spent time with Little Julie purely to help.	Eleanor	Little Julie	75	90	Intelligent	She gains modest satisfaction but primarily invests in the child’s well-being.
+She hesitated to blow off house‑sitting because she didn’t want the dog to starve.	Eleanor	Her friend’s dog	60	75	Intelligent	Her concern benefits the dog and reflects some moral awareness.
+She left all the food out for the dog, leading it to obesity but survival.	Eleanor	Friend’s dog	55	40	Helpless	Her crude solution keeps the dog alive but harms its health, with little net self-benefit.
+She pressed the button to “kill” Janet until Janet’s begging stopped her.	Eleanor	Janet	55	45	Helpless	She gains cooperation by nearly following through, but her aversion to suffering prevents completion, leaving problem partially unsolved.
+She was horrified at the thought two annoying people might be crushed by a dumpster.	Eleanor	Annoying neighbors	60	70	Intelligent	Her reaction shows moral concern for others despite personal dislike, with no cost to anyone.
+She tried to stop Michael from sacrificing himself to Shawn (No One Gets Left Behind stance).	Eleanor	Michael / group	70	80	Intelligent	She risks the mission out of loyalty and concern for a teammate.
+She insisted Chidi is a good person and questioned why he’d be in the Bad Place.	Eleanor	Chidi	65	80	Intelligent	She affirms and defends him, supporting his self-worth and deepening the relationship.
+She told off her drunk mother for turning Doug’s funeral into a “roast.”	Eleanor	Donna	70	75	Intelligent	She asserts boundaries and protects the mourning process for herself and others present.
+She refused to hurt her stepsister Patricia by sabotaging Donna’s new life.	Eleanor	Patricia	75	85	Intelligent	She sacrifices revenge to protect a child’s well-being and encourages better parenting.
+She asked Donna to make sure not to ruin Patricia’s life.	Eleanor	Patricia (via Donna)	75	85	Intelligent	She uses direct confrontation to try to secure a healthier future for Patricia.
+She often lashed out when people took the moral high ground.	Eleanor	Partners / friends	45	35	Bandit	She defends her ego by attacking others, harming relationships for brief emotional protection.
+She lashed out at someone who asked, “Why are you like this?”	Eleanor	Questioner	40	35	Bandit	She protects her fragile self-image by aggressive defensiveness, straining the interaction.
+She got into 88 fights with kids selling fundraiser items.	Eleanor	Fundraising kids	35	10	Bandit	She impedes charitable efforts for petty self-satisfaction.
+She returned a wallet without taking the money.	Eleanor	Wallet owner	65	90	Intelligent	She gains self-respect and emotional reward while greatly helping the owner.
+She moved to tears hearing the owner cared most about his daughter’s drawing and called her a good person.	Eleanor	Herself	80	75	Intelligent	The feedback reinforces her moral growth and benefits both her and the owner emotionally.
+She nearly destroyed her mother’s new life but stopped for Patricia’s sake.	Eleanor	Donna / Patricia	55	80	Intelligent	She gives up personal vindication to protect a child from collateral damage.
+She told Donna to avoid hurting Patricia’s life.	Eleanor	Patricia (via Donna)	75	85	Intelligent	Again, she channels her experience into concrete protective advice for Patricia.
+She told Chidi, “You are worth Hell,” accepting eternal torture to be with him.	Eleanor	Chidi	40	85	Helpless	She accepts severe cost to herself to affirm and stay with someone she loves.
+She was determined to sacrifice herself to the Bad Place to save the others.	Eleanor	Chidi, Tahani, Jason	35	95	Helpless	She willingly accepts extreme suffering solely so others can avoid it.
+She convinced Jason to leave the Medium Place to save Chidi and Tahani.	Eleanor	Jason	70	85	Intelligent	She promotes a selfless, risky choice that benefits their friends and advances the greater good.
+She told Michael she was “just a normal girl” and lamented being potential savior of humankind.	Eleanor	Herself	60	80	Intelligent	Despite fear, she assumes the burden that will benefit everyone.
+She ran the new experiment as Michael’s compassionate “Dragon‑in‑Chief.”	Eleanor	New humans / system	80	90	Intelligent	She shoulders leadership stress to improve the afterlife system and help others grow.
+She lied to everyone in the new experiment for the greater good.	Eleanor	New test humans	70	70	Intelligent	Her deception costs trust but enables their moral development and systemic reform.
+She used her lying skill to cover for Michael’s breakdown and keep the experiment running.	Eleanor	Michael / experiment subjects	80	85	Intelligent	She protects Michael and preserves the larger project that will help countless souls.
+She confessed to Jason that her bad past doesn’t justify her actions and took responsibility.	Eleanor	Herself	75	80	Intelligent	Acceptance of responsibility advances her growth and models accountability to others.
+She decided she couldn’t use her parents as an excuse anymore.	Eleanor	Herself	80	80	Intelligent	This internal commitment substantially improves her ethical trajectory and influence.
+She secretly enjoyed taunting and mocking Tahani.	Eleanor	Tahani	55	35	Bandit	She gets emotional relief/entertainment at her friend’s expense.
+She correctly guessed the counseling couple wanted to swing with her and Chidi.	Eleanor	Herself / Chidi	70	55	Intelligent	Her suspicion protects them from an unwanted situation with no harm done.
+She repeatedly figured out that the neighborhood was actually the Bad Place and exposed it.	Eleanor	Michael’s torture plan	80	40	Intelligent	She safeguards herself and friends; harm is only to a malicious scheme.
+She always eventually figured out Michael’s reboots and forced him into alliance.	Eleanor	Michael’s plans	85	45	Intelligent	Her perceptiveness frees the group from endless torture; only torturers lose.
+She correctly noticed a fake Chidi during the Judge’s secret test.	Eleanor	Herself / group	80	70	Intelligent	Her discernment guards the integrity of the test and their cause.
+She consistently spotted small clues others missed (“Spotting the Thread”).	Eleanor	Team Cockroach	80	75	Intelligent	Her pattern-recognition repeatedly saves the team from manipulation.
+She mocked others as a distraction from her inner emptiness.	Eleanor	People around her	50	30	Bandit	She numbs herself by degrading others, strengthening her defenses at their expense.
+She admitted that mocking others to distract from emptiness was a fair criticism.	Eleanor	Herself	75	70	Intelligent	Recognition of her coping mechanism enables growth and eases others’ burden.
+She treated Jason like an exasperated big sister, listening to his tirades.	Eleanor	Jason	70	80	Intelligent	She invests patience and care, improving their bond and supporting him.
+She routinely high‑fived Jason after dirty jokes, reinforcing their bond.	Eleanor	Jason	65	70	Intelligent	Simple positive ritual strengthens mutual connection with no harm.
+She became the de facto leader of Team Cockroach.	Eleanor	Team Cockroach	85	85	Intelligent	Her leadership benefits both herself (purpose, agency) and the whole group’s survival.
+She convinced everyone, including Michael, to work together to reach the Good Place.	Eleanor	Team / Michael	90	90	Intelligent	Her charisma organizes a coalition that radically improves outcomes for all.
+She confronted Michael with the unfairness of “one in a million” getting paradise.	Eleanor	Michael / afterlife system	80	85	Intelligent	Her critique catalyzes systemic reform benefiting nearly everyone.
+She cheered Chidi up by praising the accomplishment of writing a huge ethics book.	Eleanor	Chidi	70	80	Intelligent	Her reframing restores his motivation and self-worth, strengthening both.
+She told off her mother for killing the dog and then blaming child-Eleanor.	Eleanor	Donna	65	60	Intelligent	She calls out emotional abuse, defending her younger self’s legitimacy and setting a boundary.
+She helped save all of humanity by reforming the points system.	Eleanor	All humans	100	100	Intelligent	Ultimate act: maximal benefit to herself (peace, fulfillment) and everyone else.
+She couldn’t go through the Door until she saved Michael and Mindy, then did so.	Eleanor	Michael and Mindy	90	95	Intelligent	She delays her own peace to rescue the last lost souls, then accepts rest.
+She helped Michael become human and find peace.	Eleanor	Michael	85	95	Intelligent	She sacrifices time and energy to guide him into a meaningful mortal life.
+She protected Mindy St. Clair’s chance at improvement instead of abandoning her.	Eleanor	Mindy	80	85	Intelligent	She pushes Mindy toward growth, giving her a path beyond stagnation.
+She always found Chidi in every reboot and sought his help.	Eleanor	Chidi	80	75	Intelligent	Her choice repeatedly leads to mutual growth and problem-solving.
+She pushed Chidi to ask Simone out when she saw they liked each other.	Eleanor	Chidi and Simone	70	80	Intelligent	She forgoes her own romantic interest to support their potential happiness.
+She was ecstatic that Chidi loved Simone and schemed to help him ask her out.	Eleanor	Chidi	65	80	Intelligent	Her joy and assistance prioritize his well-being over her own desires.
+She stepped aside romantically whenever Chidi showed interest in someone else.	Eleanor	Chidi	60	80	Intelligent	She subordinates her feelings to his happiness and autonomy.
+She orchestrated Chidi and Simone’s first kiss opportunity.	Eleanor	Chidi and Simone	65	80	Intelligent	Her intervention furthers their relationship at the expense of her own romantic hopes.
+She told Chidi she loved him even knowing it could lead to torture.	Eleanor	Chidi	45	85	Helpless	She risks or accepts suffering for the sake of honest love and his emotional security.
+She repeatedly chose Nice Guy partners (Sam, firefighter, etc.) despite her issues.	Eleanor	Herself / partners	65	70	Intelligent	Her attraction to decent men benefits both her and them, even if she struggles to reciprocate fully.
+She initially used her parents as an excuse for bad behavior.	Eleanor	Others around her	55	40	Bandit	This shields her from guilt while offloading the cost of her actions onto others.
+She eventually realized her past doesn’t justify her bad actions.	Eleanor	Herself / others	85	80	Intelligent	This insight drives her later altruism and reduces harm she does to others.
+She told Michael she and he have a disturbing amount in common.	Eleanor	Michael	70	70	Intelligent	Recognizing their similarity helps build an honest, cooperative rapport that serves both.
+She calmed quickly after being told she was dead and in the Good Place.	Eleanor	Herself	65	60	Intelligent	Her composure aids her adaptation and cooperation, with no harm to others.
+She suggested “drowning her sorrows” in alcohol after failing to reach the Good Place.	Eleanor	Herself	35	50	Helpless	She reverts to a harmful coping mechanism that doesn’t solve the problem.
+She founded/embraced the group name “Team Cockroach” after Michael’s insult.	Eleanor	Team Cockroach	80	75	Intelligent	Turning an insult into a team identity empowers the group and improves morale.
+She consistently had good ideas and solved problems for the group in the afterlife.	Eleanor	Team Cockroach	90	90	Intelligent	Her competence repeatedly advances both her own and the group’s survival and success.
+She often used Suspiciously Specific Denials from her own life and later admitted it.	Eleanor	Listeners	60	65	Intelligent	Her eventual honesty deepens trust and self-knowledge with minimal downside.
+She loved watching celebrity gossip and reality TV as escapism.	Eleanor	Herself	55	50	Helpless	She gains short-term enjoyment without addressing deeper issues, neutral to others.

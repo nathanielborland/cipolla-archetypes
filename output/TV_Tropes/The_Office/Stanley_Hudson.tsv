@@ -1,0 +1,40 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Dwight tries to fire Stanley, causing Stanley’s first on-screen laugh	Dwight	Stanley	30	10	Bandit	Dwight attempts to remove Stanley (benefit to Dwight), clearly distressing Stanley, though the story only highlights Stanley’s rare laugh as a side-effect.
+Stanley laughs at Dwight trying to fire him	Stanley	Dwight	60	40	Intelligent	Stanley gets emotional relief and amusement while causing only mild social embarrassment to Dwight.
+Stanley gets along with Michael on Pretzel Day	Stanley	Michael	70	70	Intelligent	Cooperating for Pretzel Day improves Stanley’s mood and creates a rare positive interaction with Michael.
+Stanley delivers a “That’s what she said” joke with Michael on Pretzel Day	Stanley	Michael & nearby coworkers	75	75	Intelligent	The shared joke gives Stanley enjoyment and strengthens camaraderie without harming anyone.
+Stanley laughs at Ryan’s inability to talk to his clients while driving back	Stanley	Ryan	65	30	Bandit	Stanley gains amusement and relief while Ryan is implicitly belittled for incompetence.
+Stanley reacts strongly to “Scott’s Tots” situation	Stanley	Michael & situation	40	10	Helpless	His reaction vents honest disgust but gives him little benefit and mostly highlights how bad the situation is for others.
+Stanley laughs at Michael’s rapid-fire roast in “Stress Relief”	Michael	Stanley & office	65	60	Intelligent	Michael’s roasting entertains Stanley and the room, improving everyone’s mood with no serious downside shown.
+Stanley joins office mocking of Michael after Koi Pond incident	Stanley	Michael	60	35	Bandit	Stanley gains amusement and group bonding at Michael’s expense through ridicule.
+Stanley enjoys Dwight’s apparent misfortune in the meatball prank	Stanley	Dwight	70	30	Bandit	He’s entertained by Dwight’s over-loaded desk, a gain for him tied to Dwight’s inconvenience.
+Stanley actually enjoys Jim’s gullibility and free food during meatball ruse	Stanley	Jim	85	15	Bandit	He profits in food and amusement while exploiting Jim’s gullibility, mildly harming Jim’s resources.
+Stanley participates in Dunder Mifflin billboard defacement gag involving Dwight and Andy	Stanley	Dwight & Andy	75	25	Bandit	He gains fun and mischief while publicly embarrassing coworkers.
+Stanley explodes at Ryan for being around his daughter	Stanley	Ryan	60	45	Intelligent	He protects his daughter and scares Ryan off, with Ryan’s fear being a cost but aligned with Stanley’s protective goal.
+Stanley suggests “sell better” in the Osprey strategy meeting	Stanley	Sales team & Michael	40	35	Helpless	His lazy non-contribution slightly harms his standing and fails to help the team improve against a rival.
+Stanley refuses to renew client contract because he doesn’t want to take the stairs	Stanley	Client/Dunder Mifflin	20	15	Stupid	He risks his job security and income for trivial comfort while endangering a client relationship and company revenue.
+Stanley coasts on returning customers and caps his commission quickly	Stanley	Dunder Mifflin	75	45	Bandit	He maximizes income for minimal effort while contributing only the bare minimum to the firm’s broader performance.
+Stanley only exerts effort when the commission cap is lifted	Stanley	Dunder Mifflin	85	55	Bandit	He benefits greatly in extra earnings and the company gains more sales, but his effort is purely self-interested and situational.
+Stanley focuses only on the slow main clock while ignoring office weirdness	Stanley	Office	60	55	Intelligent	He conserves energy and stress by filtering nonsense, mildly helping others by not escalating antics.
+Stanley adopts “Have you lost your mind?!” as a catchphrase	Stanley	Coworkers	55	45	Helpless	His outbursts give him brief relief but mainly reinforce him as abrasive, slightly straining relationships.
+Stanley tries to make “and shove it up your butt!” his new thing	Stanley	Coworkers	50	45	Helpless	The attempted catchphrase adds little benefit and mostly underlines his rudeness with minimal extra harm.
+Stanley teams up with Michael to jeer at someone who cuts in line on Pretzel Day	Stanley	Line-cutter	70	25	Bandit	He secures his spot and vents annoyance by intimidating the cutter, who is socially pressured away.
+Stanley sides with Dwight when sales staff oppose other employees	Stanley	Non-sales staff	65	45	Bandit	Aligning with sales benefits his job security and influence while contributing to intra-office division.
+Stanley reacts with irritation and sardonic tone to office antics	Stanley	Office	55	45	Helpless	His coping mechanism eases his own stress a bit but erodes warmth and morale around him.
+Stanley participated in civil rights activism as a teen	Stanley	Society/Black community	80	90	Intelligent	He likely risked time and safety but contributed to broader social advancement for himself and others.
+Stanley has fun in the Florida arc	Stanley	Himself & companions	80	70	Intelligent	Letting himself enjoy life benefits his well-being and adds positive social energy for those around him.
+Stanley carves a doll for Phyllis	Stanley	Phyllis	70	90	Intelligent	He invests effort to create a meaningful gift, deepening their bond and giving her joy.
+Stanley dreams of escaping Earth in a space-faring lighthouse	Stanley	Himself	60	50	Intelligent	The dream gives him hope and imagination without impacting others.
+Stanley shows a proud photo of his younger activist self	Stanley	Coworkers	65	60	Intelligent	He gains self-affirmation and offers others a richer, inspiring view of him.
+Stanley cheats on his wife multiple times	Stanley	Wife & family	70	15	Bandit	He gains illicit gratification while causing serious emotional harm and relationship damage.
+Stanley delivers a brutal teardown of Michael in “Did I Stutter?”	Stanley	Michael	55	40	Bandit	He vents justified frustration (psychological relief) but publicly humiliates Michael and escalates workplace tension.
+Stanley smashes Michael’s car after affair rumor is spread	Stanley	Michael	25	20	Stupid	He vents rage but risks legal/disciplinary fallout while materially harming Michael, with no real gain beyond momentary catharsis.
+Stanley intends to help Jim when Jim plans to leave Dunder Mifflin	Stanley	Jim	70	80	Intelligent	He offers support that helps Jim’s prospects while affirming their friendship.
+Stanley becomes Jim’s prank “partner” to divert meatballs for himself	Stanley	Jim	85	25	Bandit	He secures large amounts of free food at Jim’s expense, exploiting Jim’s trust.
+Stanley flips out at Ryan for perceived flirting with his 14-year-old daughter	Stanley	Ryan	65	60	Intelligent	His extreme anger protects his daughter’s boundaries, scaring Ryan but serving a clear protective function.
+Stanley chews Michael out for framing Meredith’s accident like she might be dead	Stanley	Michael	60	65	Intelligent	He scolds Michael, pushing him toward clearer communication and reducing distress for others.
+Stanley is furious when Michael pretends to fire him in “Did I Stutter”	Stanley	Michael	40	30	Helpless	His rage is understandable but mostly heightens his stress and conflict without gaining leverage.
+Stanley acts as Papa Wolf toward his daughter in general	Stanley	Daughter’s would-be suitors	70	75	Intelligent	His protectiveness safeguards her well-being and reputation with limited collateral harm.
+Stanley regularly frowns and rarely smiles	Stanley	Office	45	40	Helpless	His constant negativity likely worsens his own mood and slightly drags down office atmosphere.
+Stanley often doesn’t care about others’ feelings or the damage he does	Stanley	Coworkers	55	30	Bandit	Emotional detachment spares him effort but inflicts repeated small harms on colleagues’ morale.
+Stanley ignores bizarre office antics all day (Weirdness Censor test)	Stanley	Office	65	60	Intelligent	By refusing to engage, he preserves his own peace and doesn’t fuel further chaos.

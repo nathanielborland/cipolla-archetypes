@@ -1,0 +1,34 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Laughs at Daniels' joke about police promoting the wrong man	Burrell	Daniels	60	55	Intelligent	Builds rapport and eases tension with a subordinate at no real cost.
+Mayor plans to oust Burrell and replace him with Rawls	Royce	Burrell	70	30	Bandit	Strengthens his political control by scapegoating Burrell, harming Burrell’s position.
+Carcetti defeats Royce, saving Burrell's job	Carcetti	Burrell	65	55	Intelligent	Carcetti gains office while incidentally preserving Burrell’s job.
+Burrell fails to bring murdered witness issue to Royce	Burrell	Carcetti	35	20	Stupid	Neglecting to warn the mayor hurts his own security and creates a campaign problem.
+Carcetti asks Burrell to resign	Carcetti	Burrell	60	40	Bandit	Attempts to clean house for political benefit at Burrell’s expense.
+Burrell refuses to resign and threatens not to go quietly	Burrell	Carcetti	80	30	Bandit	Protects his own position by threatening political damage to the mayor.
+Carcetti decides to strip Burrell’s power and give decision-making to Rawls while keeping Burrell as figurehead	Carcetti	Burrell	75	30	Bandit	Improves control over policing and optics while hollowing out Burrell’s authority.
+Burrell saves Carcetti by throwing the regulations book at Herc	Burrell	Herc	75	40	Bandit	He protects the administration (and himself) while severely sanctioning Herc.
+Burrell brags beforehand about disciplining Herc	Burrell	Carcetti	60	40	Bandit	Uses the impending action to advertise his usefulness and gain favor.
+Burrell threatens to air Daniels' dirt to halt Barksdale investigation	Burrell	Daniels	70	20	Bandit	Attempts to protect himself and allies by endangering Daniels’ career.
+Daniels calls Burrell’s bluff on blackmail	Daniels	Burrell	60	40	Intelligent	Defends his own position and investigative work without escalating damage.
+Burrell later contemplates smearing Daniels to save himself	Burrell	Daniels	40	20	Stupid	By the time he considers it, his own fall is inevitable and smearing Daniels offers little gain.
+Burrell hands Daniels’ dossier to Nerese Campbell	Burrell	Daniels	65	20	Bandit	Sacrifices Daniels’ reputation to maintain influence and secure his landing.
+Facing the boot over Hamsterdam, Burrell warns Royce he’ll disclose that Royce sat on it	Burrell	Royce	80	25	Bandit	Uses threat of exposure to preserve his own job and push blame upward.
+Colvin is forced to take full blame for Hamsterdam or see his officers persecuted	Burrell	Colvin	75	10	Bandit	Burrell protects himself and the mayor by coercively dumping consequences on Colvin.
+Valchek threatens Burrell with a confirmation fight unless Daniels gets proper detail	Valchek	Burrell	70	30	Bandit	Improves his desired case work by endangering Burrell’s confirmation.
+Burrell refrains from having Daniels fired to avoid bad press	Burrell	Daniels	65	45	Intelligent	Protects his own image while sparing Daniels’ career and avoiding scandal.
+Burrell comforts Kima's partner after the shooting	Burrell	Cheryl	60	80	Intelligent	Invests time and empathy that modestly helps his standing while strongly helping a victim’s partner.
+Burrell personally informs Johns Hopkins of Colvin’s role in Hamsterdam, causing the job offer to be withdrawn	Burrell	Colvin	70	15	Bandit	Undercuts Colvin’s future to reinforce the political line and his own loyalty.
+Burrell tells subordinates job security depends on felony rates falling	Burrell	Subordinates	70	20	Bandit	Uses fear of firing to drive stats, helping his numbers while stressing and risking officers.
+Burrell has Rawls sabotage an investigation of a perp who later proves to be a serial killer	Burrell	Citizens	70	5	Bandit	Short-term stat/PR gain for him at heavy cost to public safety.
+Burrell reacts with “My God, What Have I Done?” on learning about the vacants	Burrell	Himself	40	50	Helpless	The guilt harms him emotionally while the realization slightly humanizes him.
+Burrell punishes Daniels’ unit when Daniels stops acting on his dictates	Burrell	Daniels	65	20	Bandit	Reasserts his authority and political priorities at the expense of real police work.
+Burrell repeatedly blocks Daniels’ investigative efforts as Deputy Ops	Burrell	Daniels	60	20	Bandit	Protects political interests while undermining effective investigations.
+Burrell brandishes a golf club threateningly at Daniels	Burrell	Daniels	55	30	Bandit	Intimidates a subordinate to enforce compliance, with modest gain and some relational harm.
+Burrell comforts Cheryl when Frazier refuses to speak to her	Burrell	Cheryl	60	80	Intelligent	Provides needed support, improving both his human and professional standing.
+Burrell keeps things civil with Daniels despite despising him	Burrell	Daniels	60	60	Intelligent	Maintains a functional relationship that preserves both their options.
+Burrell personally informs Johns Hopkins to sink Colvin’s offer as retaliation for Hamsterdam	Burrell	Colvin	70	10	Bandit	Reasserts his and the department’s stance by sabotaging Colvin’s post-retirement prospects.
+Burrell uses Internal Affairs to get Herc fired for Carcetti without making Carcetti look weak	Burrell	Herc	75	35	Bandit	Secures political capital and solves the mayor’s problem at Herc’s cost.
+Burrell threatens to invoke “just following orders” publicly during Hamsterdam fracas	Burrell	Royce	80	25	Bandit	Shields himself by shifting potential blame to the mayor.
+Burrell ends friendship with Rawls and tells him he’ll just keep the chair warm for Daniels	Burrell	Rawls	55	40	Helpless	Emotional satisfaction in hurting Rawls but harms his own alliance network more than it helps him.
+Burrell chooses to resign only after securing a cushy job elsewhere	Burrell	Carcetti	85	40	Bandit	Parlays an inevitable exit into personal advantage while mildly easing political transition.
+In his final scene, Burrell candidly outlines systemic flaws and warns Rawls he’ll end up the same	Burrell	Rawls	55	65	Intelligent	Offers truthful insight that may help Rawls understand the trap while giving Burrell modest catharsis and dignity.

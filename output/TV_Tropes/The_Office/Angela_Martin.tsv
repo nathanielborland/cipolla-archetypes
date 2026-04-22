@@ -1,0 +1,45 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Dwight calls Angela "monkey" as an affectionate nickname	Dwight	Angela	70	70	Intelligent	Nicknaming is mutual-affection signaling that strengthens their bond without harming others.
+Angela insults and bosses around Party Committee members as head, especially Phyllis	Angela	Party Committee members (esp. Phyllis)	60	10	Bandit	She gains control and ego gratification while making others’ experience miserable.
+Angela shows compassion and affection toward her cats	Angela	Cats	80	80	Intelligent	Genuine care for her pets benefits them and gives her emotional fulfillment.
+Dwight and Angela control others due to shared egomaniacal tendencies	Dwight and Angela	Other office workers	65	20	Bandit	They gain power and satisfaction at the expense of coworkers’ autonomy and comfort.
+Angela moves into a squalid studio apartment after separating from the Senator	Angela	Angela	10	50	Helpless	The move is a major material downgrade for her but is neutral-to-slightly-positive for others (no one is directly harmed).
+Angela loses her cats after a neighbor complains, leading to two “sackfuls” being taken	Neighbor	Angela and her cats	55	10	Bandit	Neighbor likely gains peace or satisfaction while causing Angela emotional harm and removing her pets.
+Angela is evicted from her studio apartment with only $25 in her bank account	Landlord	Angela	5	40	Helpless	Eviction severely harms her stability, while others remain neutral or mildly relieved (e.g., landlord, neighbors).
+Angela marries Dwight and ends up happily married	Angela	Dwight	90	90	Intelligent	The marriage provides mutual long-term emotional benefit without indicated harm to others.
+Angela drops F-bombs at Dwight after he nearly runs her off the road	Angela	Dwight	55	40	Helpless	She vents understandable anger but risks the relationship; Dwight is verbally attacked without clear gain.
+Angela screams at Mose after he releases her from his trunk	Angela	Mose	40	30	Stupid	Her fury brings no benefit and damages rapport after he actually lets her out.
+Angela frequently engages in rude or cruel behavior for no good reason	Angela	Various coworkers	60	10	Bandit	She derives ego satisfaction at ongoing social cost to others.
+Angela refuses to speak to her sister for 16 years over a forgotten argument and feels proud	Angela	Sister	20	10	Stupid	She sacrifices a close relationship and gains only hollow pride, while her sister also loses contact.
+Angela later reconciles enough to choose Oscar (Latino, gay ex-lover of her ex-husband) as godfather to her child	Angela	Oscar and her child	80	80	Intelligent	Selection reflects growth; it strengthens support network for her child and deepens her and Oscar’s bond.
+Angela lies to Jan that Pam has been ogling Michael at the dinner party	Angela	Pam	65	5	Bandit	She boosts her own standing with Jan by slandering Pam, who gets needless social harm.
+Angela calls Pam the “office mattress” despite her own worse record	Angela	Pam	60	5	Bandit	She elevates herself via slut-shaming that unfairly damages Pam’s reputation.
+Devon excludes Angela from his goodbye drink gathering	Devon	Angela	70	40	Bandit	He gains petty satisfaction and a nicer sendoff for others while socially slighting her.
+Most employees choose Pam and Karen’s Christmas party over Angela’s	Office staff	Angela	65	30	Bandit	They get a more enjoyable party at the cost of further isolating Angela.
+Kevin attends Angela’s party only for brownies, then leaves when she irritates him	Kevin	Angela	60	30	Bandit	Kevin maximizes his own enjoyment while signaling rejection of Angela’s company.
+Angela acts as a conservative Christian while judging nearly everyone she meets	Angela	Co‑workers	65	20	Bandit	Her self-image and certainty are reinforced while she alienates and belittles others.
+Angela fights Oscar over putting a glurgey baby-jazz poster up in her cubicle	Angela	Oscar	55	35	Helpless	She protects her aesthetic but strains a coworker relationship over trivial decor.
+Oscar resists Angela’s attempt to put up the glurgey poster	Oscar	Angela	55	45	Bandit	He defends his environment, mildly harming her satisfaction with her space.
+Angela bathes and dresses Dwight’s dirty aunt properly after rebuking Dwight and the aunt	Angela	Dwight’s aunt	85	85	Intelligent	She expends effort to restore the aunt’s dignity and gains moral and emotional satisfaction.
+Dwight demands Angela hose his dirty aunt for her bath	Dwight	Dwight’s aunt	60	20	Bandit	He saves himself trouble while disregarding the aunt’s dignity.
+Angela delivers an impressive comic set at Michael’s roast	Angela	Michael and office	70	75	Intelligent	She gets social capital and the group enjoys the performance without lasting harm.
+Angela lies that one of the dogs in the caption contest should pee on Gabe	Angela	Gabe	70	60	Intelligent	Her insult becomes a successful joke that entertains the office with minor harm to Gabe’s pride.
+Angela calls Jan and Pam “whores” over clothing choices	Angela	Jan and Pam	60	10	Bandit	She bolsters her own moral ego while unfairly disparaging them.
+Angela puts out a hit on her husband’s lover despite her own serial cheating	Angela	Husband’s lover	40	5	Stupid	She risks severe consequences with almost no realistic gain and serious potential harm to another.
+Angela refers to Pam again as “the office mattress” while ignoring her own infidelity	Angela	Pam	60	5	Bandit	Another reputation attack that flatters her self-image at Pam’s expense.
+Angela expresses open disgust for homosexuals	Angela	Gay people (esp. Oscar)	55	5	Bandit	She secures an identity of superiority while stigmatizing others.
+Angela lives in Oscar’s closet after her divorce and disgrace	Angela	Angela	15	55	Helpless	Her circumstances are humiliating and materially bad for her, while Oscar’s hospitality and growth are implied positives.
+Angela correctly predicts Movie Monday will get them in trouble with Jan	Angela	Office	60	70	Intelligent	Her concern is validated, potentially guarding everyone from greater fallout.
+Angela objects to Kama Sutra being used in the workplace	Angela	Office	65	75	Intelligent	She protects her own comfort level and enforces a more professional, safer environment.
+Angela is frustrated by Phyllis failing simple Christmas party tasks	Angela	Phyllis	55	45	Helpless	Her annoyance reflects genuine logistical issues but mostly harms rapport with little gain.
+Angela tells Dwight off for how he mistreats his elderly aunt	Angela	Dwight	70	70	Intelligent	She asserts ethical treatment expectations, benefiting the aunt and prompting better behavior from Dwight.
+Dwight mistreats his elderly aunt	Dwight	Dwight’s aunt	70	10	Bandit	He likely saves effort or asserts control while directly harming his aunt’s well-being.
+Angela acts as Lady Macbeth, pushing Dwight during “The Coup”	Angela	Dwight and Michael	65	25	Bandit	She seeks more power via Dwight while undermining Michael’s position.
+Angela insists Esther is ugly to sabotage Dwight’s view of her rival	Angela	Esther	60	20	Bandit	She protects her claim on Dwight through petty denigration of another woman.
+Angela makes passive-aggressive comments about Pam’s weight during and after pregnancy	Angela	Pam	60	15	Bandit	She bolsters her own self-image while harming Pam’s body image and comfort.
+Angela comforts Kevin during skin cancer testing and asserts his test is more important than Michael’s birthday	Angela	Kevin	80	85	Intelligent	She emotionally supports Kevin and prioritizes his health over trivial celebrations.
+Angela tells Michael bluntly that Kevin’s test is more important than his birthday	Angela	Michael	70	65	Intelligent	She risks Michael’s displeasure to enforce correct priorities, helping Kevin and the office values.
+Angela asks Oscar to join the Party Planning Committee and clarifies it’s not because he’s gay	Angela	Oscar	75	80	Intelligent	She offers inclusion and explicitly reduces tokenization, benefiting both.
+Angela reassures Kelly with a pat and a rare smile when Ryan is taken under Dwight’s wing	Angela	Kelly	75	80	Intelligent	She provides needed comfort with no downside.
+Angela invites Pam out for coffee after Dwight hand-delivers her tax forms to Corporate	Angela	Pam	80	80	Intelligent	The gesture builds a fragile friendship and rewards Pam’s discretion.
+Angela pays off Michael’s electricity bill through his checking account so it doesn’t get shut off	Angela	Michael	70	85	Intelligent	She fixes a looming problem for Michael and the office, gaining quiet moral satisfaction.

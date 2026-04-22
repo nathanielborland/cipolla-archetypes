@@ -1,0 +1,77 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+He abandons using "But I am already in my pajamas" as a catchphrase after the first two episodes	Farnsworth	Farnsworth	60	55	Intelligent	Dropping an unmemorable catchphrase has mild benefit to him and no clear effect on others.
+He unintentionally reuses the abandoned catchphrase in Season 8	Farnsworth	Planet Express crew / listeners	55	55	Intelligent	Repeating the line has negligible effects beyond light humor for everyone.
+He goes to an inventors' competition with last year's death clock	Farnsworth	Farnsworth	40	55	Helpless	Bringing the same invention again mildly harms his prospects while entertaining or interesting others.
+After realizing he reused last year's invention, he tries to invent the same thing again	Farnsworth	Farnsworth	30	55	Helpless	His absent-minded attempt wastes his own effort while providing mild amusement to onlookers.
+He quickly creates the smell-o-scope to replace the repeated invention	Farnsworth	Public / scientific community	85	75	Intelligent	Creating a working new invention is a strong win for him and a notable benefit to others.
+He remembers he already built the smell-o-scope last year	Farnsworth	Farnsworth	40	55	Helpless	The realization undercuts the value of his “new” work, mostly just mildly embarrassing him.
+He fathers Igner at around 160 years old	Farnsworth	Igner	60	60	Intelligent	Despite the oddity, he gains a son and Igner exists; no clear net harm shown.
+He spends more time on personal obsessions than managing his company	Farnsworth	Planet Express crew	45	40	Bandit	His neglect of management serves his whims while moderately disadvantaging the company and crew.
+He creates doomsday devices for no apparent reason	Farnsworth	Wider world	60	10	Bandit	He gains pride and capability but greatly endangers others by stockpiling apocalyptic weapons.
+He states there is no scientific consensus that life is important	Farnsworth	Anyone hearing him	55	40	Bandit	Reinforces his own worldview at the expense of others’ sense of safety and value.
+He admits he always knew he would have a hand in ending the world	Farnsworth	Wider world	55	30	Bandit	Accepting an apocalyptic role bolsters his self-image while implying severe potential harm.
+He takes pleasure in endangering his crew’s lives	Farnsworth	Planet Express crew	65	15	Bandit	He gets entertainment while significantly increasing risk to the crew.
+He gets upset when he discovers he won’t have to kill Fry to save humanity	Farnsworth	Fry	55	15	Bandit	He loses the grim satisfaction of sacrifice while showing disregard for Fry’s life.
+He genuinely regrets endangering the crew once they are dead	Farnsworth	Dead crew	35	20	Helpless	His remorse hurts himself emotionally and helps no one, as they’re already dead.
+He goes on the front line to save the world when it’s threatened	Farnsworth	Wider world	75	80	Intelligent	He risks himself to stop threats, benefiting both himself and everyone else.
+He builds an Angry Dome room specifically to vent his rage	Farnsworth	Himself / coworkers	65	60	Intelligent	Channeling anger into a private space helps him decompress and shields others somewhat.
+He cheerfully sends the crew on very dangerous missions	Farnsworth	Planet Express crew	70	15	Bandit	He advances his goals and curiosity by risking the crew’s lives.
+He previously sent other crews on similarly dangerous missions that killed them	Farnsworth	Previous crews	60	5	Bandit	He benefited from repeated missions while causing multiple fatal outcomes.
+He refuses to bring the Planet Express ship up to government standards despite lawsuits	Farnsworth	Planet Express crew	55	20	Bandit	He saves money/effort while endangering staff and exposing them to legal risk.
+He habitually introduces dangerous missions as “Good news, everyone!”	Farnsworth	Planet Express crew	65	45	Bandit	He preserves his upbeat framing while misleading or downplaying real danger to others.
+He creates Atomic Supermen to face the Harlem Globetrotters using chronotons	Farnsworth	Reality / DOOP society	55	20	Bandit	He gains a solution and scientific thrill while destabilizing spacetime.
+He immediately flies into a rage if someone asks to use the ship as a mere lift	Farnsworth	Planet Express crew	45	35	Bandit	His overreaction protects his principle at the cost of crew morale.
+He immediately flies into a rage at non-scientific explanations	Farnsworth	Others proposing ideas	45	40	Bandit	It satisfies his ego while discouraging alternative perspectives.
+He invents the impossible ship engine that moves the universe around the ship	Farnsworth	Planet Express crew / humanity	85	75	Intelligent	The engine is a massive technological gain with large shared benefits.
+He becomes a strong advocate against robosexuality	Farnsworth	Robosexuals	55	20	Bandit	He gains political and emotional satisfaction while restricting others’ relationships.
+He delays action because “I am already in my pajamas”	Farnsworth	Himself / sometimes crew	45	40	Helpless	His laziness mildly hurts his own productivity and sometimes others depending on him.
+He creates a glow-in-the-dark nose machine that produces huge toxic waste	Farnsworth	Environment / society	40	10	Stupid	He gains little lasting benefit while creating significant, unusable toxic byproducts.
+He nearly destroys the fabric of space-time by aging engineered basketball players	Farnsworth	Universe	30	5	Stupid	A trivial sports aim nearly annihilates existence, with negligible real benefit to him.
+He nods along when Fry calls him an “amoral crackpot”	Farnsworth	Fry	60	55	Intelligent	Accepting an accurate label clarifies expectations and causes minimal harm.
+He expects to suffer eternal damnation when he dies	Farnsworth	Farnsworth	30	50	Helpless	This belief harms his own mental comfort without affecting others.
+He repeatedly sends the crew on missions of extreme danger while framing it as good news	Farnsworth	Planet Express crew	70	15	Bandit	He advances exploration and business at a steep, often hidden risk to his employees.
+He screams that he is “off to Hell” when startled by a bright light	Farnsworth	Bystanders	50	50	Intelligent	Low-stakes overreaction is just comic panic with no meaningful impact.
+He frequently throws the crew under the bus when Planet Express is threatened	Farnsworth	Planet Express crew	60	15	Bandit	He protects his ownership and position while sacrificing subordinates’ interests.
+At the stockholders’ meeting he appears confused and shows he doesn’t know why he’s there	Farnsworth	Planet Express shareholders	40	35	Helpless	His senility harms his credibility and the company, giving no gain.
+He ignores instructions about time travel and nearly causes paradoxes	Farnsworth	Time continuum / crew	45	20	Bandit	His carelessness gives him adventure at substantial risk to everyone’s timeline.
+He shoots Hitler while time traveling	Farnsworth	World	70	90	Intelligent	Assassinating Hitler confers historical benefit while posing some risk to him.
+He leaves Mom over her evil plans	Farnsworth	Mom	70	65	Intelligent	He preserves his conscience and reduces alignment with her harmful schemes.
+He is reluctant to directly fire the crew after big screw-ups	Farnsworth	Planet Express crew	60	65	Intelligent	He keeps experienced employees, benefiting both himself and them.
+He promotes Bender to captain for lacking intuition or heart and snubs Fry	Farnsworth	Ship crew	55	20	Bandit	A petty, ideology-driven decision undermines mission safety to indulge his bias.
+He attaches a shock collar to Leela to control her rage outbursts	Farnsworth	Leela	65	45	Bandit	He gains control over a threat but inflicts involuntary harm and loss of autonomy on her.
+He stuns a fleeing Lovey Bear after decrying their suffering	Farnsworth	Lovey Bear	45	20	Bandit	He compromises his stated sympathy to secure a contract and maintain the mission.
+He buys a corpse of a Zuban pharaoh intending to eat it	Farnsworth	Corpse / norms	55	35	Bandit	He indulges his tastes while violating taboos and basic respect.
+He becomes giddy at the prospect of eating someone’s heart for courage	Farnsworth	Potential victim	50	30	Bandit	He contemplates cannibalism for personal “gain” at serious potential harm to others.
+He leaves Mom the first time because she wanted his soft toy made fifteen feet tall	Farnsworth	Mom	65	55	Intelligent	Breaking with a partner over impractical expansion preserves his standards with minor shared cost.
+He repeatedly gets back together with Mom then leaves her again when recalling she’s evil	Farnsworth	Mom	40	40	Helpless	This oscillation hurts both emotionally while providing only temporary gratification.
+He keeps several doomsday weapons lying around his lab	Farnsworth	Planet Express / world	60	15	Bandit	He enjoys power and security but imposes constant risk on everyone else.
+He throws especially unstable doomsday weapons in the garbage	Farnsworth	Environment / scavengers	40	10	Stupid	Disposing of them unsafely keeps risk while removing his own possible utility.
+He walks around naked or half-naked in inappropriate contexts	Farnsworth	Those around him	55	35	Bandit	He enjoys comfort and exhibition while making others uncomfortable or endangered (tar scene).
+He goes into searing hot tar naked despite the doctor’s warning	Farnsworth	Farnsworth	20	40	Helpless	Ignoring safety advice strongly endangers himself for no real gain.
+He frequently, knowingly sends his crew on life-threatening adventures without warning	Farnsworth	Planet Express crew	70	10	Bandit	He gets missions done while maximizing surprise risk to employees’ lives.
+He hires replacement crews before current crew deaths are confirmed	Farnsworth	Existing crew	65	15	Bandit	He ensures business continuity at the cost of showing utter disregard for current staff.
+He created the modern robot, an ecological disaster	Farnsworth	Planet’s environment / society	85	15	Bandit	He gains prestige and utility, but robotics as implemented severely harms the ecosystem.
+He tries to harvest Leela’s organs	Farnsworth	Leela	60	5	Bandit	He seeks material benefit at extreme potential harm to her.
+He kills people for their stem cells	Farnsworth	Victims	70	0	Bandit	He gains scientific resources while causing maximum harm to others.
+He is frequently cited for public nudity	Farnsworth	General public	50	35	Bandit	He prioritizes his comfort over public norms, mildly inconveniencing and offending others.
+He walks nude despite being told it’s unnecessary and unwise	Farnsworth	Farnsworth	25	40	Helpless	He exposes himself to legal and physical risk with virtually no benefit.
+He embraces being a Satanist / invokes Satan’s name	Farnsworth	Himself / bystanders	45	40	Helpless	It mildly hurts his reputation and offers negligible tangible benefit.
+He keeps at least one Martian skull as a mug and dismisses their complaints as whining	Farnsworth	Martians	60	10	Bandit	He enjoys a trophy mug while disrespecting and dehumanizing a whole group.
+He asks Glurmo to tell the Grunka Lunkas that he hates them	Farnsworth	Grunka Lunkas	55	15	Bandit	Expressing hatred gratifies him emotionally while directly harming their dignity.
+He sabotages Cubert’s newspaper business by kicking his sign	Farnsworth	Cubert	45	15	Bandit	His petty action undermines his son’s initiative, slightly hurting himself via lost potential.
+He spanks Amy’s bottom after her rebirth despite her being conscious	Farnsworth	Amy	55	20	Bandit	He takes perverse pleasure while violating her personal boundaries.
+He goes along with Fry’s lie about being blind to ogle a naked Michelle clone	Farnsworth	Michelle clone / Fry	60	15	Bandit	He satisfies voyeurism at others’ expense and undermines trust.
+He acts as an eccentric mentor when he has a good idea	Farnsworth	Planet Express crew	70	80	Intelligent	His guidance improves mission outcomes and gives him satisfaction as a teacher.
+He genuinely loves and cares for Cubert as his son	Farnsworth	Cubert	80	85	Intelligent	A strong positive relationship benefits both him and the child.
+He demands the crew not go after Space Bee honey due to prior crew deaths	Farnsworth	Planet Express crew	70	80	Intelligent	He tries to prevent repeating fatal mistakes, helping everyone survive.
+He sets his time machine to only go forward so Fry can’t repeat his incestuous accident	Farnsworth	Fry / timeline	65	80	Intelligent	This choice sacrifices backward travel options to protect Fry and history.
+He left Mom over her evil plans partly due to their impracticality	Farnsworth	Mom’s schemes	70	65	Intelligent	Rejecting evil and unworkable ideas benefits him ethically and the world practically.
+He is careful and somewhat reluctant about when to actually punish the crew	Farnsworth	Planet Express crew	65	70	Intelligent	Moderating punishment supports morale while maintaining some discipline.
+He shoots at robotic Santa (Bender) forgetting Leela’s warning	Farnsworth	Bender	45	35	Bandit	He indulges aggressive impulse while endangering a teammate due to poor memory.
+He uses a crotchety grandpa discount card and acts entitled in lines	Farnsworth	Other customers	55	35	Bandit	He extracts small financial and time benefits while inconveniencing others.
+He falls asleep while skiing and wakes with a bronze medal	Farnsworth	Other competitors	70	55	Intelligent	He unexpectedly gains a medal with little discernible harm to anyone else.
+He shamelessly embraces public nudity as comedic fanservice	Farnsworth	Viewers in-universe	55	35	Bandit	He indulges himself while grossing out or disturbing others around him.
+He almost singlehandedly kills a giant space yeti when younger	Farnsworth	Yetis / threatened people	80	85	Intelligent	Defeating a major threat enhances his reputation and saves others.
+He clones himself a son from a growth on his back	Farnsworth	Cubert	80	75	Intelligent	He gains an heir and Cubert gains life and family, with only weirdness as a cost.
+He has Cubert celebrate “growth-scraping day” instead of a birthday	Farnsworth	Cubert	55	60	Intelligent	The unconventional celebration sustains their bond with only mild social oddity.
+He tampers with Wernstrom’s cloning machine, corrupting Zapp’s DNA	Farnsworth	Zapp / DOOP soldiers	35	5	Stupid	Petty sabotage leads to a disastrously incompetent officer whose mistakes cost many lives.

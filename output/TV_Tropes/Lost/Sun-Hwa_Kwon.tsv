@@ -1,0 +1,27 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Sun knocks out Ben with an oar after saying she wouldn’t harm him	Sun	Ben	55	20	Bandit	She neutralizes a perceived enemy despite breaking her word, benefiting her security while harming Ben.
+Sun cheats on Jin with the man who taught her English	Sun	Jin	60	15	Bandit	She gains emotional/physical satisfaction while betraying and hurting her husband.
+Sun lies to Jin about not having been with another man when pregnant	Sun	Jin	50	10	Bandit	The lie preserves her relationship status short-term while deepening deception that harms Jin.
+Child-Sun lies about breaking the glass ballerina, getting the maid fired	Sun (child)	Maid	70	5	Bandit	She avoids punishment at the direct cost of the maid’s job and well-being.
+Sun reveals to Michael that she speaks English to explain Jin’s attack	Sun	Michael (and indirectly Jin & group)	65	75	Intelligent	Her disclosure clarifies a conflict, improving group understanding with little downside to herself.
+Kate deduces Sun speaks English from her reaction and agrees to keep the secret	Kate	Sun	60	70	Intelligent	Kate protects Sun’s autonomy and safety while incurring minimal risk herself.
+Sun admits to the entire group, including Jin, that she speaks English	Sun	Group (incl. Jin)	70	80	Intelligent	Coming clean improves trust and communication despite personal vulnerability.
+Sun buys a controlling interest in her father’s company	Sun	Mr. Paik	80	40	Bandit	She gains power and autonomy while wresting control and status from her father.
+Sun confronts her father and blames him for ruining Jin’s life and causing their plane trip	Sun	Mr. Paik	75	35	Bandit	She asserts herself and gains psychological and strategic leverage while undermining his authority and comfort.
+Sun declares that after her baby is born they will discuss the future of “our company”	Sun	Mr. Paik	80	30	Bandit	She secures long-term influence and shared control while diminishing his unilateral power.
+Sun has an affair with Jae Lee shortly before the crash	Sun	Jae Lee & Jin	60	20	Bandit	She gains intimacy and validation at the expense of Jin and the stability of her marriage.
+Sun seeks confirmation from Juliet about who the baby’s father is and learns it is Jin	Sun	Sun & Jin	75	80	Intelligent	She gains emotional relief and strengthens her bond with Jin via accurate information.
+Sun asks her father for money to pay off Jin’s blackmailing mother	Sun	Jin	40	30	Helpless	She protects Jin’s reputation but accepts a costly deal that will badly affect their marriage.
+Sun accepts that Jin must work directly for her father in exchange for the money	Sun	Jin	30	20	Helpless	Her choice helps preserve Jin’s honor but pushes him into dangerous, corrosive work that harms both.
+Sun pretends for years that she is unaware of her father’s criminal nature	Sun	Those around her	45	30	Helpless	The façade shields her socially but keeps her enmeshed and powerless within a toxic system.
+Sun drops the façade about her father’s business so he will help Jin	Sun	Jin	55	35	Bandit	She secures concrete help for Jin by leveraging her true status, indirectly reinforcing her father’s power.
+Sun pretends in Season 1 that she cannot speak English	Sun	Survivor group	45	30	Helpless	Her secrecy gives short-term safety while limiting her own and others’ ability to communicate and coordinate.
+Sun calls out her ruthless father for how he has hurt Jin	Sun	Mr. Paik	70	40	Bandit	She gains emotional and moral leverage while harming his standing and control.
+Claire asks Sun to mind Aaron while she searches for a vaccine	Claire	Aaron (via Sun)	60	55	Intelligent	She balances Aaron’s immediate care with seeking medical protection, with modest risks both ways.
+Sun agrees to mind Aaron and tells Claire “a mother should never leave her child”	Sun	Claire	60	70	Intelligent	She supports Claire and reinforces care norms, slightly enhancing trust and stability.
+Sun later abandons her daughter Ji Yeon to return to the Island	Sun	Ji Yeon	20	5	Stupid	She gains no lasting benefit and ultimately leaves Ji Yeon an orphan, gravely harming her child and herself.
+Sun allies with Charles Widmore in order to kill Ben	Sun	Ben (and indirectly others)	35	15	Stupid	Her revenge quest risks being manipulated by Widmore, with little clear gain and substantial danger to others.
+Sun conspires with Widmore to kill Ben off-Island	Sun	Ben (and collateral parties)	30	10	Stupid	The vendetta exposes her to powerful enemies while promising unstable, morally costly outcomes for many.
+Sun returns to the Island, which leads to Ji Yeon becoming an orphan	Sun	Ji Yeon & herself	10	5	Stupid	The return results in both parents’ death, devastating Ji Yeon and nullifying Sun’s own interests.
+Jin’s mother threatens to expose his origins unless Sun pays her	Jin’s mother	Jin & Sun	75	10	Bandit	She seeks financial gain through emotional blackmail that seriously harms Jin and Sun.
+Sun and Jin drown together in the submarine	Sun & Jin	Submarine survivors (indirectly)	0	40	Helpless	Their deaths harm themselves utterly, and any positive effect is limited to absenting them from future conflicts.

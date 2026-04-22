@@ -1,0 +1,21 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+As a child, he wants to steal his cousin's jump rope	Dinesh	Cousin	55	30	Bandit	Desire to take cousin’s property would benefit him while depriving cousin.
+He spitefully ties his cousin's jump rope to a truck in envy	Dinesh	Cousin	15	10	Stupid	He destroys the jump rope out of spite, giving himself no benefit and harming his cousin.
+He frequently tries to impress many girls but rarely succeeds	Dinesh	Various women	40	45	Helpless	His repeated failed attempts cost him time/effort with little gain while causing mild social/attention costs to others.
+He increasingly becomes vindictive and petty toward others	Dinesh	Social circle	45	30	Bandit	His admitted vindictiveness serves his ego at the expense of his relationships.
+He values his friendships despite his self-centered nature	Dinesh	Friends	65	80	Intelligent	Appreciating and valuing friendships benefits both him and his friends.
+In the finale, he distances himself from the plan to sabotage/launch Pied Piper	Dinesh	Pied Piper team	55	40	Bandit	He tries to shield himself morally/legally by stepping away, offering little help to others facing the dilemma.
+When sabotage is detected, he goes to the supernode and implements the sabotage code just in time	Dinesh	Global users / society	80	100	Intelligent	He risks his own position to decisively prevent a catastrophic global outcome, massively helping others and ultimately himself.
+He ultimately sabotages Pied Piper before it can threaten global security	Dinesh	Global users / society	85	100	Intelligent	Destroying the dangerous system saves the world and later enables his own success.
+He starts his own cybersecurity company with Gilfoyle after Pied Piper’s fallout	Dinesh	Customers / partners	95	85	Intelligent	Founding a successful security company is highly beneficial to him and provides valuable protection to others.
+He sneaks into the garage to set up one of Gilfoyle's homemade servers	Dinesh	Gilfoyle / roommates	20	10	Stupid	His unauthorized meddling gives him no lasting gain and sets up serious damage to others’ equipment.
+He flips a single switch on the server setup, breaking $50,000 of equipment and blacking out the neighborhood	Dinesh	Gilfoyle / neighbors	5	0	Stupid	His impulsive action causes massive financial loss and a blackout with no benefit to himself.
+He uses the algorithm to develop a video chat app for his personal use	Dinesh	Himself / users	80	85	Intelligent	Creating a useful app serves his needs and leads to a broadly well-received product.
+The team decides to pivot Pied Piper to his video chat app	Dinesh	Pied Piper team	75	80	Intelligent	The pivot raises his status and prospects while giving the company a viable new product.
+When Richard leaves, he accepts appointment as CEO of Pied Piper	Dinesh	Company / employees	70	75	Intelligent	Becoming CEO advances his career and (initially) offers leadership continuity for the company.
+He purposely omits a terms of service from the chat app	Dinesh	PiperChat users / company	10	15	Stupid	The omission exposes him to massive personal liability and regulatory harm to users/company without any real benefit.
+He finds out the app violates COPPA and could incur $21B in fines	Dinesh	Himself	20	40	Helpless	His earlier negligence now threatens him financially while regulators/users may gain some redress or protection.
+He briefly feels relief when told the worthless corporation may shield him	Dinesh	Himself	60	55	Intelligent	Understanding potential corporate protection would modestly benefit him without harming others.
+He learns he could be personally liable for $21B because of the missing terms of service	Dinesh	Himself	5	60	Helpless	His earlier choice now causes extreme self-harm risk while regulators/affected parties stand to benefit from accountability.
+Gilfoyle pops a bottle of champagne to celebrate Dinesh's mistake	Gilfoyle	Dinesh	65	20	Bandit	Gilfoyle gains amusement and schadenfreude at Dinesh’s expense, offering no help to Dinesh.
+Dinesh and Gilfoyle open their own cybersecurity company together in the distant finale	Dinesh & Gilfoyle	Clients / industry	95	90	Intelligent	Launching a joint firm greatly benefits both founders and provides strong security services to others.

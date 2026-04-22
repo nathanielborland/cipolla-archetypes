@@ -1,0 +1,61 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Locks child Garak in a closet as punishment	Tain / Garak's father	Young Garak	10	5	Stupid	Severe abuse traumatizes his son with no clear benefit to himself or others.
+Garak spends life seeking father's approval	Garak	Garak	20	10	Helpless	His fixation causes long-term emotional harm to himself while marginally validating his father.
+Tain withholds affection due to his position	Tain	Garak	15	5	Stupid	He denies both of them a healthy bond without any compensating gain.
+On his deathbed, Tain speaks to Garak as a father	Tain	Garak	40	70	Intelligent	Offers late emotional honesty that comforts Garak with minimal cost to himself.
+Tain reminisces about Garak’s perseverance riding an animal	Tain	Garak	45	75	Intelligent	Openly expressing pride gives Garak long-sought validation at no real cost.
+Young Garak perseveres in riding an animal despite falls	Young Garak	Young Garak	80	60	Intelligent	He builds resilience and earns his father’s pride through self-discipline.
+Garak interrogates and tortures Odo under Tain’s orders	Garak	Odo	35	10	Bandit	He advances his chance to regain status while inflicting extreme suffering on Odo.
+Garak begs Odo for information to avoid continuing torture	Garak	Odo	30	25	Helpless	His reluctance slightly helps Odo but leaves Garak still trapped in the mission.
+Garak stops short of divulging Odo’s secret to Tain	Garak	Odo / Tain	30	70	Helpless	He sacrifices his own career prospects to protect Odo’s deeply personal secret.
+Garak picks through the charred remains of his shop	Garak	Garak	15	40	Helpless	He has lost livelihood and old life, while others gain from his prior help in the war.
+Garak fights Worf hand-to-hand	Garak	Worf	55	50	Intelligent	He loses the fight but gains Worf’s respect without notable collateral effects.
+Garak attempts to foil Bashir’s romantic liaison in holoprogram	Garak	Bashir	60	20	Bandit	He amuses himself and satisfies jealousy while sabotaging Bashir’s romance.
+Garak loudly mocks Starfleet uniforms while confined	Garak	Two goldshirts	45	40	Helpless	His snark entertains himself slightly but risks worsening his captors’ attitude.
+Garak puts his hand on Bashir’s shoulder on first meeting	Garak	Bashir	60	60	Intelligent	Flirtatious touch initiates a relationship that later benefits them both.
+Garak delights in people mistrusting him and praising their caution	Garak	Suspicious acquaintances	55	55	Intelligent	He reinforces their self-protection while maintaining his mystique and leverage.
+Garak criticizes Sisko for outsourcing “dirty work” to him	Garak	Sisko	55	50	Intelligent	He clarifies the moral arrangement without harming their shared strategic goal.
+Garak endures exile on DS9 instead of trading secrets to leave	Garak	Cardassia / Federation	35	65	Helpless	He suffers personally to preserve Cardassia’s security, benefiting his homeland.
+Garak confronts Gul Madred about gratuitous torture	Garak	Gul Madred	55	65	Intelligent	He risks friction to promote more restrained, utility-focused conduct.
+Garak expresses baffled respect for Federation virtue	Garak	Federation ideals	60	65	Intelligent	His evolving respect nudges him toward more cooperative, prosocial choices.
+Garak once invented treason charges against a Gul for being long-winded	Young Garak	Long-winded Gul	70	15	Bandit	He uses state power for petty revenge, benefiting his ego while harming an innocent.
+Garak releases Bajoran child scavengers and gives them latinum	Garak	Bajoran children	20	80	Helpless	He jeopardizes himself and career to spare and materially aid vulnerable children.
+Garak hacks his neural implant for constant euphoria	Garak	Garak	10	50	Helpless	His self-medication briefly eases suffering but leads to life-threatening addiction.
+Garak goes cold turkey off the implant with Bashir’s help	Garak	Garak / Bashir	65	75	Intelligent	He endures intense pain to save his life and deepen mutual trust.
+Garak repeatedly lies about reasons for his exile	Garak	Everyone on DS9	60	35	Bandit	His evasions protect him and his secrets while impeding others’ ability to fully trust him.
+Garak faces his claustrophobia to engineer escape from Dominion camp	Garak	Fellow prisoners	80	85	Intelligent	He risks psychological collapse to save himself and many others from captivity.
+Garak casually plans murder and treachery as if routine work	Garak	Targets of schemes	65	20	Bandit	His comfort with lethal methods advances his aims while harming or endangering others.
+Garak allows Federation to use him as tailor-fronted spy	Garak	Federation	60	70	Intelligent	He gains significance and access while providing crucial intelligence support.
+Garak extols Cardassian occupation at a Bajoran convention	Garak	Bajoran attendees	30	10	Stupid	He gains nothing and only inflames trauma and hostility against himself.
+Garak calls out Sisko over the “former Cardassian oppressor” name tag	Garak	Sisko / Bajorans	55	60	Intelligent	He highlights hidden hostility, encouraging more honest, less hypocritical discourse.
+Garak survives by knowing when to quit dangerous situations	Garak	Garak / comrades	75	65	Intelligent	Strategic withdrawals keep him and often allies alive with minimal downside.
+Garak releases dissidents in “Profit and Loss” instead of turning them over	Garak	Dissidents / Cardassian state	40	75	Helpless	He risks punishment and exile to protect political opponents from likely execution.
+Garak guns down a fellow Obsidian Order agent in “Second Skin”	Garak	Obsidian Order agent	70	25	Bandit	He removes a rival and saves his side tactically at the cost of another’s life.
+Garak blows up his own shop to frame an assassin and gain protection	Garak	Assassin / DS9 security	55	60	Intelligent	He sacrifices property to save his life and enable security to neutralize a killer.
+Garak previously tortures and kills as Obsidian Order operative	Garak	Various victims	65	10	Bandit	He advances career and state objectives while severely harming or killing others.
+Garak helps Kira and Damar build the Cardassian resistance	Garak	Cardassian people / Alpha Quadrant	70	85	Intelligent	He risks death to help overthrow Dominion control for Cardassia and the quadrant.
+Garak spares Odo’s deeper torture after realizing he’s broken him	Garak	Odo	35	70	Helpless	He abandons further career benefit to protect Odo from more pointless suffering.
+Garak asks O’Brien to tell his victim’s wife he’s sorry	Garak	Victim’s wife	30	60	Helpless	He gains only guilt relief while offering some emotional restitution to the bereaved.
+Garak attends a Bajoran event wearing “former Cardassian oppressor” tag	Bajorans	Garak	20	40	Helpless	They humiliate him symbolically, slightly validating themselves while deepening his misery.
+Garak frightens characters like Grathon Tolar by involving them in his games	Garak	Grathon Tolar / pawns	60	20	Bandit	His manipulations benefit his schemes but terrify and endanger others.
+Garak confronts Weyoun and kills him after “What’s left of it” remark	Garak	Weyoun	65	40	Bandit	He gains emotional satisfaction and removes a key enemy at some political risk.
+Garak guns down Jem’Hadar captains when Odo gives him a plasma rifle	Garak	Jem’Hadar captains	70	60	Intelligent	He kills enemy commanders to protect his team and mission with little extra harm.
+Garak practices lying even when unnecessary	Garak	Everyone he talks to	55	30	Bandit	Habitual deceit hones his skills and protection but erodes others’ ability to rely on him.
+Garak trains Bashir to be less naive about deception	Garak	Bashir	65	80	Intelligent	He subtly mentors Bashir in skepticism, improving Bashir’s survival and Garak’s ally quality.
+Garak turns down easy deals that would betray Cardassia	Garak	Cardassia	40	70	Helpless	He stays miserable in exile to safeguard his homeland from his potentially damaging knowledge.
+Garak joins Kira and Damar in a risky mission that devastates Cardassian regime	Garak	Cardassian regime / Dominion	75	70	Intelligent	He helps topple a monstrous order, freeing Cardassia at vast but necessary cost.
+Garak immediately shoots Flaxian assassin’s sabotaged ship via bomb frame	Garak	Assassin	60	55	Intelligent	He neutralizes a direct threat to his life while aiding station security and justice.
+Garak murders a Romulan senator to bring Romulans into the war	Garak	Romulan senator	70	30	Bandit	He secures enormous strategic gain for his side through a targeted killing.
+Garak forges evidence to implicate Dominion in senator’s death	Garak	Romulan Empire	65	35	Bandit	He manipulates another power into war, benefiting the Alpha Quadrant but via deceit.
+Garak conceals his real plan from Sisko in “In the Pale Moonlight”	Garak	Sisko	65	35	Bandit	He protects Sisko’s deniability and accomplishes the mission while violating Sisko’s consent.
+Garak calls Sisko out for pretending not to want lethal methods used	Garak	Sisko	60	55	Intelligent	His bluntness forces Sisko to face his own complicity, improving moral clarity.
+Garak refuses to betray Cardassia even after exile	Tain / Cardassia	Garak	30	65	Helpless	His steadfast loyalty hurts his own prospects while shielding his state from exposure.
+Garak uses his knowledge to save Martok, Worf, and Bashir from Dominion captivity	Garak	Martok, Worf, Bashir	75	85	Intelligent	He risks himself to free major allies, hugely benefiting the war effort.
+Garak murders multiple people to cover up the Romulan plot details	Garak	Various intermediaries	65	25	Bandit	He protects the conspiracy and its gains at the cost of several lives.
+Garak misreads the Dominion and initially supports Cardassia joining them	Garak	Cardassia	40	20	Stupid	His support helps trigger a disastrous alliance that later devastates his own world.
+Garak later helps orchestrate rebellion against Dominion control	Garak	Cardassian resistance	70	85	Intelligent	He redeems the earlier error by enabling liberation at great personal risk.
+Garak physically assaults Klingons while trading “cutting remarks”	Garak	Klingon assailants	60	50	Intelligent	He defends himself, takes injuries, but inflicts lasting psychological blows with no wider harm.
+Garak frequently assists Starfleet operations with covert data and codes	Garak	Starfleet	70	80	Intelligent	He gains trust and relevance while greatly enhancing Federation intelligence capability.
+Garak compliments those who never fully forgive or trust him	Garak	Suspicious allies	55	65	Intelligent	He reinforces healthy caution that mitigates the damage he might otherwise do.
+Garak chooses to stay involved in dangerous missions despite option to abstain	Garak	Garak	70	70	Intelligent	He risks himself but repeatedly contributes essential skills that save many lives.
+Garak kills Rusot to protect Kira and the mission	Garak	Rusot	70	75	Intelligent	He sacrifices a compatriot to prevent a coup against their joint liberation effort.

@@ -1,0 +1,20 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Daniels tells Carver his sergeant rank was not earned and that Greggs will have authority over him	Daniels	Carver	60	65	Intelligent	Clarifies chain of command and standards, slightly hurting ego but guiding Carver’s development and helping the unit.
+Carver begins to tire of doing lowly surveillance jobs despite being promoted to Sergeant	Carver	Carver	40	50	Helpless	His growing frustration harms his own morale without clearly affecting others.
+Carver initially tries to defend Daniels and the assignment to an irate Herc	Carver	Daniels	55	60	Intelligent	He maintains discipline and backs his superior, modestly helping his own standing and the unit’s cohesion.
+Unit fails to notify Carver and Herc that Nick Sobotka has turned himself in	Police unit (unnamed)	Carver and Herc	45	10	Stupid	Poor communication wastes their time and harms them without benefitting anyone.
+Carver hits his rage breaking point over the wasted stakeout time	Carver	Carver	30	40	Helpless	His anger mainly damages his own composure and judgment, with little benefit to others.
+Carver declares he will transfer to an open Sergeant’s post in Colvin’s district	Carver	Carver	70	65	Intelligent	Moving to a post that recognizes his rank improves his prospects and puts his skills where they’re better used.
+Carver takes Herc with him to Colvin’s district	Carver	Herc	65	60	Intelligent	He secures a better position for himself and improves Herc’s situation by bringing him along.
+Carver procures Marlo’s number (via Herc) and presents it to an impressed Lester	Carver	Lester	75	80	Intelligent	He gains credit and advances the investigation, benefiting both himself and the case.
+Herc actually obtains Marlo’s number and passes it to Carver	Herc	Carver	70	75	Intelligent	Herc’s work helps the investigation and boosts Carver, while also reflecting well on himself.
+Carver officially reports Colicchio for excessive force	Carver	Colicchio	60	40	Bandit	He protects his career and integrity by disciplining brutality, which helps the system but directly harms Colicchio’s interests.
+Carver is forced by rank to write up Anthony Colicchio for police brutality	Carver	Colicchio	55	35	Bandit	Complying with duty safeguards his own position and institutional legitimacy while penalizing Colicchio.
+Carver serves as Burrell’s mole inside Daniels’ detail in Season 1	Carver	Daniels’ detail	70	20	Bandit	He gains promotion and favor at the cost of undermining his unit’s trust and effectiveness.
+Burrell rewards Carver with promotion to Sergeant for being his mole	Burrell	Carver	65	30	Bandit	Burrell secures an ally and extends influence while promoting someone for political reasons over merit.
+Carver scores worse than Herc on the Sergeant’s exam yet is still promoted	Carver	Herc	65	20	Bandit	He benefits from an unearned promotion that disadvantages a better-scoring colleague.
+Carver later earns genuine respect and authority by showing leadership skills	Carver	Subordinates and colleagues	85	85	Intelligent	He develops real competence and leadership, substantially helping both his career and his team.
+Carver is promoted to Lieutenant on merit at the end of the series	Police institution (promoters)	Carver	80	70	Intelligent	He receives a deserved advancement that rewards performance and likely improves command quality.
+Carver follows Colvin’s advice and becomes a reference figure in the neighborhood	Carver	Community	85	90	Intelligent	Adopting community-oriented policing boosts his effectiveness and greatly benefits residents.
+Carver takes lessons from Daniels and Colvin to heart and becomes a respected leader	Carver	Carver’s squad	85	85	Intelligent	Internalizing mentorship improves his own trajectory and the welfare and performance of his men.
+Carver evolves from a hardass cop who barely acknowledges the community to caring about it	Carver	Community	80	90	Intelligent	His shift toward empathy aids his own professionalism and deeply benefits the people he polices.

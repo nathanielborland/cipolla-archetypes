@@ -1,0 +1,21 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Robbers dedicate the bank heist to Nairobi after her death	Robbers	Nairobi	30	40	Helpless	They gain emotional motivation but no material benefit while escalating a dangerous heist that harms many others.
+Nairobi enlists Torres to mass-produce money	Nairobi	Bank/Mint/state	80	10	Bandit	She furthers her and the gang’s robbery goals while undermining the institution and economy.
+Nairobi lets hostages choose to get some money themselves	Nairobi	Hostages	65	35	Bandit	She slightly encourages hostages’ cooperation and goodwill at the cost of deepening their involvement in a crime.
+Torres chooses the “money” option over liberty when given the choice	Torres	Himself	20	15	Helpless	He sacrifices immediate freedom for illegal gain, exposing himself and others to serious legal and personal risk.
+Nairobi joins the Professor’s plan to get her kid back	Nairobi	Herself/authorities	55	25	Bandit	She may move closer to regaining her child via criminal action that harms the state and bystanders.
+Nairobi maintains cheerful spirit for the crew during hard times	Nairobi	Crew	60	85	Intelligent	Her emotional support keeps morale up, benefiting the group while also giving her a valued role.
+Nairobi develops romantic feelings for gay Helsinki	Nairobi	Herself	40	55	Helpless	Her unreciprocated feelings hurt her emotionally while deepening a supportive, sibling-like bond.
+Nairobi and Tokyo operate as a combat-effective duo (“Lovely Angels”)	Nairobi & Tokyo	Opponents/authorities	75	10	Bandit	Their coordinated action increases their survival and heist success while endangering opponents and law enforcement.
+Nairobi often appears in revealing clothing	Nairobi	Audience/observers	55	65	Intelligent	She likely boosts her confidence and social power while providing visual pleasure to others with no shown harm.
+Nairobi resolves to be a good mom to future kids to atone for abandoning Axel	Nairobi	Future children	70	80	Intelligent	Her commitment to change would improve her life and her future children’s well-being if realized.
+Nairobi behaves kindly and only gets angry with good reason	Nairobi	People around her	75	80	Intelligent	Her prosocial behavior strengthens relationships and trust, benefiting her and others.
+Nairobi acts as the most reasonable crew member in arguments	Nairobi	Crew	70	75	Intelligent	Her rational stance helps steer decisions toward sanity while increasing her influence and respect.
+Nairobi becomes very close to Helsinki as platonic life-partner	Nairobi	Helsinki	80	90	Intelligent	The deep mutual support and affection strongly benefit both emotionally.
+Helsinki loves Nairobi like a sister and grieves deeply when she’s killed	Helsinki	Nairobi	40	70	Helpless	His love enriches their bond but leaves him devastated and less functional after her death.
+Gandia publicly guns down Nairobi in front of the heist members	Gandia	Crew	60	5	Bandit	The killing asserts his power and terrorizes the crew while gravely harming Nairobi and traumatizing everyone.
+Berlin stages Nairobi’s death as a spectacle to show his monstrous nature (as Sacrificial Lion framing)	Berlin	Crew	35	10	Bandit	Using her death theatrically boosts his fearsome image but further damages group cohesion and others’ well-being.
+Tokyo prompts Nairobi to talk about losing custody of her child	Tokyo	Nairobi	60	65	Intelligent	The prompted disclosure deepens emotional understanding and catharsis for Nairobi and gives Tokyo insight.
+Nairobi openly shares her somber feelings about losing custody of her child	Nairobi	Tokyo	55	70	Intelligent	She gains some relief and connection while helping Tokyo understand her trauma and motives.
+Nairobi flirts playfully at times	Nairobi	Flirt targets	60	65	Intelligent	Light flirting boosts her self-esteem and social bonds and is presented as harmless fun for others.
+Nairobi calls Berlin a pig and lists his crimes after hearing the news	Nairobi	Berlin	65	45	Bandit	She gains moral and emotional satisfaction in denouncing him, while publicly undermining him and aggravating conflict.

@@ -1,0 +1,22 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Puts many lives in danger to get what he wants	The Professor	Many unspecified others	85	10	Bandit	Pursues his own goals while knowingly endangering many lives with little concern for others’ safety.
+Wins a quick fight against Raquel's ex, a police officer	The Professor	Raquel's ex (police officer)	70	30	Bandit	Physically subduing a cop protects his operation but harms the officer and undermines law enforcement.
+Predicts police plans and uses them to his advantage	The Professor	Police	90	20	Bandit	His foresight greatly improves his success in the heists while strategically disadvantaging the police.
+Falls in love with Raquel knowing she is the cop after him	The Professor	Himself & Raquel	30	20	Helpless	Emotional involvement endangers his mission and her career while offering mainly risky personal gratification.
+Executes highly detailed, crazy-prepared heist plans	The Professor	Heist team & authorities	95	15	Bandit	His extreme preparation maximizes his own and his team’s gain while facilitating a major robbery that harms institutions.
+Admits to himself he did the second heist for the thrill	The Professor	Himself	55	50	Intelligent	Honest self-insight marginally helps him understand his motives without clearly affecting others.
+Admits he plays Robin Hood image just to fool the public	The Professor	Public opinion	60	15	Bandit	Protects his criminal project by deceiving fans, preserving his advantage while misleading others.
+Infiltrates Alberto’s car and provokes him about past abuse	The Professor	Alberto	65	25	Bandit	Manipulation helps him access evidence but psychologically harms and destabilizes Alberto.
+Knocks Alberto out to swap incriminating evidence	The Professor	Alberto	80	10	Bandit	Neutralizing Alberto and altering evidence secures his safety while obstructing justice and harming Alberto.
+Beats himself to create bruises for a fake brutality story	The Professor	Himself	20	15	Stupid	He inflicts real damage on himself for a risky con with uncertain payoff and no direct benefit to others.
+Calls Raquel and uses bathroom break to stage Wounded Gazelle gambit	The Professor	Raquel & police	75	20	Bandit	Gains sympathy and legal leverage through deception, undermining proper investigation.
+Publishes fake clown advert to flood the hospital	The Professor	Hospital staff & patients	70	25	Bandit	Helps him scout covertly at the cost of disrupting hospital operations and confusing many innocents.
+Gives a toy camera to a child to scout the hospital	The Professor	Child & police	75	20	Bandit	Gains intel using a child as an unwitting asset, improving his position while risking the child and undermining security.
+Frees some hostages and invites a journalist inside	The Professor	Hostages & public	60	55	Intelligent	Partial release and media access improve his leverage and image while tangibly benefiting released hostages and public transparency.
+Insists that no one gets injured during the heist	The Professor	Hostages & his team	80	80	Intelligent	Protects both his team’s legal/psychological burden and the hostages’ safety.
+Is sincere with Raquel in their personal interactions	The Professor	Raquel	55	70	Intelligent	Honesty fosters real emotional connection and clarity even though it risks his cover.
+Searches for context clues to prove Lisbon is alive	The Professor	Lisbon	85	70	Intelligent	His deductive work protects his ally and stabilizes his own planning without harming others.
+Attempts to kill Raquel's mother with poisoned coffee	The Professor	Raquel's mother	10	5	Stupid	Preparing to murder an elderly woman to protect himself gravely risks his moral and legal standing while offering minimal guaranteed gain.
+Stops Raquel's mother from drinking the poisoned coffee	The Professor	Raquel's mother	30	85	Helpless	Aborting the murder saves her but leaves him exposed and burdened, sacrificing his own security for her life.
+Plays a fatherly role to the heist team, especially Tokyo	The Professor	Heist team (esp. Tokyo)	75	85	Intelligent	Emotional support and guidance help the crew function and cope, strengthening both his leadership and their well-being.
+Uses hostages and media to turn public opinion in their favor	The Professor	Public & authorities	75	25	Bandit	He improves his strategic position and public cover while manipulating narratives and prolonging a criminal crisis.

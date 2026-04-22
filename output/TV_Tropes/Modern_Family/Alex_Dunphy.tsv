@@ -1,0 +1,38 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Alex faints at the sight of blood	Alex	Herself/nearby others	20	45	Helpless	Fainting harms her (and mildly inconveniences others) with no compensating benefit.
+Claire ignores Alex fainting and orders Haley to revive her	Claire	Alex	55	35	Bandit	Claire conserves her own energy/attention while leaving Alex’s needs to Haley, showing mild disregard.
+Haley revives Alex when asked	Haley	Alex	55	70	Intelligent	Haley exerts minor effort to help Alex, with little cost to herself.
+Alex humiliates herself trying to get a picture of Haley doing community service	Alex	Alex	15	50	Helpless	Her own dignity suffers while no real benefit to herself or others is shown.
+Dunphy family tries to get Alex to leave the house for the summer because they think she's bad luck	Dunphy family	Alex	60	15	Bandit	They seek comfort/superstition relief at Alex’s expense by pushing her out.
+Phil and Claire assume Alex is making up her boyfriends	Phil and Claire	Alex	52	35	Bandit	They spare themselves effort to understand Alex while undermining her credibility and feelings.
+Alex and Haley develop a sincere, confiding relationship	Alex and Haley	Each other	85	90	Intelligent	Mutual emotional support benefits both sisters substantially.
+Alex and Haley act as cool big sisters to Lily	Alex and Haley	Lily	70	85	Intelligent	They gain positive roles/connection while providing strong support to Lily.
+Alex makes quips at Haley's lack of intelligence	Alex	Haley	60	30	Bandit	She gets ego gratification while hurting Haley’s feelings and confidence.
+Alex continues cello despite hating it because she’s never quit	Alex	Herself/future opportunities	70	75	Intelligent	Long-term discipline and resume benefits outweigh her short-term dislike.
+Luke tells Alex and Haley they are not good older sisters	Luke	Alex and Haley	55	40	Bandit	He vents honestly, possibly feeling better, but delivers hurtful criticism to them.
+Alex enacts disproportionate retribution on Luke over a harmless pun	Alex	Luke	60	20	Bandit	She gets emotional satisfaction from overreacting while causing Luke undue harm.
+Alex dates two guys at once	Alex	Two boyfriends	70	25	Bandit	She gains extra attention and options while likely misleading and hurting the boys.
+Alex participates in bottle-collection program to help build schools in third-world countries	Alex	Third-world students	80	90	Intelligent	She improves her resume and altruistically contributes to educational projects.
+Alex dates geeky Reuben mainly because she’s depressed and wants easy worship	Alex	Reuben	40	35	Stupid	Her depression isn’t resolved and she builds a relationship on inauthentic motives that risk hurting both.
+Alex displays jealousy of Haley’s beauty and popularity	Alex	Herself	20	45	Helpless	Her envy mainly damages her own self-esteem without helping others.
+Alex claims she’s not pretty and that Haley and Gloria are more attractive	Alex	Herself	30	55	Helpless	She reinforces her own insecurity while mildly validating others’ attractiveness.
+Alex fails to suspect her parents are having sex because she’s hiding her own secret about New York	Alex	Herself	45	50	Helpless	Her focus on hiding her lie blinds her, giving her no clear advantage and leaving her ignorant.
+Alex cracks jokes at Haley’s poor grades	Alex	Haley	60	30	Bandit	She bolsters her own superiority while demeaning Haley.
+Alex isolates socially despite great intellect	Alex	Herself	25	50	Helpless	Her academic focus contributes to social isolation that mainly harms her.
+Alex casually mentions that some parents hit their children when Luke is in trouble	Alex	Luke	65	25	Bandit	She enjoys unnerving Luke and asserting knowledge at his emotional expense.
+Alex walks away smirking after thinking Phil hit Luke	Alex	Luke	65	15	Bandit	She relishes perceived punishment of Luke while ignoring potential harm to him.
+Alex sometimes crosses into cruelty when insulting siblings	Alex	Siblings	60	25	Bandit	She gains catharsis and ego boosts while needlessly hurting them.
+Alex ultimately acts with her heart in the right place despite snark	Alex	Family	80	80	Intelligent	Her underlying care and supportive actions benefit both her and her family.
+Alex tries to pass off as a medical student	Alex	Hospital staff/patients	30	30	Stupid	Impersonation risks serious consequences for herself and others without clear benefit.
+Alex passes out after seeing a C-section	Alex	Herself/medical staff	15	40	Helpless	Fainting endangers her and inconveniences others without gain.
+Alex works across multiple scientific areas as part of her career	Alex	Academic/scientific community	90	85	Intelligent	Her broad skillset advances her career and contributes intellectual value.
+Alex guides her family and points out that rhubarb leaves are poisonous, preventing poisoning	Alex	Her family	95	95	Intelligent	She protects everyone, including herself, from serious harm through knowledge.
+Phil admits “You can’t leave us, we’re a danger to ourselves”	Phil	Alex	70	80	Intelligent	Recognizing her value strengthens family ties and acknowledges her role.
+Alex seduces nerds by shaking her hair loose to stop them bullying Luke and Manny	Alex	Nerds; Luke and Manny	80	85	Intelligent	She uses her appeal strategically to end bullying and protect the boys with minimal self-cost.
+Alex tricks siblings by “teaching” them fake things (e.g., rubbing a phone for static recharge)	Alex	Siblings	70	20	Bandit	She enjoys pranking and feeling superior while misleading and frustrating them.
+Alex tells Luke he’s adopted and Phil’s ex is his real mom coming to take him	Alex	Luke	65	10	Bandit	She amuses herself by terrifying Luke emotionally.
+Phil’s ex jokes about wanting to take Luke home	Phil’s ex	Luke	60	25	Bandit	She entertains herself and others while making Luke deeply upset.
+Alex’s pranks on Luke worsen to physical pain after Haley leaves for college	Alex	Luke	60	10	Bandit	She vents loneliness through increasingly harmful pranks that hurt Luke.
+Alex starts mocking Claire more openly after Haley goes to college	Alex	Claire	55	30	Bandit	Her increased snark relieves her feelings but undermines Claire.
+Claire sets up a video chat with Haley and leaves them to yell at each other to restore balance	Claire	Alex and Haley	80	75	Intelligent	She redirects their hostility into a mutual outlet that re-balances family dynamics.
+Alex feels ostracized as the “un-favorite” due to her intellect	Alex	Herself	25	55	Helpless	Her perception mainly harms her own emotional well-being without aiding others.

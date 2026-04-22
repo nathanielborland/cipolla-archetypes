@@ -1,0 +1,32 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Kif constantly puts up with Zapp's ego, unreasonable demands, and stupidity	Kif	Zapp	20	40	Helpless	Kif endures abuse with little personal benefit while enabling Zapp’s continued dysfunction.
+Kif responds to Zapp with a weary sigh catchphrase	Kif	Zapp	45	45	Helpless	Expressing exasperation provides mild emotional relief but changes nothing for himself or others.
+Kif becomes a demanding boss when he has his own underling	Kif	Underling	60	30	Bandit	He vents stress by asserting control over a subordinate, helping his feelings while burdening them.
+Kif snaps and punches Zapp in the stomach after learning about Zapp sleeping with Amy	Kif	Zapp	55	30	Bandit	The punch relieves Kif’s anger and asserts boundaries but mainly harms Zapp without broader benefit.
+Zapp frequently has Kif do humiliating things	Zapp	Kif	70	10	Bandit	Zapp gains ego gratification and convenience at the cost of Kif’s dignity and well‑being.
+Kif often gets blamed when Zapp makes mistakes	Zapp	Kif	65	5	Bandit	Zapp protects his status by shifting blame directly onto Kif.
+Kif engages in a romantic relationship with Amy	Kif	Amy	90	85	Intelligent	The relationship brings mutual emotional fulfillment and support.
+Bender joins Kif in the exasperated sigh at Zapp	Bender	Zapp	55	45	Bandit	Bender gains shared amusement while offering only minor social pressure against Zapp.
+Kif evolves from snarker into an extreme doormat under Zapp's idiotic commands	Kif	Zapp	15	35	Helpless	His compliance erodes his own autonomy and mental health while allowing Zapp’s bad leadership to persist.
+Kif acts as Cloudcuckoolander's Minder to Zapp despite not wanting to	Kif	Zapp	30	55	Helpless	He sacrifices his own comfort to keep Zapp and situations somewhat under control for others’ sake.
+Kif becomes depressed when Zapp gets a new toady	Kif	Zapp	20	50	Helpless	His emotional dependence on a bad situation harms himself while not materially affecting others.
+Kif goes into an Unstoppable Rage when new toady manipulates Zapp	Kif	New toady	35	40	Helpless	His rage vents emotion but likely brings trouble on himself without clear benefit to anyone.
+Kif is openly hostile and constantly yells at Fry as his assistant	Kif	Fry	60	25	Bandit	Kif relieves repressed anger and asserts status while stressing Fry, though he avoids life‑threatening harm.
+Kif refrains from endangering Fry’s life like Zapp would	Kif	Fry	70	80	Intelligent	He manages his anger enough to avoid lethal risks, preserving his own conscience and Fry’s safety.
+Kif maintains no bad blood with Fry and greets him friendly later	Kif	Fry	75	80	Intelligent	Forgiving Fry improves their relationship and Kif’s social environment.
+Kif rescues Zapp from giant tardigrades while nude for camouflage	Kif	Zapp	60	80	Intelligent	He risks embarrassment to effectively save Zapp’s life.
+Kif rides a Martian cow through a sandstorm to save Amy from a tornado	Kif	Amy	80	90	Intelligent	He takes serious risk to successfully protect Amy, strengthening their bond.
+Kif fights on the front lines in the Spiderian War and holds his own	Kif	Enemies	70	75	Intelligent	He gains competence and status while effectively defending others in combat.
+Kif becomes pregnant and carries children	Kif	Offspring	75	80	Intelligent	Though burdensome, pregnancy fulfills reproductive role and brings valued offspring.
+Kif remains nice to Fry after being launched into space by Zapp	Kif	Fry	70	75	Intelligent	Maintaining goodwill benefits his social network and personal peace.
+Kif puts a note in frozen Zapp’s prison telling people to return him	Kif	Society/Authority	40	10	Stupid	Releasing Zapp slightly eases Kif’s guilt but re‑inflicts Zapp’s disastrous leadership on everyone.
+Kif and Zapp blackmail the government into restoring Zapp’s position	Kif	Government/Society	45	5	Bandit	Kif regains status and a role but enables Zapp’s harmful command over many others.
+Zapp blames Kif whenever he does something wrong	Zapp	Kif	75	5	Bandit	Zapp protects his reputation at direct cost to Kif’s.
+Kif makes heavy‑breathing prank‑like calls to Amy instead of confessing feelings	Kif	Amy	35	40	Helpless	His anxiety‑driven behavior distresses him and confuses Amy without advancing the relationship.
+Kif goes into homelessness and prostitution with Zapp after being fired	Kif	Kif	10	45	Helpless	He harms himself by following Zapp into degradation with no benefit to anyone.
+Zapp drags Kif back into being his assistant after mutiny	Zapp	Kif	70	20	Bandit	Zapp regains his familiar aide while trapping Kif back in an abusive dynamic.
+Kif files a formal complaint against Zapp after shower incident	Kif	Zapp	85	80	Intelligent	He protects himself and others from future abuse by appropriately using institutional channels.
+Zapp is stripped of leadership and sent to sensitivity camp due to complaint	Authority	Zapp	60	75	Intelligent	Authorities curb Zapp’s harmful behavior, improving conditions for subordinates while giving him corrective training.
+Kif trusts Zapp enough to make him best man at his wedding	Kif	Zapp	50	55	Intelligent	Despite risk, the choice seems to maintain peace and social bonds without evident harm.
+Kif stands against Zapp when Zapp goes too far against Planet Express	Kif	Zapp	85	85	Intelligent	He risks conflict to prevent Zapp’s excesses, protecting both himself and others.
+Kif prioritizes loyalty to Amy over loyalty to Zapp	Kif	Amy	90	80	Intelligent	Choosing a healthy relationship over a toxic boss benefits both him and Amy.

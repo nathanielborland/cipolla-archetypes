@@ -1,0 +1,44 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Barney drinks alcohol despite it destroying him	Barney	Barney	5	10	Stupid	Habitual drinking wrecks his own life and contributes little or nothing to others.
+Barney gives up alcohol temporarily and becomes addicted to coffee	Barney	Barney	40	55	Helpless	He gains some functioning via sobriety but replaces it with another dependency that Moe exploits.
+Barney lives a dysfunctional life brought on by alcoholism	Barney	Barney	10	20	Stupid	His ongoing alcoholic lifestyle keeps him in a chronically damaged state with no offsetting gain.
+Barney licks beer off the floor while claiming he still has dignity	Barney	Barney	8	20	Stupid	Degrading behavior for minimal short-term gratification further harms his dignity and health.
+Barney tries to fight his alcoholism	Barney	Barney	80	70	Intelligent	His efforts at sobriety significantly improve his capabilities and reduce collateral damage.
+Barney kicks the bottle and excels in astronaut training	Barney	Others on mission	90	85	Intelligent	Sobriety unlocks his genius, benefits his career prospects and serves the program well.
+Barney is okay with being touched in the shelter after learning it was Skinner	Barney	Skinner	60	55	Intelligent	He drops an unnecessary objection and accepts harmless contact, easing tension.
+Barney happily becomes “the wife” in a cult marriage to Otto	Barney	Otto	55	55	Intelligent	He participates willingly in a mutual, if odd, arrangement with no clear harm shown.
+Barney admits he is in love with Homer	Barney	Homer	60	60	Intelligent	Openly stating his feelings is honest, costs him nothing clearly, and can deepen their bond.
+Barney gives up drinking in later seasons (attempted relevance)	Barney	Barney	75	65	Intelligent	Sobriety improves his life trajectory and reduces burdens on those around him.
+Barney becomes enraged when his beer is ruined or blocked	Barney	Person ruining beer	20	10	Stupid	Overreaction to loss of alcohol harms his relations and self-control for no real gain.
+Barney knocks Homer out with one punch when drunk	Barney	Homer	45	15	Bandit	He shows effective fighting ability but harms a friend and risks consequences.
+Barney knocks out Wade Boggs and Moe while drunk	Barney	Boggs and Moe	40	15	Bandit	His combat skill empowers him but causes physical harm and likely social fallout.
+Barney easily produces the best film in Springfield’s festival	Barney	Audience/judges	80	85	Intelligent	His artistry brings him recognition while deeply moving others.
+Barney crushes Homer’s plow business as the Plow King	Barney	Homer	85	25	Bandit	His business success benefits him but directly damages Homer’s livelihood.
+Barney proves the most talented singer in the Be Sharps	Barney	Band/audience	80	80	Intelligent	His singing boosts his own success and the group’s appeal.
+Barney completes astronaut training without a hitch (sober)	Barney	NASA/crew	90	85	Intelligent	He gains a prestigious qualification and becomes a reliable asset to the mission.
+Barney doesn’t care much that alcohol destroys his abilities	Barney	Barney	15	30	Stupid	Indifference to a self-ruining flaw keeps him trapped with little compensating benefit.
+Barney stands in line at unemployment agency seeking work	Barney	Barney	60	55	Intelligent	Attempting to get a job is a rational move toward stability and reduces reliance on others.
+Barney donates sperm, producing many children	Barney	Offspring/parents	65	65	Intelligent	His donations likely provide him money and give many families children.
+Barney takes Bart’s skateboard and breaks it in half	Barney	Bart	35	20	Bandit	He vents frustration by destroying Bart’s property, gaining minor emotional relief while harming Bart.
+Barney sobers up for a few seasons	Barney	Barney	80	70	Intelligent	Sustained sobriety significantly improves his functioning and reduces harm to others.
+Moe starts serving Barney coffee to keep profiting from his addiction	Moe	Barney	75	25	Bandit	Moe gains steady revenue while perpetuating Barney’s dependency.
+Barney goes streaking at his high school senior prom	Barney	Prom attendees	40	45	Helpless	He risks humiliation for a brief thrill that mildly entertains others more than it helps him.
+Barney works as a male stripper during economic hardship	Barney	Audience	70	60	Intelligent	He finds income in a downturn and provides entertainment, with no added downside shown.
+Barney decides to give up alcohol after learning friends see him as a “tanked up loser”	Barney	Barney	85	70	Intelligent	Recognition of stigma motivates self-improvement that benefits him and eases friends’ discomfort.
+Barney’s friends at Moe’s try to make Homer the new Barney	Moe’s bar regulars	Homer	60	20	Bandit	They seek someone to normalize their drinking, at Homer’s expense.
+Barney charges a tab to Mr. Burns	Barney	Mr. Burns	30	20	Bandit	He gets drinks on credit with a dangerous creditor, gaining in the short term but risking serious fallout.
+Barney considers the painful consequences “worth it” after the Burns tab incident	Barney	Barney	20	40	Stupid	His stated valuation encourages repeating self-harming behavior for trivial gain.
+Barney lets his apartment become such a mess he can’t find his dog	Barney	Barney and dog	10	25	Stupid	Extreme neglect harms his own living conditions and his pet with no benefit.
+Barney pulls out a tranquilizer dart and drinks the remaining liquid	Barney	Barney	5	20	Stupid	He immediately consumes an unknown drug, severely risking health for negligible extra buzz.
+Barney switches addiction from alcohol to coffee when sober	Barney	Barney	45	55	Helpless	He reduces alcohol damage but maintains a self-limiting dependency that slightly benefits others (e.g., Moe).
+Barney drinks non-alcoholic champagne in celebration, undoing his sobriety	Barney	Barney	10	40	Stupid	He impulsively drinks a risky celebratory beverage and loses all his hard-earned progress.
+Homer introduces teen Barney to beer while he’s studying for SATs	Homer	Barney	55	5	Bandit	Homer gains a drinking buddy while derailing Barney’s Harvard-bound path.
+Barney starts drinking more after girlfriend Chloe leaves for her career	Barney	Barney	15	30	Stupid	He escalates a destructive coping mechanism that harms him with no clear upside.
+Homer sneaks out of work and goes to Duff Brewery with Barney	Homer	Employer/family	60	30	Bandit	Homer and Barney enjoy free samples at the cost of work responsibility and potential safety.
+Barney consumes more free beer samples than Homer at the brewery	Barney	Barney	10	40	Stupid	He maximizes personal intoxication, worsening his own impairment without helping anyone.
+Homer drives home as designated driver with a drunk Barney	Homer	Barney and public	55	70	Intelligent	Homer’s relative sobriety protects Barney and others despite his own minor risk.
+Barney tells the cops to use the breathalyzer on Homer	Barney	Homer	65	15	Bandit	He deflects attention onto Homer to save himself, leading to Homer’s license suspension.
+Cops arrest Homer and suspend his license while letting Barney go	Police	Homer	Barney	20	30	Stupid	They punish the less-drunk driver and free the more dangerous one, increasing future risk.
+Barney drives home drunk after Homer’s arrest and crashes into Wiggum’s car	Barney	Wiggum/public	5	10	Stupid	He endangers himself and others for no gain and immediately causes property damage.
+Barney repeatedly donates sperm to the IVF clinic	Barney	Prospective parents	70	70	Intelligent	He gains ongoing compensation and helps many people have children.
+Barney gets so drunk he forgets major events like his birthday party and his acclaimed film	Barney	Barney	10	45	Stupid	Blackout-level drinking erases his own achievements and memories without benefiting anyone.

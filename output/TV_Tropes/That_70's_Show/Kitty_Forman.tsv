@@ -1,0 +1,51 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Grandma yells at family	Kitty's mother	Kitty / family	15	5	Stupid	Her habitual yelling traumatizes her daughter without helping herself.
+Grandpa drinks heavily	Kitty's father	Kitty / family	20	10	Stupid	His drinking harms family life while offering him only fragile, short-term relief.
+Kitty reads helpful books about her mother	Kitty	Herself	72	60	Intelligent	She seeks understanding of her mother's emotional distance, aiding her coping and empathy.
+Kelso and Fez grope Kitty at supermarket	Kelso and Fez	Kitty	40	5	Bandit	They get brief sexual thrill while disrespecting her boundaries.
+Kitty thanks Kelso and Fez for groping her	Kitty	Kelso and Fez	55	30	Helpless	She gains a fleeting ego boost while normalizing their bad behavior toward women.
+Kitty threatens to put foot in Red’s ass when angry	Kitty	Red	48	20	Stupid	The threat vents her anger but risks escalating conflict with no clear benefit shown.
+Kitty calls Red a dumbass in rage	Kitty	Red	52	25	Bandit	She releases frustration and asserts herself while belittling him.
+Red admits Eric is going to fight a rival for Donna	Red	Eric / Donna’s rival	55	30	Bandit	He implicitly endorses macho conflict that may gratify him while risking Eric’s safety.
+Red previously fought a lifeguard who pinched Kitty	Red	Lifeguard	60	20	Bandit	He defends Kitty but uses excessive violence that mainly feeds his pride.
+Lifeguard pinches Kitty’s fanny	Lifeguard	Kitty	40	0	Bandit	He seeks sexual gratification at Kitty’s expense with clear harassment.
+Kelso gropes Kitty’s butt at grocery store	Kelso	Kitty	35	0	Bandit	He chases a thrill by touching a stranger inappropriately, disregarding her autonomy.
+Fez remains to face Kitty after Kelso runs	Fez	Kitty	30	20	Helpless	He’s left in an embarrassing, risky position while Kitty gains feelings of attractiveness.
+Red drops his pants as prank at USO dance	Red	Crowd / authority	58	45	Bandit	He gets laughs and attention but risks social censure; it incidentally leads to meeting Kitty.
+Kitty gets drunk “loose as a goose” at USO dance	Kitty	Herself / attendees	45	65	Helpless	Her heavy drinking harms her judgment but contributes to a fun atmosphere and meeting Red.
+Kitty drunkenly trips over Red at dance	Kitty	Red	70	70	Intelligent	The accident leads to mutual romantic “love at first sight” without notable harm.
+Kitty calls Laurie out on fake good-girl act	Kitty	Laurie	60	65	Intelligent	She protects family and others from Laurie’s manipulation while clarifying reality for herself.
+Kitty worries more about Eric telling Red about marijuana than the drug use	Kitty	Eric	55	60	Intelligent	She prioritizes managing Red’s reaction, shielding Eric from harsher consequences.
+Kitty later tries marijuana herself	Kitty	Herself / drug-using kids	52	55	Intelligent	She experiments mildly, building empathy and understanding with the kids with little shown harm.
+Kitty demands cigarette from gang after bad day	Kitty	Gang	40	52	Helpless	She harms her own health while candidly acknowledging at least one of them smokes.
+Kitty saves patient from penicillin allergy as nurse	Kitty	Allergic patient	80	95	Intelligent	She uses expertise to prevent likely severe harm while reinforcing her professional role.
+Kitty smokes despite knowing health risks	Kitty	Herself	20	40	Helpless	Her addiction harms her health while only giving temporary relief and minor social bonding.
+Kitty tries to quit smoking and fails	Kitty	Herself / Eric	35	65	Helpless	She suffers through quitting attempts yet doesn’t succeed, though Eric gains empathy for her.
+Kitty throws birthday party for Hyde at 18	Kitty	Hyde	70	85	Intelligent	She strengthens Hyde’s sense of belonging and her bond with him with no evident downside.
+Kitty and Red forget Kitty’s own birthday	Red and Kitty	Kitty	30	55	Helpless	Kitty is hurt by neglecting her own celebration while others escape obligation.
+Kitty does nothing special for Eric’s 18th birthday	Kitty	Eric	55	60	Intelligent	She avoids smothering him in a way he dislikes, even if it seems neglectful to others.
+Kitty prioritizes resuming sex life with Red over Eric’s 18th	Kitty	Herself / Red	75	55	Intelligent	She invests in marital intimacy at a time Eric supposedly dislikes birthday fuss.
+Fez and Kelso publicly call Kitty a hot mom	Fez and Kelso	Kitty	60	30	Bandit	They enjoy objectifying her; she gains some flattery but is reduced to an object.
+Kitty increasingly uses alcohol to cope with stress	Kitty	Herself / family	25	35	Helpless	Drinking soothes her short term while worsening mental health and family dynamics.
+Kelso and Fez chase older housewives at grocery store	Kelso and Fez	Older women	55	20	Bandit	They seek sexual encounters while subjecting women to unwanted attention.
+Kitty brings out Hyde’s better qualities	Kitty	Hyde	80	90	Intelligent	Her support helps Hyde grow while deepening her own meaningful relationships.
+Kitty mothers teenagers as if her own children	Kitty	Teenagers	78	88	Intelligent	She provides emotional and practical support and gains family-like bonds.
+Kitty adopts Hyde after his mother abandons him	Kitty	Hyde	85	95	Intelligent	She takes on major responsibility but gains a loving surrogate son; Hyde gains stability.
+Kitty encourages Eric and Donna’s early relationship	Kitty	Eric and Donna	75	80	Intelligent	She nurtures a healthy teen romance, strengthening bonds all around.
+Kitty’s support falters after learning Eric and Donna had sex	Kitty	Eric and Donna	40	40	Stupid	Her withdrawal gives her no clear benefit and only strains relationships.
+Kitty convinces Eric to reconcile with Donna after rejection	Kitty	Eric and Donna	78	88	Intelligent	She restores a valued relationship, benefiting both Eric and Donna and reaffirming her role.
+Kitty and Red obstruct Eric and Donna’s engagement plans	Kitty and Red	Eric and Donna	35	30	Stupid	They strain trust and autonomy of the couple without clear long-term gains shown.
+Kitty takes Eric to hospital on career day	Kitty	Eric	70	75	Intelligent	She exposes him to her work life, fostering understanding and career awareness.
+Kitty handles corpses and dying people clinically at work	Kitty	Patients / herself	65	80	Intelligent	Her professionalism serves patients and system while helping her function in a hard job.
+Kitty turns radio up and sings over Eric’s question about coping	Kitty	Eric	35	25	Stupid	She avoids emotional honesty, leaving herself and Eric with unresolved stress.
+Kitty cooks for days after mother-in-law dies	Kitty	Family	45	80	Helpless	She self-soothes through overwork while providing comfort and food to grieving relatives.
+Kitty mothers everyone in the gang despite Red’s irritation	Kitty	Gang	78	85	Intelligent	Her care benefits the kids and gives her purpose, even if it annoys Red.
+Kitty becomes more controlling and neurotic after menopause	Kitty	Family / gang	35	30	Stupid	Her increased control harms relationships and her own peace with no clear benefit.
+Kitty smothers Eric and surrogate kids at times	Kitty	Eric and others	40	35	Stupid	Her overcontrol stresses others and heightens her own anxiety.
+Kitty neglects Laurie while smothering Eric	Kitty	Laurie	25	20	Stupid	Uneven attention damages Laurie and worsens Kitty’s guilt and family problems.
+Kitty becomes angry with Donna for making out with Randy in Eric’s room	Kitty	Donna	40	30	Stupid	She misdirects anger at Donna, harming that relationship without resolving her real issue with Eric.
+Kitty vents anger at Donna due to resentment toward Eric in Africa	Kitty	Donna	30	25	Stupid	Venting at the wrong target hurts Donna and does not help Kitty process feelings.
+Kitty fights Gwen and Jay over who hugs Leia first	Kitty	Gwen and Jay	65	70	Intelligent	Her competitiveness is mild and rooted in affection, reinforcing Leia’s sense of being loved.
+Kitty expresses big excitement to see Leia in summer	Kitty	Leia	85	90	Intelligent	Her enthusiasm strengthens Leia’s emotional security and gives Kitty joy.
+Kitty objects to being called old	Kitty	Commenter	58	50	Bandit	She protects her self-image but slightly pressures others to tiptoe around her age.
+Kitty storms out after ranting at Red for blessing Eric’s move	Kitty	Red	38	35	Stupid	Her intense outburst and exit leave both more distressed without solving the conflict.

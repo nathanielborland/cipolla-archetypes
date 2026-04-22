@@ -1,0 +1,24 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Creates an app (SeeFood) that sells for millions	Jian Yang	App customers / market	82	60	Intelligent	He builds a successful product, gains wealth, and there’s no indication of harm to users or others.
+Squanders the money he gained from his SeeFood app	Jian Yang	Jian Yang	10	50	Helpless	He loses his newfound wealth through his own behavior without clear effect on others.
+Leaves fish carcasses in the sink and burns trash, annoying Erlich	Jian Yang	Erlich	60	25	Bandit	He maintains his habits at Erlich’s expense, mildly benefiting his own comfort while harming Erlich’s living conditions.
+Uses his position as Erlich’s tenant/housemate to later “screw Erlich over”	Jian Yang	Erlich	80	15	Bandit	He leverages proximity and legal position to exploit Erlich, benefiting himself while clearly harming Erlich.
+Begins amusing himself by repeatedly prank calling Erlich ineptly	Jian Yang	Erlich	55	30	Bandit	He gains entertainment from harassing Erlich, giving himself minor benefit and imposing annoyance on Erlich.
+Takes pleasure in making Erlich suffer (sadistic behavior)	Jian Yang	Erlich	60	20	Bandit	He derives emotional satisfaction from Erlich’s suffering, so he benefits while directly harming Erlich.
+Maliciously keeps misnaming Erlich as “Eric” to spite him	Jian Yang	Erlich	55	35	Bandit	He gains petty satisfaction from disrespecting Erlich’s name, slightly benefiting himself while needlessly irritating Erlich.
+Actively attacks Erlich and revels in his misfortune as the relationship worsens	Jian Yang	Erlich	65	20	Bandit	He increasingly targets Erlich and enjoys his setbacks, raising his own satisfaction while harming Erlich.
+Extorts others to make money	Jian Yang	Victims of extortion	80	10	Bandit	He gains financial benefit by coercing others, strongly helping himself while seriously harming them.
+Uses violence in pursuit of profit	Jian Yang	Victims of violence	75	5	Bandit	He advances his interests through violence, severely harming others for his own gain.
+Employs slave labor in his businesses for profit	Jian Yang	Enslaved workers	90	0	Bandit	He maximizes his profit by exploiting slave labor, gaining greatly while causing extreme harm to others.
+Exploits other people, including children, via fake camp scams	Jian Yang	Scam victims (incl. children)	85	5	Bandit	He profits by deceiving vulnerable people for fake camps, greatly benefiting himself while heavily hurting others.
+Works on making Chinese ripoffs of American websites including Pied Piper	Jian Yang	Original sites (incl. Pied Piper)	70	20	Bandit	He pursues profit by copying and undercutting others’ platforms, boosting himself while harming the originals’ interests.
+Fakes Erlich’s death to own Erlich’s house	Jian Yang	Erlich	90	5	Bandit	He gains a major asset (the house) by fraudulently declaring Erlich dead, severely damaging Erlich’s rights and interests.
+Kicks out the Pied Piper crew from the incubator after obtaining the house	Jian Yang	Pied Piper crew	75	10	Bandit	He secures sole control over the property, benefiting himself while significantly harming the displaced tenants.
+Kicks out all the other residents of the incubator in Season 5	Jian Yang	Other incubator residents	75	10	Bandit	He consolidates control and space for himself at the clear expense of everyone forced to leave.
+Becomes a crime boss in Southeast Asia	Jian Yang	Crime victims / society	88	5	Bandit	He gains power and ongoing illicit profit by running organized crime, which broadly harms others.
+Steals Erlich’s identity (in the Distant Finale)	Jian Yang	Erlich	85	5	Bandit	He obtains ongoing benefits and access by impersonating Erlich, gravely compromising Erlich’s identity and reputation.
+May have killed Erlich to assume his identity	Jian Yang	Erlich	95	0	Bandit	If he killed Erlich, he maximizes his own security and gain while inflicting total harm on Erlich.
+Fakes his own death and assumes Erlich’s identity	Jian Yang	Authorities / associates	80	20	Bandit	He escapes legal/financial consequences and gains new advantages by disappearing and living as Erlich, while misleading and complicating matters for others.
+Fakes Erlich’s death in Season 5 (explicitly mentioned)	Jian Yang	Erlich	90	5	Bandit	He again uses the fake-death ruse to strip Erlich of legal personhood and seize assets, benefiting greatly while harming Erlich severely.
+Gambles all of his money away	Jian Yang	Jian Yang	5	50	Helpless	He destroys his own financial position through reckless gambling without clear effect on others.
+Is forced to let the Pied Piper crew back into the incubator after losing his money	Jian Yang	Pied Piper crew	40	80	Helpless	He suffers a loss of exclusive control and prestige while the crew gains critical housing and workspace.

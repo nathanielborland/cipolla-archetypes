@@ -1,0 +1,66 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Sméagol murders Déagol for the Ring	Sméagol	Déagol	90	5	Bandit	He gains the Ring and extended life at the cost of killing his cousin and starting his own ruin.
+Sméagol examines and hooks a live bait-worm with a smile	Sméagol	Bait-worm	55	40	Intelligent	He secures fishing bait for himself; minimal broader impact beyond routine hunting.
+Sméagol spends centuries alone in the mountains with only the Ring	Sméagol	Himself	10	50	Helpless	His isolation and dependence on the Ring devastate his mind and life without affecting others directly.
+Sauron’s forces torture Gollum for information about the Ring	Sauron’s forces	Gollum	70	5	Bandit	They likely gain intelligence at the cost of severely harming Gollum.
+The Ring extends Gollum’s lifespan to ~600 years	The Ring (as force)	Gollum	75	40	Intelligent	He gains vast longevity despite corruption already in place, others largely unaffected yet.
+The Ring drives Sméagol to kill his cousin and abandon normal life	The Ring (as force)	Sméagol	20	10	Stupid	It pushes him into murder and lifelong ruin with no real gain beyond obsession.
+Bilbo takes the Ring and leaves Gollum in the dark	Bilbo	Gollum	80	20	Bandit	Bilbo secures safety and the Ring, while Gollum loses his “Precious” and is left desperate.
+Gollum plays a riddle game with Bilbo	Gollum	Bilbo	55	60	Intelligent	The contest delays violence and gives both a chance to get what they want with their wits.
+Gollum decides to kill Bilbo after losing the riddle game	Gollum	Bilbo	30	10	Stupid	The intent to kill risks exposing himself and fails, yielding no benefit and harm to another.
+Gollum attempts to kill Bilbo out of spite when he loses	Gollum	Bilbo	20	5	Stupid	The murder attempt fails and only increases his loss and danger to others.
+Gollum looks at his reflection and realizes Bilbo has the Ring	Gollum	Himself	65	50	Intelligent	He correctly deduces the Ring’s location, improving his informational position.
+Gollum stalks and trails the Fellowship to retake the Ring	Gollum	Fellowship	50	20	Bandit	He pursues a chance to reclaim the Ring while posing a covert threat to them.
+Gollum survives starvation, marshes, torture, and a cliff fall through sheer determination	Gollum	Himself	75	45	Intelligent	His tenacity preserves his life and capacity to act, with limited direct effect on others.
+Gollum reacts with horror to Elven rope and lembas bread	Gollum	Himself	30	60	Helpless	His corruption makes beneficial items agonizing, harming him while blocking help from others.
+Gollum, spared by Frodo and Sam, agrees to guide them to Mordor	Gollum	Frodo and Sam	70	75	Intelligent	He gains acceptance and purpose while providing crucial guidance toward their goal.
+Sméagol takes a shine to Frodo because Frodo is kind to him	Sméagol	Frodo	60	70	Intelligent	He emotionally aligns with Frodo, which softens him and supports Frodo’s efforts.
+Sméagol banishes the Gollum side for a time	Sméagol	Gollum persona	65	70	Intelligent	Suppressing his darker self improves his behavior and safety for himself and companions.
+Gollum serves as token evil teammate and not-always-willing guide	Gollum	Frodo and Sam	65	70	Intelligent	He retains a shot at the Ring while materially helping their progress.
+Sméagol swears on the Ring to do no harm to Frodo and Sam	Sméagol	Frodo and Sam	60	80	Intelligent	He gains conditional trust and stability while committing to protect them.
+Sméagol uses his oath to argue against Gollum’s wish to turn back to Mordor	Sméagol	Gollum persona	65	75	Intelligent	He safeguards his bond with Frodo and keeps the mission on track.
+Frodo and Sam spare Gollum’s life	Frodo and Sam	Gollum	65	85	Intelligent	They risk some danger but gain an indispensable guide and instrument of the Ring’s eventual doom.
+Sam remains cruel and suspicious toward Gollum even when he behaves well	Sam	Gollum	45	30	Bandit	Sam defends Frodo via distrust but worsens relations and helps drive Gollum back to treachery.
+Sam finally starts to trust Gollum and calls him “very decent”	Sam	Gollum	60	70	Intelligent	This brief acceptance eases tension and could have reinforced Gollum’s better side.
+Sméagol initially sides with Frodo and seemingly overcomes the Ring’s corruption	Sméagol	Frodo	70	80	Intelligent	He moves toward redemption and gives Frodo a loyal ally.
+Sméagol shows desire for connection and his former innocent self	Sméagol	Himself	65	75	Intelligent	His yearning for normalcy improves his mental state and potential prosocial behavior.
+During the Forbidden Pool scene, Gollum’s darker instincts reassert, and he starts plotting against the Hobbits	Gollum	Frodo and Sam	40	20	Bandit	He sacrifices a chance at real redemption for a risky scheme to regain the Ring.
+Faramir and his Rangers capture Gollum roughly	Faramir and Rangers	Gollum	55	30	Bandit	They secure a dangerous creature and intel while traumatizing him and damaging the fragile alliance.
+Frodo tricks Gollum into being captured by Faramir’s Rangers	Frodo	Gollum	40	25	Bandit	Frodo protects the broader mission but deeply betrays Gollum’s trust and destabilizes him.
+Gollum feels betrayed by Frodo after the Ranger incident	Gollum	Frodo	35	30	Helpless	His resentment poisons a potentially salvific relationship and drives him toward self-destructive revenge.
+Gollum begins plotting to murder Frodo and Sam for the Ring	Gollum	Frodo and Sam	35	15	Bandit	He seeks a huge personal gain at high risk to himself and enormous harm to them.
+Sméagol and Gollum argue, with Gollum bullying Sméagol back toward betrayal	Gollum persona	Sméagol persona	30	20	Stupid	The darker side sabotages their one path to safety and acceptance for no guaranteed payoff.
+Sméagol eventually sides with Gollum outright	Sméagol	Gollum persona	25	20	Stupid	Choosing his darker self shuts the door on redemption and leads toward his doom.
+Gollum manipulates and lies to Frodo and Sam while acting friendly	Gollum	Frodo and Sam	40	15	Bandit	He inches closer to reclaiming the Ring while undermining the trust that sustains him.
+Gollum delights in tormenting others and inflicting petty harm	Gollum	Others	35	15	Bandit	He gains emotional gratification at others’ expense while worsening his social standing.
+Gollum acts as the main recurring threat to Frodo and Sam’s quest	Gollum	Frodo and Sam	40	20	Bandit	His opposition may net him the Ring if successful, but it constantly endangers them.
+Gollum torments Frodo by singing a taunting song in Shelob’s lair	Gollum	Frodo	20	5	Stupid	The mockery adds psychological harm to Frodo without helping Gollum’s objective.
+Gollum gleefully rubs his betrayal in Frodo’s face on Mount Doom’s slope	Gollum	Frodo	15	5	Stupid	He wastes time and focus on cruelty instead of securing the Ring, aiding his own undoing.
+Gollum reacts to Elven bread as if it were filth and refuses it	Gollum	Himself	25	70	Helpless	He chooses starvation over nourishing food because of his corruption, while others try to help.
+Sméagol blames the Ring for making him want to kill Frodo in Shelob’s lair	Sméagol	The Ring	35	45	Helpless	Shifting blame hinders self-awareness and reform despite Frodo’s pity.
+Frodo fights Gollum in Shelob’s lair	Frodo	Gollum	45	40	Bandit	He defends himself and the Ring but fails to resolve the threat and again spares Gollum.
+Sméagol briefly resurfaces in Shelob’s lair, evoking Frodo’s pity	Sméagol	Frodo	55	75	Intelligent	His vulnerability elicits mercy and a chance—however squandered—for change.
+Frodo spares Gollum in Shelob’s lair	Frodo	Gollum	60	85	Intelligent	He risks immediate danger but preserves the very agent who will later ensure the Ring’s destruction.
+Frodo admits the true purpose of the quest (to destroy the Ring) to Gollum	Frodo	Gollum	40	40	Helpless	Honesty aligns with the mission but destabilizes Gollum, prompting renewed attack.
+Upon learning the quest’s purpose, Gollum snaps and attacks Frodo again	Gollum	Frodo	25	10	Stupid	The attack undermines his chance at acceptance and sets up his own fatal end.
+Gollum swears on the Ring then later breaks his oath and tries to kill Frodo	Gollum	Frodo	20	10	Stupid	Oath-breaking destroys any remaining trust and leads directly to his demise.
+Gollum coldly says “Sméagol lied” while choking Frodo	Gollum	Frodo	15	5	Stupid	The gloating yields no extra gain and cements total moral and relational collapse.
+Gollum deceives Frodo and Sam into Shelob’s lair to have them killed	Gollum	Frodo and Sam	35	5	Bandit	He nearly secures the Ring at enormous risk to them and to the world.
+Gollum attempts to take the Ring back from Frodo in Mount Doom	Gollum	Frodo	30	80	Intelligent	Though selfishly motivated, his struggle triggers the Ring’s destruction, saving others.
+Gollum bites off Frodo’s finger to reclaim the Ring	Gollum	Frodo	35	20	Bandit	He regains the Ring at last while gravely injuring Frodo and courting danger at the edge.
+Gollum dances and exults with the Ring at the Cracks of Doom	Gollum	Himself	40	5	Stupid	His careless jubilation near the precipice directly causes his fatal fall.
+Gollum falls with the Ring into Mount Doom’s lava, still clinging to it	Gollum	Himself	0	95	Helpless	He dies horribly while unintentionally guaranteeing the Ring’s destruction and saving Middle-earth.
+As he sinks in lava, Gollum holds the Ring up, trying to keep it from destruction	Gollum	The Ring	0	90	Helpless	His futile effort intensifies his suffering while inadvertently ensuring the greater good.
+Gollum’s attempt to seize the Ring from Frodo causes it to fall into the fire	Gollum	Frodo and the Ring	5	100	Helpless	The grab dooms him and destroys his obsession, but it completely saves everyone else.
+Gollum upstages Andy Serkis at the MTV Awards and rants about filming	Gollum	Andy Serkis and audience	60	65	Intelligent	He creates a humorous, memorable moment that boosts both his and Serkis’s profile.
+Gollum throws shade at Dobby and Peter Jackson in his rant	Gollum	Dobby and Peter Jackson	55	40	Bandit	He gains laughs and attention while mildly insulting others’ reputations.
+Gollum serves as a Final Boss to heroes trying to throw the Ring in the game	Gollum	Heroes	45	30	Bandit	He stands between them and success to protect his interest in the Ring.
+Gollum acts as Sauron’s de facto heavy by menacing Frodo and Sam	Gollum	Frodo and Sam	40	20	Bandit	He advances the Dark Lord’s implicit interest by threatening the quest while chasing his own.
+Gollum’s offscreen stealth movements to appear behind Bilbo	Gollum	Bilbo	55	35	Bandit	His stealth advantages him tactically while unnerving and endangering Bilbo.
+Sméagol repeatedly talks to his reflection as a second self	Sméagol	Himself	35	50	Helpless	His fragmented self-dialogue reflects and reinforces his broken psyche without aiding him.
+Gollum stalks Frodo and Sam through three films without a crush	Gollum	Frodo and Sam	45	30	Bandit	This persistent pursuit keeps him close to the Ring while endangering them.
+By guiding Frodo and Sam toward Mordor, Gollum almost gives Sauron victory	Gollum	The Free Peoples	20	10	Stupid	His interference nearly results in the Ring’s recovery and disaster for all with no sure gain.
+Gollum’s last intervention at Mount Doom prevents the Ringwraiths reclaiming the Ring	Gollum	Sauron and Middle-earth	5	100	Helpless	His selfish attack unintentionally saves the world while costing him everything.
+Bilbo, Frodo, and Gandalf show mercy and pity toward Gollum	Bilbo, Frodo, Gandalf	Gollum	70	85	Intelligent	Their compassion preserves the one agent whose actions finally destroy the Ring.
+Gollum lies that “the Ring made us do it” to escape responsibility	Gollum	Others	40	35	Bandit	He seeks to dodge blame and maybe pity while deepening his own self-deception and mistrust.
+Gollum obsessively calls the Ring “my Precious” and centers life on it	Gollum	Himself	20	20	Stupid	His fixation sustains his identity but entrenches isolation, misery, and self-sabotage.

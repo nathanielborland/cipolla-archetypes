@@ -1,0 +1,7 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Helsinki sends the 1000 euros (meant for the scrapyard worker) to his family	Helsinki	Helsinki's family	60	20	Bandit	He diverts mission funds to help his family, slightly benefiting them and himself while undermining the team's safety.
+Helsinki leaves the stakeout car at the scrapyard without having it destroyed	Helsinki	Heist team	20	10	Stupid	He gains nothing and gravely endangers the team by leaving incriminating evidence intact.
+Helsinki fails to clean the fingerprints from the car	Helsinki	Heist team	25	10	Stupid	By neglecting to remove prints, he again gains nothing while further risking the entire operation.
+The Professor previously gives Helsinki 1000 euros to pay the scrapyard worker and ensure the car’s destruction	The Professor	Heist team	65	85	Intelligent	He allocates money to remove key evidence, protecting both himself and the crew.
+The Professor later goes himself to find the car and clean it before the cops do	The Professor	Heist team	40	80	Intelligent	He takes a serious personal risk to safeguard the whole group from identification.
+Helsinki mercy-kills Oslo with a pillow after realizing Oslo won’t recover	Helsinki	Oslo	35	70	Helpless	He emotionally harms himself yet spares Oslo further suffering, gaining no benefit while helping his friend.

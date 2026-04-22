@@ -1,0 +1,46 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Roger offers to promote Ken to partner in exchange for Ken getting his father-in-law to sign on as an account	Roger	Ken & Ken's father-in-law	70	20	Bandit	Roger seeks personal/business gain via quid pro quo that pressures Ken and exploits his family tie.
+Ken turns down Roger’s offer because he does not want to get involved with office politics	Ken	Roger	60	55	Intelligent	Ken sacrifices quick advancement to preserve integrity and stability while modestly limiting others’ manipulative games.
+Don goes to bat for Ken to keep his job when he was fired	Don	Ken	65	80	Intelligent	Don expends capital to protect Ken’s employment, benefitting Ken greatly and costing Don little.
+Don takes time to empathize with Ken and try to help him when Ken is despairing over being fired	Don	Ken	65	85	Intelligent	Don offers emotional support and practical help that improves Ken’s well-being with minimal downside to himself.
+Ken gleefully makes Pete’s life miserable after taking a position at Dow Chemical	Ken	Pete	70	10	Bandit	Ken uses his new power to punish Pete in ways that gratify him but substantially hurt Pete professionally.
+Ken gleefully makes Roger’s life miserable after taking a position at Dow Chemical	Ken	Roger	70	10	Bandit	Ken retaliates against Roger through his control over Dow, enjoying the payback while damaging Roger’s interests.
+Ken is quite friendly with Don after joining Dow because Don previously supported him	Ken	Don	60	80	Intelligent	Ken rewards Don’s past kindness with favorable treatment, strengthening a mutually beneficial relationship.
+The Chevy executives involve Ken in a car crash	Chevy executives	Ken	55	5	Bandit	The execs’ negligence or recklessness harms Ken physically without clear benefit to him, while they likely maintain their own standing.
+The Chevy executives shoot Ken on a hunting trip	Chevy executives	Ken	55	0	Bandit	The hunting “accident” severely injures Ken while the shooters largely avoid consequences, preserving their position.
+Ken gives the Chevy account to Pete because of the trauma	Chevy trauma (situational)	Pete	30	65	Helpless	Kenn’s withdrawal relieves his own stress somewhat but costs him prestige and opportunity while benefiting Pete’s career.
+Ken calls it quits on the account and hands it to Pete after accidents	Ken	Pete	35	70	Helpless	Ken steps away from a major account (career loss) to escape further harm, passing a lucrative opportunity to Pete.
+Ken in early series takes advantage of office politics for his own gain	Ken	Co-workers	65	30	Bandit	He leverages internal politics to advance himself at the expense of peers’ standing.
+Ken starts honestly and vocally appreciating Peggy's creative work	Ken	Peggy	60	85	Intelligent	Ken’s sincere praise supports Peggy’s development and reputation while also aligning him with quality work.
+Ken settles down and gets married, becoming faithful to his wife	Ken	Ken’s wife	80	85	Intelligent	Marriage and fidelity give him stability and happiness and benefit his spouse emotionally.
+Ken is every bit the womanizer in early seasons	Ken	Various women	70	20	Bandit	He pursues casual flings for his own gratification with limited or unclear benefit to the women involved.
+Ken treats Peggy with respect when hitting on her	Ken	Peggy	55	65	Intelligent	While interested romantically, he behaves respectfully, mildly benefiting himself and significantly benefiting Peggy versus the norm.
+Ken tries (unsuccessfully) to court Jane	Ken	Jane	50	55	Intelligent	He attempts a respectful courtship; failure leaves him roughly neutral and offers Jane agency and attention without clear harm.
+Ken gets engaged and then remains faithful to his wife	Ken	Ken’s wife	85	90	Intelligent	Commitment and fidelity deepen mutual trust and long-term wellbeing for both partners.
+Ken attempts to cover up his missing eye with an eyepatch to look more distinctive	Ken	Public perception of Ken	55	60	Intelligent	The eyepatch slightly helps his self-presentation and others’ ability to recognize/relate to him.
+Ken loses an eye to a hunting accident	Hunting accident	Ken	5	50	Helpless	The accident gravely harms Ken while others emerge essentially unaffected.
+Ken respects Peggy and treats her relatively equally long before peers do	Ken	Peggy	65	90	Intelligent	His early egalitarian treatment aids Peggy’s confidence and career while also aligning him with a rising talent.
+Ken and Peggy develop into a very effective team when going after clients	Ken & Peggy	Clients & agency	80	90	Intelligent	Their collaboration boosts their reputations and brings in business, benefitting themselves and the firm.
+Ken writes and publishes over 20 SFF stories under a pseudonym	Ken	Readers	75	70	Intelligent	He gains creative fulfillment and prestige while providing entertainment and value to readers.
+Roger gives Ken a tongue-lashing for dividing his focus on writing	Roger	Ken	55	25	Bandit	Roger asserts authority and vents jealousy, undermining Ken’s confidence more than it helps him refocus.
+Ken fiddles around with getting some of his writings published	Ken	Ken’s career peers	70	60	Intelligent	Pursuing publication benefits his self-expression and status and, aside from jealousy, doesn’t materially harm others.
+Ken succeeds in getting his writings published, provoking colleagues' jealousy	Ken	Pete & Roger	75	40	Bandit	His success elevates him but indirectly harms jealous peers’ egos and standing.
+Ken quits his position at McCann when approached by the Partners to work for SCDP	Ken	McCann	65	40	Bandit	The move advances his interests with SCDP while damaging McCann by losing him unexpectedly.
+McCann makes it their first priority to fire Ken after buying SC&P, in retaliation for his earlier quitting	McCann	Ken	60	5	Bandit	They satisfy their desire for payback and consolidation while seriously harming Ken’s job security.
+Roger does not try to fight for Ken’s job when McCann fires him	Roger	Ken	70	10	Bandit	Roger avoids political or personal cost, abandoning Ken to significant loss.
+Senior staff favor Ken over Pete in early seasons	Senior staff	Pete	70	30	Bandit	They back Ken’s reliability at the expense of Pete’s advancement.
+Ken refuses to get involved in office politics, limiting his advancement	Ken	Ken	55	55	Intelligent	He trades rapid promotion for integrity and stability, balancing modest self-costs with broader organizational sanity.
+Partners do not initially deem Ken essential enough to bring to the newly formed SCDP	Partners	Ken	40	30	Bandit	They protect their core group, sidelining Ken and hurting his short-term prospects.
+Partners eventually hire Ken when the company is on more stable financial footing	Partners	Ken	75	80	Intelligent	Bringing him back improves his career and strengthens the agency with a reliable account man.
+Ken fat-shames Peggy in season one	Ken	Peggy	55	15	Bandit	He asserts social dominance or humor at Peggy’s expense, harming her self-image without real gain for himself.
+Ken’s prejudice against the Irish leads to his firing after the McCann-Erickson takeover	Ken	Irish colleagues	15	10	Stupid	His bigotry harms others and directly causes his own serious job loss.
+Ken continues making prejudiced remarks even after they contributed to his firing	Ken	Irish colleagues	20	5	Stupid	He persists in behavior that brings him no benefit and risks further reputational damage while offending others.
+Ken’s stress from managing virtually every account damages his temper	Ken	Ken	30	30	Helpless	Overwork harms his mental state and behavior without bringing commensurate long-term benefit.
+Ken snaps at Joan under extreme duress	Ken	Joan	35	25	Bandit	He vents frustration on Joan, slightly relieving stress while clearly upsetting her and straining relations.
+Ken later apologizes to Joan for his irritability	Ken	Joan	70	80	Intelligent	He repairs the relationship, restoring trust and improving the work environment for both.
+Ken is genuinely pleased to see Don and reminisces about the carousel in Central Park reminding him of Don	Ken	Don	65	75	Intelligent	He affirms their bond and Don’s legacy, strengthening goodwill with little cost.
+Roger and McCann fire Ken in Season 7’s "Severance"	Roger & McCann	Ken	60	10	Bandit	They remove a perceived problem and consolidate power while inflicting major career harm on Ken.
+Ken takes over his father-in-law's position at Dow Chemicals after being fired	Ken	Father-in-law’s former role	85	60	Intelligent	He secures a powerful new role and provides continuity and value to Dow.
+Ken calmly tells Roger and Pete that they will now need to please him	Ken	Roger & Pete	80	30	Bandit	He asserts dominance and enjoys their discomfort, benefiting himself while reducing their autonomy.
+Ken strings Roger and Pete along for a few months over Dow business	Ken	Roger & Pete	75	20	Bandit	He exacts drawn-out revenge, gaining satisfaction and leverage while wasting their time and harming their plans.
+Ken gleefully fires SC&P as Dow’s agency, blocking their California move	Ken	SC&P (Roger, Pete, partners)	80	5	Bandit	He gains emotional satisfaction and tactical advantage at Dow while severely damaging SC&P’s strategic goal.

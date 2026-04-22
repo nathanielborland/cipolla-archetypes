@@ -1,0 +1,54 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Littlefinger marries Lysa Arryn for power	Littlefinger	Lysa Arryn	80	15	Bandit	Gains status and access to the Vale while using and destabilizing Lysa.
+Littlefinger kills Lysa Arryn to take control of the Vale	Littlefinger	Lysa Arryn / Vale	75	5	Bandit	Secures de facto rule of the Vale by murdering her, greatly harming her and destabilizing rule.
+Sansa defends Littlefinger at his Vale trial	Sansa	Littlefinger	35	30	Helpless	Protects his life and power while keeping a dangerous manipulator loose, later endangering herself and others.
+Sansa later reveals Littlefinger’s crimes to the Lords of the Vale	Sansa	Littlefinger	80	85	Intelligent	Eliminates a major threat to herself and her house while helping the Vale see his treachery.
+Lords of the Vale refuse to help Littlefinger when exposed	Lords of the Vale	Littlefinger	70	80	Intelligent	They keep their loyalty to the Starks and let a traitor fall, securing their own position and realm.
+Littlefinger falls to his knees and begs Sansa for mercy	Littlefinger	Sansa	5	55	Helpless	Humiliates himself and gains nothing, but his plea at least clarifies Sansa’s resolve and agency.
+Littlefinger orchestrates Jon Arryn’s death	Littlefinger	Jon Arryn / Realm	60	0	Bandit	Removes the Hand to open opportunities for himself while triggering massive realm-wide harm.
+Littlefinger instigates Stark–Lannister feud and War of the Five Kings	Littlefinger	Westeros	70	0	Bandit	Generates chaos to climb politically at the cost of tens of thousands of lives.
+Littlefinger’s lifetime scheming ends with him getting his throat slit	Littlefinger	Himself	5	50	Helpless	All his plotting yields only his own death, with no clear broader benefit beyond removing him.
+Littlefinger rises from low birth to wealth and influence via backstabbing	Littlefinger	Various victims	78	10	Bandit	Heavily benefits himself financially and politically while routinely harming others.
+Littlefinger has former employees killed or brutalized once they’re no longer useful	Littlefinger	Ex-employees	65	10	Bandit	Protects secrets and reputation by sacrificing underlings’ lives and well-being.
+Littlefinger hands Ros over to Joffrey as “target practice”	Littlefinger	Ros	55	5	Bandit	Buys favor with Joffrey and removes a liability at the cost of Ros’s horrific death.
+Littlefinger poisons the royal finances by heavy borrowing from Iron Bank	Littlefinger	Crown / Realm	65	5	Bandit	Gains short-term leverage and prestige as Master of Coin while saddling the realm with dangerous debt.
+Littlefinger frames Tyrion and Sansa for Joffrey’s murder	Littlefinger	Tyrion & Sansa	70	5	Bandit	Deflects suspicion and clears his path while endangering and disempowering them.
+Littlefinger conspires with Olenna and Dontos to poison Joffrey	Littlefinger	House Lannister	65	20	Bandit	Weakens Lannister power for gain; some others benefit from Joffrey’s removal but chaos increases.
+Littlefinger has Lysa poison Jon Arryn and blame the Lannisters	Littlefinger	Starks & Lannisters	70	0	Bandit	Creates war-opening chaos that advances him while devastating both houses and the realm.
+Littlefinger comforts and manipulates Catelyn using Ned’s bones	Littlefinger	Catelyn Stark	30	10	Helpless	Gains no lasting advantage, reveals his nature and is rejected, while offering her some closure.
+Littlefinger gives Sansa the information that Arya is alive	Littlefinger	Sansa	40	75	Intelligent	It marginally boosts her hope/knowledge and costs him little, with no shown downside.
+Littlefinger advises Sansa where to find another army after she rejects him	Littlefinger	Sansa	45	80	Intelligent	Provides militarily useful advice with “no benefit to him at all,” aiding her cause.
+Littlefinger personally pushes Lysa through the Moon Door	Littlefinger	Lysa Arryn	70	5	Bandit	Eliminates an unstable obstacle and consolidates power while murdering her.
+Littlefinger sells out Ned Stark to Cersei	Littlefinger	Ned Stark	68	5	Bandit	Buys Lannister favor and short-term position at Ned’s lethal expense.
+Littlefinger stands unmoved during Ned’s execution, seeing advantage	Littlefinger	Ned Stark / Realm	62	5	Bandit	Allows a rival’s death to proceed, clearing his field while deepening the realm’s instability.
+Littlefinger sells Ros to Joffrey after she breaks down	Littlefinger	Ros	55	5	Bandit	Enforces “professionalism” and removes a perceived risk at the cost of her brutal death.
+Littlefinger plays Starks, Lannisters, Tyrells, Arryns against each other	Littlefinger	Major Houses	75	5	Bandit	He accumulates rank and territory while inflicting war, betrayal, and mass casualties.
+Littlefinger sinks the Crown deeper into debt then quits as Master of Coin	Littlefinger	Crown	70	10	Bandit	Leaves with boosted status while the regime is financially crippled and dependent on others.
+Littlefinger grooms Sansa into an underhanded political player	Littlefinger	Sansa Stark	60	40	Bandit	Seeks a manipulative partner/pawn, but she gains skills that later benefit her and her house.
+Littlefinger kisses stunned Sansa without consent	Littlefinger	Sansa Stark	40	10	Bandit	Attempts to advance his personal obsession while alienating her and damaging trust.
+Littlefinger arranges Sansa’s marriage to Ramsay Bolton	Littlefinger	Sansa Stark	10	0	Stupid	Underestimates Ramsay, gains nothing, destroys Sansa’s trust and harms his long-term aims.
+Littlefinger tells Cersei he knows of the “twincest” rumor	Littlefinger	Cersei Lannister	40	20	Helpless	Attempts leverage but only provokes a lethal demonstration that frightens him, aiding no plan.
+Littlefinger taunts Barristan Selmy, nearly provoking him	Littlefinger	Barristan Selmy	35	20	Helpless	Reaps only personal risk and embarrassment with no gain as Selmy nearly attacks him.
+Littlefinger lies that the Valyrian dagger belonged to Tyrion	Littlefinger	Starks & Lannisters	65	5	Bandit	Intensifies Stark–Lannister conflict for his advantage, worsening relations and war risk.
+Littlefinger gives the Valyrian dagger to Bran	Littlefinger	Bran Stark	15	80	Helpless	Unwittingly arms Bran/Arya with the weapon that will kill him and help stop the Night King.
+Littlefinger engineers Joffrey’s public assassination with Olenna	Littlefinger	Joffrey / Lannisters	65	25	Bandit	Removes a king to reshape power in his favor; others benefit from Joffrey’s death but chaos spikes.
+Littlefinger sells Ser Dontos out to be killed after using him	Littlefinger	Ser Dontos	60	10	Bandit	Cleans up a loose end and protects his conspiracy while costing Dontos his life.
+Littlefinger repeatedly plays opposing factions against each other	Littlefinger	Various factions	75	5	Bandit	Accrues flexibility and leverage while making all sides more vulnerable and war-torn.
+Littlefinger delivers Sansa from King’s Landing after Joffrey’s death	Littlefinger	Sansa Stark	60	40	Intelligent	He gains a valuable hostage/protégé, she escapes immediate Lannister danger despite future risks.
+Littlefinger arrives with the Knights of the Vale at the Battle of Winterfell	Littlefinger	Stark forces	75	90	Intelligent	Saves Jon’s army from annihilation and gains immense political capital and leverage.
+Littlefinger threatens Yohn Royce by implying Robin could have him executed	Littlefinger	Yohn Royce	55	20	Bandit	Secures Royce’s compliance through fear, undermining trust and good governance.
+Littlefinger blames Royce for Sansa’s “capture” to deflect guilt	Littlefinger	Yohn Royce	55	15	Bandit	Shifts suspicion off himself, preserving control while unjustly endangering Royce.
+Littlefinger uses Robin Arryn and the Moon Door threat to dominate the Vale	Littlefinger	Vale Lords	70	15	Bandit	Exercises de facto rule via intimidation, harming political health of the region.
+Littlefinger attempts to turn Sansa against Arya in Winterfell	Littlefinger	Sansa & Arya	20	10	Stupid	Backfires completely, exposing his crimes and leading directly to his trial and execution.
+Sansa and Arya fake a feud to lure Littlefinger into a trap	Sansa & Arya	Littlefinger	85	90	Intelligent	They secure family unity and remove a lethal manipulator at little cost to themselves.
+Sansa holds a surprise trial for Littlefinger at Winterfell	Sansa	Littlefinger	80	85	Intelligent	She consolidates her authority and protects the North while bringing his crimes into the open.
+Bran reveals that the catspaw dagger belonged to Littlefinger	Bran Stark	Littlefinger	75	85	Intelligent	Exposes his earlier framing and bolsters the Stark case, dismantling Littlefinger’s defense.
+Sansa sentences Littlefinger to death as a traitor	Sansa	Littlefinger	85	90	Intelligent	Eliminates an ongoing internal threat and asserts just rule, reassuring allies.
+Arya executes Littlefinger by slitting his throat	Arya Stark	Littlefinger	80	85	Intelligent	Removes a mortal enemy of her house using the very dagger tied to his past treachery.
+Littlefinger gives political coaching and “life advice” to Sansa	Littlefinger	Sansa Stark	55	60	Intelligent	He tries to shape her for his purposes but she gains useful strategic insight that serves her.
+Littlefinger reveals his ambition to sit on the Iron Throne with Sansa	Littlefinger	Sansa Stark	30	40	Helpless	Exposes his ultimate goal, hardening her opposition and damaging his prospects.
+Littlefinger starts a continent-wide civil war over not getting Catelyn	Littlefinger	Westeros	60	0	Bandit	Uses personal resentment to justify massive destructive conflict that advances his status.
+Littlefinger seeks revenge on the entire feudal order via war	Littlefinger	Great Houses	65	5	Bandit	Weakens rival houses and the system to his advantage at catastrophic cost to others.
+Sansa uses Littlefinger’s own lessons to destroy him	Sansa	Littlefinger	90	90	Intelligent	Transforms his manipulative training into the tool that ends his power and life.
+Littlefinger attempts to keep everyone confused about his motives	Littlefinger	All factions	70	20	Bandit	Protects his maneuverability and safety at the cost of trust and systemic stability.
+Littlefinger tries to play the same sister-against-sister game with Sansa and Arya as with Catelyn and Lysa	Littlefinger	Stark sisters	15	10	Stupid	Reuses a trope without seeing it no longer fits, directly triggering his exposure and death.

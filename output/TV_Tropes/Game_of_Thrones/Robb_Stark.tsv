@@ -1,0 +1,49 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Jon admits lifelong jealousy of Robb and inability to hate him	Jon Snow	Robb Stark	40	70	Helpless	Jon’s envy hurts his own peace of mind but his ultimate affection benefits their bond.
+Talisa asks Robb “And then what?” about his war plan	Talisa Maegyr	Robb Stark	60	75	Intelligent	She challenges his lack of endgame, pushing him toward more thoughtful leadership.
+Robb agrees to marry a Frey daughter as part of alliance with Walder Frey	Robb Stark	House Frey	70	75	Intelligent	The pact secures crucial military support for Robb and benefits Frey status and leverage.
+Robb breaks his Frey betrothal by marrying Talisa out of love	Robb Stark	House Frey	25	5	Stupid	He gains short‑term romantic happiness but catastrophically undermines his own position and Frey honor.
+Robb marries Talisa Maegyr	Robb Stark	Talisa Maegyr	45	30	Helpless	The marriage brings mutual personal joy but directly worsens Robb’s and his followers’ prospects.
+Robb later offers Edmure Tully to marry a Frey girl in his stead	Robb Stark	Edmure Tully	55	40	Bandit	Robb shifts the political cost of his broken oath onto Edmure to repair his own alliance.
+Northern and Riverlands lords acclaim Robb as King in the North	Robb’s bannermen	Robb Stark	75	60	Intelligent	Their support elevates Robb’s power and gives the North a unifying war leader.
+Robb leads a northern rebel army against the Iron Throne	Robb Stark	Lannisters / Crown forces	60	20	Bandit	He gains status and advances Northern independence while inflicting heavy losses on enemies and civilians.
+Robb sends a Lannister scout away with false information	Robb Stark	Tywin Lannister	75	25	Bandit	The ruse gives Robb a tactical edge while deliberately endangering Tywin’s forces.
+Robb sends Alton Lannister to King’s Landing with an ultimatum	Robb Stark	Cersei / Lannisters	60	20	Bandit	He pushes for favorable peace terms under threat of mass casualties.
+Robb crushes a Lannister host at Oxcross	Robb Stark	Lannister army	70	15	Bandit	The victory boosts his war position but severely harms enemy lives and resources.
+Robb sends 2,000 men to die as a diversion against Tywin	Robb Stark	2,000 northern soldiers	40	10	Bandit	He sacrifices many of his own men to gain a crucial strategic advantage and capture Jaime.
+Robb protects Bran from Wildlings	Robb Stark	Bran Stark	70	80	Intelligent	He risks himself to save Bran, preserving both his own standing and his brother’s life.
+Robb angrily confronts Lord Karstark for killing Lannister boys	Robb Stark	Lord Rickard Karstark	55	55	Intelligent	He upholds discipline and moral standards, though it foreshadows later division.
+Lord Karstark murders two young Lannister hostages	Lord Rickard Karstark	Lannister boys	20	5	Bandit	He gains emotional revenge and possibly leverage but gravely harms innocents and his own side’s cause.
+Robb personally executes Lord Karstark for the murders	Robb Stark	Lord Rickard Karstark	30	35	Helpless	He satisfies honor and justice but loses vital troops and weakens his coalition.
+Robb chooses execution instead of keeping Karstark as hostage	Robb Stark	House Karstark	25	30	Helpless	Holding him would have preserved military support; execution honors law but strategically harms Robb more.
+Robb refuses Jaime’s challenge to single combat	Robb Stark	Jaime Lannister	80	60	Intelligent	He avoids a duel he’d likely lose and preserves his strategic advantage of holding Jaime captive.
+Robb treats Theon as a brother and closest friend	Robb Stark	Theon Greyjoy	60	55	Intelligent	Their bond benefits both, though Robb misreads Theon’s deeper resentments.
+Robb sends Theon to the Iron Islands to seek an alliance	Robb Stark	Balon Greyjoy	30	20	Helpless	The mission backfires, costing Robb Winterfell and strengthening his enemies.
+Balon Greyjoy pressures Theon to turn against Robb	Balon Greyjoy	Robb Stark	70	10	Bandit	Balon consolidates his power and gains territory at severe cost to Robb and the North.
+Robb rails at Theon’s betrayal and vows to kill him himself	Robb Stark	Theon Greyjoy	40	35	Helpless	His personal vendetta offers little strategic gain and focuses on revenge over broader war needs.
+Robb takes time to mingle with common soldiers	Robb Stark	Northern rank and file	70	70	Intelligent	He builds loyalty and morale, strengthening both his position and his men’s.
+Robb decides to start a war with the Lannisters to avenge Ned	Robb Stark	The realm	45	20	Helpless	He gains honor and short‑term leverage but triggers a devastating multi‑kingdom war.
+Robb ruins his sword hacking at a tree in rage over Ned’s death	Robb Stark	Robb Stark’s own resources	35	55	Helpless	He vents grief but needlessly destroys valuable equipment without helping anyone.
+Robb curtly insults Tyrion at Winterfell	Robb Stark	Tyrion Lannister	40	30	Helpless	The slight gratifies his pride but contributes to a chain of events escalating the conflict.
+Catelyn impulsively arrests Tyrion at the inn	Catelyn Stark	Tyrion Lannister	30	20	Helpless	The seizure gives a temporary hostage but provokes the Lannisters and helps ignite the war.
+Robb calls his banners and marches south	Robb Stark	Northern houses	55	30	Bandit	He asserts leadership and seeks justice but drags houses into a costly conflict.
+Robb orders that surrendering Ironborn at Winterfell will be spared	Robb Stark	Ironborn soldiers	65	75	Intelligent	This honorable policy encourages surrenders and reduces casualties on both sides.
+Robb refuses Talisa’s implicit plea to end the war and surrender	Robb Stark	War victims in the realm	50	25	Bandit	He maintains his claim and honor but prolongs a bloody conflict harming many others.
+Robb parades Talisa before Walder Frey despite broken betrothal	Robb Stark	Walder Frey	25	10	Stupid	This needless provocation worsens Frey humiliation without any compensating gain.
+Robb pressures Edmure Tully to marry Roslin Frey	Robb Stark	Edmure Tully	60	55	Intelligent	The forced match repairs a key alliance and benefits their entire side, though Edmure’s autonomy suffers.
+Walder Frey refuses Robb passage without heavy concessions	Walder Frey	Robb Stark	65	25	Bandit	He exploits Robb’s need for crossing to extract maximum advantage at others’ expense.
+Catelyn frees Jaime Lannister behind Robb’s back	Catelyn Stark	Robb Stark’s war effort	25	20	Helpless	She hopes to save her daughters but sabotages Robb’s leverage and unity with his bannermen.
+Robb and Talisa fall deeply in love	Robb Stark & Talisa Maegyr	Each other	60	35	Helpless	Their mutual affection enriches their lives but directly contributes to political catastrophe.
+Robb returns to Walder Frey to seek renewed alliance	Robb Stark	House Frey	35	30	Helpless	His desperation move offers a chance at troops but exposes him to fatal betrayal.
+Walder Frey massacres Robb, Talisa, Catelyn, and their men at the Red Wedding	Walder Frey	House Stark & northern host	40	5	Bandit	He gains Lannister favor and security by obliterating his guests and their army.
+Roose Bolton betrays and personally kills Robb at the Red Wedding	Roose Bolton	Robb Stark	50	5	Bandit	He secures advancement and power by murdering his own king to serve the Lannisters.
+Freys mutilate Robb’s corpse and parade it with Grey Wind’s head	Freys	Robb Stark’s memory	20	5	Stupid	The desecration brings no extra gain beyond the killing and deepens hatred against them.
+Robb refuses to flee or fight after Talisa’s death	Robb Stark	His own survival	10	45	Helpless	Overwhelmed by grief, he gives up, harming himself while sparing no one else.
+Robb stands, calls to his mother, and accepts death with dignity	Robb Stark	Catelyn Stark	20	40	Helpless	Acceptance eases his final moments and communicates with Catelyn but offers no survival benefit.
+Robb gives Jon a hug before Jon leaves for the Night’s Watch	Robb Stark	Jon Snow	65	75	Intelligent	The farewell strengthens their bond and supports Jon emotionally at no cost.
+Robb gives Catelyn a mild rebuke for neglecting Rickon	Robb Stark	Catelyn Stark	60	70	Intelligent	He redirects his mother toward her duties and Rickon’s needs, aiding both family and rule.
+Robb shoots down Jaime’s taunt by pointing out Jaime’s defeats	Robb Stark	Jaime Lannister	60	55	Intelligent	He asserts psychological dominance and reinforces his own reputation without harming his position.
+Talisa harshly tells Robb a boy was unlucky he was there (battle injuries)	Talisa Maegyr	Robb Stark	55	65	Intelligent	Her rebuke forces him to confront the human cost of his war, potentially tempering future decisions.
+Robb gives Edmure a verbal dressing‑down for disobeying orders	Robb Stark	Edmure Tully	55	60	Intelligent	He enforces strategic discipline to improve future coordination, aiding his cause despite tension.
+Robb resolves to be “the good kind” of king	Robb Stark	Subjects of the North	65	70	Intelligent	His explicit aspiration shapes compassionate, just leadership that benefits both him and his people.
+Robb adopts Ned’s practice of personally executing those he condemns	Robb Stark	Condemned subjects	55	60	Intelligent	The custom reinforces accountability and legitimacy, improving rule while being harsh for individuals.

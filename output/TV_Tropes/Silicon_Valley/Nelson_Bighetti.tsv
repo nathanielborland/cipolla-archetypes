@@ -1,0 +1,23 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Bachmanity purchases Pied Piper, making Big Head one of the company's owners	Bachmanity	Big Head	88	40	Intelligent	Acquisition gives Big Head major ownership benefit while not described as harming others.
+Interviewer nearly laughs Big Head out of the office after seeing his qualifications	Stanford interviewer	Big Head	20	55	Bandit	Interviewer protects institutional standards and prestige while briefly humiliating Big Head.
+Interviewer decides to talk more with Big Head after hearing he was on Wired	Stanford interviewer	Big Head	75	70	Intelligent	Interviewer pursues a promising high-profile candidate, benefiting both Big Head and school.
+Big Head goes to his first class assuming he is a student	Big Head	Stanford	45	55	Helpless	Big Head’s confusion mildly harms his own expectations while providing some novelty/interest to others.
+Big Head becomes president of Stanford	Big Head	Stanford/Community	95	80	Intelligent	High-status role greatly benefits him and presumably advances the institution.
+Gavin positions Big Head as a fake ultimate hero to promote Nucleus	Gavin	Big Head / Public	80	25	Bandit	Boosts Gavin’s project at the cost of misleading the public and misrepresenting Big Head.
+Big Head’s reputation as a respected public figure persists despite his incompetence	Public perception	Big Head / Public	70	30	Bandit	Big Head gains ongoing status while others are misled about his actual abilities.
+Big Head’s mild-mannered honesty convinces the judge he created Pied Piper’s algorithm	Big Head	Judge / Pied Piper team	60	20	Bandit	His honesty inadvertently benefits him with credit and leverage while disadvantaging the true creators.
+Big Head buys a huge house	Big Head	Big Head	40	55	Helpless	He spends lavishly, reducing his own wealth with only modest, non-strategic benefits.
+Big Head decides to share the house with up-and-coming programmers	Big Head	Up-and-coming programmers	60	90	Helpless	He loses resources and privacy while greatly helping others’ living and working conditions.
+Programmers gratefully give Big Head a share of their companies	Programmers	Big Head	80	85	Intelligent	They repay his generosity with equity, creating mutual long-term benefit.
+Erlich talks Big Head into forming the VC firm “Bachmanity”	Erlich	Big Head	85	30	Bandit	Erlich secures funding and control while exposing Big Head to large financial risk.
+Big Head gives Erlich access to his bank account	Big Head	Erlich	10	75	Helpless	He sacrifices nearly all his wealth while Erlich gains full spending power.
+Erlich goes on a spending spree with Big Head’s money	Erlich	Big Head	85	5	Bandit	Erlich enjoys massive consumption while devastating Big Head’s finances.
+By the end of the episode, Big Head is completely broke	Big Head	Big Head	5	50	Helpless	His prior choices culminate in near-total personal financial loss without clear benefit.
+Blog Erlich buys triggers events leading to them each owning half of Pied Piper	Blog purchase (Erlich/Big Head)	Erlich & Big Head	92	70	Intelligent	Serendipitously turns wasteful spending into major shared ownership value with no stated harm to others.
+Hooli frequently promotes Big Head for publicity reasons	Hooli	Big Head / Hooli	70	40	Bandit	Big Head gains status and pay; Hooli gains PR while undermining merit-based structure.
+Big Head blows through $20 million on frivolous things	Big Head	Big Head	8	55	Helpless	He rapidly destroys his own capital for minor lifestyle gains with no benefit to others beyond spending ripple.
+Big Head lets Erlich take control of his finances	Big Head	Big Head	5	55	Helpless	He relinquishes control and is rendered bankrupt, with no upside to himself.
+Big Head informs Richard about Hooli using him as a pawn	Big Head	Richard	65	80	Intelligent	He risks some standing with Hooli while materially helping Richard’s position.
+Big Head is consistently pleasant and nice to everyone	Big Head	Others	65	85	Intelligent	His disposition builds goodwill and social capital while clearly benefiting others around him.
+Richard publicly calls Big Head one of the nicest people he’s met	Richard	Big Head	70	80	Intelligent	Praise boosts Big Head’s reputation and reinforces pro-social norms.

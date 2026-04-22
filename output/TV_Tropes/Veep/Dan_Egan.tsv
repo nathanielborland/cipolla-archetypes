@@ -1,0 +1,43 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+Dan has drunken sex with Amy, resulting in her pregnancy	Dan	Amy	30	20	Bandit	He seeks pleasure with no commitment, gains nothing lasting while causing major life consequences for Amy.
+Amy tries to nudge Dan into settling down and raising their child together	Amy	Dan	40	60	Helpless	She makes an emotionally costly effort that could benefit both, but he remains oblivious and she gains nothing.
+Dan remains oblivious to Amy’s attempts to settle down with him	Dan	Amy	45	20	Stupid	His inattention undermines a chance at stability for both and contributes to her later abortion decision.
+Amy decides to get an abortion	Amy	Herself	20	40	Helpless	She harms herself emotionally/physically while arguably reducing future burden on both parents.
+Dan bluntly answers “Yes” when Gary says everything he says is emasculating	Dan	Gary	55	30	Bandit	He gets a small ego boost by confirming Gary’s insecurity and offers Gary no benefit.
+Dan repeatedly tries to “turn on the charm” with colleagues	Dan	Colleagues	45	35	Stupid	His fake charm fails, slightly embarrassing him and disturbing others without real gain.
+Dan frequently backstabs whoever he works for to further his career	Dan	Bosses/colleagues	65	15	Bandit	He sometimes advances himself through betrayal while harming allies and teams.
+Dan persists through brutal setbacks and stages multiple comebacks	Dan	Himself	80	40	Intelligent	His persistence significantly benefits his own career and mildly benefits others who use his skills.
+Dan ultimately quits politics for good after Jonah “gets one in on him”	Dan	Himself	55	60	Intelligent	Leaving a field where he’s toxic and self-sabotaging slightly improves his life and removes harm to others.
+Dan sneaks in a bill opposed by the President and much of Congress	Dan	Selina/administration	25	10	Stupid	He triggers a political disaster that damages his standing and forces Selina to veto her own work.
+Dan is genuinely outraged when Teddy grabs Jonah’s balls and tells him not to put up with it	Dan	Jonah	65	70	Intelligent	He risks little while clearly supporting Jonah against sexual harassment.
+Dan becomes a rich SoCal real-estate agent, flaunting money despite never accomplishing anything meaningful	Dan	General others	70	40	Bandit	He achieves wealth and satisfaction while contributing little of value beyond shallow status.
+Dan offers Catherine a threesome with Marjorie when the couple are trying for a baby	Dan	Catherine/Marjorie	60	10	Bandit	He seeks sexual gratification at the expense of a same‑sex couple’s boundaries and stability.
+Dan repeatedly gives arrogant, poorly thought-out political advice that backfires	Dan	Selina/teams	20	15	Stupid	His overconfident advice harms his own career and damages his bosses’ positions.
+Dan attempts to sidle up to Selina emotionally while she reacts to a marine losing his leg	Dan	Selina	30	20	Stupid	His tone‑deaf move earns him a severe dressing‑down and offers her no help.
+Selina promotes Dan to presidential campaign manager	Selina	Dan	70	50	Intelligent	He gains career prestige and she plausibly gains from his skills at least initially.
+Dan cracks under pressure as campaign manager and has a nervous breakdown	Dan	Himself	10	40	Helpless	His overreach severely harms his own health while his failure pushes others to step in more competently.
+Selina replaces Dan with Amy as campaign manager	Selina	Dan	40	65	Intelligent	He loses status, but the campaign benefits from more stable leadership.
+Dan leaks a story about Governor Chung’s alleged torture involvement to Jonah	Dan	Governor Chung/Jonah	35	20	Bandit	He aims to sabotage Chung to discredit Jonah’s site, harming both while seeking tactical advantage.
+Kent threatens to fire Dan after the leak is traced back to him	Kent	Dan	40	60	Intelligent	Kent protects institutional interests and discipline at Dan’s expense.
+Dan persuades Jonah to denounce the internet as his source in exchange for a job with Selina	Dan	Jonah	70	30	Bandit	He saves his own career and re-enters Selina’s orbit while exploiting Jonah’s desperation.
+Dan reveals he’s been setting up Jonah to take the fall for the Medileaks scandal	Dan	Jonah	60	15	Bandit	He positions himself to shift blame onto Jonah, improving his own safety by endangering Jonah.
+Ben and Kent force Dan to resign in disgrace over the escalating scandal	Ben and Kent	Dan	35	70	Intelligent	They sacrifice Dan to contain damage and protect the broader administration.
+Dan tries to become Richard’s “Man Behind the Man” as Chief of Staff	Dan	Richard	45	30	Bandit	He aims to control Richard for his own power, but his efforts mostly fail and offer Richard little.
+Selina only promotes Richard to her cabinet on the condition he fire Dan	Selina	Dan	30	70	Intelligent	She removes a harmful operative while enabling a competent ally’s rise.
+Dan tells Amy he’s considering reevaluating his lifestyle of meaningless sex with much younger women	Dan	Amy	55	45	Bandit	He momentarily appears reflective, but it mainly manipulates Amy’s hopes without real follow‑through.
+Amy later comes to talk about getting back together and finds Dan about to have sex with another woman	Dan	Amy	60	10	Bandit	He pursues more meaningless sex, crushing Amy’s attempt at reconciliation and trust.
+Dan sleeps with numerous women without forming meaningful relationships	Dan	Sexual partners	55	40	Bandit	He gains pleasure and ego gratification while providing little emotional reciprocity or care.
+Dan attempts to seduce Felix Wade, but fails because he’s too old for Felix’s tastes	Dan	Felix Wade	35	60	Helpless	He embarrasses himself while inadvertently reinforcing Felix’s boundaries and preferences.
+Dan kills a stray dog on a dare as a child and later reveals it to Selina	Dan	Stray dog	5	5	Stupid	The act is pure cruelty with no lasting benefit and later damages his image with Selina.
+Dan tries to sleep with Amy’s sister believing she can get him a job at CBS	Dan	Amy’s sister	50	20	Bandit	He uses sex instrumentally to chase a career opportunity, objectifying her for his own gain.
+Dan gets his senior news anchor partner at CBS fired in revenge for her affair rumors	Dan	Senior news anchor	60	15	Bandit	He satisfies his vendetta and briefly improves his position while harming her career.
+Dan ends up having poor on-air chemistry with his new partner and is sacked	Dan	Himself	15	60	Helpless	His earlier revenge backfires, costing him his job while the network benefits by removing a weak pairing.
+Dan suggests firing an employee as a scapegoat to manage the Medileaks scandal	Dan	Intern/Jonah	65	10	Bandit	He aims to protect himself and leadership by sacrificing a lower‑status colleague.
+The administration instead pins the Medileaks scandal on Dan and fires him	Selina’s administration	Dan	25	65	Intelligent	Firing him protects institutional credibility and delivers deserved consequences.
+Dan lands a job at Sidney Purcell’s lobbying firm after being fired	Dan	Himself	65	45	Intelligent	He secures new employment and brings his skills to a client‑oriented setting.
+Sidney Purcell fires Dan when it’s clear Dan’s backstabbing left him with no useful connections	Sidney Purcell	Dan	30	70	Intelligent	Sidney cuts a non‑performing, toxic hire, protecting his firm’s effectiveness.
+Dan delivers a devastating “Reason You Suck” speech to Jonah	Dan	Jonah	55	30	Bandit	He asserts dominance and feels superior while demoralizing Jonah without offering real help.
+Dan sells out Senator Hallows to help dig Selina out of a scandal	Dan	Senator Hallows	75	20	Bandit	He gains a better job with Selina by sacrificing his current boss’s interests.
+Dan gets a job on the Veep’s staff as a result of betraying Hallows	Dan	Himself	80	40	Bandit	He significantly advances his career while the way he does it erodes trust and ethics in politics.
+Dan dates a woman in “Nicknames” only to further his political career	Dan	Girlfriend	55	30	Bandit	He uses a relationship instrumentally for networking, giving little authentic commitment.
+Dan immediately dumps that woman when he finds out she won’t get an important job	Dan	Girlfriend	60	20	Bandit	He cuts ties the moment she loses utility, protecting his time and focus while hurting her.

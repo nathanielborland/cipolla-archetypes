@@ -1,0 +1,32 @@
+Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
+She fights crime directly, jumping into the fray and tuning up prisoners	Action Girl (Kima)	Criminals / prisoners	65	35	Bandit	Personally satisfies her and helps public safety but involves inappropriate brutality that harms others.
+Kima agrees to have a child with her girlfriend despite being unenthusiastic	Kima	Girlfriend / future child	40	55	Helpless	She sacrifices autonomy and happiness to give her partner something she wants, which later harms her relationship.
+Kima’s lack of enthusiasm about the baby contributes to their separation	Kima	Herself and girlfriend	20	20	Stupid	Her disengagement leads to mutual emotional loss without clear benefit to anyone.
+Kima later regrets her decision and spends more time with the child	Kima	Her son	55	70	Intelligent	She partially repairs her mistake by investing in a positive relationship that benefits both her and her son.
+Having a baby makes the relationship worse and contributes to breakup	Girlfriend	Kima / relationship	30	25	Stupid	The decision worsens the relationship and leads to breakup, harming both with little clear gain.
+She comes to care for her son	Kima	Her son	70	75	Intelligent	Emotional investment benefits her well-being and strongly benefits the child.
+She does not find police work satisfying unless she can confront and bust criminals face-to-face	Kima	Criminal suspects	60	40	Bandit	Her preference leads to effective enforcement but is driven by personal thrill and can be rough on suspects.
+She is open with colleagues about her sexual orientation	Kima	Colleagues	75	70	Intelligent	Honesty benefits her authenticity and fosters a more open, trusting environment.
+McNulty hits on her before she tells him she’s a lesbian	McNulty	Kima	55	45	Bandit	He seeks personal gratification and mildly inconveniences/embarrasses her without great harm.
+She refuses to testify that she saw Wee-Bey as second gunman when she is shot	Kima	Legal process / fellow cops	60	80	Intelligent	She sacrifices some favor with colleagues to uphold truthful testimony and preserve case integrity.
+She blows the whistle on Freamon and McNulty’s serial killer conspiracy	Kima	Dept. / McNulty & Freamon	55	85	Intelligent	She risks relationships and status to stop a harmful fraud and protect the department and public.
+She participates in extracurricular brutality and inappropriate conduct	Kima	Suspects / arrestees	65	20	Bandit	She gains venting and bonding benefits but inflicts unjust harm on those in custody.
+She convincingly goes undercover as Orlando’s stripper girl	Kima	Barksdale crew	70	60	Intelligent	Her skillful deception advances the investigation and her standing as a cop, despite later risk.
+Little Man shoots her without hesitation to eliminate witnesses	Little Man	Kima	10	5	Stupid	He protects the hit but massively increases legal heat and risk for minimal strategic gain.
+She takes her work very seriously and performs well in any unit	Kima	Police department / public	75	80	Intelligent	Her professionalism advances her career and significantly aids law enforcement outcomes.
+She joins a no-holds-barred beatdown when Bodie knocks down Mahone	Kima	Bodie	65	25	Bandit	She gains camaraderie and emotional release by using excessive force that harms the suspect.
+She joins a no-holds-barred beatdown of Bird handcuffed to a table	Kima	Bird	60	15	Bandit	She asserts power and vents anger at a helpless suspect, bringing high harm for limited personal gain.
+She cheats on her wife	Kima	Wife / relationship	30	20	Stupid	She seeks short-term pleasure that contributes to long-term relational damage and personal loss.
+She behaves as an absent mother, contributing to separation	Kima	Herself / partner / child	25	25	Stupid	Prioritizing work and infidelity undermines her family with no durable benefit to anyone.
+She generally doesn’t listen to her girlfriend	Kima	Girlfriend	35	35	Stupid	By disregarding her partner, she undercuts the relationship with little personal or mutual gain.
+She refuses to lie for fellow cops (general pattern)	Kima	Fellow cops / justice system	65	85	Intelligent	She risks peer disapproval to preserve institutional integrity and just outcomes.
+She refuses to identify Wee-Bey as one of her shooters when pressured by Bunk	Kima	Bunk / Wee-Bey / courts	60	80	Intelligent	She forgoes an easier path and possible tactical gains to keep testimony accurate and legitimate.
+She blows the whistle on the serial killer conspiracy	Kima	Police leadership / public	60	85	Intelligent	She jeopardizes her standing to expose a dangerous institutional fraud that misuses resources.
+She enjoys heavy drinking, casual sex, and busting heads	Kima	Herself / suspects	55	30	Bandit	Pleasure and bonding come at the cost of health, judgment, and others’ well-being.
+Her partner resents her dedication to work when it detracts from parenting	Partner	Kima / child	40	45	Helpless	The resentment harms the relationship; it reflects concern for the child more than any benefit to self.
+She strains her relationship with Cheryl by overworking and neglecting home	Kima	Cheryl / relationship	30	30	Stupid	Overcommitment to work damages her personal life without clear long-term payoff in the story.
+She drinks too much and sleeps around too much	Kima	Herself / partners	30	35	Stupid	Self-destructive habits erode stability and relationships for transient gratification.
+She takes McNulty’s tips on how to have partners cover for infidelities	Kima	Police partners / Cheryl	35	25	Stupid	She protects her affairs short-term while increasing deception and long-term relational damage.
+She tones down her worst self-destructive tendencies later	Kima	Herself / close others	70	75	Intelligent	Behavioral correction improves her life and reduces collateral harm to those around her.
+She remarks that she is turning into McNulty (self-recognition)	Kima	Herself	55	65	Intelligent	Insight into her own flaws aids in eventual course correction that benefits her and those around her.
+She cleans up nicely to pose as a criminal’s girlfriend for a sting	Kima	Criminal target	70	70	Intelligent	Using her appearance tactically advances the operation while enhancing her professional value.
