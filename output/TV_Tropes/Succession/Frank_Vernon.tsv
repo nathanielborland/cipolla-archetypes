@@ -2,10 +2,10 @@ Event	Actor	Target	Self-impact score (S)	Other-impact score (O)	Type	Explanation
 Frank enacts Logan/Waystar’s wishes regardless of ethical considerations	Frank	Waystar stakeholders & affected public	70	15	Bandit	Advances his career by helping a harmful media empire despite ethical issues.
 Frank works at Waystar long-term and rises high in the company hierarchy	Frank	Waystar stakeholders & affected public	80	20	Bandit	Personal success and status likely rely on complicity in corporate harms.
 Frank participates in Kendall’s attempted coup against Logan	Frank	Logan	40	35	Stupid	He backs a failed move that gets him fired and destabilizes the firm with little upside for anyone.
-Logan fires Frank to make way for Roman		Logan	Frank	75	10	Bandit	Logan consolidates power and promotes his son while discarding a loyal advisor.
+Logan fires Frank to make way for Roman	Logan	Frank	75	10	Bandit	Logan consolidates power and promotes his son while discarding a loyal advisor.
 Frank babysits Roman at work for months	Frank	Roman	20	40	Helpless	He endures a demeaning role that benefits Roman’s development more than his own standing.
 Frank returns to the Roy orbit after being fired and remains trapped there	Frank	Frank	30	25	Stupid	He keeps reattaching himself to an abusive environment without meaningful gain.
-Logan brings Frank back to negotiate with the Pierces		Logan	Frank	65	60	Intelligent	Logan leverages Frank’s charm to land a deal, restoring Frank’s position and serving corporate interests.
+Logan brings Frank back to negotiate with the Pierces	Logan	Frank	65	60	Intelligent	Logan leverages Frank’s charm to land a deal, restoring Frank’s position and serving corporate interests.
 Frank negotiates the Pierces deal using his Shakespeare recitations	Frank	Pierces	75	65	Intelligent	He uses his cultural charm to secure a deal that benefits him and the company and seems acceptable to the Pierces.
 Frank considers Logan’s offer to give him his job back	Frank	Frank	55	45	Helpless	Re‑engaging with Logan offers money and status but risks more exploitation and abuse.
 Frank says he needs money “to pay someone to kill a guy in Palermo”	Frank	Gerri (as audience)	55	50	Intelligent	It’s snark rather than literal planning, giving him comic relief with no real consequence described.

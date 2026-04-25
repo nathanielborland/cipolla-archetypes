@@ -22,7 +22,7 @@ Counsels Lyanna Mormont about the true war (living vs dead)	Davos	Lyanna & the N
 Advises Stannis candidly on strategy and morality	Davos	Stannis	65	80	Intelligent	Strengthens his own position as trusted counselor and improves Stannis’s decisions.
 Accepts sentence of death but insists on advising Stannis against executing him	Davos	Stannis	55	70	Intelligent	Uses his status as Hand to argue for a wiser course, slightly risking but likely preserving his life.
 Keeps serving as Conscience and Morality Chain to Stannis	Davos	Stannis	60	80	Intelligent	Helps steer Stannis from excesses while maintaining his valued advisory role.
-Leaves Castle Black when Stannis orders him away before Shireen’s sacrifice	Stannis	Davos	Stannis	40	20	Stupid	Removes his own best moral check and advisor, worsening his later catastrophic decision.
+Leaves Castle Black when Stannis orders him away before Shireen’s sacrifice	Stannis	Davos,Stannis	40	20	Stupid	Removes his own best moral check and advisor, worsening his later catastrophic decision.
 Becomes Jon Snow’s advisor after Stannis’s death	Davos	Jon Snow	75	85	Intelligent	Gains security and status while greatly improving Jon’s political and strategic position.
 Teaches Shireen to read by accepting her lessons and practicing	Davos	Himself	70	60	Intelligent	Improves his capabilities, which later benefit his allies.
 Discusses Shireen’s death and denounces Melisandre to Jon	Davos	Melisandre	55	70	Intelligent	Risks conflict to bring crucial truth to light, leading to a measured sanction rather than impunity.
