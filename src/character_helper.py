@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-chars_df = pd.read_csv('data/rated_characters.csv')
+chars_df = pd.read_csv('data/normalized_rated_characters.csv')
 arch_raw_A = pd.read_csv('data/archetypes/data_raw_A.txt', sep=' ').to_numpy()
 arch_svd_U = pd.read_csv('data/archetypes/data_archetype_space_U.txt', sep=' ').to_numpy()
 archetype_space = arch_svd_U.T @ arch_raw_A
@@ -36,6 +36,10 @@ def build_characters_table():
         archetypes = get_character_archetypes(row['character'])
         rated_characters.loc[rated_characters['character'] == row['character'], 'fool_hero'] = archetypes[0]
         rated_characters.loc[rated_characters['character'] == row['character'], 'angel_demon'] = archetypes[1]
+        rated_characters.loc[rated_characters['character'] == row['character'], 'traditionalist_adventurer'] = archetypes[2]
+        rated_characters.loc[rated_characters['character'] == row['character'], 'lone-wolf_diva'] = archetypes[3]
+        rated_characters.loc[rated_characters['character'] == row['character'], 'outcast_sophisticate'] = archetypes[4]
+        rated_characters.loc[rated_characters['character'] == row['character'], 'brute_geek'] = archetypes[5]
     
     rated_characters.to_csv('data/rated_characters.csv', index=False)
 
@@ -64,8 +68,6 @@ def build_normalized_characters_table():
             num_actions = actions.shape[0]
 
             archetypes = get_character_archetypes(character_name)
-            fool_hero = archetypes[0]
-            angel_demon = archetypes[1]
 
             character_rows.append({
                 'index': character_index,
@@ -74,11 +76,17 @@ def build_normalized_characters_table():
                 'average_self_help': avg_helpfulness[0],
                 'average_other_help': avg_helpfulness[1],
                 'num_actions': num_actions,
-                'fool_hero': fool_hero,
-                'angel_demon': angel_demon
+                'fool_hero': archetypes[0],
+                'angel_demon': archetypes[1],
+                'traditionalist_adventurer': archetypes[2],
+                'lone-wolf_diva': archetypes[3],
+                'outcast_sophisticate': archetypes[4],
+                'brute_geek': archetypes[5]
             })
     
-    pd.DataFrame(character_rows).to_csv('data/normalized_rated_characters.csv', index=False)
+    normalized_rated_characters = pd.DataFrame(character_rows)
+    normalized_rated_characters = normalized_rated_characters.sort_values('index')
+    normalized_rated_characters.to_csv('data/normalized_rated_characters.csv', index=False)
 
 def get_character_actions(name:str):
     return pd.read_csv(f'output/TV_Tropes/{chars_df.loc[chars_df['character'] == name, 'story'].values[0].replace(' ', '_')}/{name.replace(' ', '_')}.tsv', sep='\t')
